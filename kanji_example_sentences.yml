@@ -5739,7 +5739,7 @@
       english: He held her hand and walked together.
       hiragana: 彼は彼女の手を握って一緒に歩きました。
       kanji: 彼は彼女の手を握って一緒に歩きました。
-      ruby: 彼は<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>って<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>きました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>って<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>きました。
   simple_meaning:
     0: hand
 '1327720':
@@ -5914,22 +5914,23 @@
   kanji: 宿題
   samples:
     0:
-      english: I have a lot of homework to do tonight.
-      hiragana: 今夜はたくさん宿題をやらなくてはいけません。
-      kanji: 今夜はたくさん宿題をやらなくてはいけません。
-      ruby: 今夜はたくさん<ruby>宿題<rt>しゅくだい</rt></ruby>をやらなくてはいけません。
+      english: I have a lot of homework today.
+      hiragana: きょう は たくさん の しゅくだい が あります。
+      kanji: 今日はたくさんの宿題があります。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>はたくさんの<ruby>宿題<rt>しゅくだい</rt></ruby>があります。
     1:
-      english: She completed her homework quickly.
-      hiragana: かのじょははやくしゅくだいをおわりました。
-      kanji: 彼女は速く宿題を終わりました。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>速<rt>はや</rt></ruby>く<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>終<rt>お</rt></ruby>わりました。
+      english: Did you finish your homework?
+      hiragana: あなた は しゅくだい を おわりました か？
+      kanji: あなたは宿題を終わりましたか？
+      ruby: あなたは<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>終<rt>お</rt></ruby>わりましたか？
     2:
-      english: Don't forget to do your homework.
-      hiragana: しゅくだいをするのをわすれないでください。
-      kanji: 宿題をするのを忘れないでください。
-      ruby: <ruby>宿題<rt>しゅくだい</rt></ruby>をするのを<ruby>忘<rt>わす</rt></ruby>れないでください。
+      english: I forgot to do my homework.
+      hiragana: しゅくだい を わすれました。
+      kanji: 宿題を忘れました。
+      ruby: <ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。
   simple_meaning:
-    0: homework
+    1: homework
+    2: assignment
 '1338180':
   kanji: 出す
   samples:
@@ -8373,22 +8374,23 @@
   kanji: 電気
   samples:
     0:
-      english: Electricity powers our homes and devices.
-      hiragana: でんきはわたしたちのいえやでばいすをえんぴつします。
-      kanji: 電気は私たちの家やデバイスを駆動します。
-      ruby: <ruby>電気<rt>でんき</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>たちの<ruby>家<rt>いえ</rt></ruby>やデバイスを<ruby>駆動<rt>えんぴつ</rt></ruby>します。
+      english: Please turn off the light.
+      hiragana: でんき を けして ください。
+      kanji: 電気を消してください。
+      ruby: <ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>してください。
     1:
-      english: Turn off the electricity when you leave the room.
-      hiragana: 部屋を出るときには電気を消してください。
-      kanji: 部屋を出るときには電気を消してください。
-      ruby: 部<ruby>屋<rt>お</rt></ruby>を<ruby>出<rt>で</rt></ruby>るときには<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>してください。
+      english: The electricity went out last night.
+      hiragana: ゆうべ でんき が きえました。
+      kanji: 夕べ電気が消えました。
+      ruby: <ruby>夕<rt>ゆう</rt></ruby>べ<ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えました。
     2:
-      english: Without electricity, we couldn't use our appliances.
-      hiragana: 電気がないと、家電を使えませんでした。
-      kanji: 電気がないと、家電を使えませんでした。
-      ruby: <ruby>電気<rt>でんき</rt></ruby>がないと、<ruby>家電<rt>かでん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えませんでした。
+      english: This room needs more light.
+      hiragana: この へや は もっと でんき が ひつよう です。
+      kanji: この部屋はもっと電気が必要です。
+      ruby: この<ruby>部屋<rt>へや</rt></ruby>はもっと<ruby>電気<rt>でんき</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
   simple_meaning:
-    0: electricity
+    1: electricity
+    2: light
 '1443530':
   kanji: 電車
   samples:
@@ -8982,22 +8984,23 @@
   kanji: 背広
   samples:
     0:
-      english: I always wear a business suit on workdays.
-      hiragana: しごとのひにはいつもせびろをきています
-      kanji: 仕事の日にはいつも背広を着ています
-      ruby: <ruby>仕事<rt>しごと</rt></ruby>の日にはいつも<ruby>背広<rt>せびろ</rt></ruby>を<ruby>着<rt>き</rt></ruby>ています。
+      english: He bought a new suit.
+      hiragana: かれ は あたらしい せびろ を かいました。
+      kanji: 彼は新しい背広を買いました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>背広<rt>せびろ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
     1:
-      english: He wore a business suit for the job interview.
-      hiragana: かれはせびろをきてめんせつにのぞみました
-      kanji: 彼は背広を着て面接に臨みました
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>背広<rt>せびろ</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>面接<rt>めんせつ</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>みました
+      english: This suit fits well.
+      hiragana: この せびろ は よく にあいます。
+      kanji: この背広はよく似合います。
+      ruby: この<ruby>背広<rt>せびろ</rt></ruby>はよく<ruby>似合<rt>にあ</rt></ruby>います。
     2:
-      english: I went to the shopping mall to buy a new business suit.
-      hiragana: あたらしいせびろをかうためにしょっぴんぐもーるにいきました
-      kanji: 新しい背広を買うためにショッピングモールに行きました
-      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>背広<rt>せびろ</rt></ruby>を<ruby>買<rt>か</rt></ruby>うためにショッピングモールに<ruby>行<rt>い</rt></ruby>きました。
+      english: He wore a suit to the interview.
+      hiragana: かれ は めんせつ に せびろ を きました。
+      kanji: 彼は面接に背広を着ました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>面接<rt>めんせつ</rt></ruby>に<ruby>背広<rt>せびろ</rt></ruby>を<ruby>着<rt>き</rt></ruby>ました。
   simple_meaning:
-    0: business suit
+    1: suit
+    2: business suit
 '1472800':
   kanji: 背中
 '1473230':
@@ -9291,22 +9294,23 @@
   kanji: 鼻
   samples:
     0:
-      english: My nose is blocked, so it's hard to breathe.
-      hiragana: はながつまっているので、いきぐるしいです
-      kanji: 鼻が詰まっているので、息苦しいです
-      ruby: <ruby>鼻<rt>はな</rt></ruby>が<ruby>詰<rt>つ</rt></ruby>ま<ruby><rt></rt></ruby>っているので、<ruby>息苦<rt>いきぐる</rt></ruby>しいです
+      english: My nose is itchy.
+      hiragana: わたし の はな が かゆい です。
+      kanji: 私の鼻がかゆいです。
+      ruby: <ruby>私<rt>わたくし</rt></ruby>の<ruby>鼻<rt>はな</rt></ruby>がかゆいです。
     1:
-      english: During pollen season, my nose becomes itchy.
-      hiragana: かふんしょうのきせつになると、はながかゆくなります
-      kanji: 花粉症の季節になると、鼻がかゆくなります
-      ruby: <ruby>花粉症<rt>かふんしょう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby><ruby><rt></rt></ruby>になると、<ruby>鼻<rt>はな</rt></ruby>がかゆくなります
+      english: He has a big nose.
+      hiragana: かれ は おおきい はな を しています。
+      kanji: 彼は大きい鼻をしています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きい<ruby>鼻<rt>はな</rt></ruby>をしています。
     2:
-      english: The fragrance of the flowers tickles my nose.
-      hiragana: 花の香りが鼻をくすぐります。
-      kanji: 花の香りが鼻をくすぐります。
-      ruby: 花の<ruby>香<rt>かお</rt></ruby>りが<ruby>鼻<rt>はな</rt></ruby>をくすぐります。
+      english: She has a nosebleed.
+      hiragana: かのじょ は はなぢ が でています。
+      kanji: 彼女は鼻血が出ています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>鼻血<rt>はなぢ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。
   simple_meaning:
-    0: nose
+    1: nose
+    2: nasal (related to the nose)
 '1487400':
   kanji: 必ず
 '1487660':
