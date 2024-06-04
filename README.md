@@ -1,3 +1,6 @@
+[![kanji-example-sentence](https://github.com/aknay/kanji-example-sentences/actions/workflows/python-app.yml/badge.svg)](https://github.com/aknay/kanji-example-sentences/actions/workflows/python-app.yml)
+
+
 # kanji-example-sentences
 
 The example sentences are generated using ChatGPT (prompt: N5 level and as simple as possible). These example sentences are used in the Kanji Flashcards App for educational purposes. 
