@@ -3,13 +3,15 @@ import json
 
 import yaml
 
-with open('kanji_example_sentences.yml', 'r') as file:
+from assets.get_example_sentences_file_path import getExampleSentenceFilePath
+
+with open(getExampleSentenceFilePath(), 'r') as file:
     kanjiInfo = yaml.safe_load(file)
 
-    with open(f'example_sentences.json', 'w') as f:
+    with open('example_sentences.json', 'w') as f:
         f.write(json.dumps(kanjiInfo,ensure_ascii=False))
 
-    with open(f'example_sentences_version.json', 'w') as f:
+    with open('example_sentences_version.json', 'w') as f:
         version = {}
         now = datetime.datetime.now()
 

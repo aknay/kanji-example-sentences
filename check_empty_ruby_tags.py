@@ -38,6 +38,7 @@ def replace_empty_ruby_tag(
             sample_location_value = yml_content[m.kanji_word_seq_number]["samples"][
                 m.sample_location
             ]
+            assert sample_location_value["ruby"] is None
             kanji_sentence = sample_location_value["kanji"]
             sample_location_value["ruby"] = {}
             sample_location_value["ruby"] = pyrigana.get_furigana_html(kanji_sentence)
@@ -47,10 +48,10 @@ def replace_empty_ruby_tag(
 
 
 if __name__ == "__main__":
-    results = check_empty_ruby_tag(path=Path("kanji_example_sentences.yml"))
+    results = check_empty_ruby_tag(path=Path("assets/kanji_example_sentences.yml"))
     if len(results) != 0:
         replace_empty_ruby_tag(
-            path=Path("kanji_example_sentences.yml"), missing_ruby_tags=results
+            path=Path("assets/kanji_example_sentences.yml"), missing_ruby_tags=results
         )
     else:
         print("🥳 there is no empty ruby tag")

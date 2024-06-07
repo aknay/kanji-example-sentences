@@ -72,12 +72,12 @@
       english: My older brother is a university student and is studying law.
       hiragana: おにいさんは だいがくせいで、ほうりつを べんきょうしています
       kanji: お兄さんは大学生で、法律を勉強しています。
-      ruby: お<ruby>兄<rt>にい</rt></ruby>さんは<ruby>大学生<rt>だいがくせい</rt></ruby><ruby><rt></rt></ruby>で、<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+      ruby: お<ruby>兄<rt>にい</rt></ruby>さんは<ruby>大学生<rt>だいがくせい</rt></ruby>で、<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
     2:
       english: My older brother drove, and we went on a family trip.
       hiragana: おにいさんが うんてんして、かぞくで りょこうに いきました。
       kanji: お兄さんが運転して、家族で旅行に行きました。
-      ruby: お<ruby>兄<rt>にい</rt></ruby>さんが<ruby>運転<rt>うんてん</rt></ruby><ruby><rt></rt></ruby>して、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+      ruby: お<ruby>兄<rt>にい</rt></ruby>さんが<ruby>運転<rt>うんてん</rt></ruby>して、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
   simple_meaning:
     0: older brother
 '1001990':
@@ -107,17 +107,17 @@
       english: Where is the restroom?
       hiragana: おてあらいは どこですか？
       kanji: お手洗いはどこですか？
-      ruby: お<ruby>手洗<rt>てあら</rt></ruby>い<ruby><rt></rt></ruby>はどこですか？
+      ruby: お<ruby>手洗<rt>てあら</rt></ruby>いはどこですか？
     1:
       english: Can I go to the restroom?
       hiragana: おてあらいに いっても いいですか？
       kanji: お手洗いに行ってもいいですか？
-      ruby: お<ruby>手洗<rt>てあら</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って<ruby><rt></rt></ruby>もいいですか？
+      ruby: お<ruby>手洗<rt>てあら</rt></ruby>いに<ruby>行<rt>い</rt></ruby>ってもいいですか？
     2:
       english: Is there a restroom nearby?
       hiragana: おてあらいが ちかくに ありますか？
       kanji: お手洗いが近くにありますか？
-      ruby: お<ruby>手洗<rt>てあら</rt></ruby>いが<ruby>近<rt>ちか</rt></ruby>く<ruby><rt></rt></ruby>にありますか？
+      ruby: お<ruby>手洗<rt>てあら</rt></ruby>いが<ruby>近<rt>ちか</rt></ruby>くにありますか？
   simple_meaning:
     0: restroom
     1: toilet
@@ -299,7 +299,7 @@
       english: I'm sorry, I said something bad.
       hiragana: ごめんなさい、わるいことを いいました
       kanji: ごめんなさい、悪いことを言いました。
-      ruby: <ruby><rt></rt></ruby>ごめんなさい、<ruby>悪<rt>わる</rt></ruby>いことを<ruby>言<rt>い</rt></ruby>いました。
+      ruby: ごめんなさい、<ruby>悪<rt>わる</rt></ruby>いことを<ruby>言<rt>い</rt></ruby>いました。
     1:
       english: I'm not feeling well today.
       hiragana: きょうは たいちょうが わるいです
@@ -476,12 +476,12 @@
       english: Please complete the task within one hour.
       hiragana: １じかん いない に しごと を おわらせて ください。
       kanji: １時間以内に仕事を終らせてください。
-      ruby: <ruby><rt></rt></ruby>１<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終<rt>おわ</rt></ruby>らせてください。
+      ruby: １<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終<rt>おわ</rt></ruby>らせてください。
     1:
       english: The delivery will arrive within two days.
       hiragana: ２にち いない に はいたつ します。
       kanji: ２日以内に配達します。
-      ruby: <ruby><rt></rt></ruby>２<ruby>日<rt>にち</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>配達<rt>はいたつ</rt></ruby>します。
+      ruby: ２<ruby>日<rt>にち</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>配達<rt>はいたつ</rt></ruby>します。
     2:
       english: You must return the book within a week.
       hiragana: いっしゅうかん いない に ほん を もどさなければ なりません。
@@ -706,7 +706,7 @@
       english: January is cold, but the snow is beautiful, isn't it?
       hiragana: いちがつは さむいですが、ゆきが うつくしいですね。
       kanji: 一月は寒いですが、雪が美しいですね。
-      ruby: <ruby>一月<rt>いちがつ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>い<ruby><rt></rt></ruby>ですが、<ruby>雪<rt>ゆき</rt></ruby>が<ruby>美<rt>うつく</rt></ruby>しいですね。
+      ruby: <ruby>一月<rt>いちがつ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いですが、<ruby>雪<rt>ゆき</rt></ruby>が<ruby>美<rt>うつく</rt></ruby>しいですね。
     2:
       english: There are many holidays in January.
       hiragana: いちがつには たくさんの しゅくじつが あります。
@@ -811,7 +811,7 @@
       english: If you pull this string, the curtains will close.
       hiragana: この ひもを ひくと、カーテンが しまります。
       kanji: この紐を引くと、カーテンが閉まります。
-      ruby: この<ruby>紐<rt>ひも</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>く<ruby><rt></rt></ruby>と、カーテンが<ruby>閉<rt>し</rt></ruby>まります。
+      ruby: この<ruby>紐<rt>ひも</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>くと、カーテンが<ruby>閉<rt>し</rt></ruby>まります。
     2:
       english: I'm practicing subtracting numbers in math problems.
       hiragana: すうがくの もんだいで すうじを ひく れんしゅうを しています。
@@ -868,7 +868,7 @@
       english: When the traffic light turns green, please turn right.
       hiragana: しんごうが あおに なったら、みぎに まがってください。
       kanji: 信号が青になったら、右に曲がってください。
-      ruby: <ruby>信号<rt>しんごう</rt></ruby>が<ruby>青<rt>あお</rt></ruby><ruby><rt></rt></ruby>になったら、<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。
+      ruby: <ruby>信号<rt>しんごう</rt></ruby>が<ruby>青<rt>あお</rt></ruby>になったら、<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。
     1:
       english: Go straight on this road and turn right at the next corner.
       hiragana: この みちを まっすぐ すすんで、つぎの かどを みぎに まがってください。
@@ -898,7 +898,7 @@
       english: Since it's raining, let's bring an umbrella.
       hiragana: あめが ふっているので、かさを もって いきましょう。
       kanji: 雨が降っているので、傘を持って行きましょう。
-      ruby: <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っ<ruby><rt></rt></ruby>ているので、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きましょう。
+      ruby: <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているので、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きましょう。
   simple_meaning:
     0: rain
 '1172660':
@@ -1152,7 +1152,7 @@
       english: You should wash your hands, they're dirty.
       hiragana: てを あらった ほうが いい、きたないから。
       kanji: 手を洗ったほうがいい、汚いから。
-      ruby: <ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>っ<ruby><rt></rt></ruby>たほうがいい、<ruby>汚<rt>きたな</rt></ruby>いから。
+      ruby: <ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ったほうがいい、<ruby>汚<rt>きたな</rt></ruby>いから。
     2:
       english: I need to do laundry for the dirty clothes.
       hiragana: きたない ふくを せんたくする ひつようが あります。
@@ -1188,7 +1188,7 @@
       english: Did your wife celebrate her birthday last week?
       hiragana: おくさんは せんしゅう、おたんじょうびを むかえられましたか？
       kanji: 奥さんは先週、お誕生日を迎えられましたか？
-      ruby: <ruby>奥<rt>おく</rt></ruby>さんは<ruby>先週<rt>せんしゅう</rt></ruby>、お<ruby>誕生日<rt>たんじょうび</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>え<ruby><rt></rt></ruby>られましたか？
+      ruby: <ruby>奥<rt>おく</rt></ruby>さんは<ruby>先週<rt>せんしゅう</rt></ruby>、お<ruby>誕生日<rt>たんじょうび</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えられましたか？
     2:
       english: I went out to eat with my wife.
       hiragana: おくさんと いっしょに しょくじに いきました。
@@ -1336,7 +1336,7 @@
       english: The sky is covered with clouds, but it's clear below.
       hiragana: そらは くもで おおわれていますが、したは はれています。
       kanji: 空は雲で覆われていますが、下は晴れています。
-      ruby: <ruby>空<rt>そら</rt></ruby>は<ruby>雲<rt>くも</rt></ruby>で<ruby>覆<rt>おお</rt></ruby>わ<ruby><rt></rt></ruby>れていますが、<ruby>下<rt>した</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れています。
+      ruby: <ruby>空<rt>そら</rt></ruby>は<ruby>雲<rt>くも</rt></ruby>で<ruby>覆<rt>おお</rt></ruby>われていますが、<ruby>下<rt>した</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れています。
   simple_meaning:
     0: under
     1: below
@@ -1482,7 +1482,7 @@
       english: When I get home, I will do my homework right away.
       hiragana: いえに かえったら、すぐに しゅくだいを します。
       kanji: 家に帰ったら、すぐに宿題をします。
-      ruby: <ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>っ<ruby><rt></rt></ruby>たら、すぐに<ruby>宿題<rt>しゅくだい</rt></ruby>をします。
+      ruby: <ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったら、すぐに<ruby>宿題<rt>しゅくだい</rt></ruby>をします。
     2:
       english: It's enjoyable to have meals together with the family.
       hiragana: かぞくと いっしょに しょくじを するのが たのしいです。
@@ -1508,7 +1508,7 @@
       english: How is everyone in the family? Are you all well?
       hiragana: かぞくの みなさん、げんきですか？
       kanji: 家族の皆さん、元気ですか？
-      ruby: <ruby>家族<rt>かぞく</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さん、<ruby>元気<rt>げんき</rt></ruby><ruby><rt></rt></ruby>ですか？
+      ruby: <ruby>家族<rt>かぞく</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さん、<ruby>元気<rt>げんき</rt></ruby>ですか？
   simple_meaning:
     0: family
 '1192280':
@@ -1998,7 +1998,7 @@
       english: This room is non-smoking, but there is an ashtray.
       hiragana: この へやは きんえんですが、はいざらが あります。
       kanji: この部屋は禁煙ですが、灰皿があります。
-      ruby: この<ruby>部屋<rt>へや</rt></ruby>は<ruby>禁煙<rt>きんえん</rt></ruby><ruby><rt></rt></ruby>ですが、<ruby>灰皿<rt>はいざら</rt></ruby>があります。
+      ruby: この<ruby>部屋<rt>へや</rt></ruby>は<ruby>禁煙<rt>きんえん</rt></ruby>ですが、<ruby>灰皿<rt>はいざら</rt></ruby>があります。
     2:
       english: There is also a fire extinguisher inside the ashtray.
       hiragana: はいざらの なかには しょうかきも おいてあります。
@@ -2018,7 +2018,7 @@
       english: Did everyone have a fun weekend with your families?
       hiragana: みなさん、ごかぞくと たのしい しゅうまつを すごしましたか？
       kanji: 皆さん、ご家族と楽しい週末を過ごしましたか？
-      ruby: <ruby>皆<rt>みな</rt></ruby>さん、ご<ruby>家族<rt>かぞく</rt></ruby>と<ruby>楽<rt>たの</rt></ruby>しい<ruby>週末<rt>しゅうまつ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ご<ruby><rt></rt></ruby>しましたか？
+      ruby: <ruby>皆<rt>みな</rt></ruby>さん、ご<ruby>家族<rt>かぞく</rt></ruby>と<ruby>楽<rt>たの</rt></ruby>しい<ruby>週末<rt>しゅうまつ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごしましたか？
     2:
       english: Good job at work, everyone.
       hiragana: みなさん、おしごと おつかれさまです。
@@ -2297,7 +2297,7 @@
       english: I'm looking forward to the weekend; it's going to be fun!
       hiragana: しゅうまつ が たのしみ です！
       kanji: 週末が楽しみです！
-      ruby: <ruby>週末<rt>しゅうまつ</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみ<ruby><rt></rt></ruby>です！
+      ruby: <ruby>週末<rt>しゅうまつ</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみです！
     2:
       english: Traveling to new places is always a joy.
       hiragana: あたらしい ところ へ いく の は つねに たのしみ です。
@@ -2355,7 +2355,7 @@
       english: She slipped on the ice and fell while walking.
       hiragana: かのじょ は こおり に のる と き 、 すべり て ころびました。
       kanji: 彼女は氷に乗るとき、滑りて転びました。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>氷<rt>こおり</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby><rt></rt></ruby>とき、<ruby>滑<rt>すべ</rt></ruby>りて<ruby>転<rt>ころ</rt></ruby>びました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>氷<rt>こおり</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るとき、<ruby>滑<rt>すべ</rt></ruby>りて<ruby>転<rt>ころ</rt></ruby>びました。
     2:
       english: The car skidded on the slippery road due to the rain.
       hiragana: あめ に よる つるつる の みち で くるま は すべり ました。
@@ -3432,7 +3432,7 @@
       english: Is there a park nearby?
       hiragana: ちかくにこうえんがありますか？
       kanji: 近くに公園がありますか？
-      ruby: <ruby>近<rt>ちか</rt></ruby>くに<ruby>公園<rt>こうえん</rt></ruby><ruby><rt></rt></ruby>がありますか？
+      ruby: <ruby>近<rt>ちか</rt></ruby>くに<ruby>公園<rt>こうえん</rt></ruby>がありますか？
   simple_meaning:
     0: near
     1: close
@@ -3732,7 +3732,7 @@
       english: Siblings often have arguments, but they also support each other.
       hiragana: きょうだいはよくけんかをしますが、おたがいをささえあっています。
       kanji: 兄弟はよく喧嘩をしますが、お互いを支え合っています。
-      ruby: <ruby>兄弟<rt>きょうだい</rt></ruby>はよく<ruby>喧嘩<rt>けんか</rt></ruby><ruby><rt></rt></ruby>をしますが、お<ruby>互<rt>たが</rt></ruby>いを<ruby>支<rt>ささ</rt></ruby>え<ruby>合<rt>あ</rt></ruby>っています。
+      ruby: <ruby>兄弟<rt>きょうだい</rt></ruby>はよく<ruby>喧嘩<rt>けんか</rt></ruby>をしますが、お<ruby>互<rt>たが</rt></ruby>いを<ruby>支<rt>ささ</rt></ruby>え<ruby>合<rt>あ</rt></ruby>っています。
     2:
       english: My siblings and I went on a trip together.
       hiragana: わたしときょうだいはいっしょにりょこうにいきました。
@@ -3995,7 +3995,7 @@
       english: This building has been here for more than 50 years.
       hiragana: このたてものは50ねんいじょうここにあります。
       kanji: この建物は50年以上ここにあります。
-      ruby: この<ruby>建物<rt>たてもの</rt></ruby>は<ruby><rt></rt></ruby>50<ruby>年以上<rt>ねんいじょう</rt></ruby>ここにあります。
+      ruby: この<ruby>建物<rt>たてもの</rt></ruby>は50<ruby>年以上<rt>ねんいじょう</rt></ruby>ここにあります。
     2:
       english: The building is undergoing renovation.
       hiragana: たてものはかいぞうちゅうです。
@@ -4048,7 +4048,7 @@
       english: She showed photos and talked about the trip.
       hiragana: かのじょはしゃしんをみせて、りょこうのはなしをしました
       kanji: 彼女は写真を見せて、旅行の話をしました
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せ<ruby><rt></rt></ruby>て、<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>をしました
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せて、<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>をしました
   simple_meaning:
     0: to show
 '1259290':
@@ -4193,7 +4193,7 @@
       english: They named their dog "Buddy."
       hiragana: かれらはいぬを「バディ」とよびました。
       kanji: 彼らは犬を「バディ」と呼びました。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>犬<rt>いぬ</rt></ruby><ruby><rt></rt></ruby>を「バディ<ruby><rt></rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>びました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>犬<rt>いぬ</rt></ruby>を「バディ」と<ruby>呼<rt>よ</rt></ruby>びました。
     2:
       english: She called the dog cute.
       hiragana: かのじょはいぬをかわいいとよびました
@@ -4487,7 +4487,7 @@
       english: Do you like chocolate?
       hiragana: チョコレートがすきですか？
       kanji: チョコレートが好きですか？
-      ruby: チョコレートが<ruby>好<rt>す</rt></ruby>き<ruby><rt></rt></ruby>ですか？
+      ruby: チョコレートが<ruby>好<rt>す</rt></ruby>きですか？
     2:
       english: She likes to travel to new places.
       hiragana: かのじょはあたらしいところへりょこうするのがすきです。
@@ -4652,7 +4652,7 @@
       english: What are you doing now?
       hiragana: いまなにをしていますか？
       kanji: 今何をしていますか？
-      ruby: <ruby>今<rt>いま</rt></ruby><ruby>何<rt>なに</rt></ruby>を<ruby><rt></rt></ruby>していますか？
+      ruby: <ruby>今<rt>いま</rt></ruby><ruby>何<rt>なに</rt></ruby>をしていますか？
     2:
       english: We should leave for the movie now.
       hiragana: えいがをみるためにいまでかけつけるべきです。
@@ -4715,7 +4715,7 @@
       english: Are you free to meet up tonight?
       hiragana: こんばんあいていますか？
       kanji: 今晩会いていますか？
-      ruby: <ruby>今晩<rt>こんばん</rt></ruby><ruby>会<rt>あ</rt></ruby>い<ruby><rt></rt></ruby>ていますか？
+      ruby: <ruby>今晩<rt>こんばん</rt></ruby><ruby>会<rt>あ</rt></ruby>いていますか？
     2:
       english: Let's watch a movie together tonight.
       hiragana: こんばんいっしょにえいがをみましょう。
@@ -5018,7 +5018,7 @@
       english: Don't forget to bring an umbrella, it's raining.
       hiragana: かさをもっていくのをわすれないでください、あめがふっています。
       kanji: 傘を持って行くのを忘れないでください、雨が降っています。
-      ruby: <ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>くのを<ruby>忘<rt>わす</rt></ruby>れ<ruby><rt></rt></ruby>ないでください、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。
+      ruby: <ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>くのを<ruby>忘<rt>わす</rt></ruby>れないでください、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。
     1:
       english: I left my umbrella at the office yesterday.
       hiragana: きのうわたしはかいしゃにかさをわすれてきました。
@@ -5181,7 +5181,7 @@
       english: My older sister is two years older than me.
       hiragana: わたしのあねはわたしより2ねんおおいです。
       kanji: 私の姉は私より2年大いです。
-      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>より<ruby><rt></rt></ruby>2<ruby>年<rt>ねん</rt></ruby><ruby>大<rt>おお</rt></ruby>いです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>より2<ruby>年<rt>ねん</rt></ruby><ruby>大<rt>おお</rt></ruby>いです。
   simple_meaning:
     0: older sister
 '1307770':
@@ -5377,7 +5377,7 @@
       english: What time is it now?
       hiragana: いまなんじですか？
       kanji: 今何時ですか？
-      ruby: <ruby>今<rt>いま</rt></ruby><ruby>何時<rt>なんじ</rt></ruby><ruby><rt></rt></ruby>ですか？
+      ruby: <ruby>今<rt>いま</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>ですか？
     1:
       english: I have a meeting in two hours.
       hiragana: にじかんごにかいぎがあります。
@@ -5421,7 +5421,7 @@
       english: What's the next stop on this train?
       hiragana: このでんしゃのつぎのていしゃはなんですか？
       kanji: この電車の次の停車は何ですか？
-      ruby: この<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>の<ruby>停車<rt>ていしゃ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>で<ruby><rt></rt></ruby>すか？
+      ruby: この<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>の<ruby>停車<rt>ていしゃ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？
     1:
       english: Please take the next elevator to the 10th floor.
       hiragana: じゅうかいのエレベーターをつぎにのってください。
@@ -5531,7 +5531,7 @@
       english: Do you have an English-Japanese dictionary?
       hiragana: えいごからにほんごのじしょはありますか？
       kanji: 英語から日本語の辞書はありますか？
-      ruby: <ruby>英語<rt>えいご</rt></ruby>から<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>辞書<rt>じしょ</rt></ruby><ruby><rt></rt></ruby>はありますか？
+      ruby: <ruby>英語<rt>えいご</rt></ruby>から<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>辞書<rt>じしょ</rt></ruby>はありますか？
   simple_meaning:
     0: dictionary
 '1319210':
@@ -5583,7 +5583,7 @@
       english: Do you have any questions?
       hiragana: しつもんはありますか？
       kanji: 質問はありますか？
-      ruby: <ruby>質問<rt>しつもん</rt></ruby><ruby><rt></rt></ruby>はありますか？
+      ruby: <ruby>質問<rt>しつもん</rt></ruby>はありますか？
     1:
       english: I need to ask the teacher a question.
       hiragana: せんせいにしつもんをきかなければいけません。
@@ -5674,7 +5674,7 @@
       english: He is still young but very talented.
       hiragana: かれはまだわかいですが、ひじょうにさいのうがあります
       kanji: 彼はまだ若いですが、非常に才能があります
-      ruby: <ruby>彼<rt>かれ</rt></ruby>はまだ<ruby>若<rt>わか</rt></ruby>い<ruby><rt></rt></ruby>ですが、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>才能<rt>さいのう</rt></ruby>があります
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はまだ<ruby>若<rt>わか</rt></ruby>いですが、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>才能<rt>さいのう</rt></ruby>があります
     1:
       english: I had many adventures when I was young.
       hiragana: わかいころ、たくさんのぼうけんをしました
@@ -6202,7 +6202,7 @@
       english: This dish is a bit spicy, but it's delicious.
       hiragana: このりょうりはすこしつらいですが、おいしいです
       kanji: この料理は少し辛いですが、美味しいです
-      ruby: この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>辛<rt>つら</rt></ruby>い<ruby><rt></rt></ruby>ですが、<ruby>美味<rt>おい</rt></ruby>しいです
+      ruby: この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>辛<rt>つら</rt></ruby>いですが、<ruby>美味<rt>おい</rt></ruby>しいです
     2:
       english: Please wait a little.
       hiragana: すこしまっていてください
@@ -6498,7 +6498,7 @@
       english: I was tired, so I took a short nap before continuing work.
       hiragana: つかれたので、すこしねてからしごとをつづけました
       kanji: 疲れたので、少し寝てから仕事を続けました
-      ruby: <ruby>疲<rt>つか</rt></ruby>れ<ruby><rt></rt></ruby>たので、<ruby>少<rt>すこ</rt></ruby>し<ruby>寝<rt>ね</rt></ruby>てから<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けました
+      ruby: <ruby>疲<rt>つか</rt></ruby>れたので、<ruby>少<rt>すこ</rt></ruby>し<ruby>寝<rt>ね</rt></ruby>てから<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けました
   simple_meaning:
     0: to sleep
 '1360320':
@@ -6716,7 +6716,7 @@
       english: It was raining earlier, but now it's sunny.
       hiragana: あめがふっていましたが、いまははれています
       kanji: 雨が降っていましたが、今は晴れています
-      ruby: <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っ<ruby><rt></rt></ruby>ていましたが、<ruby>今<rt>いま</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れています
+      ruby: <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていましたが、<ruby>今<rt>いま</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れています
     2:
       english: On sunny days, it's enjoyable to have a picnic outdoors.
       hiragana: はれたひにはそとでぴくにっくがたのしいです
@@ -6931,7 +6931,7 @@
       english: Be careful when cutting paper.
       hiragana: かみをきると、ちゅういがひつようです
       kanji: 紙を切ると、注意が必要です
-      ruby: <ruby>紙<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>る<ruby><rt></rt></ruby>と、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です
+      ruby: <ruby>紙<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>ると、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です
     2:
       english: He cut his own hair.
       hiragana: かれはかみをじぶんできりました
@@ -7017,7 +7017,7 @@
       english: What's ahead of us?
       hiragana: わたしたち の さき に なに が あります か？
       kanji: 私たちの先に何がありますか？
-      ruby: <ruby>私<rt>わたし</rt></ruby>たちの<ruby>先<rt>さき</rt></ruby>に<ruby>何<rt>なに</rt></ruby><ruby><rt></rt></ruby>がありますか？
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちの<ruby>先<rt>さき</rt></ruby>に<ruby>何<rt>なに</rt></ruby>がありますか？
     2:
       english: He always thinks ahead of others.
       hiragana: かれは いつも ひと より も さきを かんがえます。
@@ -7260,7 +7260,7 @@
       english: Close the window, it's getting cold.
       hiragana: まどをしめて、さむくなってきました。
       kanji: 窓を閉めて、寒くなってきました。
-      ruby: <ruby>窓<rt>まど</rt></ruby>を<ruby>閉<rt>し</rt></ruby>め<ruby><rt></rt></ruby>て、<ruby>寒<rt>さむ</rt></ruby>くなってきました。
+      ruby: <ruby>窓<rt>まど</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めて、<ruby>寒<rt>さむ</rt></ruby>くなってきました。
   simple_meaning:
     0: window
 '1401910':
@@ -7314,7 +7314,7 @@
       english: I hurt my foot while hiking.
       hiragana: さんぽしながら、あしをけがしました。
       kanji: 散歩しながら、足を怪我しました。
-      ruby: <ruby>散歩<rt>さんぽ</rt></ruby><ruby><rt></rt></ruby>しながら、<ruby>足<rt>あし</rt></ruby>を<ruby>怪我<rt>けが</rt></ruby>しました。
+      ruby: <ruby>散歩<rt>さんぽ</rt></ruby>しながら、<ruby>足<rt>あし</rt></ruby>を<ruby>怪我<rt>けが</rt></ruby>しました。
     1:
       english: He has a tattoo on his leg.
       hiragana: かれはあしにたとぅーをいれています。
@@ -7467,7 +7467,7 @@
       english: My friend is running late, so I'm waiting at the station.
       hiragana: ともだちがおくれていますので、えきでまっています
       kanji: 友達が遅れていますので、駅で待っています
-      ruby: <ruby>友達<rt>ともだち</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れ<ruby><rt></rt></ruby>ていますので、<ruby>駅<rt>えき</rt></ruby>で<ruby>待<rt>ま</rt></ruby>っています
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れていますので、<ruby>駅<rt>えき</rt></ruby>で<ruby>待<rt>ま</rt></ruby>っています
     1:
       english: Let's wait here until the bus arrives.
       hiragana: ばすがくるまで、ここでまちましょう
@@ -7615,7 +7615,7 @@
       english: Are you feeling okay?
       hiragana: だいじょうぶですか？
       kanji: 大丈夫ですか？
-      ruby: <ruby>大丈夫<rt>だいじょうぶ</rt></ruby><ruby><rt></rt></ruby>ですか？
+      ruby: <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか？
     1:
       english: It's okay; I'm not hurt.
       hiragana: だいじょうぶ、けがはしていないよ。
@@ -7625,7 +7625,7 @@
       english: Don't worry about me; I'll be fine.
       hiragana: わたしのことをしんぱいしないで、わたしはだいじょうぶだよ。
       kanji: 私のことを心配しないで、私は大丈夫だよ。
-      ruby: <ruby>私<rt>わたし</rt></ruby>のことを<ruby>心配<rt>しんぱい</rt></ruby><ruby><rt></rt></ruby>しないで、<ruby>私<rt>わたし</rt></ruby>は<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ。
+      ruby: <ruby>私<rt>わたし</rt></ruby>のことを<ruby>心配<rt>しんぱい</rt></ruby>しないで、<ruby>私<rt>わたし</rt></ruby>は<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ。
   simple_meaning:
     0: alright
     1: okay
@@ -7761,7 +7761,7 @@
       english: Is there someone at the door?
       hiragana: ドアのところにだれかいますか？
       kanji: ドアの所に誰かいますか？
-      ruby: ドアの<ruby>所<rt>ところ</rt></ruby>に<ruby>誰<rt>だれ</rt></ruby>か<ruby><rt></rt></ruby>いますか？
+      ruby: ドアの<ruby>所<rt>ところ</rt></ruby>に<ruby>誰<rt>だれ</rt></ruby>かいますか？
     1:
       english: I heard someone singing in the park.
       hiragana: こうえんでだれかがうたっているのをききました。
@@ -7771,7 +7771,7 @@
       english: Did someone call my name?
       hiragana: だれか が わたし の なまえ を よんだ の です か？
       kanji: 誰かが私の名前を呼んだのですか？
-      ruby: <ruby>誰<rt>だれ</rt></ruby>かが<ruby>私<rt>わたし</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ん<ruby><rt></rt></ruby>だのですか？
+      ruby: <ruby>誰<rt>だれ</rt></ruby>かが<ruby>私<rt>わたし</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んだのですか？
   simple_meaning:
     0: someone
     1: somebody
@@ -7802,7 +7802,7 @@
       english: My birthday is on August 15th.
       hiragana: わたしのたんじょうびは8がつ15にちです。
       kanji: 私の誕生日は8月15日です。
-      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>は<ruby><rt></rt></ruby>8<ruby>月<rt>がつ</rt></ruby><ruby><rt></rt></ruby>15<ruby>日<rt>にち</rt></ruby>です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>は8<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>です。
     1:
       english: We celebrated her birthday with a surprise party.
       hiragana: わたしたちはびっくりパーティーでかのじょのたんじょうびをおおいにいわいました。
@@ -7933,7 +7933,7 @@
       english: Can you show me the map of this area?
       hiragana: このあたりのちずをみせていただけますか？
       kanji: この辺りの地図を見せていただけますか？
-      ruby: この<ruby>辺<rt>あた</rt></ruby>りの<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>せ<ruby><rt></rt></ruby>ていただけますか？
+      ruby: この<ruby>辺<rt>あた</rt></ruby>りの<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>せていただけますか？
     2:
       english: The map indicates the location of important landmarks.
       hiragana: ちずはたいせつなめいてんのいちをしめしています。
@@ -7988,7 +7988,7 @@
       english: He's always late, so be careful.
       hiragana: かれはいつもちこくするので、ちゅういがひつようです
       kanji: 彼はいつも遅刻するので、注意が必要です
-      ruby: <ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>遅刻<rt>ちこく</rt></ruby><ruby><rt></rt></ruby>するので、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>遅刻<rt>ちこく</rt></ruby>するので、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です
     1:
       english: The train today is running late.
       hiragana: きょうのでんしゃはおくれています
@@ -8137,7 +8137,7 @@
       english: I'm enjoying fishing by stretching out the fishing line.
       hiragana: つりいとをはって、つりをたのしんでいます
       kanji: 釣り糸を張って、釣りを楽しんでいます
-      ruby: <ruby>釣<rt>つ</rt></ruby>り<ruby>糸<rt>いと</rt></ruby>を<ruby>張<rt>は</rt></ruby>っ<ruby><rt></rt></ruby>て、<ruby>釣<rt>つ</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しんでいます
+      ruby: <ruby>釣<rt>つ</rt></ruby>り<ruby>糸<rt>いと</rt></ruby>を<ruby>張<rt>は</rt></ruby>って、<ruby>釣<rt>つ</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しんでいます
   simple_meaning:
     0: to stretch
     1: to hang
@@ -8314,7 +8314,7 @@
       english: This store closes late at night.
       hiragana: よるおそくになると、このみせはしまってしまいます
       kanji: 夜遅くになると、この店は閉まってしまいます
-      ruby: <ruby>夜遅<rt>よるおそ</rt></ruby>く<ruby><rt></rt></ruby>になると、この<ruby>店<rt>みせ</rt></ruby>は<ruby>閉<rt>し</rt></ruby>まってしまいます
+      ruby: <ruby>夜遅<rt>よるおそ</rt></ruby>くになると、この<ruby>店<rt>みせ</rt></ruby>は<ruby>閉<rt>し</rt></ruby>まってしまいます
   simple_meaning:
     0: to close
     1: to be closed
@@ -8330,7 +8330,7 @@
       english: Can you fasten the buttons on your shirt?
       hiragana: シャツ の ボタン を しめられますか？
       kanji: シャツのボタンを締められますか？
-      ruby: シャツのボタンを<ruby>締<rt>し</rt></ruby>め<ruby><rt></rt></ruby>られますか？
+      ruby: シャツのボタンを<ruby>締<rt>し</rt></ruby>められますか？
     2:
       english: She tightly closed the book.
       hiragana: かのじょ は ほん を しっかり しめました。
@@ -8348,7 +8348,7 @@
       english: What is the weather like today?
       hiragana: きょうのてんきはどうですか？
       kanji: 今日の天気はどうですか？
-      ruby: <ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby><ruby><rt></rt></ruby>はどうですか？
+      ruby: <ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はどうですか？
     1:
       english: The weather is perfect for a picnic.
       hiragana: てんきはピクニックにぴったりです。
@@ -8730,7 +8730,7 @@
       english: According to the forecast, tomorrow will be cloudy with rain later.
       hiragana: よほうによると、あしたはくもりのちあめです
       kanji: 予報によると、明日は曇りのち雨です
-      ruby: <ruby>予報<rt>よほう</rt></ruby><ruby><rt></rt></ruby>によると、<ruby>明日<rt>あした</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りのち<ruby>雨<rt>あめ</rt></ruby>です
+      ruby: <ruby>予報<rt>よほう</rt></ruby>によると、<ruby>明日<rt>あした</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りのち<ruby>雨<rt>あめ</rt></ruby>です
   simple_meaning:
     0: to become cloudy
 '1457730':
@@ -8762,7 +8762,7 @@
       english: Learning a new language is difficult but fun.
       hiragana: あたらしいげんごをまなぶのはむずかしいですが、たのしいです
       kanji: 新しい言語を学ぶのは難しいですが、楽しいです
-      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>言語<rt>げんご</rt></ruby>を<ruby>学<rt>まな</rt></ruby>ぶのは<ruby>難<rt>むずか</rt></ruby>しい<ruby><rt></rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>言語<rt>げんご</rt></ruby>を<ruby>学<rt>まな</rt></ruby>ぶのは<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>楽<rt>たの</rt></ruby>しいです
     1:
       english: I'm struggling with the difficult math class.
       hiragana: すうがくのじゅぎょうがむずかしくてこまっています
@@ -9232,7 +9232,7 @@
       english: Could you please give me your phone number?
       hiragana: でんわばんごうをおしえていただけますか？
       kanji: 電話番号を教えていただけますか？
-      ruby: <ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>え<ruby><rt></rt></ruby>ていただけますか？
+      ruby: <ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えていただけますか？
   simple_meaning:
     0: number
 '1482340':
@@ -9377,7 +9377,7 @@
       english: To avoid getting sick, let's develop a habit of washing our hands.
       hiragana: びょうきにならないように、てあらいをするしゅうかんをもちましょう
       kanji: 病気にならないように、手洗いをする習慣を持ちましょう
-      ruby: <ruby>病気<rt>びょうき</rt></ruby><ruby><rt></rt></ruby>にならないように、<ruby>手洗<rt>てあら</rt></ruby>いをする<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちましょう
+      ruby: <ruby>病気<rt>びょうき</rt></ruby>にならないように、<ruby>手洗<rt>てあら</rt></ruby>いをする<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちましょう
   simple_meaning:
     0: illness
     1: sickness
@@ -9419,7 +9419,7 @@
       english: I put the letter in an envelope and sent it to the post office.
       hiragana: てがみをふうとうにいれて、ゆうびんきょくにおくりました
       kanji: 手紙を封筒に入れて、郵便局に送りました
-      ruby: <ruby>手紙<rt>てがみ</rt></ruby>を<ruby>封筒<rt>ふうとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れ<ruby><rt></rt></ruby>て、<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>送<rt>おく</rt></ruby>りました
+      ruby: <ruby>手紙<rt>てがみ</rt></ruby>を<ruby>封筒<rt>ふうとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>送<rt>おく</rt></ruby>りました
     1:
       english: I forgot to put a stamp in the corner of the envelope.
       hiragana: ふうとうのかどにきってをはりわすれた
@@ -9665,7 +9665,7 @@
       english: I returned the product to the store because it was broken.
       hiragana: しょうひんがこわれていたので、おみせにへんぴんしました
       kanji: 商品が壊れていたので、お店に返品しました
-      ruby: <ruby>商品<rt>しょうひん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れ<ruby><rt></rt></ruby>ていたので、お<ruby>店<rt>みせ</rt></ruby>に<ruby>返品<rt>へんぴん</rt></ruby>しました
+      ruby: <ruby>商品<rt>しょうひん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れていたので、お<ruby>店<rt>みせ</rt></ruby>に<ruby>返品<rt>へんぴん</rt></ruby>しました
   simple_meaning:
     0: to return
     1: to give back
@@ -9703,7 +9703,7 @@
       english: I'm not good at studying math, but I'm trying my best.
       hiragana: すうがくのべんきょうがにがてですが、がんばっています
       kanji: 数学の勉強が苦手ですが、頑張っています
-      ruby: <ruby>数学<rt>すうがく</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby><ruby><rt></rt></ruby>ですが、<ruby>頑張<rt>がんば</rt></ruby>っています
+      ruby: <ruby>数学<rt>すうがく</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>ですが、<ruby>頑張<rt>がんば</rt></ruby>っています
     2:
       english: Studying with friends is fun.
       hiragana: ともだちといっしょにべんきょうするとたのしいです
@@ -9819,7 +9819,7 @@
       english: He always forgets his homework, so he needs to be careful.
       hiragana: かれはいつもしゅくだいをわすれるので、ちゅういがひつようです
       kanji: 彼はいつも宿題を忘れるので、注意が必要です
-      ruby: <ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れ<ruby><rt></rt></ruby>るので、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れるので、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です
   simple_meaning:
     0: to forget
 '1519230':
@@ -9900,7 +9900,7 @@
       english: I bought a new bookshelf and organized my books.
       hiragana: あたらしいほんだなをかって、ほんをせいりしました
       kanji: 新しい本棚を買って、本を整理しました
-      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>買<rt>か</rt></ruby>っ<ruby><rt></rt></ruby>て、<ruby>本<rt>ほん</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しました
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>買<rt>か</rt></ruby>って、<ruby>本<rt>ほん</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しました
     2:
       english: There is a potted plant on top of the bookshelf.
       hiragana: ほんだなのうえにはかんようしょくぶつがおいてあります
@@ -9943,7 +9943,7 @@
       english: I polished my shoes and made them clean.
       hiragana: くつをみがいて、きれいにしました
       kanji: 靴を磨いて、きれいにしました
-      ruby: <ruby>靴<rt>くつ</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>い<ruby><rt></rt></ruby>て、きれいにしました
+      ruby: <ruby>靴<rt>くつ</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>いて、きれいにしました
     2:
       english: This gemstone has been polished to enhance its shine.
       hiragana: このほうせきはかがやきをますためにみがかれています
@@ -10177,7 +10177,7 @@
       english: The movie was funny, and I laughed.
       hiragana: えいがはおもしろくて、わらいました
       kanji: 映画は面白くて、笑いました
-      ruby: <ruby>映画<rt>えいが</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>く<ruby><rt></rt></ruby>て、<ruby>笑<rt>わら</rt></ruby>いました
+      ruby: <ruby>映画<rt>えいが</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>くて、<ruby>笑<rt>わら</rt></ruby>いました
     1:
       english: This game is challenging but very interesting.
       hiragana: このげーむはむずかしいけど、とてもおもしろいです
@@ -10310,7 +10310,7 @@
       english: I had a headache, so I took medicine.
       hiragana: ずつうがあるので、くすりをのみました
       kanji: 頭痛があるので、薬を飲みました
-      ruby: <ruby>頭痛<rt>ずつう</rt></ruby><ruby><rt></rt></ruby>があるので、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました
+      ruby: <ruby>頭痛<rt>ずつう</rt></ruby>があるので、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました
     1:
       english: The doctor prescribed medicine for me.
       hiragana: いしゃがくすりをしょほうしてくれました
@@ -10426,7 +10426,7 @@
       english: Last night, it rained, so I spent a relaxing evening at home.
       hiragana: ゆうべはあめがふったので、いえでゆっくりすごしました
       kanji: 夕べは雨が降ったので、家でゆっくり過ごしました
-      ruby: <ruby>夕<rt>ゆう</rt></ruby>べは<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っ<ruby><rt></rt></ruby>たので、<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>過<rt>す</rt></ruby>ごしました
+      ruby: <ruby>夕<rt>ゆう</rt></ruby>べは<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったので、<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>過<rt>す</rt></ruby>ごしました
   simple_meaning:
     0: last night
 '1542790':
@@ -10436,7 +10436,7 @@
       english: In the evening, children play in the park.
       hiragana: ゆうがたになると、こうえんでこどもたちがあそびます
       kanji: 夕方になると、公園で子供たちが遊びます
-      ruby: <ruby>夕方<rt>ゆうがた</rt></ruby><ruby><rt></rt></ruby>になると、<ruby>公園<rt>こうえん</rt></ruby>で<ruby>子供<rt>こども</rt></ruby>たちが<ruby>遊<rt>あそ</rt></ruby>びます
+      ruby: <ruby>夕方<rt>ゆうがた</rt></ruby>になると、<ruby>公園<rt>こうえん</rt></ruby>で<ruby>子供<rt>こども</rt></ruby>たちが<ruby>遊<rt>あそ</rt></ruby>びます
     1:
       english: Evening walks are pleasant.
       hiragana: ゆうがたのさんぽはきもちがいいですね
@@ -10573,7 +10573,7 @@
       english: I have exams next week, so I have to study.
       hiragana: らいしゅうはしけんがありますので、べんきょうしなければなりません
       kanji: 来週は試験がありますので、勉強しなければなりません
-      ruby: <ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby><ruby><rt></rt></ruby>がありますので、<ruby>勉強<rt>べんきょう</rt></ruby>しなければなりません
+      ruby: <ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>がありますので、<ruby>勉強<rt>べんきょう</rt></ruby>しなければなりません
     1:
       english: I have plans to go on a picnic with friends next Sunday.
       hiragana: らいしゅうのにちようびにともだちとぴくにっくにいくよていです
@@ -10820,7 +10820,7 @@
       english: I drank cold water to beat the heat.
       hiragana: つめたいみずをのんで、あつさをしのぎました
       kanji: 冷たい水を飲んで、暑さをしのぎました
-      ruby: <ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>ん<ruby><rt></rt></ruby>で、<ruby>暑<rt>あつ</rt></ruby>さをしのぎました
+      ruby: <ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで、<ruby>暑<rt>あつ</rt></ruby>さをしのぎました
     1:
       english: It feels good when the cold wind hits your face.
       hiragana: つめたいふうがかおにあたると、きもちがいいです
@@ -10928,7 +10928,7 @@
       english: Speaking Japanese is difficult but fun.
       hiragana: にほんごをはなすのはむずかしいですが、たのしいです
       kanji: 日本語を話すのは難しいですが、楽しいです
-      ruby: <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すのは<ruby>難<rt>むずか</rt></ruby>しい<ruby><rt></rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです
+      ruby: <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すのは<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>楽<rt>たの</rt></ruby>しいです
     1:
       english: He can speak English and Spanish.
       hiragana: かれはえいごとすぺいんごをはなすことができます
@@ -11077,17 +11077,17 @@
       english: What would you like to eat?
       hiragana: なにをたべたいですか？
       kanji: 何を食べたいですか？
-      ruby: <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby><rt></rt></ruby>いですか？
+      ruby: <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたいですか？
     1:
       english: What do you like?
       hiragana: なにがおすきですか？
       kanji: 何がお好きですか？
-      ruby: <ruby>何<rt>なに</rt></ruby>がお<ruby>好<rt>す</rt></ruby>き<ruby><rt></rt></ruby>ですか？
+      ruby: <ruby>何<rt>なに</rt></ruby>がお<ruby>好<rt>す</rt></ruby>きですか？
     2:
       english: What is the weather like today?
       hiragana: きょうのてんきはなんですか？
       kanji: 今日の天気は何ですか？
-      ruby: <ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>何<rt>なん</rt></ruby>で<ruby><rt></rt></ruby>すか？
+      ruby: <ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？
   simple_meaning:
     0: what
     1: something
@@ -11129,7 +11129,7 @@
       english: Fishing is a hobby of mine, and I often go fishing for fish on weekends.
       hiragana: つりがしゅみで、しゅうまつによくさかなをつりにいきます
       kanji: 釣りが趣味で、週末によく魚を釣りに行きます
-      ruby: <ruby>釣<rt>つ</rt></ruby>りが<ruby>趣味<rt>しゅみ</rt></ruby><ruby><rt></rt></ruby>で、<ruby>週末<rt>しゅうまつ</rt></ruby>によく<ruby>魚<rt>さかな</rt></ruby>を<ruby>釣<rt>つ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます
+      ruby: <ruby>釣<rt>つ</rt></ruby>りが<ruby>趣味<rt>しゅみ</rt></ruby>で、<ruby>週末<rt>しゅうまつ</rt></ruby>によく<ruby>魚<rt>さかな</rt></ruby>を<ruby>釣<rt>つ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます
   simple_meaning:
     0: fish
 '1578700':
@@ -11231,7 +11231,7 @@
       english: I was busy yesterday, so I didn't get much rest.
       hiragana: きのうはいそがしかったので、あまりやすめませんでした
       kanji: 昨日は忙しかったので、あまり休めませんでした
-      ruby: <ruby>昨日<rt>きのう</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しか<ruby><rt></rt></ruby>ったので、あまり<ruby>休<rt>やす</rt></ruby>めませんでした
+      ruby: <ruby>昨日<rt>きのう</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しかったので、あまり<ruby>休<rt>やす</rt></ruby>めませんでした
   simple_meaning:
     0: yesterday
 '1579350':
@@ -11266,7 +11266,7 @@
       english: Among the four seasons, I like autumn the most.
       hiragana: しきのうち、あきがいちばんすきです
       kanji: 四季のうち、秋が一番好きです
-      ruby: <ruby>四季<rt>しき</rt></ruby><ruby><rt></rt></ruby>のうち、<ruby>秋<rt>あき</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きです
+      ruby: <ruby>四季<rt>しき</rt></ruby>のうち、<ruby>秋<rt>あき</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きです
     2:
       english: There are four apples on the table.
       hiragana: てーぶるのうえによっつのりんごがあります
@@ -11513,7 +11513,7 @@
       english: To avoid catching a cold, make sure to wash your hands thoroughly.
       hiragana: かぜをひかないように、てあらいをしっかりとしましょう
       kanji: 風邪を引かないように、手洗いをしっかりとしましょう
-      ruby: <ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>か<ruby><rt></rt></ruby>ないように、<ruby>手洗<rt>てあら</rt></ruby>いをしっかりとしましょう
+      ruby: <ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>かないように、<ruby>手洗<rt>てあら</rt></ruby>いをしっかりとしましょう
     2:
       english: He caught a cold and is absent from school.
       hiragana: かれはかぜをひいてがっこうをやすんでいます
@@ -11677,7 +11677,7 @@
       english: This book isn't very interesting, so I stopped reading it.
       hiragana: このほんはあまりおもしろくないので、よむのをやめました
       kanji: この本は余り面白くないので、読むのをやめました
-      ruby: この<ruby>本<rt>ほん</rt></ruby>は<ruby>余<rt>あま</rt></ruby>り<ruby>面白<rt>おもしろ</rt></ruby>く<ruby><rt></rt></ruby>ないので、<ruby>読<rt>よ</rt></ruby>むのをやめました
+      ruby: この<ruby>本<rt>ほん</rt></ruby>は<ruby>余<rt>あま</rt></ruby>り<ruby>面白<rt>おもしろ</rt></ruby>くないので、<ruby>読<rt>よ</rt></ruby>むのをやめました
     2:
       english: I didn't have much time this morning.
       hiragana: けさはあまりじかんがありませんでした
@@ -11818,7 +11818,7 @@
       english: Mom always says 'good night' to us.
       hiragana: おかあさんはいつも「おやすみなさい」といってくれます
       kanji: お母さんはいつも「おやすみなさい」と言ってくれます
-      ruby: お<ruby>母<rt>かあ</rt></ruby>さん<ruby><rt></rt></ruby>はいつも「おやすみなさい」と<ruby>言<rt>い</rt></ruby>ってくれます
+      ruby: お<ruby>母<rt>かあ</rt></ruby>さんはいつも「おやすみなさい」と<ruby>言<rt>い</rt></ruby>ってくれます
     2:
       english: The teacher told us something important.
       hiragana: せんせいはわたしたちにたいせつなことをいいました
@@ -11834,7 +11834,7 @@
       english: Even when unpleasant things happen, I try to think positively.
       hiragana: いやなことがあっても、まえむきにかんがえるようにしています
       kanji: 嫌なことがあっても、前向きに考えるようにしています
-      ruby: <ruby>嫌<rt>いや</rt></ruby>な<ruby><rt></rt></ruby>ことがあっても、<ruby>前向<rt>まえむ</rt></ruby>きに<ruby>考<rt>かんが</rt></ruby>えるようにしています
+      ruby: <ruby>嫌<rt>いや</rt></ruby>なことがあっても、<ruby>前向<rt>まえむ</rt></ruby>きに<ruby>考<rt>かんが</rt></ruby>えるようにしています
     1:
       english: I have a bad feeling.
       hiragana: いやなよかんがします
@@ -11844,7 +11844,7 @@
       english: If your older brother doesn't want to go, you don't have to.
       hiragana: おにいさんがいやがるなら、いかなくてもいいよ
       kanji: お兄さんが嫌がるなら、行かなくてもいいよ
-      ruby: お<ruby>兄<rt>にい</rt></ruby>さんが<ruby>嫌<rt>いや</rt></ruby>が<ruby><rt></rt></ruby>るなら、<ruby>行<rt>い</rt></ruby>かなくてもいいよ
+      ruby: お<ruby>兄<rt>にい</rt></ruby>さんが<ruby>嫌<rt>いや</rt></ruby>がるなら、<ruby>行<rt>い</rt></ruby>かなくてもいいよ
   simple_meaning:
     0: dislike
     1: hate
@@ -11914,7 +11914,7 @@
       english: The train arrived at the station, and passengers got off.
       hiragana: でんしゃがえきにとうちゃくし、じょうきゃくがおりました
       kanji: 電車が駅に到着し、乗客が降りました
-      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby><ruby><rt></rt></ruby>し、<ruby>乗客<rt>じょうきゃく</rt></ruby>が<ruby>降<rt>お</rt></ruby>りました
+      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>し、<ruby>乗客<rt>じょうきゃく</rt></ruby>が<ruby>降<rt>お</rt></ruby>りました
     1:
       english: I want to get off the bus at the next bus stop.
       hiragana: ばすはつぎのていりゅうじょでおりたいです
@@ -11943,7 +11943,7 @@
       english: I will wait until the movie finishes.
       hiragana: えいががおわるまで、まちます
       kanji: 映画が終わるまで、待ちます
-      ruby: <ruby>映画<rt>えいが</rt></ruby>が<ruby>終<rt>お</rt></ruby>わ<ruby><rt></rt></ruby>るまで、<ruby>待<rt>ま</rt></ruby>ちます
+      ruby: <ruby>映画<rt>えいが</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるまで、<ruby>待<rt>ま</rt></ruby>ちます
     2:
       english: Is today's work already finished?
       hiragana: きょうのしごとはもうおわりましたか
@@ -12018,7 +12018,7 @@
       english: Can you speak the language of this country?
       hiragana: このくにのげんごをはなすことができますか？
       kanji: この国の言語を話すことができますか？
-      ruby: この<ruby>国<rt>くに</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>す<ruby><rt></rt></ruby>ことができますか？
+      ruby: この<ruby>国<rt>くに</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すことができますか？
   simple_meaning:
     0: country
 '1592270':
@@ -12111,12 +12111,12 @@
       english: I wake up early in the morning and go to school.
       hiragana: あさはやくおきて、がっこうにたちます
       kanji: 朝早く起きて、学校に立ちます
-      ruby: <ruby>朝早<rt>あさはや</rt></ruby>く<ruby>起<rt>お</rt></ruby>き<ruby><rt></rt></ruby>て、<ruby>学校<rt>がっこう</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちます
+      ruby: <ruby>朝早<rt>あさはや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて、<ruby>学校<rt>がっこう</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちます
     1:
       english: The train arrived at the station, and passengers stood up.
       hiragana: でんしゃがえきにとうちゃくし、じょうきゃくがたちました
       kanji: 電車が駅に到着し、乗客が立ちました
-      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby><ruby><rt></rt></ruby>し、<ruby>乗客<rt>じょうきゃく</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちました
+      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>し、<ruby>乗客<rt>じょうきゃく</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちました
     2:
       english: The teacher stood in front of the classroom and started the lesson.
       hiragana: せんせいがきょうしつのまえにたってじゅぎょうをはじめました
@@ -12153,7 +12153,7 @@
       english: I use a beautiful tea bowl when drinking tea.
       hiragana: おちゃをのむときに、うつくしいちゃわんをつかいます
       kanji: お茶を飲むときに、美しい茶碗を使います
-      ruby: お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby><rt></rt></ruby>ときに、<ruby>美<rt>うつく</rt></ruby>しい<ruby>茶碗<rt>ちゃわん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います
+      ruby: お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むときに、<ruby>美<rt>うつく</rt></ruby>しい<ruby>茶碗<rt>ちゃわん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います
     2:
       english: This rice bowl is handmade pottery.
       hiragana: このちゃわんはてづくりのとうきです
@@ -12202,7 +12202,7 @@
       english: Tomorrow, I'll wake up early and leave for a trip.
       hiragana: あしたははやくおきて、りょこうにでかけます
       kanji: 明日は早く起きて、旅行に出かけます
-      ruby: <ruby>明日<rt>あした</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>き<ruby><rt></rt></ruby>て、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけます
+      ruby: <ruby>明日<rt>あした</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけます
   simple_meaning:
     0: to go out
     1: to leave for a destination
@@ -12223,7 +12223,7 @@
       english: He's busy, but he takes breaks occasionally.
       hiragana: かれはいそがしいけど、ときどきやすみをとります
       kanji: 彼は忙しいけど、時々休みを取ります
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しい<ruby><rt></rt></ruby>けど、<ruby>時々<rt>ときどき</rt></ruby><ruby>休<rt>やす</rt></ruby>みを<ruby>取<rt>と</rt></ruby>ります
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいけど、<ruby>時々<rt>ときどき</rt></ruby><ruby>休<rt>やす</rt></ruby>みを<ruby>取<rt>と</rt></ruby>ります
   simple_meaning:
     0: sometimes
     1: occasionally
@@ -12362,7 +12362,7 @@
       english: In summer, I look forward to the town festival.
       hiragana: なつになると、まちのまつりがたのしみです
       kanji: 夏になると、町の祭りが楽しみです
-      ruby: <ruby>夏<rt>なつ</rt></ruby><ruby><rt></rt></ruby>になると、<ruby>町<rt>まち</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りが<ruby>楽<rt>たの</rt></ruby>しみです
+      ruby: <ruby>夏<rt>なつ</rt></ruby>になると、<ruby>町<rt>まち</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りが<ruby>楽<rt>たの</rt></ruby>しみです
     2:
       english: Children are playing in the town park.
       hiragana: まちのこうえんでこどもたちがあそんでいます
@@ -12488,12 +12488,12 @@
       english: I don't understand this problem, could you please explain it once more?
       hiragana: このもんだいがわからないので、もういちどせつめいしてもらえますか？
       kanji: この問題がわからないので、もう一度説明してもらえますか？
-      ruby: この<ruby>問題<rt>もんだい</rt></ruby><ruby><rt></rt></ruby>がわからないので、もう<ruby>一度<rt>いちど</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>し<ruby><rt></rt></ruby>てもらえますか？
+      ruby: この<ruby>問題<rt>もんだい</rt></ruby>がわからないので、もう<ruby>一度<rt>いちど</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>してもらえますか？
     1:
       english: I missed what you said, could you please say it one more time?
       hiragana: はなしをききのがしたので、もういちどはなしていただけますか？
       kanji: 話を聞き逃したので、もう一度話していただけますか？
-      ruby: <ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>き<ruby>逃<rt>のが</rt></ruby>し<ruby><rt></rt></ruby>たので、もう<ruby>一度<rt>いちど</rt></ruby><ruby>話<rt>はな</rt></ruby>し<ruby><rt></rt></ruby>ていただけますか？
+      ruby: <ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>き<ruby>逃<rt>のが</rt></ruby>したので、もう<ruby>一度<rt>いちど</rt></ruby><ruby>話<rt>はな</rt></ruby>していただけますか？
     2:
       english: I want to review yesterday's lesson, so I'll use the materials once
         more.
