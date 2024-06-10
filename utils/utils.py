@@ -75,21 +75,3 @@ def has_this_issue(path: Path, callable: Callable[[dict], bool]) -> list[RubyTag
                         results.append(result)
 
     return results
-
-
-def has_empty_period(path: Path) -> list[RubyTagCheckResult]:
-    results = list()
-    with open(path, "r") as file:
-        kanjiInfo = yaml.safe_load(file)
-        for k, v in kanjiInfo.items():
-            if "samples" in v:
-                for index, sample in v["samples"].items():
-                    assert "ruby" in sample
-                    if not (sample["kanji"].endswith('。') or sample["kanji"].endswith('?')):
-                        print("found", sample["kanji"])
-                        result = RubyTagCheckResult(
-                            kanji_word_seq_number=k, sample_location=index
-                        )
-                        results.append(result)
-
-    return results
