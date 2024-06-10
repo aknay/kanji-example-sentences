@@ -35,10 +35,8 @@ def replace_empty_ruby_tag(
     with open(path, "r") as file:
         yml_content = yaml.safe_load(file)
         for m in missing_ruby_tags:
-            sample_location_value = yml_content[m.kanji_word_seq_number]["samples"][
-                m.sample_location
-            ]
-            assert sample_location_value["ruby"] is None
+            sample_location_value = yml_content[m.kanji_word_seq_number]["samples"][m.sample_location]
+            assert 'ruby' not in sample_location_value
             kanji_sentence = sample_location_value["kanji"]
             sample_location_value["ruby"] = {}
             sample_location_value["ruby"] = pyrigana.get_furigana_html(kanji_sentence)

@@ -436,61 +436,65 @@
   kanji: 以外
   samples:
     0:
-      english: I have no plans on weekends except for Sunday.
-      hiragana: わたしはにちようびをいがいにしゅうまつにけいかくしていません。
-      kanji: 私は日曜日を以外に週末に計画していません。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>日曜日<rt>にちようび</rt></ruby>を<ruby>以外<rt>いがい</rt></ruby>に<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>計画<rt>けいかく</rt></ruby>していません。
+      english: Everyone except him came to the party.
+      hiragana: かれ いがい の みんな が パーティー に きました。
+      kanji: 彼以外の皆がパーティーに来ました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>がパーティーに<ruby>来<rt>き</rt></ruby>ました。
     1:
-      english: All options are fine except for the last one.
-      hiragana: さいごのいくつかいがいのせんたくはすべてかんぺきです。
-      kanji: 最後の幾つか以外の選択はすべて完璧です。
-      ruby: <ruby>最後<rt>さいご</rt></ruby>の<ruby>幾<rt>いく</rt></ruby>つか<ruby>以外<rt>いがい</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>はすべて<ruby>完璧<rt>かんぺき</rt></ruby>です。
+      english: There is nothing to do besides studying.
+      hiragana: べんきょう いがい に する こと が ありません。
+      kanji: 勉強以外にすることがありません。
+      ruby: <ruby>勉強<rt>べんきょう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>にすることがありません。
     2:
-      english: I like all fruits except for bananas.
-      hiragana: バナナ以外の果物は全部好きです。
-      kanji: バナナ以外の果物は全部好きです。
-      ruby: バナナ<ruby>以外<rt>いがい</rt></ruby>の<ruby>果物<rt>くだもの</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>好<rt>す</rt></ruby>きです。
+      english: I like all vegetables except for tomatoes.
+      hiragana: トマト いがい の やさい は すき です。
+      kanji: トマト以外の野菜は好きです。
+      ruby: トマト<ruby>以外<rt>いがい</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>は<ruby>好<rt>す</rt></ruby>きです。
   simple_meaning:
-    0: except for
-    1: other than
+    1: except
+    2: other than
 '1155120':
   kanji: 以上
   samples:
     0:
-      english: The meeting will last for an hour or more.
-      hiragana: かいき は 1じかん いじょう つづく で しょう。
-      kanji: 会議は1時間以上続くでしょう。
-      ruby: <ruby>会議<rt>かいぎ</rt></ruby>は1<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょー</rt></ruby><ruby>続<rt>つず</rt></ruby>くでしょう。
+      english: The test is for students above 18 years old.
+      hiragana: テスト は 18さい いじょう の がくせい の ため です。
+      kanji: テストは18歳以上の学生のためです。
+      ruby: テストは18<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>のためです。
+    1:
+      english: He worked for more than 10 hours today.
+      hiragana: かれ は きょう 10じかん いじょう はたらきました。
+      kanji: 彼は今日10時間以上働きました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>10<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>働<rt>はたら</rt></ruby>きました。
     2:
-      english: Children above 12 years old are considered adults.
-      hiragana: 12さいいじょうのこどもたちはおとなとしてこえられます。
-      kanji: 12歳以上の子供たちは大人として考えられます。
-      ruby: <ruby>12歳以上<rt>じゅうにさいいじょう</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>たちは<ruby>大人<rt>おとな</rt></ruby>として<ruby>考<rt>かんが</rt></ruby>えられます。
+      english: This event is over.
+      hiragana: この いべんと は いじょう です。
+      kanji: このイベントは以上です。
+      ruby: このイベントは<ruby>以上<rt>いじょう</rt></ruby>です。
   simple_meaning:
-    0: above
-    1: more than
+    1: above
+    2: more than
 '1155180':
   kanji: 以内
   samples:
     0:
-      english: Please complete the task within one hour.
-      hiragana: １じかん いない に しごと を おわらせて ください。
-      kanji: １時間以内に仕事を終らせてください。
-      ruby: １<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終<rt>おわ</rt></ruby>らせてください。
+      english: Please finish this task within an hour.
+      hiragana: この しごと を 1じかん いない に おわらせて ください。
+      kanji: この仕事を1時間以内に終わらせてください。
+      ruby: この<ruby>仕事<rt>しごと</rt></ruby>を1<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>終<rt>お</rt></ruby>わらせてください。
     1:
-      english: The delivery will arrive within two days.
-      hiragana: ２にち いない に はいたつ します。
-      kanji: ２日以内に配達します。
-      ruby: ２<ruby>日<rt>にち</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>配達<rt>はいたつ</rt></ruby>します。
+      english: You must submit the report within a week.
+      hiragana: レポート は 1しゅうかん いない に ていしゅつ しなければ なりません。
+      kanji: レポートは1週間以内に提出しなければなりません。
+      ruby: レポートは1<ruby>週間<rt>しゅうかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>提出<rt>ていしゅつ</rt></ruby>しなければなりません。
     2:
-      english: You must return the book within a week.
-      hiragana: いっしゅうかん いない に ほん を もどさなければ なりません。
-      kanji: 一週間以内に本を返さなければなりません。
-      ruby: <ruby>一週間以内<rt>いっしゅうかんいない</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>さなければなりません。
+      english: The store is within walking distance from here.
+      hiragana: みせ は ここ から あるいて いける いない に あります。
+      kanji: 店はここから歩いて行ける以内にあります。
+      ruby: <ruby>店<rt>みせ</rt></ruby>はここから<ruby>歩<rt>ある</rt></ruby>いて<ruby>行<rt>い</rt></ruby>ける<ruby>以内<rt>いない</rt></ruby>にあります。
   simple_meaning:
     1: within
-    2: inside
-    3: less than
+    2: inside of
 '1156530':
   kanji: 意見
   samples:
@@ -600,23 +604,23 @@
   kanji: 医学
   samples:
     0:
-      english: She is studying medicine at the university.
-      hiragana: かのじょ は だいがく で いがく を べんきょう して います。
+      english: She studies medicine at university.
+      hiragana: かのじょ は だいがく で いがく を べんきょう しています。
       kanji: 彼女は大学で医学を勉強しています。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>で<ruby>医学<rt>いがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
     1:
-      english: Medical science has made great advances in recent years.
-      hiragana: さいきん いがく か で だいたいしん が おこりました。
-      kanji: 最近医学科で大進歩が起りました。
-      ruby: <ruby>最近<rt>さいきん</rt></ruby><ruby>医学科<rt>いがくか</rt></ruby>で<ruby>大進歩<rt>だいしんぽ</rt></ruby>が<ruby>起<rt>おこ</rt></ruby>りました。
+      english: Advances in medicine have saved many lives.
+      hiragana: いがく の しんぽ は おおく の いのち を すくいました。
+      kanji: 医学の進歩は多くの命を救いました。
+      ruby: <ruby>医学<rt>いがく</rt></ruby>の<ruby>進歩<rt>しんぽ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>いました。
     2:
-      english: He specializes in the field of medical research.
-      hiragana: かれ は いがく けんきゅう の ぶんか に とくしゅ して います。
-      kanji: 彼は医学研究の分野に特殊しています。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>医学研究<rt>いがくけんきゅう</rt></ruby>の<ruby>分野<rt>ぶんや</rt></ruby>に<ruby>特殊<rt>とくしゅ</rt></ruby>しています。
+      english: He is interested in medical research.
+      hiragana: かれ は いがく の けんきゅう に きょうみ が あります。
+      kanji: 彼は医学の研究に興味があります。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>医学<rt>いがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>があります。
   simple_meaning:
-    1: medical science
-    2: medicine
+    1: medicine
+    2: medical science
 '1159980':
   kanji: 医者
   samples:
