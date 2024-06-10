@@ -1,4 +1,5 @@
 from pathlib import Path
+from typing import Callable
 
 import yaml
 
@@ -40,3 +41,55 @@ def replace_empty_ruby_rt_tag(
 
         with open(path, "w") as file:
             yaml.safe_dump(yml_content, file, allow_unicode=True)
+
+
+def replace_text(path: Path, results: list[RubyTagCheckResult], tag: str, replace_with: Callable[[str], str]) -> None:
+    with open(path, "r") as file:
+        yml_content = yaml.safe_load(file)
+        for m in results:
+            sample_location_value = yml_content[m.kanji_word_seq_number]["samples"][
+                m.sample_location
+            ]
+            ruby_tag: str = sample_location_value[tag]
+            replaced_text = replace_with(ruby_tag)
+            print("replace", replaced_text)
+            sample_location_value[tag] = replaced_text
+
+        with open(path, "w") as file:
+            yaml.safe_dump(yml_content, file, allow_unicode=True)
+
+
+def has_this_issue(path: Path, callable: Callable[[dict], bool]) -> list[RubyTagCheckResult]:
+    results = list()
+    with open(path, "r") as file:
+        kanjiInfo = yaml.safe_load(file)
+        for k, v in kanjiInfo.items():
+            if "samples" in v:
+                for index, sample in v["samples"].items():
+                    assert "ruby" in sample
+                    if callable(sample):
+                        print("found", sample)
+                        result = RubyTagCheckResult(
+                            kanji_word_seq_number=k, sample_location=index
+                        )
+                        results.append(result)
+
+    return results
+
+
+def has_empty_period(path: Path) -> list[RubyTagCheckResult]:
+    results = list()
+    with open(path, "r") as file:
+        kanjiInfo = yaml.safe_load(file)
+        for k, v in kanjiInfo.items():
+            if "samples" in v:
+                for index, sample in v["samples"].items():
+                    assert "ruby" in sample
+                    if not (sample["kanji"].endswith('。') or sample["kanji"].endswith('?')):
+                        print("found", sample["kanji"])
+                        result = RubyTagCheckResult(
+                            kanji_word_seq_number=k, sample_location=index
+                        )
+                        results.append(result)
+
+    return results
