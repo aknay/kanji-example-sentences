@@ -1364,15 +1364,15 @@
   kanji: 下げる
   samples:
     0:
-      english: Please lower the volume of the music.
-      hiragana: おんがく の おんりょう を さげて ください。
-      kanji: 音楽の音量を下げてください。
-      ruby: <ruby>音楽<rt>おんがく</rt></ruby>の<ruby>音量<rt>おんりょう</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げてください。
+      english: Please lower your voice.
+      hiragana: こえ を さげて ください。
+      kanji: 声を下げてください。
+      ruby: <ruby>声<rt>こえ</rt></ruby>を<ruby>下げて<rt>さげて</rt></ruby>ください。
     1:
-      english: He hung the painting on the wall.
-      hiragana: かれ は かべ に が え を さげました。
-      kanji: 彼は壁に絵を下げました。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>壁<rt>かべ</rt></ruby>に<ruby>絵<rt>え</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げました。
+      english: The price of the product was lowered during the sale.
+      hiragana: うりもの の ねだん は うりだし で さげられました。
+      kanji: 売り物の値段は売り出しで下げられました。
+      ruby: <ruby>売り物<rt>うりもの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は<ruby>売り出し<rt>うりだし</rt></ruby>で<ruby>下げられました<rt>さげられました</rt></ruby>。
   simple_meaning:
     1: to lower
     2: to put down
@@ -2627,15 +2627,15 @@
   kanji: 喜ぶ
   samples:
     0:
-      english: She was delighted when she received a surprise gift.
-      hiragana: びっくり して いき ました とき 、 かのじょ は とても よろこび ました。
-      kanji: 驚して息しました時、彼女はとても喜びました。
-      ruby: <ruby>驚<rt>びっくり</rt></ruby>して<ruby>息<rt>いき</rt></ruby>しました<ruby>時<rt>とき</rt></ruby>、<ruby>彼女<rt>かのじょ</rt></ruby>はとても<ruby>喜<rt>よろこ</rt></ruby>びました。
+      english: I am glad to help you.
+      hiragana: たすける こと が できて よろこびます。
+      kanji: 助けることができて喜びます。
+      ruby: <ruby>助<rt>たす</rt></ruby>けることができて<ruby>喜びます<rt>よろこびます</rt></ruby>。
     2:
-      english: They rejoiced at the news of the engagement.
-      hiragana: こんやく の しらせ に は うれしい おおめ し ました。
-      kanji: 婚約の知らせには嬉しい大喜びしました。
-      ruby: <ruby>婚約<rt>こんやく</rt></ruby>の<ruby>知<rt>し</rt></ruby>らせには<ruby>嬉<rt>うれ</rt></ruby>しい<ruby>大喜<rt>おおよろこ</rt></ruby>びしました。
+      english: The children rejoiced when they saw the fireworks.
+      hiragana: こどもたち は はなび を みて よろこびました。
+      kanji: 子供たちは花火を見て喜びました。
+      ruby: <ruby>子供<rt>こども</rt></ruby>たちは<ruby>花火<rt>はなび</rt></ruby>を見て<ruby>喜びました<rt>よろこびました</rt></ruby>。
   simple_meaning:
     1: to be delighted
     2: to be happy
@@ -2684,20 +2684,15 @@
   kanji: 機会
   samples:
     0:
-      english: Don't miss the opportunity to learn a new skill.
-      hiragana: あたらしい きのう を まなび たい とき は きかい を お の しない で ください。
-      kanji: 新しい技のを学びたい時は機会をおのしないでください。
-      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>技<rt>き</rt></ruby>のを<ruby>学<rt>まな</rt></ruby>びたい<ruby>時<rt>とき</rt></ruby>は<ruby>機会<rt>きかい</rt></ruby>をおのしないでください。
+      english: This is a great opportunity.
+      hiragana: これは すばらしい きかい です。
+      kanji: これは素晴らしい機会です。
+      ruby: これは<ruby>素晴らしい<rt>すばらしい</rt></ruby><ruby>機会<rt>きかい</rt></ruby>です。
     1:
-      english: The job fair is a great chance to find employment.
-      hiragana: しこ しばい は しごと じょう けんしゅう きかい です。
-      kanji: 仕事場けんしゅう機会です。
-      ruby: <ruby>仕事場<rt>しごとじょう</rt></ruby>けんしゅう<ruby>機会<rt>きかい</rt></ruby>です。
-    2:
-      english: This conference is a valuable networking opportunity.
-      hiragana: この かいぎ は たいせつ な ねっとわーきんぐ の きかい です。
-      kanji: この会議は大切なネットワーキングの機会です。
-      ruby: この<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>なネットワーキングの<ruby>機会<rt>きかい</rt></ruby>です。
+      english: I had the chance to travel abroad.
+      hiragana: わたし は かいがい に りょこう する きかい が ありました。
+      kanji: 私は海外に旅行する機会がありました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>機会<rt>きかい</rt></ruby>がありました。
   simple_meaning:
     1: opportunity
     2: chance
@@ -3036,15 +3031,15 @@
   kanji: 急
   samples:
     0:
-      english: Please hurry up; we're running late.
-      hiragana: おそく なる ので いそいで ください。
-      kanji: 遅くなるので急いでください。
-      ruby: <ruby>遅<rt>おそ</rt></ruby>くなるので<ruby>急<rt>いそ</rt></ruby>いでください。
+      english: This river's current is fast.
+      hiragana: この かわ の ながれ は きゅう だ。
+      kanji: この川の流れは急だ。
+      ruby: この<ruby>川<rt>かわ</rt></ruby>の<ruby>流れ<rt>ながれ</rt></ruby>は<ruby>急<rt>きゅう</rt></ruby>だ。
     1:
-      english: The ambulance rushed to the scene of the accident.
-      hiragana: きゅうきゅう しゃ が じこ の いち に おそいました。
-      kanji: 救急車が事故の現場に急いだ。
-      ruby: <ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>が<ruby>事故<rt>じこ</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>に<ruby>急<rt>いそ</rt></ruby>いだ。
+      english: The stairs going up are steep and narrow.
+      hiragana: うえ に いく かいだん は きゅう で せまい です。
+      kanji: 上に行く階段は急で狭いです。
+      ruby: <ruby>上<rt>うえ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>階段<rt>かいだん</rt></ruby>は<ruby>急<rt>きゅう</rt></ruby>で<ruby>狭い<rt>せまい</rt></ruby>です。
   simple_meaning:
     1: fast
     2: sudden
