@@ -16,15 +16,16 @@ def check_empty_ruby_tag(path: Path) -> list[RubyTagCheckResult]:
     with open(path, "r") as file:
         kanjiInfo = yaml.safe_load(file)
         for k, v in kanjiInfo.items():
-            if "samples" in v:
+            if "samples" in v and v['samples'] is not None:
                 for index, sample in v["samples"].items():
-                    if "ruby" not in sample:
-                        result = RubyTagCheckResult(
-                            kanji_word_seq_number=k, sample_location=index
-                        )
-                        results.append(result)
-                    else:
-                        pass
+                    if sample is not None:
+                        if "ruby" not in sample:
+                            result = RubyTagCheckResult(
+                                kanji_word_seq_number=k, sample_location=index
+                            )
+                            results.append(result)
+                        else:
+                            pass
 
         return results
 

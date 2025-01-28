@@ -66,12 +66,13 @@ def has_this_issue(path: Path, callable: Callable[[dict], bool]) -> list[RubyTag
         for k, v in kanjiInfo.items():
             if "samples" in v:
                 for index, sample in v["samples"].items():
-                    assert "ruby" in sample
-                    if callable(sample):
-                        print("found", sample)
-                        result = RubyTagCheckResult(
-                            kanji_word_seq_number=k, sample_location=index
-                        )
-                        results.append(result)
+                    if sample is not None:
+                        assert "ruby" in sample
+                        if callable(sample):
+                            print("found", sample)
+                            result = RubyTagCheckResult(
+                                kanji_word_seq_number=k, sample_location=index
+                            )
+                            results.append(result)
 
     return results
