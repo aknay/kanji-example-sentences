@@ -4889,6 +4889,7 @@
   kanji: 細かい
 '1296970':
   kanji: 財布
+  hiragana: さいふ
   samples:
     0:
       english: I left my wallet at home.
@@ -4901,12 +4902,13 @@
       kanji: 彼女は今日新しい財布を買いました。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby><ruby>新<rt>あたら</rt></ruby>しい<ruby>財布<rt>さいふ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
     2:
-      english: I need to organize my wallet.
-      hiragana: わたしはさいふをそうちせねばなりません。
-      kanji: 私は財布を整理せねばなりません。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>財布<rt>さいふ</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>せねばなりません。
+      english: My wallet is gone.
+      hiragana: さいふ が なくなりました。
+      kanji: 財布 が なくなりました。
+      ruby: <ruby>財布<rt>さいふ</rt></ruby> が <ruby>なくなりました<rt>なくなりました</rt></ruby>。
   simple_meaning:
     0: wallet
+    1: purse
 '1297110':
   kanji: 坂
 '1297210':
@@ -9756,22 +9758,23 @@
   kanji: 暮れる
 '1516925':
   kanji: 方
+  hiragana: かた
   samples:
     0:
-      english: Please tell me the way to the station.
-      hiragana: えきへいくほうをおしえてください
-      kanji: 駅へ行く方を教えてください。
-      ruby: <ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>方<rt>ほう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。
+      english: Please tell me how to go on a trip.
+      hiragana: りょこう の いきかた を おしえて ください。
+      kanji: 旅行 の 行き方 を 教えてください。
+      ruby: <ruby>旅行<rt>りょこう</rt></ruby> の <ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby> を <ruby>教<rt>おしえ</rt></ruby>てください。
     1:
-      english: Please be careful when crossing the intersection.
-      hiragana: こうさてんをわたるほうにきをつけてください
-      kanji: 交差点を渡る方に気を付けてください。
-      ruby: <ruby>交差点<rt>こうさてん</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>る<ruby>方<rt>ほう</rt></ruby>に<ruby>気<rt>き</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けてください。
+      english: That person is a teacher.
+      hiragana: あの かた は せんせい です。
+      kanji: あの方 は 先生です。
+      ruby: <ruby>あの<rt>あの</rt></ruby> 方<rt>かた</rt></ruby> は <ruby>先生<rt>せんせい</rt></ruby>です。
     2:
-      english: I want to know the way to book plane tickets.
-      hiragana: ひこうきのちけっとをよやくするほうほうをしりたいです
-      kanji: 飛行機のチケットを予約する方法を知りたいです。
-      ruby: <ruby>飛行機<rt>ひこうき</rt></ruby>のチケットを<ruby>予約<rt>よやく</rt></ruby>する<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>知<rt>し</rt></ruby>りたいです。
+      english: I want to learn how to cook Japanese food.
+      hiragana: にほん の りょうり の つくりかた を まなびたい です。
+      kanji: 日本 の 料理 の 作り方 を 学びたい です。
+      ruby: <ruby>日本<rt>にほん</rt></ruby> の <ruby>料理<rt>りょうり</rt></ruby> の <ruby>作<rt>つく</rt></ruby>り方<rt>かた</rt></ruby> を <ruby>学<rt>まな</rt></ruby>びたい です。
   simple_meaning:
     0: direction
     1: way
@@ -11050,21 +11053,21 @@
 '1576760':
   kanji: 黄色
   samples:
-    0:
-      english: Her dress is a bright yellow.
-      hiragana: かのじょのどれすはあざやかなきいろです
-      kanji: 彼女のドレスは鮮やかな黄色です。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>のドレスは<ruby>鮮やか<rt>あざやか</rt></ruby>な<ruby>黄色<rt>きいろ</rt></ruby>です。
     1:
-      english: My favorite flowers are yellow roses.
-      hiragana: わたしのおきにいりのはなはきいろのばらです
-      kanji: 私のお気に入りの花は黄色のバラです。
-      ruby: <ruby>私のお気に入りの花<rt>わたしのおきにいりのはな</rt></ruby>は<ruby>黄色のバラ<rt>きいろのばら</rt></ruby>です。
+      english: She is wearing a yellow dress.
+      hiragana: かのじょ は きいろ の ドレス を きています。
+      kanji: 彼女 は 黄色 の ドレス を 着ています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby> は <ruby>黄色<rt>きいろ</rt></ruby> の ドレス を <ruby>着<rt>き</rt></ruby>ています。
     2:
-      english: The walls of this room are painted yellow.
-      hiragana: このへやのかべはきいろでぬられています
-      kanji: この部屋の壁は黄色で塗られています。
-      ruby: この<ruby>部屋<rt>へや</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>は<ruby>黄色<rt>きいろ</rt></ruby>で<ruby>塗<rt>ぬ</rt></ruby>られています。
+      english: I like yellow flowers.
+      hiragana: わたし は きいろ の はな が すき です。
+      kanji: 私 は 黄色 の 花 が 好き です。
+      ruby: <ruby>私<rt>わたし</rt></ruby> は <ruby>黄色<rt>きいろ</rt></ruby> の <ruby>花<rt>はな</rt></ruby> が <ruby>好き<rt>すき</rt></ruby> です。
+    3:
+      english: My car is yellow.
+      hiragana: わたし の くるま は きいろ です。
+      kanji: 私 の 車 は 黄色 です。
+      ruby: <ruby>私<rt>わたし</rt></ruby> の <ruby>車<rt>くるま</rt></ruby> は <ruby>黄色<rt>きいろ</rt></ruby> です。
   simple_meaning:
     0: yellow
 '1576900':
@@ -11401,23 +11404,24 @@
   kanji: 頭
   samples:
     0:
-      english: This book is helpful for putting ideas about difficult problems into
-        your head.
-      hiragana: このほんはむずかしいもんだいについてのかんがえかたをあたまにいれるのにやくだちます
-      kanji: この本は難しい問題についての考え方を頭に入れるのに役立ちます。
-      ruby: この<ruby>本<rt>ほん</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>についての<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>頭<rt>あたま</rt></ruby>に<ruby>入<rt>い</rt></ruby>れるのに<ruby>役立<rt>やくだ</rt></ruby>ちます。
+      english: My head hurts.
+      hiragana: あたま が いたい です。
+      kanji: 頭 が 痛い です。
+      ruby: <ruby>頭<rt>あたま</rt></ruby> が <ruby>痛い<rt>いたい</rt></ruby> です。
     1:
       english: I have a headache, so I will take a break.
       hiragana: あたまがいたいので、やすみます
       kanji: 頭が痛いので、休みます。
       ruby: <ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いので、<ruby>休<rt>やす</rt></ruby>みます。
     2:
-      english: He is smart and always finishes homework quickly.
-      hiragana: かれはあたまがよく、いつもしゅくだいをはやくおえます
-      kanji: 彼は頭が良く、いつも宿題を早く終えます。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>頭<rt>あたま</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く、いつも<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>えます。
+      english: She has a great mind.
+      hiragana: かのじょ は すごい あたま を もっています。
+      kanji: 彼女 は すごい 頭 を 持っています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby> は <ruby>すごい<rt>すごい</rt></ruby> <ruby>頭<rt>あたま</rt></ruby> を <ruby>持<rt>も</rt></ruby>っています。
   simple_meaning:
     0: head
+    1: brain
+
 '1582670':
   kanji: 二人
   samples:
