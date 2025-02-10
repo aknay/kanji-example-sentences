@@ -31,9 +31,10 @@ if __name__ == "__main__":
         for k, v in kanjiInfo.items():
             if "samples" in v:
                 for _, sample in v["samples"].items():
-                    kanji_length_list.append(len(sample["kanji"]))
-                    if len(sample["kanji"]) > 30:
-                        print(sample["kanji"])
+                    if sample is not None:
+                        kanji_length_list.append(len(sample["kanji"]))
+                        if len(sample["kanji"]) > 30:
+                            print(sample["kanji"])
 
     max_value = max(kanji_length_list)
     min_value = min(kanji_length_list)
