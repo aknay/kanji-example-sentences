@@ -8011,22 +8011,17 @@
   kanji: 一月
   samples:
     0:
-      english: January is the beginning of the new year.
-      hiragana: いちがつは あたらしい としの はじまりです。
-      kanji: 一月は新しい年の始まりです。
-      ruby: <ruby>一月<rt>いちがつ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まりです。
+      english: I studied Japanese for one month.
+      hiragana: ひとつき にほんごを べんきょうしました
+      kanji: 一月日本語を勉強しました。
+      ruby: 一月<rt>ひとつき</rt>日本語<rt>にほんご</rt>を勉強<rt>べんきょう</rt>しました。
     1:
-      english: January is cold, but the snow is beautiful, isn't it?
-      hiragana: いちがつは さむいですが、ゆきが うつくしいですね。
-      kanji: 一月は寒いですが、雪が美しいですね。
-      ruby: <ruby>一月<rt>いちがつ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いですが、<ruby>雪<rt>ゆき</rt></ruby>が<ruby>美<rt>うつく</rt></ruby>しいですね。
-    2:
-      english: There are many holidays in January.
-      hiragana: いちがつには たくさんの しゅくじつが あります。
-      kanji: 一月にはたくさんの祝日があります。
-      ruby: <ruby>一月<rt>いちがつ</rt></ruby>にはたくさんの<ruby>祝日<rt>しゅくじつ</rt></ruby>があります。
+      english: I will stay in Tokyo for one month.
+      hiragana: ひとつき とうきょうに います
+      kanji: 一月東京にいます。
+      ruby: 一月<rt>ひとつき</rt>東京<rt>とうきょう</rt>にいます。
   simple_meaning:
-    0: January
+    0: One month (duration)
 '1162140':
   hiragana: いっけん
   jisho_info:
@@ -152312,22 +152307,6 @@
     split_hiragana: な.り.た.つ
     wanikani_level: null
   kanji: 成り立つ
-  samples:
-    0: null
-    1: null
-    2: null
-  simple_meaning:
-    0: null
-    1: null
-    2: null
-'1375610':
-  hiragana: なる
-  jisho_info:
-    is_common_word: true
-    jlpt_level: N5
-    split_hiragana: な.る
-    wanikani_level: '11'
-  kanji: 成る
   samples:
     0: null
     1: null
