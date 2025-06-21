@@ -8014,14 +8014,14 @@
       english: I studied Japanese for one month.
       hiragana: ひとつき にほんごを べんきょうしました
       kanji: 一月日本語を勉強しました。
-      ruby: 一月<rt>ひとつき</rt>日本語<rt>にほんご</rt>を勉強<rt>べんきょう</rt>しました。
+      ruby: <ruby>一月<rt>ひとつき</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しました。
     1:
       english: I will stay in Tokyo for one month.
       hiragana: ひとつき とうきょうに います
       kanji: 一月東京にいます。
-      ruby: 一月<rt>ひとつき</rt>東京<rt>とうきょう</rt>にいます。
+      ruby: <ruby>一月<rt>ひとつき</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>にいます。
   simple_meaning:
-    0: One month (duration)
+    0: one month
 '1162140':
   hiragana: いっけん
   jisho_info:
@@ -68637,7 +68637,7 @@
       kanji: 今の仕事は結構楽しいです。
       ruby: <ruby>今<rt>いま</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>楽<rt>たの</rt></ruby>しいです。
   simple_meaning:
-    0: fine, enough,
+    0: fine, enough
     1: satisfactory
 '1254770':
   hiragana: けつごう
