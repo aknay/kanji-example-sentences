@@ -3,7 +3,7 @@ import json
 
 import yaml
 
-from assets.get_example_sentences_file_path import getExampleSentenceFilePath
+from assets.get_example_sentences_file_path import get_example_sentence_file_path
 
 
 def remove_none_values(d):
@@ -19,7 +19,7 @@ def are_samples_and_meaning_empty(d):
     return not d.get('samples') and not d.get('simple_meaning')
 
 
-with open(getExampleSentenceFilePath(), 'r') as file:
+with open(get_example_sentence_file_path(), 'r') as file:
     kanjiInfo = yaml.safe_load(file)
     new_kanji_info = {}
     with open('example_sentences.json', 'w') as f:
