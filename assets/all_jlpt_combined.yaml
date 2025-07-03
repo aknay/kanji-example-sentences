@@ -24149,7 +24149,8 @@
       english: She grew up in a happy home.
       hiragana: かのじょ は しあわせな かてい で そだちました。
       kanji: 彼女 は 幸せな 家庭 で 育ちました。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby> は <ruby>幸<rt>しあわ</rt></ruby>せ な <ruby>家庭<rt>かてい</rt></ruby> で <ruby>育<rt>そだ</rt></ruby>ちました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby> は <ruby>幸<rt>しあわ</rt></ruby>せ な <ruby>家庭<rt>かてい</rt></ruby>
+        で <ruby>育<rt>そだ</rt></ruby>ちました。
     2:
       english: Family meals are important times.
       hiragana: かていの しょくじは たいせつな じかんです。
@@ -58008,7 +58009,7 @@
       hiragana: つぎ の こうさ てん で ひだり に ま が って ください。
       kanji: 次の交差点で左に曲がってください。
       ruby: <ruby>次<rt>つぎ</rt></ruby>の<ruby>交差点<rt>こうさてん</rt></ruby>で<ruby>左<rt>ひだり</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。
-    2:
+    2: null
     english: The river bends here.
     hiragana: かわ は ここ で ま が る。
     kanji: 川はここで曲がる。
@@ -68958,7 +68959,6 @@
       hiragana: わたしのちはあかいです。
       kanji: 私の血は赤いです。
       ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>血<rt>ち</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>いです。
-
     2:
       english: I saw blood.
       hiragana: ちをみました。
@@ -70169,24 +70169,21 @@
     wanikani_level: null
   kanji: 喧嘩
   samples:
-    0:
+    0: null
     english: They are fighting.
     hiragana: かれらはけんかしています。
     kanji: 彼らは喧嘩しています。
     ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>喧嘩<rt>けんか</rt></ruby>しています。
-
     1:
       english: I had a fight with my friend.
       hiragana: ともだちとけんかしました。
       kanji: 友達と喧嘩しました。
       ruby: <ruby>友達<rt>ともだち</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>しました。
-
     2:
       english: I don’t like fights.
       hiragana: わたしはけんかがすきではありません。
       kanji: 私は喧嘩が好きではありません。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>喧嘩<rt>けんか</rt></ruby>が<ruby>好<rt>す</rt></ruby>きではありません。
-
   simple_meaning:
     0: Fight
     1: Quarrel
@@ -70246,25 +70243,22 @@
     split_hiragana: かた.い
     wanikani_level: '45'
   kanji: 硬い
-  samples: 
-    0:
+  samples:
+    0: null
     english: This bread is hard.
     hiragana: このパンはかたいです。
     kanji: このパンは硬いです。
     ruby: <ruby>この<rt>この</rt></ruby><ruby>パン<rt>ぱん</rt></ruby>は<ruby>硬<rt>かた</rt></ruby>いです。
-
     1:
       english: The box is hard.
       hiragana: はこはかたいです。
       kanji: 箱は硬いです。
       ruby: <ruby>箱<rt>はこ</rt></ruby>は<ruby>硬<rt>かた</rt></ruby>いです。
-
     2:
       english: His thinking is hard.
       hiragana: かれのかんがえはかたいです。
       kanji: 彼の考えは硬いです。
       ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えは<ruby>硬<rt>かた</rt></ruby>いです。
-
   simple_meaning:
     0: Hard
     1: Solid
@@ -70448,7 +70442,6 @@
       hiragana: かれらはがっこうをたてています。
       kanji: 彼らは学校を建てています。
       ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>を<ruby>建<rt>た</rt></ruby>てています。
-
   simple_meaning:
     0: To build
     1: To construct
@@ -71366,19 +71359,16 @@
       hiragana: わたしはけんきゅうがすきです。
       kanji: 私は研究が好きです。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。
-
     1:
       english: He is doing research.
       hiragana: かれはけんきゅうをしています。
       kanji: 彼は研究をしています。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby>をしています。
-
     2:
       english: Research is important.
       hiragana: けんきゅうはたいせつです。
       kanji: 研究は大切です。
       ruby: <ruby>研究<rt>けんきゅう</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>です。
-
   simple_meaning:
     0: Research
     1: Study
@@ -71412,13 +71402,11 @@
       hiragana: ここはけんきゅうしつです。
       kanji: ここは研究室です。
       ruby: <ruby>ここ<rt>ここ</rt></ruby>は<ruby>研究室<rt>けんきゅうしつ</rt></ruby>です。
-
     1:
       english: I study in the research room.
       hiragana: わたしはけんきゅうしつでべんきょうします。
       kanji: 私は研究室で勉強します。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>研究室<rt>けんきゅうしつ</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。
-
   simple_meaning:
     0: Laboratory
     1: Research room
@@ -71500,13 +71488,11 @@
       hiragana: このぬのはきぬです。
       kanji: この布は絹です。
       ruby: <ruby>この<rt>この</rt></ruby><ruby>布<rt>ぬの</rt></ruby>は<ruby>絹<rt>きぬ</rt></ruby>です。
-
     1:
       english: I bought silk.
       hiragana: きぬをかいました。
       kanji: 絹を買いました。
       ruby: <ruby>絹<rt>きぬ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
-
   simple_meaning:
     0: Silk
 '1258730':
@@ -71843,13 +71829,11 @@
       hiragana: やまがみえます。
       kanji: 山が見えます。
       ruby: <ruby>山<rt>やま</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。
-
     1:
       english: The stars are visible.
       hiragana: ほしがみえます。
       kanji: 星が見えます。
       ruby: <ruby>星<rt>ほし</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。
-
   simple_meaning:
     0: To be visible
     1: To be seen
@@ -72800,13 +72784,11 @@
       hiragana: おまつりをけんぶつしました。
       kanji: お祭りを見物しました。
       ruby: <ruby>お祭り<rt>おまつり</rt></ruby>を<ruby>見物<rt>けんぶつ</rt></ruby>しました。
-
     1:
       english: We are watching the parade.
       hiragana: わたしたちはパレードをけんぶつしています。
       kanji: 私たちはパレードを見物しています。
       ruby: <ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>パレード<rt>ぱれーど</rt></ruby>を<ruby>見物<rt>けんぶつ</rt></ruby>しています。
-
   simple_meaning:
     0: Sightseeing
     1: Watching
@@ -73661,13 +73643,11 @@
       hiragana: げんいんはなんですか。
       kanji: 原因は何ですか。
       ruby: <ruby>原因<rt>げんいん</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。
-
     1:
       english: The cause is unknown.
       hiragana: げんいんはわかりません。
       kanji: 原因は分かりません。
       ruby: <ruby>原因<rt>げんいん</rt></ruby>は<ruby>分<rt>わ</rt></ruby>かりません。
-
   simple_meaning:
     0: Cause
     1: Origin
@@ -74469,13 +74449,11 @@
       hiragana: わたしのせんせいはきびしいです。
       kanji: 私の先生は厳しいです。
       ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しいです。
-
     1:
       english: The rules are strict.
       hiragana: きそくはきびしいです。
       kanji: 規則は厳しいです。
       ruby: <ruby>規則<rt>きそく</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しいです。
-
   simple_meaning:
     0: Strict
     1: Severe
@@ -77522,13 +77500,11 @@
       hiragana: くるまがこしょうしました。
       kanji: 車が故障しました。
       ruby: <ruby>車<rt>くるま</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>しました。
-
     1:
       english: The machine is broken.
       hiragana: きかいがこしょうしています。
       kanji: 機械が故障しています。
       ruby: <ruby>機械<rt>きかい</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>しています。
-
   simple_meaning:
     0: Breakdown
     1: Failure
@@ -77610,13 +77586,11 @@
       hiragana: みずうみにいきました。
       kanji: 湖に行きました。
       ruby: <ruby>湖<rt>みずうみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
-
     1:
       english: The lake is big.
       hiragana: みずうみはおおきいです。
       kanji: 湖は大きいです。
       ruby: <ruby>湖<rt>みずうみ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです。
-
   simple_meaning:
     0: Lake
 '1267290':
@@ -79178,13 +79152,11 @@
       hiragana: ごしゅじんはいえにいますか。
       kanji: ご主人は家にいますか。
       ruby: <ruby>ご主人<rt>ごしゅじん</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>にいますか。
-
     1:
       english: Her husband is kind.
       hiragana: かのじょのごしゅじんはやさしいです。
       kanji: 彼女のご主人は優しいです。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>ご主人<rt>ごしゅじん</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しいです。
-
   simple_meaning:
     0: Husband
     1: Master
@@ -79282,13 +79254,11 @@
       hiragana: おつりをもらいました。
       kanji: お釣りをもらいました。
       ruby: お<ruby>釣<rt>つ</rt></ruby>をもら いました。
-
     1:
       english: Please give me the change.
       hiragana: おつりをください。
       kanji: お釣りをください。
       ruby: <ruby>お釣り<rt>おつり</rt></ruby>をください。
-
   simple_meaning:
     0: Change (money)
 '1270560':
@@ -79422,7 +79392,7 @@
     split_hiragana: お.れい
     wanikani_level: '4'
   kanji: お礼
-  samples: 
+  samples:
     0:
       english: I said thank you.
       hiragana: おれいをいいました。
@@ -80442,13 +80412,11 @@
       hiragana: こうつうがいそがしいです。
       kanji: 交通が忙しいです。
       ruby: <ruby>交通<rt>こうつう</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しいです。
-
     1:
       english: I use public transportation.
       hiragana: こうきょうこうつうをつかいます。
       kanji: 公共交通を使います。
       ruby: <ruby>公共交通<rt>こうきょうこうつう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。
-
   simple_meaning:
     0: Traffic
     1: Transportation
@@ -80710,19 +80678,17 @@
     split_hiragana: ひかり
     wanikani_level: '5'
   kanji: 光
-  samples: 
+  samples:
     0:
       english: The light is beautiful.
       hiragana: ひかりはきれいです。
       kanji: 光はきれいです。
       ruby: <ruby>光<rt>ひかり</rt></ruby>は<ruby>きれい<rt>きれい</rt></ruby>です。
-
     1:
       english: I saw the light.
       hiragana: ひかりをみました。
       kanji: 光を見ました。
       ruby: <ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
-
   simple_meaning:
     0: Light
     1: Ray
@@ -82084,7 +82050,6 @@
     split_hiragana: こう.む.いん
     wanikani_level: null
   kanji: 公務員
- 
   samples:
     0:
       english: My sister is a public servant.
@@ -82101,7 +82066,6 @@
       hiragana: こうむいん は せいふ の ため に はたらき ます。
       kanji: 公務員は政府のために働きます。
       ruby: <ruby>公務員<rt>こうむいん</rt></ruby>は<ruby>政府<rt>せいふ</rt></ruby>のために<ruby>働<rt>はたら</rt></ruby>きます。
-
   simple_meaning:
     0: Civil servant
     1: Government worker
@@ -247383,7 +247347,8 @@
       english: I want to learn how to cook Japanese food.
       hiragana: にほん の りょうり の つくりかた を まなびたい です。
       kanji: 日本 の 料理 の 作り方 を 学びたい です。
-      ruby: <ruby>日本<rt>にほん</rt></ruby> の <ruby>料理<rt>りょうり</rt></ruby> の <ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby> を <ruby>学<rt>まな</rt></ruby>びたい です。
+      ruby: <ruby>日本<rt>にほん</rt></ruby> の <ruby>料理<rt>りょうり</rt></ruby> の <ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>
+        を <ruby>学<rt>まな</rt></ruby>びたい です。
   simple_meaning:
     0: direction
     1: way
