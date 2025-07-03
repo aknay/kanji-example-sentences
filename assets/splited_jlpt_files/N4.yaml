@@ -3040,7 +3040,22 @@
     split_hiragana: こう.がい
     wanikani_level: '51'
   kanji: 郊外
-  samples: {}
+  samples:
+    0:
+      english: I live in the suburbs.
+      hiragana: わたし は こうがい に すんで います。
+      kanji: 私は郊外に住んでいます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>郊外<rt>こうがい</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    1:
+      english: The suburbs are quiet.
+      hiragana: こうがい は しずか です。
+      kanji: 郊外は静かです。
+      ruby: <ruby>郊外<rt>こうがい</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かです。
+    2:
+      english: We went to the suburbs on Sunday.
+      hiragana: にちようび に こうがい へ いきました。
+      kanji: 日曜日に郊外へ行きました。
+      ruby: <ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>郊外<rt>こうがい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
   simple_meaning:
     0: Suburb
     1: Outskirts
@@ -3052,7 +3067,22 @@
     split_hiragana: ふ.り.だ.す
     wanikani_level: null
   kanji: 降り出す
-  samples: {}
+  samples:
+    0:
+      english: It starts to rain.
+      hiragana: あめ が ふりだす。
+      kanji: 雨が降り出す。
+      ruby: <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す。
+    1:
+      english: Snow begins to fall.
+      hiragana: ゆき が ふりだす。
+      kanji: 雪が降り出す。
+      ruby: <ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す。
+    2:
+      english: It suddenly started raining.
+      hiragana: とつぜん あめ が ふりだした。
+      kanji: 突然雨が降り出した。
+      ruby: <ruby>突然<rt>とつぜん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>した。
   simple_meaning:
     0: To start to rain
     1: To begin to snow
@@ -3064,7 +3094,22 @@
     split_hiragana: こう.こう
     wanikani_level: '7'
   kanji: 高校
-  samples: {}
+  samples:
+    0:
+      english: My brother goes to high school.
+      hiragana: わたし の おとうと は こうこう に いきます。
+      kanji: 私の弟は高校に行きます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>は<ruby>高校<rt>こうこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+    1:
+      english: I study English in high school.
+      hiragana: こうこう で えいご を べんきょう します。
+      kanji: 高校で英語を勉強します。
+      ruby: <ruby>高校<rt>こうこう</rt></ruby>で<ruby>英語<rt>えいご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。
+    2:
+      english: My high school is big.
+      hiragana: わたし の こうこう は おおきい です。
+      kanji: 私の高校は大きいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>高校<rt>こうこう</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです。
   simple_meaning:
     0: High school
 '1283510':
@@ -3075,7 +3120,23 @@
     split_hiragana: こう.こう.せい
     wanikani_level: '9'
   kanji: 高校生
-  samples: {}
+  samples:
+    0:
+      english: My sister is a high school student.
+      hiragana: わたし の あね は こうこうせい です。
+      kanji: 私の姉は高校生です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>は<ruby>高校生<rt>こうこうせい</rt></ruby>です。
+    1:
+      english: The high school students are studying.
+      hiragana: こうこうせい は べんきょう して います。
+      kanji: 高校生は勉強しています。
+      ruby: <ruby>高校生<rt>こうこうせい</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+    2:
+      english: I want to be a high school student.
+      hiragana: わたし は こうこうせい に なりたい です。
+      kanji: 私は高校生になりたいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>高校生<rt>こうこうせい</rt></ruby>に<ruby>なりたい<rt>なりたい</rt></ruby>です。
+
   simple_meaning:
     0: High school student
 '1283860':
@@ -3086,7 +3147,22 @@
     split_hiragana: こう.とう.がっこう
     wanikani_level: '20'
   kanji: 高等学校
-  samples: {}
+  samples:
+    0:
+      english: My sister goes to high school.
+      hiragana: わたし の あね は こうとうがっこう に かよって います。
+      kanji: 私の姉は高等学校に通っています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>は<ruby>高等学校<rt>こうとうがっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。
+    1:
+      english: The high school is near the station.
+      hiragana: こうとうがっこう は えき の ちかく に あります。
+      kanji: 高等学校は駅の近くにあります。
+      ruby: <ruby>高等学校<rt>こうとうがっこう</rt></ruby>は<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにあります。
+    2:
+      english: I want to enter high school.
+      hiragana: わたし は こうとうがっこう に はいりたい です。
+      kanji: 私は高等学校に入りたいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>高等学校<rt>こうとうがっこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたいです。
   simple_meaning:
     0: High school
 '1284430':
@@ -3097,11 +3173,26 @@
     split_hiragana: あ.う
     wanikani_level: '12'
   kanji: 合う
-  samples: {}
+  samples:
+    0:
+      english: These shoes fit me.
+      hiragana: この くつ は わたし に あう。
+      kanji: この靴は私に合う。
+      ruby: <ruby>この<rt>この</rt></ruby><ruby>靴<rt>くつ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う。
+    1:
+      english: That shirt matches your pants.
+      hiragana: その シャツ は ズボン に あう。
+      kanji: そのシャツはズボンに合う。
+      ruby: <ruby>その<rt>その</rt></ruby><ruby>シャツ<rt>しゃつ</rt></ruby>は<ruby>ズボン<rt>ずぼん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う。
+    2:
+      english: We get along well.
+      hiragana: わたしたち は よく あう。
+      kanji: 私たちはよく合う。
+      ruby: <ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>よく<rt>よく</rt></ruby><ruby>合<rt>あ</rt></ruby>う。
   simple_meaning:
     0: To fit
     1: To match
-    2: To suit
+    2: To get along
 '1286400':
   hiragana: こくさい
   jisho_info:
@@ -3110,7 +3201,22 @@
     split_hiragana: こく.さい
     wanikani_level: '21'
   kanji: 国際
-  samples: {}
+  samples:
+    0:
+      english: She studies international law.
+      hiragana: かのじょ は こくさい ほう を べんきょう して います。
+      kanji: 彼女は国際法を勉強しています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>国際<rt>こくさい</rt></ruby><ruby>法<rt>ほう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+    1:
+      english: I want to work at an international company.
+      hiragana: わたし は こくさい がいしゃ で はたらきたい です。
+      kanji: 私は国際会社で働きたいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>国際<rt>こくさい</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたいです。
+    2:
+      english: This is an international airport.
+      hiragana: ここ は こくさい くうこう です。
+      kanji: ここは国際空港です。
+      ruby: <ruby>ここ<rt>ここ</rt></ruby>は<ruby>国際<rt>こくさい</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>です。
   simple_meaning:
     0: International
 '1289370':
@@ -3121,7 +3227,22 @@
     split_hiragana: こん.ど
     wanikani_level: '9'
   kanji: 今度
-  samples: {}
+  samples:
+    0:
+      english: I will go next time.
+      hiragana: こんど いきます。
+      kanji: 今度行きます。
+      ruby: <ruby>今度<rt>こんど</rt></ruby><ruby>行<rt>い</rt></ruby>きます。
+    1:
+      english: Let's meet next time.
+      hiragana: こんど あいましょう。
+      kanji: 今度会いましょう。
+      ruby: <ruby>今度<rt>こんど</rt></ruby><ruby>会<rt>あ</rt></ruby>いましょう。
+    2:
+      english: What will you do next time?
+      hiragana: こんど なに を します か。
+      kanji: 今度何をしますか。
+      ruby: <ruby>今度<rt>こんど</rt></ruby><ruby>何<rt>なに</rt></ruby>を<ruby>します<rt>します</rt></ruby>か。
   simple_meaning:
     0: Next time
     1: This time
@@ -3133,7 +3254,22 @@
     split_hiragana: こん.や
     wanikani_level: '6'
   kanji: 今夜
-  samples: {}
+  samples:
+    0:
+      english: I will study tonight.
+      hiragana: こんや べんきょう します。
+      kanji: 今夜勉強します。
+      ruby: <ruby>今夜<rt>こんや</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>します。
+    1:
+      english: Are you free tonight?
+      hiragana: こんや は ひま です か。
+      kanji: 今夜は暇ですか。
+      ruby: <ruby>今夜<rt>こんや</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>ですか。
+    2:
+      english: It will rain tonight.
+      hiragana: こんや あめ が ふります。
+      kanji: 今夜雨が降ります。
+      ruby: <ruby>今夜<rt>こんや</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ります。
   simple_meaning:
     0: Tonight
 '1291270':
@@ -3144,9 +3280,24 @@
     split_hiragana: さ.し.あ.げ.る
     wanikani_level: '26'
   kanji: 差し上げる
-  samples: {}
+  samples:
+    0:
+      english: I will give this book to the teacher.
+      hiragana: わたし は せんせい に この ほん を さしあげます。
+      kanji: 私は先生にこの本を差し上げます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>に<ruby>この<rt>この</rt></ruby><ruby>本<rt>ほん</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
+    1:
+      english: I gave a gift to my boss.
+      hiragana: わたし は じょうし に プレゼント を さしあげました。
+      kanji: 私は上司にプレゼントを差し上げました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>上司<rt>じょうし</rt></ruby>に<ruby>プレゼント<rt>ぷれぜんと</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げました。
+    2:
+      english: I will give you this letter.
+      hiragana: あなた に この てがみ を さしあげます。
+      kanji: あなたにこの手紙を差し上げます。
+      ruby: <ruby>あなた<rt>あなた</rt></ruby>に<ruby>この<rt>この</rt></ruby><ruby>手紙<rt>てがみ</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
   simple_meaning:
-    0: To give
+    0: To give (humble)
     1: To offer
 '1291500':
   hiragana: すな
@@ -3156,7 +3307,22 @@
     split_hiragana: すな
     wanikani_level: '33'
   kanji: 砂
-  samples: {}
+  samples:
+    0:
+      english: There is sand on the beach.
+      hiragana: うみべ に すな が あります。
+      kanji: 海辺に砂があります。
+      ruby: <ruby>海辺<rt>うみべ</rt></ruby>に<ruby>砂<rt>すな</rt></ruby>があります。
+    1:
+      english: I touched the sand.
+      hiragana: わたし は すな に さわりました。
+      kanji: 私は砂に触りました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>砂<rt>すな</rt></ruby>に<ruby>触<rt>さわ</rt></ruby>りました。
+    2:
+      english: The sand is hot.
+      hiragana: すな は あつい です。
+      kanji: 砂は熱いです。
+      ruby: <ruby>砂<rt>すな</rt></ruby>は<ruby>熱<rt>あつ</rt></ruby>いです。
   simple_meaning:
     0: Sand
 '1293640':
