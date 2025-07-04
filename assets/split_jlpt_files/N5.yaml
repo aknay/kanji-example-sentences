@@ -2601,16 +2601,6 @@
   kanji: 兄弟
   samples:
     0:
-      english: I have two siblings, an older brother and a younger sister.
-      hiragana: わたしはあにといもうとがふたりいます。
-      kanji: 私は兄と妹が二人います。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>兄<rt>あに</rt></ruby>と<ruby>妹<rt>いもうと</rt></ruby>が<ruby>二人<rt>ふたり</rt></ruby>います。
-    1:
-      english: Siblings often have arguments, but they also support each other.
-      hiragana: きょうだいはよくけんかをしますが、おたがいをささえあっています。
-      kanji: 兄弟はよく喧嘩をしますが、お互いを支え合っています。
-      ruby: <ruby>兄弟<rt>きょうだい</rt></ruby>はよく<ruby>喧嘩<rt>けんか</rt></ruby>をしますが、お<ruby>互<rt>たが</rt></ruby>いを<ruby>支<rt>ささ</rt></ruby>え<ruby>合<rt>あ</rt></ruby>っています。
-    2:
       english: My siblings and I went on a trip together.
       hiragana: わたしときょうだいはいっしょにりょこうにいきました。
       kanji: 私と兄弟は一緒に旅行に行きました。
@@ -4480,11 +4470,7 @@
     wanikani_level: '8'
   kanji: 時間
   samples:
-    0:
-      english: What time is it now?
-      hiragana: いまなんじですか？
-      kanji: 今何時ですか？
-      ruby: <ruby>今<rt>いま</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>ですか？
+
     1:
       english: I have a meeting in two hours.
       hiragana: にじかんごにかいぎがあります。
@@ -5251,11 +5237,7 @@
       hiragana: でぐちはみぎがわにあります。
       kanji: 出口は右側にあります。
       ruby: <ruby>出口<rt>でぐち</rt></ruby>は<ruby>右側<rt>みぎがわ</rt></ruby>にあります。
-    1:
-      english: Please use the emergency exit in case of fire.
-      hiragana: かさいのばあいはきゅうけいぐちをつかってください。
-      kanji: 火災の場合は急減口を使ってください。
-      ruby: <ruby>火災<rt>かさい</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>急減口<rt>きゅうけいぐち</rt></ruby>を使ってください。
+
     2:
       english: The subway station has multiple exits.
       hiragana: ちかてつえきにはたくさんのでぐちがあります。
@@ -5461,21 +5443,13 @@
     wanikani_level: '2'
   kanji: 女の子
   samples:
-    0:
-      english: That little girl is very cute.
-      hiragana: あのこどもはとてもかわいいです。
-      kanji: あの子供はとても可愛いです。
-      ruby: あの<ruby>子供<rt>こども</rt></ruby>はとても<ruby>可愛<rt>かわい</rt></ruby>いです。
+
     1:
       english: My daughter is a cheerful girl.
       hiragana: わたしのむすめはたんじょうびのこいっぱいの女の子です。
       kanji: 私の娘は誕生日の子供いっぱいの女の子です。
       ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>娘<rt>むすめ</rt></ruby>は<ruby>誕生日<rt>たんじょうび</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>いっぱいの<ruby>女の子<rt>おんなのこ</rt></ruby>です。
-    2:
-      english: The girls played together in the park.
-      hiragana: こどもたちはこうえんでいっしょにあそびました。
-      kanji: 子供たちは公園で一緒に遊びました。
-      ruby: <ruby>子供<rt>こども</rt></ruby>たちは<ruby>公園<rt>こうえん</rt></ruby>で<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>びました。
+
   simple_meaning:
     0: girl
     1: young girl
@@ -10966,11 +10940,6 @@
       hiragana: 彼女 は じぎょう に とても 立派 に しました。
       kanji: かのじょは事業にとても立派にしました。
       ruby: かのじょは<ruby>事業<rt>じぎょう</rt></ruby>にとても<ruby>立派<rt>りっぱ</rt></ruby>にしました。
-    1:
-      english: This is a magnificent piece of art.
-      hiragana: これ は すばらしい めいさく です。
-      kanji: これは素晴らしい名作です。
-      ruby: これは<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>名作<rt>めいさく</rt></ruby>です。
     2:
       english: He is a man of great distinction.
       hiragana: かれ は とても 立派な おとこ です。
