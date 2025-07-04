@@ -3044,6 +3044,12 @@
       hiragana: かのじょはいぬをかわいいとよびました
       kanji: 彼女は犬を可愛いと呼びました。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>犬<rt>いぬ</rt></ruby>を<ruby>可愛<rt>かわい</rt></ruby>いと<ruby>呼<rt>よ</rt></ruby>びました。
+    3:
+      english: I will try to call a taxi.
+      hiragana: タクシーを よぶように してみます。
+      kanji: タクシーを呼ぶようにしてみます。
+      ruby: <ruby>タクシー</ruby>を<ruby>呼ぶ<rt>よぶ</rt></ruby>ようにしてみます。
+
   simple_meaning:
     0: to call
     1: to invite
@@ -3690,6 +3696,13 @@
       hiragana: かのじょ は しけん の けっか に こまって います。
       kanji: 彼女は試験の結果に困っています。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。
+
+    3:
+      english: I don’t know what to do and I’m troubled.
+      hiragana: どうすればいいか わからなくて こまる。
+      kanji: どうすればいいかわからなくて困る。
+      ruby: どうすればいいか<ruby>分<rt>わ</rt></ruby>からなくて<ruby>困る<rt>こまる</rt></ruby>。
+
   simple_meaning:
     1: to be troubled
     2: to be in a difficult situation
@@ -3743,6 +3756,12 @@
       hiragana: まどからつきがさしています
       kanji: 窓から月が差しています。
       ruby: <ruby>窓<rt>まど</rt></ruby>から<ruby>月<rt>つき</rt></ruby>が<ruby>差<rt>さ</rt></ruby>しています。
+    3:
+      english: When the sun starts to shine, I open my umbrella.
+      hiragana: たいようが さすとき、かさを ひらきます。
+      kanji: 太陽が差すとき、傘を開きます。
+      ruby: <ruby>太陽<rt>たいよう</rt></ruby>が<ruby>差す<rt>さす</rt></ruby>とき、<ruby>傘<rt>かさ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きます。
+
   simple_meaning:
     0: to shine
     1: to point
@@ -3796,6 +3815,12 @@
       hiragana: ぱーてぃーではともだちといっしょにてーぶるにすわりました
       kanji: パーティーでは友達と一緒にテーブルに座りました。
       ruby: パーティーでは<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にテーブルに<ruby>座<rt>すわ</rt></ruby>りました。
+    3:
+      english: I looked for a place to sit in the park.
+      hiragana: こうえんで すわるところを さがしました。
+      kanji: 公園で座るところを探しました。
+      ruby: <ruby>公園<rt>こうえん</rt></ruby>で<ruby>座る<rt>すわる</rt></ruby>ところを<ruby>探<rt>さが</rt></ruby>しました。
+
   simple_meaning:
     0: to sit
 '1293660':
@@ -4139,6 +4164,13 @@
       hiragana: くるまをつかってかいものにいきます
       kanji: 車を使って買い物に行きます。
       ruby: <ruby>車<rt>くるま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+
+    3:
+      english: I need a computer to use for my work.
+      hiragana: しごとで つかう コンピューターが ひつようです。
+      kanji: 仕事で使うコンピューターが必要です。
+      ruby: <ruby>仕事<rt>しごと</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>コンピューター</ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
+
   simple_meaning:
     0: to use
 '1307040':
@@ -4191,6 +4223,13 @@
       hiragana: あしたからあたらしいがっきがはじまります
       kanji: 明日から新しい学期が始まります。
       ruby: <ruby>明日<rt>あした</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>学期<rt>がっき</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。
+
+    3:
+      english: The movie is about to begin.
+      hiragana: えいがが はじまるところです。
+      kanji: 映画が始まるところです。
+      ruby: <ruby>映画<rt>えいが</rt></ruby>が<ruby>始まる<rt>はじまる</rt></ruby>ところです。
+
   simple_meaning:
     0: to begin
     1: to start
@@ -4271,6 +4310,13 @@
       hiragana: あらしのため、やがいいべんとはちゅうしされました
       kanji: 嵐のため、野外イベントは中止されました。
       ruby: <ruby>嵐<rt>あらし</rt></ruby>のため、<ruby>野外<rt>やがい</rt></ruby>イベントは<ruby>中止<rt>ちゅうし</rt></ruby>されました。
+    3:
+      english: The train will stop at the next station.
+      hiragana: つぎの えきで とまる。
+      kanji: 次の駅で止まる。
+      ruby: <ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>止まる<rt>とまる</rt></ruby>。
+
+
   simple_meaning:
     0: to stop
 '1310730':
@@ -4415,6 +4461,13 @@
       hiragana: わたし は いつも さいふ を ふくろ に もって い ます。
       kanji: 私はいつも財布を袋に持っています。
       ruby: <ruby>私<rt>わたし</rt></ruby>はいつも<ruby>財布<rt>さいふ</rt></ruby>を<ruby>袋<rt>ふくろ</rt></ruby>に<ruby>持<rt>も</rt></ruby>っています。
+
+    0:
+      english: I need something to hold the books.
+      hiragana: ほんを もつための なにかが ひつようです。
+      kanji: 本を持つための何かが必要です。
+      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>持つ<rt>もつ</rt></ruby>ための<ruby>何か<rt>なにか</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
+
   simple_meaning:
     0: to hold
     1: to have
@@ -4782,6 +4835,12 @@
       hiragana: ほてるでへやをかりました
       kanji: ホテルで部屋を借りました。
       ruby: ホテルで<ruby>部屋<rt>へや</rt></ruby>を<ruby>借<rt>か</rt></ruby>りました。
+    3:
+      english: I need to borrow a book from the library.
+      hiragana: としょかんで ほんを かりるひつようが あります。
+      kanji: 図書館で本を借りる必要があります。
+      ruby: <ruby>図書館<rt>としょかん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>借りる<rt>かりる</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>があります。
+
   simple_meaning:
     0: to borrow
     1: to rent
@@ -4990,6 +5049,14 @@
       hiragana: かれはあたらしいがっきをならいはじめました
       kanji: 彼は新しい楽器を習い始めました。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>楽器<rt>がっき</rt></ruby>を<ruby>習<rt>なら</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めました。
+
+
+    3:
+      english: I went to Japan to learn Japanese.
+      hiragana: にほんごを ならうために にほんへ いきました。
+      kanji: 日本語を習うために日本へ行きました。
+      ruby: <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>習う<rt>ならう</rt></ruby>ために<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
+
   simple_meaning:
     0: to learn
     1: to take lessons
@@ -5017,6 +5084,14 @@
       hiragana: このあぱーとにはおおくのひとがすんでいます
       kanji: このアパートには多くの人が住んでいます。
       ruby: このアパートには<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいます。
+
+    3:
+      english: I live in Tokyo.
+      hiragana: わたしは とうきょうに すむ。
+      kanji: 私は東京に住む。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby>。
+
+
   simple_meaning:
     0: to live
     1: to reside
@@ -5124,6 +5199,14 @@
       hiragana: ばっぐからさいふをだし、おかねをしはらいました
       kanji: バッグから財布を出し、お金を支払いました。
       ruby: バッグから<ruby>財布<rt>さいふ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>し、<ruby>お金<rt>おかね</rt></ruby>を<ruby>支<rt>し</rt></ruby>払いました。
+
+
+    3:
+      english: I take out the trash.
+      hiragana: ごみをだす
+      kanji: ごみを出す。
+      ruby: <ruby>ごみ</ruby>を<ruby>出<rt>だ</rt></ruby>す。
+
   simple_meaning:
     0: to take out
     1: to bring out
@@ -5332,6 +5415,14 @@
       hiragana: きょうかしょにめもをかきこみました
       kanji: 教科書にメモを書き込みました。
       ruby: <ruby>教科書<rt>きょうかしょ</rt></ruby>にメモを<ruby>書<rt>か</rt></ruby>き<ruby>込<rt>こ</rt></ruby>みました。
+    3:
+      english: I write letters every day.
+      hiragana: わたしは まいにち てがみを かく。
+      kanji: 私は毎日手紙を書く。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書く<rt>かく</rt></ruby>。
+
+
+
   simple_meaning:
     0: to write
 '1344930':
@@ -5492,6 +5583,11 @@
       hiragana: ろうそくがふうできえてしまいました
       kanji: ロウソクが風で消えてしまいました。
       ruby: ロウソクが<ruby>風<rt>かぜ</rt></ruby>で<ruby>消<rt>き</rt></ruby>えてしまいました。
+    4:
+      english: The lights disappear at night.
+      hiragana: よるに あかりが きえる。
+      kanji: 夜に明かりが消える。
+      ruby: <ruby>夜<rt>よる</rt></ruby>に<ruby>明かり<rt>あかり</rt></ruby>が<ruby>消える<rt>きえる</rt></ruby>。
   simple_meaning:
     0: to disappear
     1: to go out
@@ -5519,6 +5615,13 @@
       hiragana: りもこんでテレビをけしおしなれました
       kanji: リモコンでテレビを消し忘れました。
       ruby: リモコンでテレビを<ruby>消<rt>け</rt></ruby>し<ruby>忘<rt>わす</rt></ruby>れました。
+
+    3:
+      english: I turn off the light before sleeping.
+      hiragana: ねるまえに でんきを けす。
+      kanji: 寝る前に電気を消す。
+      ruby: <ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>電気<rt>でんき</rt></ruby>を<ruby>消す<rt>けす</rt></ruby>。
+
   simple_meaning:
     0: to erase
     1: to turn off
@@ -5654,6 +5757,14 @@
       hiragana: くるまにのってりょこうにいきます
       kanji: 車に乗って旅行に行きます。
       ruby: <ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+
+
+    3:
+      english: I ride the bus every morning.
+      hiragana: まいあさ バスに のる。
+      kanji: 毎朝バスに乗る。
+      ruby: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>バス</ruby>に<ruby>乗る<rt>のる</rt></ruby>。
+
   simple_meaning:
     0: to ride
     1: to board
@@ -6045,6 +6156,13 @@
       hiragana: かのじょはおなじひにわたしとうまれました
       kanji: 彼女は同じ日に私と生まれました。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ<ruby>日<rt>ひ</rt></ruby>に<ruby>私<rt>わたし</rt></ruby>と<ruby>生<rt>う</rt></ruby>まれました。
+
+    3:
+      english: I was born in Japan.
+      hiragana: にほんで うまれる。
+      kanji: 日本で生まれる。
+      ruby: <ruby>日本<rt>にほん</rt></ruby>で<ruby>生まれる<rt>うまれる</rt></ruby>。
+
   simple_meaning:
     0: to be born
 '1379380':
@@ -6922,6 +7040,13 @@
       hiragana: せんせいがくるのをまっています
       kanji: 先生が来るのを待っています。
       ruby: <ruby>先生<rt>せんせい</rt></ruby>が<ruby>来<rt>く</rt></ruby>るのを<ruby>待<rt>ま</rt></ruby>っています。
+
+    3:
+      english: I wait for my friend at the station.
+      hiragana: えきで ともだちを まつ。
+      kanji: 駅で友達を待つ。
+      ruby: <ruby>駅<rt>えき</rt></ruby>で<ruby>友達<rt>ともだち</rt></ruby>を<ruby>待つ<rt>まつ</rt></ruby>。
+
   simple_meaning:
     0: to wait
 '1411160':
@@ -7236,6 +7361,13 @@
       hiragana: さむくなったら、こーとをぬがないでください
       kanji: 寒くなったら、コートを脱がないでください。
       ruby: <ruby>寒<rt>さむ</rt></ruby>くなったら、コートを<ruby>脱<rt>ぬ</rt></ruby>がないでください。
+
+    3:
+      english: I take off my shoes at the door.
+      hiragana: げんかんで くつを ぬぐ。
+      kanji: 玄関で靴を脱ぐ。
+      ruby: <ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱ぐ<rt>ぬぐ</rt></ruby>。
+
   simple_meaning:
     0: to take off
     1: to remove
@@ -7544,6 +7676,14 @@
       hiragana: くつをげんかんにおいてください
       kanji: 靴を玄関に置いてください。
       ruby: <ruby>靴<rt>くつ</rt></ruby>を<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてください。
+
+
+    2:
+      english: I put the book on the table.
+      hiragana: つくえの うえに ほんを おく。
+      kanji: 机の上に本を置く。
+      ruby: <ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>置く<rt>おく</rt></ruby>。
+
   simple_meaning:
     0: to put
     1: to place
@@ -7571,6 +7711,14 @@
       hiragana: おみせはよるおそくまでひらいています
       kanji: お店は夜遅くまで開いています。
       ruby: お<ruby>店<rt>みせ</rt></ruby>は<ruby>夜遅<rt>よるおそ</rt></ruby>くまで<ruby>開<rt>ひら</rt></ruby>いています。
+
+    3:
+      english: The bus is late today.
+      hiragana: きょうは バスが おそい。
+      kanji: 今日はバスが遅い。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>バス</ruby>が<ruby>遅い<rt>おそい</rt></ruby>。
+
+
   simple_meaning:
     0: slow
     1: late
@@ -7730,6 +7878,12 @@
       hiragana: つりいとをはって、つりをたのしんでいます
       kanji: 釣り糸を張って、釣りを楽しんでいます。
       ruby: <ruby>釣<rt>つ</rt></ruby>り<ruby>糸<rt>いと</rt></ruby>を<ruby>張<rt>は</rt></ruby>って、<ruby>釣<rt>つ</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しんでいます。
+    3:
+      english: I put a poster on the wall.
+      hiragana: かべに ポスターを はる。
+      kanji: 壁にポスターを張る。
+      ruby: <ruby>壁<rt>かべ</rt></ruby>に<ruby>ポスター</ruby>を<ruby>張る<rt>はる</rt></ruby>。
+
   simple_meaning:
     0: to stretch
     1: to hang
@@ -7783,6 +7937,14 @@
       hiragana: こどもたちはたのしそうにとびはねてあそんでいます
       kanji: 子供たちは楽しそうに飛び跳ねて遊んでいます。
       ruby: <ruby>子供<rt>こども</rt></ruby>たちは<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>飛<rt>と</rt></ruby>び<ruby>跳<rt>は</rt></ruby>ねて<ruby>遊<rt>あそ</rt></ruby>んでいます。
+
+
+    3:
+      english: Birds fly in the sky.
+      hiragana: とりが そらを とぶ。
+      kanji: 鳥が空を飛ぶ。
+      ruby: <ruby>鳥<rt>とり</rt></ruby>が<ruby>空<rt>そら</rt></ruby>を<ruby>飛ぶ<rt>とぶ</rt></ruby>。
+
   simple_meaning:
     0: to fly
     1: to jump
@@ -7943,6 +8105,11 @@
       hiragana: よるおそくになると、このみせはしまってしまいます
       kanji: 夜遅くになると、この店は閉まってしまいます。
       ruby: <ruby>夜遅<rt>よるおそ</rt></ruby>くになると、この<ruby>店<rt>みせ</rt></ruby>は<ruby>閉<rt>し</rt></ruby>まってしまいます。
+    3:
+      english: The shop closes at 9 PM.
+      hiragana: みせはごごくじにしまる
+      kanji: 店は午後九時に閉まる。
+      ruby: <ruby>店<rt>みせ</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby><ruby>九時<rt>くじ</rt></ruby>に<ruby>閉<rt>し</rt></ruby>まる。
   simple_meaning:
     0: to close
     1: to be closed
@@ -7970,6 +8137,14 @@
       hiragana: かのじょ は ほん を しっかり しめました。
       kanji: 彼女は本をしっかり締めました。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>をしっかり<ruby>締<rt>し</rt></ruby>めました。
+
+
+    3:
+      english: Please tighten the lid.
+      hiragana: ふたをしめるください
+      kanji: ふたを締めるください。
+      ruby: <ruby>ふた</ruby>を<ruby>締<rt>し</rt></ruby>めるください。
+
   simple_meaning:
     0: to close
     1: to fasten
@@ -8256,6 +8431,14 @@
       hiragana: かのじょはいしゃとしてびょういんではたらいています
       kanji: 彼女は医者として病院で働いています。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>医者<rt>いしゃ</rt></ruby>として<ruby>病院<rt>びょういん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。
+
+    2:
+      english: I work at a bank.
+      hiragana: わたしはぎんこうではたらく
+      kanji: 私は銀行で働く。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く。
+
+
   simple_meaning:
     0: to work
 '1451470':
@@ -8413,6 +8596,13 @@
       hiragana: よほうによると、あしたはくもりのちあめです
       kanji: 予報によると、明日は曇りのち雨です。
       ruby: <ruby>予報<rt>よほう</rt></ruby>によると、<ruby>明日<rt>あした</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りのち<ruby>雨<rt>あめ</rt></ruby>です。
+
+    3:
+      english: The sky becomes cloudy.
+      hiragana: そらがくもる
+      kanji: 空が曇る。
+      ruby: <ruby>空<rt>そら</rt></ruby>が<ruby>曇<rt>くも</rt></ruby>る。
+
   simple_meaning:
     0: to become cloudy
 '1459870':
@@ -8645,6 +8835,14 @@
       hiragana: きーをかぎあなにいれて、どあをあけます
       kanji: キーを鍵穴に入れて、ドアを開けます。
       ruby: キーを<ruby>鍵穴<rt>かぎあな</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、ドアを<ruby>開<rt>あ</rt></ruby>けます。
+
+    3:
+      english: I put milk in the coffee.
+      hiragana: こーひーにぎゅうにゅうをいれる
+      kanji: コーヒーに牛乳を入れる。
+      ruby: コーヒーに<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる。
+
+
   simple_meaning:
     0: to put in
     1: to insert
@@ -8772,6 +8970,14 @@
       hiragana: おみやげをかってともだちにぷれぜんとしました
       kanji: お土産を買って友達にプレゼントしました。
       ruby: お<ruby>土産<rt>みやげ</rt></ruby>を<ruby>買<rt>か</rt></ruby>って<ruby>友達<rt>ともだち</rt></ruby>にプレゼントしました。
+
+
+    3:
+      english: I buy a book.
+      hiragana: わたしはほんをかう
+      kanji: 私は本を買う。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>を<ruby>買<rt>か</rt></ruby>う。
+
   simple_meaning:
     0: to buy
 '1473950':
@@ -8798,6 +9004,14 @@
       hiragana: このみせではしんせんなやさいをうっています
       kanji: この店では新鮮な野菜を売っています。
       ruby: この<ruby>店<rt>みせ</rt></ruby>では<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>野菜<rt>やさい</rt></ruby>を<ruby>売<rt>う</rt></ruby>っています。
+
+    3:
+      english: They sell vegetables at the market.
+      hiragana: いちばでやさいをうる
+      kanji: 市場で野菜を売る。
+      ruby: <ruby>市場<rt>いちば</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>を<ruby>売<rt>う</rt></ruby>る。
+
+
   simple_meaning:
     0: to sell
 '1474900':
@@ -9394,6 +9608,14 @@
       hiragana: ばすていでひとびとがれつにならんでいます
       kanji: バス停で人々が列に並んでいます。
       ruby: <ruby>バス停<rt>バスてい</rt></ruby>で<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>列<rt>れつ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んでいます。
+
+
+    3:
+      english: People line up in front of the store.
+      hiragana: みせのまえにひとがならぶ
+      kanji: 店の前に人が並ぶ。
+      ruby: <ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>が<ruby>並<rt>なら</rt></ruby>ぶ。
+
   simple_meaning:
     0: to line up
     1: to stand in line
@@ -9421,6 +9643,14 @@
       hiragana: しょうひんをちんれつだいにならべてはんばいします
       kanji: 商品を陳列台に並べて販売します。
       ruby: <ruby>商品<rt>しょうひん</rt></ruby>を<ruby>陳列台<rt>ちんれつだい</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べて<ruby>販売<rt>はんばい</rt></ruby>します。
+
+    3:
+      english: I arrange the books on the shelf.
+      hiragana: ほんをたなにならべる
+      kanji: 本を棚に並べる。
+      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べる。
+
+
   simple_meaning:
     0: to arrange
     1: to line up
@@ -9448,9 +9678,19 @@
       hiragana: そとはさむいからまどをしめてだんぼうをつけましょう
       kanji: 外は寒いから窓を閉めて暖房をつけましょう。
       ruby: <ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いから<ruby>窓<rt>まど</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めて<ruby>暖房<rt>だんぼう</rt></ruby>をつけましょう。
+
+    3:
+      english: Please close the window.
+      hiragana: まどをしめるください
+      kanji: 窓を閉めるください。
+      ruby: <ruby>窓<rt>まど</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めるください。
+
+
   simple_meaning:
     0: to close
     1: to shut
+
+
 '1512070':
   hiragana: へん
   jisho_info:
@@ -9502,6 +9742,14 @@
       hiragana: しょうひんがこわれていたので、おみせにへんぴんしました
       kanji: 商品が壊れていたので、お店に返品しました。
       ruby: <ruby>商品<rt>しょうひん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れていたので、お<ruby>店<rt>みせ</rt></ruby>に<ruby>返品<rt>へんぴん</rt></ruby>しました。
+
+    3:
+      english: I return the book to the library.
+      hiragana: としょかんにほんをかえす
+      kanji: 図書館に本を返す。
+      ruby: <ruby>図書館<rt>としょかん</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>す。
+
+
   simple_meaning:
     0: to return
     1: to give back
@@ -9609,6 +9857,14 @@
       hiragana: このまちはかんこうきゃくにあるいてたんさくするのにさいてきです
       kanji: この街は観光客に歩いて探索するのに最適です。
       ruby: この<ruby>街<rt>まち</rt></ruby>は<ruby>観光客<rt>かんこうきゃく</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>いて<ruby>探索<rt>たんさく</rt></ruby>するのに<ruby>最適<rt>さいてき</rt></ruby>です。
+
+    3:
+      english: I walk to school every day.
+      hiragana: まいにちがっこうへあるく
+      kanji: 毎日学校へ歩く。
+      ruby: <ruby>毎日<rt>まいにち</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>へ<ruby>歩<rt>ある</rt></ruby>く。
+
+
   simple_meaning:
     0: to walk
 '1516925':
@@ -10107,6 +10363,14 @@
       hiragana: ねこはよなかによくなきます
       kanji: 猫は夜中によく鳴きます。
       ruby: <ruby>猫<rt>ねこ</rt></ruby>は<ruby>夜中<rt>よなか</rt></ruby>によく<ruby>鳴<rt>な</rt></ruby>きます。
+
+    2:
+      english: Birds sing in the morning.
+      hiragana: あさにとりがなく
+      kanji: 朝に鳥が鳴く。
+      ruby: <ruby>朝<rt>あさ</rt></ruby>に<ruby>鳥<rt>とり</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>く。
+
+
   simple_meaning:
     0: to chirp
     1: to meow
@@ -10371,6 +10635,14 @@
       hiragana: いぬといっしょにびーちですなあそびをしました
       kanji: 犬と一緒にビーチで砂遊びをしました。
       ruby: <ruby>犬<rt>いぬ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にビーチで<ruby>砂遊<rt>すなあそ</rt></ruby>びをしました。
+
+
+    3:
+      english: Children play in the park.
+      hiragana: こうえんでこどもがあそぶ
+      kanji: 公園で子どもが遊ぶ。
+      ruby: <ruby>公園<rt>こうえん</rt></ruby>で<ruby>子ども<rt>こども</rt></ruby>が<ruby>遊<rt>あそ</rt></ruby>ぶ。
+
   simple_meaning:
     0: to play
 '1542430':
@@ -11292,6 +11564,14 @@
       hiragana: かのじょはまいあさじょぎんぐにいきます
       kanji: 彼女は毎朝ジョギングに行きます。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby>ジョギングに<ruby>行<rt>い</rt></ruby>きます。
+
+
+    3:
+      english: I go to Tokyo tomorrow.
+      hiragana: あしたとうきょうへいく
+      kanji: 明日東京へ行く。
+      ruby: <ruby>明日<rt>あした</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く。
+
   simple_meaning:
     0: to go
 '1579100':
@@ -11932,20 +12212,11 @@
   kanji: 夕飯
   samples:
     0:
-      english: Let's have dinner together.
-      hiragana: いっしょに ばんごはん を たべましょう。
-      kanji: 一緒に晩ご飯を食べましょう。
-      ruby: <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましょう。
-    1:
-      english: What are we having for dinner tonight?
-      hiragana: こんばん の ばんごはん は なに が ありますか？
-      kanji: 今晩の晩ご飯は何がありますか？
-      ruby: <ruby>今晩<rt>こんばん</rt></ruby>の<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>何<rt>なん</rt></ruby>がありますか？
-    2:
-      english: I'm cooking dinner tonight.
-      hiragana: きょうの ばんごはん は わたしが つくります。
-      kanji: 今晩の晩ご飯は私が作ります。
-      ruby: <ruby>今晩<rt>こんばん</rt></ruby>の<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ります。
+      english: I eat dinner at 7 PM.
+      hiragana: ごごしちじにゆうはんをたべる
+      kanji: 午後七時に夕飯を食べる。
+      ruby: <ruby>午後<rt>ごご</rt></ruby><ruby>七時<rt>しちじ</rt></ruby>に<ruby>夕飯<rt>ゆうはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる。
+
   simple_meaning:
     1: dinner
 '1584930':
@@ -12077,6 +12348,14 @@
       hiragana: ほんをひらいてべんきょうしましょう
       kanji: 本を開いて勉強しましょう。
       ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて<ruby>勉強<rt>べんきょう</rt></ruby>しましょう。
+
+    3:
+      english: The store opens at 10 AM.
+      hiragana: みせはごぜんじゅうじにあく
+      kanji: 店は午前十時に開く。
+      ruby: <ruby>店<rt>みせ</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby><ruby>十時<rt>じゅうじ</rt></ruby>に<ruby>開<rt>あ</rt></ruby>く。
+
+
   simple_meaning:
     0: to open
 '1586330':
@@ -12155,6 +12434,13 @@
       hiragana: せんせいはわたしたちにたいせつなことをいいました
       kanji: 先生は私たちに大切なことを言いました。
       ruby: <ruby>先生<rt>せんせい</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>たちに<ruby>大切<rt>たいせつ</rt></ruby>なことを<ruby>言<rt>い</rt></ruby>いました。
+
+    3:
+      english: He says "hello".
+      hiragana: かれは「こんにちは」という
+      kanji: 彼は「こんにちは」と言う。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は「こんにちは」と<ruby>言<rt>い</rt></ruby>う。
+
   simple_meaning:
     0: to say
     1: to speak
@@ -12209,6 +12495,15 @@
       hiragana: こどもたちはがっこうでうたをうたってたのしんでいます
       kanji: 子供たちは学校で歌を歌って楽しんでいます。
       ruby: <ruby>子供<rt>こども</rt></ruby>たちは<ruby>学校<rt>がっこう</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>って<ruby>楽<rt>たの</rt></ruby>しんでいます。
+
+    3:
+      english: I sing a song.
+      hiragana: わたしはうたをうたう
+      kanji: 私は歌を歌う。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>う。
+
+
+
   simple_meaning:
     0: to sing
 '1588880':
@@ -12263,6 +12558,13 @@
       hiragana: えれべーたーでじょうかいにいったあと、かいだんでおりました
       kanji: エレベーターで上階に行った後、階段で降りました。
       ruby: エレベーターで<ruby>上階<rt>うわきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>後<rt>ご</rt></ruby>、<ruby>階段<rt>かいだん</rt></ruby>で<ruby>降<rt>お</rt></ruby>りました。
+
+    3:
+      english: I get off the bus here.
+      hiragana: ここでばすをおりる
+      kanji: ここでバスを降りる。
+      ruby: ここでバスを<ruby>降<rt>お</rt></ruby>りる。
+
   simple_meaning:
     0: to get off
     1: to descend
@@ -12343,6 +12645,14 @@
       hiragana: らじおでおんがくをききながらべんきょうします
       kanji: ラジオで音楽を聞きながら勉強します。
       ruby: ラジオで<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きながら<ruby>勉強<rt>べんきょう</rt></ruby>します。
+
+    3:
+      english: I listen to music every day.
+      hiragana: まいにちおんがくをきく
+      kanji: 毎日音楽を聞く。
+      ruby: <ruby>毎日<rt>まいにち</rt></ruby><ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く。
+
+
   simple_meaning:
     0: to listen
     1: to ask
@@ -12475,6 +12785,14 @@
       hiragana: せんせいがきょうしつのまえにたってじゅぎょうをはじめました
       kanji: 先生が教室の前に立って授業を始めました。
       ruby: <ruby>先生<rt>せんせい</rt></ruby>が<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。
+
+    3:
+      english: Please stand here.
+      hiragana: ここにたつください
+      kanji: ここに立つください。
+      ruby: ここに<ruby>立<rt>た</rt></ruby>つください。
+
+
   simple_meaning:
     0: to stand up
     1: to rise
@@ -12551,6 +12869,15 @@
       hiragana: ともだちといっしょにてづくりのくりすますかーどをつくりました
       kanji: 友達と一緒に手作りのクリスマスカードを作りました。
       ruby: <ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>手作<rt>てづく</rt></ruby>りのクリスマスカードを<ruby>作<rt>つく</rt></ruby>りました。
+
+
+
+    3:
+      english: I make lunch.
+      hiragana: ひるごはんをつくる
+      kanji: 昼ごはんを作る。
+      ruby: <ruby>昼ごはん<rt>ひるごはん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る。
+
   simple_meaning:
     0: to make
     1: to create
@@ -12867,6 +13194,14 @@
       hiragana: むずかしいもんだいがわからないとき、しつもんしてください。
       kanji: 難しい問題が分からない時、質問してください。
       ruby: <ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からない<ruby>時<rt>とき</rt></ruby>、<ruby>質問<rt>しつもん</rt></ruby>してください。
+
+
+    3:
+      english: I understand Japanese.
+      hiragana: にほんごがわかる
+      kanji: 日本語が分かる。
+      ruby: <ruby>日本語<rt>にほんご</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かる。
+
   simple_meaning:
     0: to understand
     1: to comprehend

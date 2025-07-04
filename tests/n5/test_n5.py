@@ -41,6 +41,8 @@ def test_exact_kanji_exists_in_one_of_the_examples(n5_part_file_path):
 
     # Track entries that fail the test
     failed_ids = []
+    failed_kanjis = []
+    failed_hiraganas = []
 
     # Iterate through each word entry safely
     for word_id, word_data in data.items():
@@ -56,9 +58,16 @@ def test_exact_kanji_exists_in_one_of_the_examples(n5_part_file_path):
                     break  # No need to check further samples
 
             if not found_in_any:
-                failed_ids.append(word_id)
+                failed_ids.append((word_id, target_kanji, word_data.get("hiragana", "")))
+                # failed_kanjis.append(target_kanji)
+                # failed_hiraganas.append(samples.get("hiraganas", ""))
         else:
-            failed_ids.append(word_id)
+            failed_ids.append((word_id, target_kanji, word_data.get("hiragana", "")))
+            # failed_kanjis.append(target_kanji)
+            # failed_hiraganas.append(samples.get("hiraganas", ""))
+
+    for word_id, target_kanji, hiragana in failed_ids:
+        print(f"{word_id}: kanji: {target_kanji} hiragana: {hiragana}")
 
     # Final assertion
     assert not failed_ids, f"Kanji not found in samples for the following IDs: {failed_ids}"
