@@ -5,7 +5,7 @@ dirPath = os.path.dirname(os.path.realpath(__file__))
 
 
 def get_example_sentence_file_path() -> Path:
-    return Path(f'{dirPath}/all_jlpt_combined.yaml')
+    return Path(f'{dirPath}/generated_all_jlpt_combined.yaml')
 
 def get_n5_part_file_path() -> Path:
     return Path(f'{dirPath}/split_jlpt_files/N5.yaml')

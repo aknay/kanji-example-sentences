@@ -3,17 +3,18 @@ from pathlib import Path
 import pytest
 
 from assets.get_example_sentences_file_path import get_n5_part_file_path
-from is_ruby_formated_correctly import is_valid_ruby
-from utils.utils import has_empty_ruby_rt_tag
+from utils.utils import has_empty_ruby_rt_tag, is_valid_ruby
 
 
 @pytest.fixture
 def n5_part_file_path() -> Path:
     return get_n5_part_file_path()
 
+
 def test_empty_ruby_tag(n5_part_file_path):
     results = has_empty_ruby_rt_tag(path=n5_part_file_path)
     assert len(results) == 0
+
 
 def test_ruby_tag_is_correctly_formatted(n5_part_file_path):
     with open(n5_part_file_path) as file:
@@ -82,6 +83,8 @@ def test_exact_kanji_exists_in_one_of_the_examples(n5_part_file_path):
 
     # Final assertion
     assert not failed_ids, f"Kanji not found in samples for the following IDs: {failed_ids}"
+
+
 def test_exact_kanji_part_exists_in_all_of_the_examples(n5_part_file_path):
     # Function to check if a character is hiragana
     def is_hiragana(char):
@@ -116,7 +119,6 @@ def test_exact_kanji_part_exists_in_all_of_the_examples(n5_part_file_path):
             results[idx] = core_kanji in sentence
         return core_kanji, results
 
-
     with open(n5_part_file_path, "r", encoding="utf-8") as file:
         data = yaml.safe_load(file)
     # Run the check and print results
@@ -126,6 +128,3 @@ def test_exact_kanji_part_exists_in_all_of_the_examples(n5_part_file_path):
         for sample_id, has_core in results.items():
             assert has_core, f"Sample {sample_id} has no core kanji."
             # print(f"  Sample {sample_id}: {'✅ Contains core kanji' if has_core else '❌ Missing core kanji'}")
-
-
-

@@ -4,8 +4,7 @@ import pytest
 import yaml
 
 from assets.get_example_sentences_file_path import get_example_sentence_file_path
-from is_ruby_formated_correctly import is_valid_ruby
-from utils.utils import has_empty_ruby_rt_tag, has_this_level_completed
+from utils.utils import has_empty_ruby_rt_tag, has_this_level_completed, is_valid_ruby
 
 
 @pytest.fixture

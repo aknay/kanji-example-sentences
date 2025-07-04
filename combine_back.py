@@ -22,7 +22,7 @@ for filename in sorted(yaml_files):
             print(f"Warning: {filename} does not contain a dictionary.")
 
 # Save the fully combined data to a single YAML file
-with open("assets/all_jlpt_combined.yaml", "w", encoding="utf-8") as f:
+with open("assets/generated_all_jlpt_combined.yaml", "w", encoding="utf-8") as f:
     yaml.dump(all_combined_data, f, allow_unicode=True)
 
-print("✅ All JLPT-level YAML files have been combined into all_jlpt_combined.yaml.")
+print("✅ All JLPT-level YAML files have been combined into generated_all_jlpt_combined.yaml.")
