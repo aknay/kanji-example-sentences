@@ -2451,11 +2451,11 @@
     wanikani_level: null
   kanji: 喧嘩
   samples:
-    0: null
-    english: They are fighting.
-    hiragana: かれらはけんかしています。
-    kanji: 彼らは喧嘩しています。
-    ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>喧嘩<rt>けんか</rt></ruby>しています。
+    0:
+      english: They are fighting.
+      hiragana: かれらはけんかしています。
+      kanji: 彼らは喧嘩しています。
+      ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>喧嘩<rt>けんか</rt></ruby>しています。
     1:
       english: I had a fight with my friend.
       hiragana: ともだちとけんかしました。
@@ -2478,11 +2478,11 @@
     wanikani_level: '45'
   kanji: 硬い
   samples:
-    0: null
-    english: This bread is hard.
-    hiragana: このパンはかたいです。
-    kanji: このパンは硬いです。
-    ruby: <ruby>この<rt>この</rt></ruby><ruby>パン<rt>ぱん</rt></ruby>は<ruby>硬<rt>かた</rt></ruby>いです。
+    0:
+      english: This bread is hard.
+      hiragana: このパンはかたいです。
+      kanji: このパンは硬いです。
+      ruby: <ruby>この<rt>この</rt></ruby><ruby>パン<rt>ぱん</rt></ruby>は<ruby>硬<rt>かた</rt></ruby>いです。
     1:
       english: The box is hard.
       hiragana: はこはかたいです。
@@ -2923,9 +2923,9 @@
       hiragana: わたし は こうちょう と はなし ました。
       kanji: 私は校長と話しました。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>校長<rt>こうちょう</rt></ruby>と<ruby>話<rt>はな</rt></ruby>しました。
-    simple_meaning:
-      0: Principal
-      1: Headmaster
+  simple_meaning:
+    0: Principal
+    1: Headmaster
 '1279990':
   hiragana: みなと
   jisho_info:
@@ -2977,9 +2977,9 @@
       hiragana: ゆっくり かんがえたい。
       kanji: ゆっくり考えたい。
       ruby: <ruby>ゆっくり<rt>ゆっくり</rt></ruby><ruby>考<rt>かんが</rt></ruby>えたい。
-    simple_meaning:
-      0: To think
-      1: To consider
+  simple_meaning:
+    0: To think
+    1: To consider
 '1282260':
   hiragana: こうぎ
   jisho_info:

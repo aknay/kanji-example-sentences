@@ -3038,7 +3038,7 @@
       english: I will try to call a taxi.
       hiragana: タクシーを よぶように してみます。
       kanji: タクシーを呼ぶようにしてみます。
-      ruby: <ruby>タクシー</ruby>を<ruby>呼ぶ<rt>よぶ</rt></ruby>ようにしてみます。
+      ruby: タクシーを<ruby>呼ぶ<rt>よぶ</rt></ruby>ようにしてみます。
 
   simple_meaning:
     0: to call
@@ -4159,7 +4159,7 @@
       english: I need a computer to use for my work.
       hiragana: しごとで つかう コンピューターが ひつようです。
       kanji: 仕事で使うコンピューターが必要です。
-      ruby: <ruby>仕事<rt>しごと</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>コンピューター</ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
+      ruby: <ruby>仕事<rt>しごと</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby>コンピューターが<ruby>必要<rt>ひつよう</rt></ruby>です。
 
   simple_meaning:
     0: to use
@@ -5191,7 +5191,7 @@
       english: I take out the trash.
       hiragana: ごみをだす
       kanji: ごみを出す。
-      ruby: <ruby>ごみ</ruby>を<ruby>出<rt>だ</rt></ruby>す。
+      ruby: ごみを<ruby>出<rt>だ</rt></ruby>す。
 
   simple_meaning:
     0: to take out
@@ -5737,7 +5737,7 @@
       english: I ride the bus every morning.
       hiragana: まいあさ バスに のる。
       kanji: 毎朝バスに乗る。
-      ruby: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>バス</ruby>に<ruby>乗る<rt>のる</rt></ruby>。
+      ruby: <ruby>毎朝<rt>まいあさ</rt></ruby>バスに<ruby>乗る<rt>のる</rt></ruby>。
 
   simple_meaning:
     0: to ride
@@ -7690,7 +7690,7 @@
       english: The bus is late today.
       hiragana: きょうは バスが おそい。
       kanji: 今日はバスが遅い。
-      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>バス</ruby>が<ruby>遅い<rt>おそい</rt></ruby>。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>はバスが<ruby>遅い<rt>おそい</rt></ruby>。
 
 
   simple_meaning:
@@ -7856,7 +7856,7 @@
       english: I put a poster on the wall.
       hiragana: かべに ポスターを はる。
       kanji: 壁にポスターを張る。
-      ruby: <ruby>壁<rt>かべ</rt></ruby>に<ruby>ポスター</ruby>を<ruby>張る<rt>はる</rt></ruby>。
+      ruby: <ruby>壁<rt>かべ</rt></ruby>にポスターを<ruby>張る<rt>はる</rt></ruby>。
 
   simple_meaning:
     0: to stretch
@@ -8117,7 +8117,7 @@
       english: Please tighten the lid.
       hiragana: ふたをしめるください
       kanji: ふたを締めるください。
-      ruby: <ruby>ふた</ruby>を<ruby>締<rt>し</rt></ruby>めるください。
+      ruby: ふたを<ruby>締<rt>し</rt></ruby>めるください。
 
   simple_meaning:
     0: to close

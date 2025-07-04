@@ -16,7 +16,7 @@ def has_empty_ruby_rt_tag(path: Path) -> list[RubyTagCheckResult]:
             if "samples" in v:
                 for index, sample in v["samples"].items():
                     if  sample is not None:
-                        assert "ruby" in sample
+                        assert "ruby" in sample, print(sample)
                         if EMPTY_RUBY_RT_TAG in sample["ruby"]:
                             print("found", sample["ruby"])
                             result = RubyTagCheckResult(
