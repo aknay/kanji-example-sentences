@@ -4,7 +4,7 @@ import os
 import yaml
 
 # Directory containing the split YAML files
-input_dir = "assets/splited_jlpt_files"
+input_dir = "assets/split_jlpt_files"
 
 # Dictionary to hold all combined data
 all_combined_data = {}

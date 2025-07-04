@@ -1387,6 +1387,12 @@
       hiragana: ひさしぶりに かぞくに あえて うれしいです。
       kanji: 久しぶりに家族に会えて嬉しいです。
       ruby: <ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>家族<rt>かぞく</rt></ruby>に<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいです。
+    3:
+      english: I will go to Tokyo to meet my friend.
+      hiragana: ともだちに あうために とうきょうへ いきます。
+      kanji: 友達に会うために東京へ行きます。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>に<ruby>会う<rt>あう</rt></ruby>ために<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。
+
   simple_meaning:
     0: to meet
     1: to see
@@ -2095,6 +2101,11 @@
       hiragana: かこには たばこを すっていましたが、いまは やめました。
       kanji: 過去にはたばこを吸っていましたが、今はやめました。
       ruby: <ruby>過去<rt>かこ</rt></ruby>にはたばこを<ruby>吸<rt>す</rt></ruby>っていましたが、<ruby>今<rt>いま</rt></ruby>はやめました。
+    2:
+      english: He tried to inhale deeply.
+      hiragana: かれは ふかく すおうと しました。
+      kanji: 彼は深く吸うとしました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>深<rt>ふか</rt></ruby>く<ruby>吸う<rt>すう</rt></ruby>としました。
   simple_meaning:
     0: to smoke
     1: to inhale
@@ -2321,11 +2332,11 @@
       hiragana: つぎ の こうさ てん で ひだり に ま が って ください。
       kanji: 次の交差点で左に曲がってください。
       ruby: <ruby>次<rt>つぎ</rt></ruby>の<ruby>交差点<rt>こうさてん</rt></ruby>で<ruby>左<rt>ひだり</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。
-    2: null
-    english: The river bends here.
-    hiragana: かわ は ここ で ま が る。
-    kanji: 川はここで曲がる。
-    ruby: <ruby>川<rt>かわ</rt></ruby>は<ruby>ここ<rt>ここ</rt></ruby>で<ruby>曲<rt>ま</rt></ruby>がる。
+    2:
+      english: The river bends here.
+      hiragana: かわ は ここ で ま が る。
+      kanji: 川はここで曲がる。
+      ruby: <ruby>川<rt>かわ</rt></ruby>は<ruby>ここ<rt>ここ</rt></ruby>で<ruby>曲<rt>ま</rt></ruby>がる。
   simple_meaning:
     0: To turn
     1: To bend
@@ -2353,8 +2364,15 @@
       hiragana: かのじょはきっさてんでぱーとたいむでつとめています。
       kanji: 彼女は喫茶店でパートタイムで勤めています。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>喫茶店<rt>きっさてん</rt></ruby>でパートタイムで<ruby>勤<rt>つと</rt></ruby>めています。
+    3:
+      english: My brother wants to work at a bank.
+      hiragana: あには ぎんこうに つとめることを ねがっています。
+      kanji: 兄は銀行に勤めることを願っています。
+      ruby: <ruby>兄<rt>あに</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>に<ruby>勤める<rt>つとめる</rt></ruby>ことを<ruby>願<rt>ねが</rt></ruby>っています。
+
   simple_meaning:
-    0: to work, to be employed
+    0: to work
+    1: to be employed
 '1242130':
   hiragana: ちかい
   jisho_info:
@@ -2466,20 +2484,11 @@
   kanji: 九つ
   samples:
     0:
-      english: There are nine apples on the table.
-      hiragana: テーブルのうえにりんごがきゅうこあります。
-      kanji: テーブルの上にリンゴが九個あります。
-      ruby: テーブルの<ruby>上<rt>うえ</rt></ruby>にリンゴが<ruby>九個<rt>きゅうこ</rt></ruby>あります。
-    1:
-      english: He has a collection of nine rare stamps.
-      hiragana: かれはきゅうこのめずりすたんぷをもっています。
-      kanji: 彼は九個の珍しい切手を持っています。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>九個<rt>きゅうこ</rt></ruby>の<ruby>珍<rt>めずら</rt></ruby>しい<ruby>切手<rt>きって</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。
-    2:
-      english: My birthday is on the ninth of June.
-      hiragana: わたしのたんじょうびはろくがつのここのつです。
-      kanji: 私の誕生日は六月の九日です。
-      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>は<ruby>六月<rt>ろくがつ</rt></ruby>の<ruby>九日<rt>ここのつ</rt></ruby>です。
+      english: My daughter is nine years old.
+      hiragana: わたしの むすめは ここのつです。
+      kanji: 私の娘は九つです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>娘<rt>むすめ</rt></ruby>は<ruby>九つ<rt>ここのつ</rt></ruby>です。
+
   simple_meaning:
     0: nine
 '1245290':
@@ -2843,6 +2852,12 @@
       hiragana: かのじょはしゃしんをみせて、りょこうのはなしをしました
       kanji: 彼女は写真を見せて、旅行の話をしました。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せて、<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>をしました。
+    3:
+      english: I will try to show you the picture.
+      hiragana: しゃしんを みせるように してみます。
+      kanji: 写真を見せるようにしてみます。
+      ruby: <ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見せる<rt>みせる</rt></ruby>ようにしてみます。
+
   simple_meaning:
     0: to show
 '1259290':
