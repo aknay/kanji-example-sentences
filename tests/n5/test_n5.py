@@ -1,6 +1,7 @@
 from pathlib import Path
 
 import pytest
+import yaml
 
 from assets.get_example_sentences_file_path import get_n5_part_file_path
 from utils.utils import has_empty_ruby_rt_tag, is_valid_ruby
@@ -48,7 +49,43 @@ def test_find_malformed_ids(n5_part_file_path):
         print("No malformed entries found.")
 
 
-import yaml
+def is_all_kanji(s):
+    # Unicode range for CJK Unified Ideographs
+    return all('\u4e00' <= char <= '\u9fff' for char in s)
+
+
+def test_ruby_exists_for_all_kanji_words(n5_part_file_path):
+    with open(n5_part_file_path, "r", encoding="utf-8") as file:
+        data = yaml.safe_load(file)
+
+    failed_ids = []
+
+    for word_id, word_data in data.items():
+        if not isinstance(word_data, dict):
+            continue
+
+        target_kanji = word_data.get("kanji", "")
+        samples = word_data.get("samples", {})
+
+        if not target_kanji or not is_all_kanji(target_kanji):
+            continue  # Skip non-kanji or mixed words
+
+        found_ruby = False
+
+        for sample in samples.values():
+            ruby_text = sample.get("ruby", "")
+            # Check for full-kanji ruby block
+            if f"<ruby>{target_kanji}<rt>" in ruby_text:
+                found_ruby = True
+                break
+
+        if not found_ruby:
+            failed_ids.append((word_id, target_kanji, word_data.get("hiragana", "")))
+
+    for word_id, target_kanji, hiragana in failed_ids:
+        print(f"❌ {word_id}: Missing ruby for full-kanji word '{target_kanji}' (hiragana: {hiragana})")
+
+    assert not failed_ids, f"Missing ruby for full-kanji words: {failed_ids}"
 
 
 def test_exact_kanji_exists_in_one_of_the_examples(n5_part_file_path):
@@ -126,5 +163,8 @@ def test_exact_kanji_part_exists_in_all_of_the_examples(n5_part_file_path):
         core_kanji, results = check_core_kanji_presence(entry)
         print(f"Entry {entry_id} (Kanji: {entry['kanji']}, Core: {core_kanji}):")
         for sample_id, has_core in results.items():
+            if not has_core:
+                print(f"❌ missing core: Sample {sample_id} has no core kanji.")
+            # print(f"  Sample {sample_id}: {'✅ Contains core kanji' if has_core else '❌ Missing core kanji'}")
             assert has_core, f"Sample {sample_id} has no core kanji."
             # print(f"  Sample {sample_id}: {'✅ Contains core kanji' if has_core else '❌ Missing core kanji'}")

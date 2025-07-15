@@ -457,20 +457,15 @@
   kanji: 一
   samples:
     0:
-      english: I will stay at home all day today.
-      hiragana: きょうは いちにちじゅう いえに います。
-      kanji: 今日は一日中家にいます。
-      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>家<rt>いえ</rt></ruby>にいます。
+      english: This is number one.
+      hiragana: これは いち です。
+      kanji: これは一です。
+      ruby: これは<ruby>一<rt>いち</rt></ruby>です。
     1:
-      english: I played with my older brother.
-      hiragana: わたしは あにと いっしょに あそびました。
-      kanji: 私は兄と一緒に遊びました。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>兄<rt>あに</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>びました。
-    2:
-      english: Please borrow only one book from this.
-      hiragana: この ほんは いっさつだけ かりてください。
-      kanji: この本は一冊だけ借りてください。
-      ruby: この<ruby>本<rt>ほん</rt></ruby>は<ruby>一冊<rt>いっさつ</rt></ruby>だけ<ruby>借<rt>か</rt></ruby>りてください。
+      english: Please write number one.
+      hiragana: いちを かいて ください。
+      kanji: 一を書いてください。
+      ruby: <ruby>一<rt>いち</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。
   simple_meaning:
     0: one
 '1160820':
@@ -2870,10 +2865,10 @@
       kanji: この美しい画像を見てください。
       ruby: この<ruby>美<rt>うつく</rt></ruby>しい<ruby>画像<rt>がぞう</rt></ruby>を<ruby>見<rt>み</rt></ruby>てください。
     2:
-      english: I can't see without my glasses.
-      hiragana: めがねなしではわたしはみることができません。
-      kanji: 眼鏡なしでは私は見ることができません。
-      ruby: <ruby>眼鏡<rt>めがね</rt></ruby>なしでは<ruby>私<rt>わたし</rt></ruby>は<ruby>見<rt>み</rt></ruby>ることができません。
+      english: I can't see well without my glasses.
+      hiragana: めがねがないと、うまくみることができません。
+      kanji: 眼鏡がないと、うまく見ることができません。
+      ruby: <ruby>眼鏡<rt>めがね</rt></ruby>がないと、うまく<ruby>見<rt>み</rt></ruby>ることができません。
   simple_meaning:
     0: to see
     1: to look
@@ -8097,34 +8092,25 @@
   kanji: 締める
   samples:
     0:
-      english: Close the door.
-      hiragana: ドアをしめる
-      kanji: ドアを閉める
-      ruby: ドアを<ruby>閉<rt>し</rt></ruby>める
-    
-    1:
       english: Fasten your seatbelt.
       hiragana: シートベルトをしめる
       kanji: シートベルトを締める
       ruby: シートベルトを<ruby>締<rt>し</rt></ruby>める
-
-    2:
+    1:
       english: Button up your shirt.
       hiragana: ボタンをしめる
       kanji: ボタンを締める
       ruby: ボタンを<ruby>締<rt>し</rt></ruby>める
-
-    3:
+    2:
       english: Can you fasten the buttons on your shirt?
       hiragana: シャツ の ボタン を しめられますか？
       kanji: シャツのボタンを締められますか？
       ruby: シャツのボタンを<ruby>締<rt>し</rt></ruby>められますか？
-    4:
+    3:
       english: She tightly closed the book.
       hiragana: かのじょ は ほん を しっかり しめました。
       kanji: 彼女は本をしっかり締めました。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>をしっかり<ruby>締<rt>し</rt></ruby>めました。
-
 
   simple_meaning:
     0: to close
@@ -8648,20 +8634,16 @@
   kanji: 二
   samples:
     0:
-      english: My friend has two siblings.
-      hiragana: わたしのともだちはふたりきょうだいです
-      kanji: 私の友達は二人兄弟です。
-      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>は<ruby>二人<rt>ふたり</rt></ruby><ruby>兄弟<rt>きょうだい</rt></ruby>です。
-    1:
-      english: This cafe has two rooms.
-      hiragana: このかふぇはふたつのへやがあります
-      kanji: このカフェは二つの部屋があります。
-      ruby: このカフェは<ruby>二つの部屋<rt>ふたつのへや</rt></ruby>があります。
-    2:
       english: We enjoyed a two-week vacation.
       hiragana: わたしたちはにしゅうかんのきゅうかをたのしんだ
       kanji: 私たちは二週間の休暇を楽しんだ。
-      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>二週間<rt>にしゅうかん</rt></ruby>の<ruby>休暇<rt>きゅうか</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんだ。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>二<rt>に</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>休暇<rt>きゅうか</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんだ。
+    1:
+      english: The answer is two.
+      hiragana: こたえは に です。
+      kanji: 答えは二です。
+      ruby: <ruby>答<rt>こた</rt></ruby>えは<ruby>二<rt>に</rt></ruby>です。
+
   simple_meaning:
     0: two
 '1461160':
@@ -8889,15 +8871,15 @@
   kanji: 年
   samples:
     0:
-      english: I have plans to go to Japan next year.
-      hiragana: らいねん、にほんにいくよていです
-      kanji: 来年、日本に行く予定です。
-      ruby: <ruby>来年<rt>らいねん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。
+      english: He lived a long life.
+      hiragana: かれはながいとしをいきました。
+      kanji: 彼は長い年を生きました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>年<rt>とし</rt></ruby>を<ruby>生<rt>い</rt></ruby>きました。
     1:
-      english: She will turn 20 years old this year.
-      hiragana: かのじょはことしで20さいになります
-      kanji: 彼女は今年で20歳になります。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>で20<ruby>歳<rt>さい</rt></ruby>になります。
+      english: January is the first month of the year.
+      hiragana: いちがつはとしのいちばんめのつきです。
+      kanji: 一月は年の一番目の月です。
+      ruby: <ruby>一月<rt>いちがつ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>の<ruby>一番目<rt>いちばんめ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>です。
   simple_meaning:
     0: year
 '1472740':
@@ -9143,9 +9125,9 @@
       ruby: このケーキは<ruby>半額<rt>はんがく</rt></ruby>セールで<ruby>買<rt>か</rt></ruby>ったんです。
     1:
       english: It takes half an hour to walk from the station to my house.
-      hiragana: えきからいえまでとほではんじかんかかります
-      kanji: 駅から家まで徒歩で半時間かかります。
-      ruby: <ruby>駅<rt>えき</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>まで<ruby>徒歩<rt>とほ</rt></ruby>で<ruby>半時間<rt>はんじかん</rt></ruby>かかります。
+      hiragana: えきからいえまでとほではんぶんじかんかかります
+      kanji: 駅から家まで徒歩で半分時間かかります。
+      ruby: <ruby>駅<rt>えき</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>まで<ruby>徒歩<rt>とほ</rt></ruby>で<ruby>半分<rt>はんぶん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>かかります。
   simple_meaning:
     0: half
 '1479890':
@@ -12235,7 +12217,7 @@
       english: My birthday is in June.
       hiragana: わたしのたんじょうびはろくがつです
       kanji: わたしの誕生日は六月です。
-      ruby: わたしの<ruby>誕生日<rt>たんじょうび</rt><ruby>六<rt>ろ</rt></ruby><ruby>月<rt>がつ</rt></ruby>です。
+      ruby: わたしの<ruby>誕生日<rt>たんじょうび</rt></ruby><ruby>六<rt>ろ</rt></ruby><ruby>月<rt>がつ</rt></ruby>です。
     1:
       english: Six people are here.
       hiragana: ろくにんいます。
@@ -12254,19 +12236,15 @@
   samples:
     0:
       english: There are six apples on the table.
-      hiragana: たべる うえ に 六つ の あっぷる が あります。
-      kanji: 食べる上に六つのりんごがあります。
-      ruby: <ruby>食<rt>た</rt></ruby>べる<ruby>上<rt>うえ</rt></ruby>に<ruby>六<rt>むい</rt></ruby>つのりんごがあります。
+      hiragana: てーぶる の うえ に むっつ の りんご が あります。
+      kanji: テーブルの上に六つのりんごがあります。
+      ruby: テーブルの<ruby>上<rt>うえ</rt></ruby>に<ruby>六<rt>むっ</rt></ruby>つの<ruby>林檎<rt>りんご</rt></ruby>があります。
     1:
-      english: I need to buy six eggs.
-      hiragana: わたし は 六つ の たまご を かわないと いけません。
+      english: I need to buy six eggs.  
+      hiragana: わたし は むっつ の たまご を かわないと いけません。
       kanji: 私は六つの卵を買わないといけません。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>六<rt>むい</rt></ruby>つの<ruby>卵<rt>たまご</rt></ruby>を<ruby>買<rt>か</rt></ruby>わないといけません。
-    2:
-      english: There are six people in the room.
-      hiragana: へや に は 六つ の ひと が います。
-      kanji: 部屋には六つの人がいます。
-      ruby: <ruby>部屋<rt>へや</rt></ruby>には<ruby>六<rt>むい</rt></ruby>つの<ruby>人<rt>ひと</rt></ruby>がいます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>六<rt>むっ</rt></ruby>つの<ruby>卵<rt>たまご</rt></ruby>を<ruby>買<rt>か</rt></ruby>わないといけません。
+
   simple_meaning:
     1: six
 '1585650':
