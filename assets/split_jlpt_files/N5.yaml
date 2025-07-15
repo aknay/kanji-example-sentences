@@ -4441,18 +4441,18 @@
     wanikani_level: '9'
   kanji: 持つ
   samples:
-    1:
+    0:
       english: He always carries an umbrella.
       hiragana: かれはいつもかさをもっています
       kanji: 彼はいつも傘を持っています。
       ruby: <ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。
-    2:
+    1:
       english: I always carry my wallet in my pocket.
       hiragana: わたし は いつも さいふ を ふくろ に もって い ます。
       kanji: 私はいつも財布を袋に持っています。
       ruby: <ruby>私<rt>わたし</rt></ruby>はいつも<ruby>財布<rt>さいふ</rt></ruby>を<ruby>袋<rt>ふくろ</rt></ruby>に<ruby>持<rt>も</rt></ruby>っています。
 
-    0:
+    2:
       english: I need something to hold the books.
       hiragana: ほんを もつための なにかが ひつようです。
       kanji: 本を持つための何かが必要です。
@@ -8097,27 +8097,34 @@
   kanji: 締める
   samples:
     0:
-      english: Please tie the shoelaces.
-      hiragana: くつひも を しめて ください。
-      kanji: 靴紐を締めてください。
-      ruby: <ruby>靴紐<rt>くつひも</rt></ruby>を<ruby>締<rt>し</rt></ruby>めてください。
+      english: Close the door.
+      hiragana: ドアをしめる
+      kanji: ドアを閉める
+      ruby: ドアを<ruby>閉<rt>し</rt></ruby>める
+    
     1:
+      english: Fasten your seatbelt.
+      hiragana: シートベルトをしめる
+      kanji: シートベルトを締める
+      ruby: シートベルトを<ruby>締<rt>し</rt></ruby>める
+
+    2:
+      english: Button up your shirt.
+      hiragana: ボタンをしめる
+      kanji: ボタンを締める
+      ruby: ボタンを<ruby>締<rt>し</rt></ruby>める
+
+    3:
       english: Can you fasten the buttons on your shirt?
       hiragana: シャツ の ボタン を しめられますか？
       kanji: シャツのボタンを締められますか？
       ruby: シャツのボタンを<ruby>締<rt>し</rt></ruby>められますか？
-    2:
+    4:
       english: She tightly closed the book.
       hiragana: かのじょ は ほん を しっかり しめました。
       kanji: 彼女は本をしっかり締めました。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>をしっかり<ruby>締<rt>し</rt></ruby>めました。
 
-
-    3:
-      english: Please tighten the lid.
-      hiragana: ふたをしめるください
-      kanji: ふたを締めるください。
-      ruby: ふたを<ruby>締<rt>し</rt></ruby>めるください。
 
   simple_meaning:
     0: to close
@@ -12737,29 +12744,39 @@
     jlpt_level: N5
     split_hiragana: た.つ
     wanikani_level: '2'
+
   kanji: 立つ
   samples:
     0:
+      english: Please stand up.
+      hiragana: たってください。
+      kanji: 立ってください。
+      ruby: <ruby>立<rt>た</rt></ruby>ってください。
+    1:
+      english: He can stand.
+      hiragana: かれはたつことができます。
+      kanji: 彼は立つことができます。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>立<rt>た</rt></ruby>つことができます。
+    2:
+      english: I stood up.
+      hiragana: わたしはたちました。
+      kanji: 私は立ちました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>立<rt>た</rt></ruby>ちました。
+    3:
       english: I wake up early in the morning and go to school.
       hiragana: あさはやくおきて、がっこうにたちます
       kanji: 朝早く起きて、学校に立ちます。
       ruby: <ruby>朝早<rt>あさはや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて、<ruby>学校<rt>がっこう</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちます。
-    1:
+    4:
       english: The train arrived at the station, and passengers stood up.
       hiragana: でんしゃがえきにとうちゃくし、じょうきゃくがたちました
       kanji: 電車が駅に到着し、乗客が立ちました。
       ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>し、<ruby>乗客<rt>じょうきゃく</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちました。
-    2:
+    5:
       english: The teacher stood in front of the classroom and started the lesson.
       hiragana: せんせいがきょうしつのまえにたってじゅぎょうをはじめました
       kanji: 先生が教室の前に立って授業を始めました。
       ruby: <ruby>先生<rt>せんせい</rt></ruby>が<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。
-
-    3:
-      english: Please stand here.
-      hiragana: ここにたつください
-      kanji: ここに立つください。
-      ruby: ここに<ruby>立<rt>た</rt></ruby>つください。
 
 
   simple_meaning:
