@@ -26,6 +26,40 @@ def has_empty_ruby_rt_tag(path: Path) -> list[RubyTagCheckResult]:
 
     return results
 
+def has_this_level_completed(path: Path) -> list[RubyTagCheckResult]:
+    results = list()
+    with open(path, "r") as file:
+        kanjiInfo = yaml.safe_load(file)
+        for k, v in kanjiInfo.items():
+            if v['jisho_info']['jlpt_level'] is not None and v['jisho_info']['jlpt_level'] == 'N5':
+
+                # print(v['simple_meaning'])
+
+                if any(value is None for value in v['simple_meaning'].values()):
+                    print(k)
+                    print(v['kanji'])
+                    print(v['simple_meaning'])
+                #     print("At least one value is None")
+                # else:
+                #     print("No values are None")
+                # if None in v['simple_meaning']:
+                #     print(v['simple_meaning'])
+            # if "samples" in v:
+            for index, sample in v["jisho_info"].items():
+                print(sample)
+
+                if  sample is not None:
+                    print(sample)
+                    # assert "ruby" in sample
+                    if EMPTY_RUBY_RT_TAG in sample["ruby"]:
+                        print("found", sample["ruby"])
+                        result = RubyTagCheckResult(
+                            kanji_word_seq_number=k, sample_location=index
+                        )
+                        results.append(result)
+
+    return results
+
 
 def replace_empty_ruby_rt_tag(
         path: Path, missing_ruby_tags: list[RubyTagCheckResult]

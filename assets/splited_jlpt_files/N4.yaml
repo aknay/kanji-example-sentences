@@ -1,0 +1,7215 @@
+'1002170':
+  hiragana: おじょうさん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.じょう.さ.ん
+    wanikani_level: '47'
+  kanji: お嬢さん
+  samples:
+    0:
+      english: The young lady is kind.
+      hiragana: おじょうさん は やさしい。
+      kanji: お嬢さんは優しい。
+      ruby: <ruby>お嬢さん<rt>おじょうさん</rt></ruby>は<ruby>優しい<rt>やさしい</rt></ruby>。
+    1:
+      english: The young lady is studying abroad.
+      hiragana: おじょうさんはりゅうがくちゅうです。
+      kanji: お嬢さんは留学中です。
+      ruby: お<ruby>嬢<rt>じょう</rt></ruby>さんは<ruby>留学中<rt>りゅうがくちゅう</rt></ruby>です。
+  simple_meaning:
+    0: young lady
+    1: daughter
+'1002400':
+  hiragana: おたく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.たく
+    wanikani_level: null
+  kanji: お宅
+  samples:
+    0:
+      english: Thank you for inviting me to your home.
+      hiragana: おうちにさそってくれてありがとう。
+      kanji: お宅に誘ってくれてありがとう。
+      ruby: <ruby>お宅<rt>おうち</rt></ruby>に<ruby>誘<rt>さそ</rt></ruby>ってくれてありがとう。
+    1:
+      english: I'll visit your house tomorrow.
+      hiragana: あしたおうちにいきます。
+      kanji: 明日お宅に行きます。
+      ruby: <ruby>明日<rt>あした</rt></ruby><ruby>お宅<rt>おうち</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+  simple_meaning:
+    0: your house
+    1: your home
+'1002500':
+  hiragana: おみやげ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.みやげ
+    wanikani_level: '22'
+  kanji: お土産
+  samples:
+    0:
+      english: I bought some souvenirs for my friends.
+      hiragana: ともだちのためにおみやげをかいました。
+      kanji: 友達のためにお土産を買いました。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>のためにお<ruby>土産<rt>みやげ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
+    1:
+      english: This is a souvenir from my trip to Kyoto.
+      hiragana: これはきょうとのりょこうのお土産です。
+      kanji: これは京都の旅行のお土産です。
+      ruby: これは<ruby>京都<rt>きょうと</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>のお<ruby>土産<rt>みやげ</rt></ruby>です。
+    2:
+      english: Don't forget to bring back some souvenirs.
+      hiragana: おみやげを わすれずに もって かえって ね。
+      kanji: お土産を忘れずに持って帰ってね。
+      ruby: お<ruby>土産<rt>みやげ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れずに<ruby>持<rt>も</rt></ruby>って<ruby>帰<rt>かえ</rt></ruby>ってね。
+  simple_meaning:
+    0: souvenir
+    1: gift
+'1004690':
+  hiragana: このあいだ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こ.の.あいだ
+    wanikani_level: null
+  kanji: この間
+  samples:
+    0:
+      english: I saw her the other day at the mall.
+      hiragana: このあいだ わたし は かのじょ を えき で みました。
+      kanji: この間、私は彼女を駅で見ました。
+      ruby: <ruby>この間<rt>このあいだ</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>を<ruby>駅<rt>えき</rt></ruby>で<ruby>見<rt>み</rt></ruby>ました。
+    1:
+      english: He visited us the other day.
+      hiragana: このあいだ かれ は わたしたち を たずねました。
+      kanji: この間、彼は私たちを訪ねました。
+      ruby: <ruby>この間<rt>このあいだ</rt></ruby>、<ruby>彼<rt>かれ</rt></ruby>は<ruby>私たち<rt>わたしたち</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねました。
+  simple_meaning:
+    0: a while ago
+'1004710':
+  hiragana: このごろ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こ.の.ごろ
+    wanikani_level: '45'
+  kanji: この頃
+  samples:
+    0:
+      english: Lately, I've been feeling tired.
+      hiragana: このごろ、つかれて います。
+      kanji: この頃、疲れています。
+      ruby: この<ruby>頃<rt>ごろ</rt></ruby>、<ruby>疲<rt>つか</rt></ruby>れています。
+    1:
+      english: He has been working hard recently.
+      hiragana: このごろ かれ は いそがしく はたらいて います。
+      kanji: この頃、彼は忙しく働いています。
+      ruby: <ruby>この頃<rt>このごろ</rt></ruby>、<ruby>彼<rt>かれ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しく<ruby>働<rt>はたら</rt></ruby>いています。
+    2:
+      english: I haven't seen her around lately.
+      hiragana: このごろ かのじょ を あまり みかけません。
+      kanji: この頃、彼女をあまり見かけません。
+      ruby: この<ruby>頃<rt>ごろ</rt></ruby>、<ruby>彼女<rt>かのじょ</rt></ruby>をあまり<ruby>見<rt>み</rt></ruby>かけません。
+  simple_meaning:
+    0: recently
+    1: lately
+'1153890':
+  hiragana: あんしん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あん.しん
+    wanikani_level: '6'
+  kanji: 安心
+  samples:
+    0:
+      english: I feel a sense of relief.
+      hiragana: あんしんしています。
+      kanji: 安心しています。
+      ruby: <ruby>安心<rt>あんしん</rt></ruby>しています。
+    1:
+      english: You can trust their service; it's reliable.
+      hiragana: そのサービスはたんたんです、あんしんしてください。
+      kanji: そのサービスは頼りになります、安心してください。
+      ruby: そのサービスは<ruby>頼<rt>たよ</rt></ruby>りになります、<ruby>安心<rt>あんしん</rt></ruby>してください。
+    2:
+      english: It's a relief that the weather is good for the event.
+      hiragana: イベントのために天気がよいのはあんしんです。
+      kanji: イベントのために天気が良いのは安心です。
+      ruby: イベントのために<ruby>天気<rt>てんき</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いのは<ruby>安心<rt>あんしん</rt></ruby>です。
+  simple_meaning:
+    0: peace of mind
+    1: relief
+'1153930':
+  hiragana: あんぜん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あん.ぜん
+    wanikani_level: '6'
+  kanji: 安全
+  samples:
+    0:
+      english: Safety is our top priority.
+      hiragana: あんぜんはわたしたちのさいだいのひかくです。
+      kanji: 安全は私たちの最大の非課題です。
+      ruby: <ruby>安全<rt>あんぜん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>たちの<ruby>最大<rt>さいだい</rt></ruby>の<ruby>非課題<rt>ひかく</rt></ruby>です。
+    1:
+      english: Please follow safety procedures.
+      hiragana: あんぜんそちにしたがってください。
+      kanji: 安全そちに従ってください。
+      ruby: <ruby>安全<rt>あんぜん</rt></ruby>そちに<ruby>従<rt>したが</rt></ruby>ってください。
+    2:
+      english: We ensure the safety of our products.
+      hiragana: わたしたちはとうひんのあんぜんをたもっています。
+      kanji: 私たちは製品の安全を保っています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>製品<rt>せいひん</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>保<rt>たも</rt></ruby>っています。
+  simple_meaning:
+    0: safety
+    1: security
+'1155060':
+  hiragana: いか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: い.か
+    wanikani_level: '7'
+  kanji: 以下
+  samples:
+    0:
+      english: The price is 500 yen or less.
+      hiragana: ねだん は 500えん と いか で す。
+      kanji: 値段は500円と以下です。
+      ruby: <ruby>値段<rt>ねだん</rt></ruby>は<ruby>500<rt>ごひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>と<ruby>以下<rt>いか</rt></ruby>です。
+    1:
+      english: Children under 12 are free.
+      hiragana: 12さいかのこどもたちはむりょうです。
+      kanji: 12歳以下の子供たちは無料です。
+      ruby: <ruby>12歳<rt>じゅうにさい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>たちは<ruby>無料<rt>むりょう</rt></ruby>です。
+  simple_meaning:
+    0: below
+    1: under
+'1155090':
+  hiragana: いがい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: い.がい
+    wanikani_level: '7'
+  kanji: 以外
+  samples:
+    0:
+      english: Everyone except him came to the party.
+      hiragana: かれ いがい の みんな が パーティー に きました。
+      kanji: 彼以外の皆がパーティーに来ました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>がパーティーに<ruby>来<rt>き</rt></ruby>ました。
+    1:
+      english: There is nothing to do besides studying.
+      hiragana: べんきょう いがい に する こと が ありません。
+      kanji: 勉強以外にすることがありません。
+      ruby: <ruby>勉強<rt>べんきょう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>にすることがありません。
+    2:
+      english: I like all vegetables except for tomatoes.
+      hiragana: トマト いがい の やさい は すき です。
+      kanji: トマト以外の野菜は好きです。
+      ruby: トマト<ruby>以外<rt>いがい</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>は<ruby>好<rt>す</rt></ruby>きです。
+  simple_meaning:
+    1: except
+    2: other than
+'1155120':
+  hiragana: いじょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: い.じょう
+    wanikani_level: '7'
+  kanji: 以上
+  samples:
+    0:
+      english: The test is for students above 18 years old.
+      hiragana: テスト は 18さい いじょう の がくせい の ため です。
+      kanji: テストは18歳以上の学生のためです。
+      ruby: テストは18<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>のためです。
+    1:
+      english: He worked for more than 10 hours today.
+      hiragana: かれ は きょう 10じかん いじょう はたらきました。
+      kanji: 彼は今日10時間以上働きました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>10<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>働<rt>はたら</rt></ruby>きました。
+    2:
+      english: This event is over.
+      hiragana: この いべんと は いじょう です。
+      kanji: このイベントは以上です。
+      ruby: このイベントは<ruby>以上<rt>いじょう</rt></ruby>です。
+  simple_meaning:
+    1: above
+    2: more than
+'1155180':
+  hiragana: いない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: い.ない
+    wanikani_level: null
+  kanji: 以内
+  samples:
+    0:
+      english: Please finish this task within an hour.
+      hiragana: この しごと を 1じかん いない に おわらせて ください。
+      kanji: この仕事を1時間以内に終わらせてください。
+      ruby: この<ruby>仕事<rt>しごと</rt></ruby>を1<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>終<rt>お</rt></ruby>わらせてください。
+    1:
+      english: You must submit the report within a week.
+      hiragana: レポート は 1しゅうかん いない に ていしゅつ しなければ なりません。
+      kanji: レポートは1週間以内に提出しなければなりません。
+      ruby: レポートは1<ruby>週間<rt>しゅうかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>提出<rt>ていしゅつ</rt></ruby>しなければなりません。
+    2:
+      english: The store is within walking distance from here.
+      hiragana: みせ は ここ から あるいて いける いない に あります。
+      kanji: 店はここから歩いて行ける以内にあります。
+      ruby: <ruby>店<rt>みせ</rt></ruby>はここから<ruby>歩<rt>ある</rt></ruby>いて<ruby>行<rt>い</rt></ruby>ける<ruby>以内<rt>いない</rt></ruby>にあります。
+  simple_meaning:
+    1: within
+    2: inside of
+'1156530':
+  hiragana: いけん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: い.けん
+    wanikani_level: '11'
+  kanji: 意見
+  samples:
+    0:
+      english: I would like to hear your opinion.
+      hiragana: あなた の いけん を ききたい です。
+      kanji: あなたの意見を聞きたいです。
+      ruby: あなたの<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きたいです。
+    1:
+      english: Please share your thoughts on the matter.
+      hiragana: そのこと に ついて あなた の いけん を おしえて ください。
+      kanji: そのことについてあなたの意見を教えてください。
+      ruby: そのことについてあなたの<ruby>意見<rt>いけん</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。
+    2:
+      english: He expressed a different opinion.
+      hiragana: かれ は ちがう いけん を ひょうげん しました。
+      kanji: 彼は違う意見を表現しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>う<ruby>意見<rt>いけん</rt></ruby>を<ruby>表現<rt>ひょうげん</rt></ruby>しました。
+  simple_meaning:
+    1: opinion
+    2: view
+    3: comment
+'1158210':
+  hiragana: うつる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うつ.る
+    wanikani_level: '30'
+  kanji: 移る
+  samples:
+    0:
+      english: The company relocated to a new office.
+      hiragana: かいしゃ は あたらし びる に うつり ました。
+      kanji: 会社は新しいビルに移りました。
+      ruby: <ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby> しいビル に<ruby>移<rt>うつ</rt></ruby>りました。
+    1:
+      english: He transferred to a new school.
+      hiragana: かれ は あたらしい がっこう に うつりました。
+      kanji: 彼は新しい学校に移りました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>学校<rt>がっこう</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>りました。
+    2:
+      english: The pain shifted from my back to my leg.
+      hiragana: いたみ は せなか から あし に うつりました。
+      kanji: 痛みは背中から足に移りました。
+      ruby: <ruby>痛<rt>いた</rt></ruby>みは<ruby>背中<rt>せなか</rt></ruby>から<ruby>足<rt>あし</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>りました。
+  simple_meaning:
+    1: to move
+    2: to transfer
+    3: to shift
+'1159810':
+  hiragana: いがく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: い.がく
+    wanikani_level: '8'
+  kanji: 医学
+  samples:
+    0:
+      english: She studies medicine at university.
+      hiragana: かのじょ は だいがく で いがく を べんきょう しています。
+      kanji: 彼女は大学で医学を勉強しています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>で<ruby>医学<rt>いがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+    1:
+      english: Advances in medicine have saved many lives.
+      hiragana: いがく の しんぽ は おおく の いのち を すくいました。
+      kanji: 医学の進歩は多くの命を救いました。
+      ruby: <ruby>医学<rt>いがく</rt></ruby>の<ruby>進歩<rt>しんぽ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>いました。
+    2:
+      english: He is interested in medical research.
+      hiragana: かれ は いがく の けんきゅう に きょうみ が あります。
+      kanji: 彼は医学の研究に興味があります。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>医学<rt>いがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>があります。
+  simple_meaning:
+    1: medicine
+    2: medical science
+'1160570':
+  hiragana: そだてる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: そだ.て.る
+    wanikani_level: '13'
+  kanji: 育てる
+  samples:
+    0:
+      english: She's raising three children on her own.
+      hiragana: かのじょ は ひと り で こども さん に そだてて います。
+      kanji: 彼女は一人で子供三人に育てています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>一人<rt>ひとり</rt></ruby>で<ruby>子供<rt>こども</rt></ruby><ruby>三人<rt>さんにん</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>てています。
+    1:
+      english: They nurture their plants in the garden.
+      hiragana: かれら は にわ で しょくぶつ を そだてて います。
+      kanji: 彼らは庭で植物を育てています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>庭<rt>にわ</rt></ruby>で<ruby>植物<rt>しょくぶつ</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てています。
+  simple_meaning:
+    1: to raise
+    2: to nurture
+'1164010':
+  hiragana: いっしょうけんめい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: いっ.しょう.けん.めい
+    wanikani_level: '40'
+  kanji: 一生懸命
+  samples:
+    0:
+      english: She works diligently on her studies.
+      hiragana: かのじょ は がくぶ に いっしょうけんめい はたらいて います。
+      kanji: 彼女は学部に一生懸命働いています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>学部<rt>がくぶ</rt></ruby>に<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>働<rt>はたら</rt></ruby>いています。
+    1:
+      english: He always tries his best in everything he does.
+      hiragana: かれ は なんでも ひとつ でも いっしょうけんめい がんばります。
+      kanji: 彼は何でも一つでも一生懸命頑張ります。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でも<ruby>一<rt>ひと</rt></ruby>つでも<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>ります。
+    2:
+      english: They practiced diligently for the upcoming competition.
+      hiragana: かれら は こんき しあい の ため に いっしょうけんめい れんしゅう しました。
+      kanji: 彼らは今期試合のために一生懸命練習しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>今期<rt>こんき</rt></ruby><ruby>試合<rt>しあい</rt></ruby>のために<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>しました。
+  simple_meaning:
+    1: with all one's might
+    2: diligently
+    3: earnestly
+'1165670':
+  hiragana: いっぱい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: いっ.ぱい
+    wanikani_level: '29'
+  kanji: 一杯
+  samples:
+    0:
+      english: I'd like a cup of coffee, please.
+      hiragana: コーヒー を いっぱい ください。
+      kanji: コーヒーを一杯ください。
+      ruby: コーヒーを<ruby>一杯<rt>いっぱい</rt></ruby>ください。
+    1:
+      english: The glass is filled to the brim with water.
+      hiragana: コップ は みず で いっぱい です。
+      kanji: コップは水で一杯です。
+      ruby: コップは<ruby>水<rt>みず</rt></ruby>で<ruby>一杯<rt>いっぱい</rt></ruby>です。
+    2:
+      english: He ordered a bowl of ramen.
+      hiragana: かれ は らーめん を いっぱい ちゅうもん しました。
+      kanji: 彼はラーメンを一杯注文しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はラーメンを<ruby>一杯<rt>いっぱい</rt></ruby><ruby>注文<rt>ちゅうもん</rt></ruby>しました。
+  simple_meaning:
+    1: a cup
+    2: a glass
+    3: a bowl
+'1169340':
+  hiragana: ひっこす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひ.っ.こ.す
+    wanikani_level: '34'
+  kanji: 引っ越す
+  samples:
+    0:
+      english: We are moving to a new apartment next month.
+      hiragana: わたしたち は らいげつ あたらしい アパート に ひっこします。
+      kanji: 私たちは来月新しいアパートに引っ越します。
+      ruby: <ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby><ruby>新<rt>あたら</rt></ruby>しいアパートに<ruby>引っ越<rt>ひっこ</rt></ruby>します。
+    1:
+      english: Did you already move to your new house?
+      hiragana: もう あたらしい いえ に ひっこしました か？
+      kanji: もう新しい家に引っ越しましたか？
+      ruby: もう<ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>に<ruby>引っ越<rt>ひっこ</rt></ruby>しましたか？
+    2:
+      english: They decided to relocate to a different city for work.
+      hiragana: かれら は しごと の ため に べつ の とし に ひっこすこと に きめました。
+      kanji: 彼らは仕事のために別の都市に引っ越すことに決めました。
+      ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>のために<ruby>別<rt>べつ</rt></ruby>の<ruby>都市<rt>とし</rt></ruby>に<ruby>引っ越<rt>ひっこ</rt></ruby>すことに<ruby>決<rt>き</rt></ruby>めました。
+  simple_meaning:
+    1: to move
+    2: to relocate
+'1172660':
+  hiragana: はこぶ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はこ.ぶ
+    wanikani_level: '10'
+  kanji: 運ぶ
+  samples:
+    0:
+      english: Please help me carry these bags.
+      hiragana: これら の かばん を はこんで ください。
+      kanji: これらのかばんを運んでください。
+      ruby: これらのかばんを<ruby>運<rt>はこ</rt></ruby>んでください。
+    1:
+      english: The workers are transporting goods to the warehouse.
+      hiragana: しごといん たち は しょうひん を そうこ に はこんで います。
+      kanji: 仕事員たちは商品を倉庫に運んでいます。
+      ruby: <ruby>仕事<rt>しごと</rt></ruby><ruby>員<rt>いん</rt></ruby>たちは<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>んでいます。
+    2:
+      english: He carried the heavy box up the stairs.
+      hiragana: かれ は おもい はこ を かいだん に のぼりました。
+      kanji: 彼は重い箱を階段に運びました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>重<rt>おも</rt></ruby>い<ruby>箱<rt>はこ</rt></ruby>を<ruby>階段<rt>かいだん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>びました。
+  simple_meaning:
+    1: to carry
+    2: to transport
+'1172870':
+  hiragana: うんてんしゅ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うん.てん.しゅ
+    wanikani_level: '12'
+  kanji: 運転手
+  samples:
+    0:
+      english: The driver of the bus is very skilled.
+      hiragana: バス の うんてんしゅ は とても じょうず です。
+      kanji: バスの運転手はとても上手です。
+      ruby: バスの<ruby>運転手<rt>うんてんしゅ</rt></ruby>はとても<ruby>上手<rt>じょうず</rt></ruby>です。
+    1:
+      english: She works as a taxi driver in the city.
+      hiragana: かのじょ は まち で タクシー の うんてんしゅ として しごと を して います。
+      kanji: 彼女は街でタクシーの運転手として仕事をしています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>街<rt>まち</rt></ruby>でタクシーの<ruby>運転手<rt>うんてんしゅ</rt></ruby>として<ruby>仕事<rt>しごと</rt></ruby>をしています。
+    2:
+      english: The truck driver drove through the mountains.
+      hiragana: トラック の うんてんしゅ は やま を とおって いきました。
+      kanji: トラックの運転手は山を通って行きました。
+      ruby: トラックの<ruby>運転手<rt>うんてんしゅ</rt></ruby>は<ruby>山<rt>やま</rt></ruby>を<ruby>通<rt>とお</rt></ruby>って<ruby>行<rt>い</rt></ruby>きました。
+  simple_meaning:
+    1: driver
+    2: chauffeur
+'1173100':
+  hiragana: くも
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: くも
+    wanikani_level: '8'
+  kanji: 雲
+  samples:
+    0:
+      english: The sky is clear without a cloud.
+      hiragana: そら は くも ひとつ ない です。
+      kanji: 空は雲ひとつないです。
+      ruby: <ruby>空<rt>そら</rt></ruby>は<ruby>雲<rt>くも</rt></ruby>ひとつないです。
+    1:
+      english: Dark clouds gathered before the storm.
+      hiragana: あらし の まえ に くろい くも が あつまりました。
+      kanji: 嵐の前に黒い雲が集まりました。
+      ruby: <ruby>嵐<rt>あらし</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>黒<rt>くろ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。
+  simple_meaning:
+    1: cloud
+'1177820':
+  hiragana: とおく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: とお.く
+    wanikani_level: '18'
+  kanji: 遠く
+  samples:
+    0:
+      english: The mountains in the distance look beautiful.
+      hiragana: とおく の やま は うつくしい です。
+      kanji: 遠くの山は美しいです。
+      ruby: <ruby>遠<rt>とお</rt></ruby>くの<ruby>山<rt>やま</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。
+    1:
+      english: He traveled far away to explore new places.
+      hiragana: かれ は あたらしい ところ を たんさく する ため に とおく へ いきました。
+      kanji: 彼は新しい所を探索するために遠くへ行きました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>所<rt>ところ</rt></ruby>を<ruby>探索<rt>たんさく</rt></ruby>するために<ruby>遠<rt>とお</rt></ruby>くへ<ruby>行<rt>い</rt></ruby>きました。
+    2:
+      english: The city lights shimmered in the distance.
+      hiragana: とおく の まち の ひかり が ひらめいて いました。
+      kanji: 遠くの町の光がひらめいていました。
+      ruby: <ruby>遠<rt>とお</rt></ruby>くの<ruby>町<rt>まち</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>がひらめいていました。
+  simple_meaning:
+    1: far
+    2: distant
+'1178450':
+  hiragana: えんりょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: えん.りょ
+    wanikani_level: '40'
+  kanji: 遠慮
+  samples:
+    0:
+      english: Please don't hesitate to ask if you have any questions.
+      hiragana: しつもん が あれば どうぞ えんりょ せず きいて ください。
+      kanji: 質問があればどうぞ遠慮せず聞いてください。
+      ruby: <ruby>質問<rt>しつもん</rt></ruby>があればどうぞ<ruby>遠慮<rt>えんりょ</rt></ruby>せず<ruby>聞<rt>き</rt></ruby>いてください。
+    1:
+      english: He showed consideration for his friend by offering his help.
+      hiragana: かれ は ともだち の ため に てつだい を して えんりょ しました。
+      kanji: 彼は友達のために手助けをして遠慮しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>のために<ruby>手助<rt>てつだ</rt></ruby>けをして<ruby>遠慮<rt>えんりょ</rt></ruby>しました。
+    2:
+      english: She declined the invitation out of politeness.
+      hiragana: かのじょ は ていらい として さそい を えんりょ しました。
+      kanji: 彼女は丁寧として誘いを遠慮しました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>丁寧<rt>ていらい</rt></ruby>として<ruby>誘<rt>さそ</rt></ruby>いを<ruby>遠慮<rt>えんりょ</rt></ruby>しました。
+  simple_meaning:
+    1: consideration
+    2: politeness
+'1179005':
+  hiragana: よごれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よご.れ.る
+    wanikani_level: '32'
+  kanji: 汚れる
+  samples:
+    0:
+      english: The white shirt got stained with coffee.
+      hiragana: しろい しゃつ が こーひ で よごれ ました。
+      kanji: 白いシャツがコーヒーで汚れました。
+      ruby: <ruby>白<rt>しろ</rt></ruby>いシャツがコーヒーで<ruby>汚<rt>よご</rt></ruby>れました。
+    1:
+      english: The kitchen floor is easy to get stained.
+      hiragana: キッチン の ゆか は すぐ に よごれやすい です。
+      kanji: キッチンの床はすぐに汚れやすいです。
+      ruby: キッチンの<ruby>床<rt>ゆか</rt></ruby>はすぐに<ruby>汚<rt>よご</rt></ruby>れやすいです。
+  simple_meaning:
+    1: to become dirty
+    2: to get stained
+'1182620':
+  hiragana: おく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おく
+    wanikani_level: '13'
+  kanji: 億
+  samples:
+    0:
+      english: One billion people live in that country.
+      hiragana: いっ おく にん が その くに に せいきゅう して います。
+      kanji: 一億人がその国に生きています。
+      ruby: <ruby>一億人<rt>いちおくにん</rt></ruby>が<ruby>その国<rt>そのくに</rt></ruby>に<ruby>生<rt>せい</rt></ruby>きています。
+    1:
+      english: She won a billion yen in the lottery.
+      hiragana: かのじょ は たからくじ で いちおくえん を かった。
+      kanji: 彼女は宝くじで一億円を勝った。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>宝<rt>たから</rt></ruby>くじで<ruby>一億円<rt>いちおくえん</rt></ruby>を<ruby>勝<rt>か</rt></ruby>った。
+    2:
+      english: The company made a profit of one billion dollars.
+      hiragana: かいしゃ は いちおくどる あけ の りえき を だしました。
+      kanji: 会社は一億ドルの利益を出しました。
+      ruby: <ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>一億ドル<rt>いちおくどる</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。
+  simple_meaning:
+    1: hundred million
+    2: billion
+'1182710':
+  hiragana: おくじょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おく.じょう
+    wanikani_level: '11'
+  kanji: 屋上
+  samples:
+    0:
+      english: There is a beautiful garden on the rooftop.
+      hiragana: おくじょう に うつくしい にわ が あります。
+      kanji: 屋上に美しい庭があります。
+      ruby: <ruby>屋上<rt>おくじょう</rt></ruby>に<ruby>美<rt>うつく</rt></ruby>しい<ruby>庭<rt>にわ</rt></ruby>があります。
+    1:
+      english: They had a party on the rooftop.
+      hiragana: かれら は おくじょう で パーティー を しました。
+      kanji: 彼らは屋上でパーティーをしました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>屋上<rt>おくじょう</rt></ruby>でパーティーをしました。
+    2:
+      english: The rooftop offers a great view of the city.
+      hiragana: おくじょう から まち の すばらしい ふうけい が みえます。
+      kanji: 屋上から町の素晴らしい風景が見えます。
+      ruby: <ruby>屋上<rt>おくじょう</rt></ruby>から<ruby>町<rt>まち</rt></ruby>の<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>風景<rt>ふうけい</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。
+  simple_meaning:
+    1: rooftop
+    2: roof garden
+'1184160':
+  hiragana: さがる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さ.が.る
+    wanikani_level: '1'
+  kanji: 下がる
+  samples:
+    0:
+      english: The temperature is starting to drop.
+      hiragana: おんど が さがり はじめました。
+      kanji: 温度が下がり始めました。
+      ruby: <ruby>温度<rt>おんど</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり<ruby>始<rt>はじ</rt></ruby>めました。
+    2:
+      english: The price of the stock went down today.
+      hiragana: きょう は かぶ この ねだん が さがりました。
+      kanji: 今日は株価が下がりました。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>株価<rt>かぶか</rt></ruby>が<ruby>下がりました<rt>さがりました</rt></ruby>。
+  simple_meaning:
+    1: to drop
+    2: to go down
+'1184170':
+  hiragana: さげる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さ.げ.る
+    wanikani_level: '1'
+  kanji: 下げる
+  samples:
+    0:
+      english: Please lower your voice.
+      hiragana: こえ を さげて ください。
+      kanji: 声を下げてください。
+      ruby: <ruby>声<rt>こえ</rt></ruby>を<ruby>下げて<rt>さげて</rt></ruby>ください。
+    1:
+      english: The price of the product was lowered during the sale.
+      hiragana: うりもの の ねだん は うりだし で さげられました。
+      kanji: 売り物の値段は売り出しで下げられました。
+      ruby: <ruby>売り物<rt>うりもの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は<ruby>売り出し<rt>うりだし</rt></ruby>で<ruby>下げられました<rt>さげられました</rt></ruby>。
+  simple_meaning:
+    1: to lower
+    2: to put down
+'1185290':
+  hiragana: げしゅく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: げ.しゅく
+    wanikani_level: null
+  kanji: 下宿
+  samples:
+    0:
+      english: I found a cheap boarding house near the university.
+      hiragana: だいがく の ちかく に やすい げしゅく を みつけました。
+      kanji: 大学の近くに安い下宿を見つけました。
+      ruby: <ruby>大学<rt>だいがく</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>安<rt>やす</rt></ruby>い<ruby>下宿<rt>げしゅく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
+    1:
+      english: He has been living in a boarding house for years.
+      hiragana: かれ は なんねん も げしゅく に すんで います。
+      kanji: 彼は何年も下宿に住んでいます。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>何年<rt>なんねん</rt></ruby>も<ruby>下宿<rt>げしゅく</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    2:
+      english: My friend moved into a new boarding house.
+      hiragana: ともだち は あたらしい げしゅく に ひっこしました。
+      kanji: 友達は新しい下宿に引っ越しました。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>下宿<rt>げしゅく</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しました。
+  simple_meaning:
+    1: boarding house
+    2: lodging
+'1185930':
+  hiragana: したぎ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: した.ぎ
+    wanikani_level: '14'
+  kanji: 下着
+  samples:
+    0:
+      english: She bought new underwear at the store.
+      hiragana: かのじょ は みせ で あたらしい したぎ を かいました。
+      kanji: 彼女は店で新しい下着を買いました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>下着<rt>したぎ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
+    1:
+      english: He realized he forgot to pack his underwear for the trip.
+      hiragana: かれ は りょこう の とき したぎ を つめる の を わすれた こと に きづきました。
+      kanji: 彼は旅行の時下着を詰めるのを忘れたことに気付きました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby><ruby>下着<rt>したぎ</rt></ruby>を<ruby>詰<rt>つ</rt></ruby>めるのを<ruby>忘れた<rt>わすれた</rt></ruby>ことに<ruby>気付<rt>きづ</rt></ruby>きました。
+  simple_meaning:
+    1: underwear
+    2: lingerie
+'1192420':
+  hiragana: かない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.ない
+    wanikani_level: null
+  kanji: 家内
+  samples:
+    0:
+      english: My wife is a great cook.
+      hiragana: わたし の かない は とても うまい りょうり が できます。
+      kanji: 私の家内はとても上手い料理ができます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>家内<rt>かない</rt></ruby>はとても<ruby>上手<rt>うま</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>ができます。
+    1:
+      english: He cares deeply for his family.
+      hiragana: かれ は かぞく の こと を ひと の よう に かんがえて います。
+      kanji: 彼は家族のことを人のように考えています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>のことを<ruby>人<rt>ひと</rt></ruby>のように<ruby>考<rt>かんが</rt></ruby>えています。
+    2:
+      english: She takes care of the household chores.
+      hiragana: かのじょ は かてい の しごと を たんとう して います。
+      kanji: 彼女は家庭の仕事を担当しています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>家庭<rt>かてい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>しています。
+  simple_meaning:
+    1: one's wife
+    2: one's spouse
+    3: inside the house
+    4: household
+'1192700':
+  hiragana: かがく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.がく
+    wanikani_level: '6'
+  kanji: 科学
+  samples:
+    0:
+      english: I enjoy studying science.
+      hiragana: わたし は かがく を べんきょう する の が す き です。
+      kanji: 私は科学を勉強するのが好きです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>科学<rt>かがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。
+    1:
+      english: Scientists explore the mysteries of the universe.
+      hiragana: かがく か は うちゅう の なぞ に た げ い る。
+      kanji: 科学家は宇宙の謎に立ち向かう。
+      ruby: <ruby>科学家<rt>かがくか</rt></ruby>は<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち<ruby>向<rt>む</rt></ruby>かう。
+    2:
+      english: In school, we learn about various branches of science.
+      hiragana: がっこう で は いろいろ な かがく の しじゅ く を べんきょう します。
+      kanji: 学校では色々な科学の支柱を学習します。
+      ruby: <ruby>学校<rt>がっこう</rt></ruby>では<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>科学<rt>かがく</rt></ruby>の<ruby>支柱<rt>しじゅく</rt></ruby>を<ruby>学習<rt>べんきょう</rt></ruby>します。
+  simple_meaning:
+    1: science
+'1193610':
+  hiragana: ひ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひ
+    wanikani_level: '2'
+  kanji: 火
+  samples:
+    0:
+      english: Fire can be both beautiful and destructive.
+      hiragana: ひ は うつくしい と ぶんけっさい の どちら でも ありえます。
+      kanji: 火は美しいと分割壊のどちらでもありえます。
+      ruby: <ruby>火<rt>ひ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいと<ruby>分割壊<rt>ぶんけっさい</rt></ruby>のどちらでもありえます。
+    2:
+      english: The house was completely destroyed by the fire.
+      hiragana: いえ は かじ によって まるごと ほろびました。
+      kanji: 家は火事によって丸ごと滅びました。
+      ruby: <ruby>家<rt>いえ</rt></ruby>は<ruby>火事<rt>かじ</rt></ruby>によって<ruby>丸<rt>まる</rt></ruby>ごと<ruby>滅<rt>ほろ</rt></ruby>びました。
+  simple_meaning:
+    1: fire
+'1193950':
+  hiragana: かじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.じ
+    wanikani_level: '9'
+  kanji: 火事
+  samples:
+    0:
+      english: There was a fire in the building last night.
+      hiragana: きのう の よる びる の なか で かじ が ありました。
+      kanji: 昨日の夜ビルの中で火事がありました。
+      ruby: <ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>ビルの<ruby>中<rt>なか</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>がありました。
+    1:
+      english: The firefighters quickly responded to the fire emergency.
+      hiragana: しょうぼう しゃ は すばやく かじ じょうきゅう に たいおう しました。
+      kanji: 消防車は速やかに火事状況に対応しました。
+      ruby: <ruby>消防<rt>しょうぼう</rt></ruby><ruby>車<rt>しゃ</rt></ruby>は<ruby>速<rt>すみ</rt></ruby>やかに<ruby>火事<rt>かじ</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しました。
+    2:
+      english: Everyone evacuated the building when the fire alarm sounded.
+      hiragana: かじ そうしき が なった とき だれ も びる を ひとっ しゃ しました。
+      kanji: 火事装置が鳴った時誰もビルを一人者しました。
+      ruby: <ruby>火事装置<rt>かじそうしき</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>った<ruby>時<rt>とき</rt></ruby><ruby>誰<rt>だれ</rt></ruby>もビルを<ruby>一人者<rt>ひとっしゃ</rt></ruby>しました。
+  simple_meaning:
+    1: fire
+    2: fire emergency
+    3: fire alarm
+'1194660':
+  hiragana: はなみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はな.み
+    wanikani_level: '4'
+  kanji: 花見
+  samples:
+    0:
+      english: I like cherry blossom viewing.
+      hiragana: わたし は はなみ が すき です。
+      kanji: 私は花見が好きです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>花見<rt>はなみ</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>です。
+    1:
+      english: Cherry blossom viewing is done in spring.
+      hiragana: はなみ は はる に します。
+      kanji: 花見は春にします。
+      ruby: <ruby>花見<rt>はなみ</rt></ruby>は<ruby>春<rt>はる</rt></ruby>にします。
+  simple_meaning:
+    1: cherry blossom viewing
+    2: hanami (cherry blossom festival)
+'1195840':
+  hiragana: かちょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.ちょう
+    wanikani_level: '13'
+  kanji: 課長
+  samples:
+    0:
+      english: Our department manager, Mr. Tanaka, is very experienced.
+      hiragana: わたしたち の かちょう 、 たなか さん は とても けいけん が あります。
+      kanji: 私たちの課長、田中さんはとても経験があります。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちの<ruby>課長<rt>かちょう</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんはとても<ruby>経験<rt>けいけん</rt></ruby>があります。
+    1:
+      english: The section chief will hold a meeting this afternoon.
+      hiragana: ぶ ちょう は けっさ このご に かいぎ を ひらき ます。
+      kanji: 部長は今日この午に会議を開きます。
+      ruby: <ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>この<ruby>午<rt>ご</rt></ruby>に<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きます。
+    2:
+      english: She was promoted to department head last month.
+      hiragana: かのじょ は せんげつ ぶちょう に なりました。
+      kanji: 彼女は先月部長になりました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>になりました。
+  simple_meaning:
+    1: section chief
+    2: department manager
+'1195970':
+  hiragana: すぎる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: す.ぎ.る
+    wanikani_level: '22'
+  kanji: 過ぎる
+  samples:
+    0:
+      english: Time passes quickly when you're having fun.
+      hiragana: たのしい とき は じかん が はやく すぎ ます。
+      kanji: 楽しい時は時間が早く過ぎます。
+      ruby: <ruby>楽<rt>たの</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>過<rt>す</rt></ruby>ぎます。
+    2:
+      english: The train has already passed the station.
+      hiragana: れっしゃ は もう えき を すぎました。
+      kanji: 列車はもう駅を過ぎました。
+      ruby: <ruby>列車<rt>れっしゃ</rt></ruby>はもう<ruby>駅<rt>えき</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎました。
+  simple_meaning:
+    1: to pass
+    2: to exceed
+'1198360':
+  hiragana: かいぎ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かい.ぎ
+    wanikani_level: '20'
+  kanji: 会議
+  samples:
+    0:
+      english: The meeting will take place in the conference room.
+      hiragana: かいぎ は かんたいしつ で おこなわれます。
+      kanji: 会議は会議室で行われます。
+      ruby: <ruby>会議<rt>かいぎ</rt></ruby>は<ruby>会議室<rt>かいぎしつ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>われます。
+    1:
+      english: They had a productive business meeting yesterday.
+      hiragana: かれら は きのう は しごと かいぎ を たんとう しました。
+      kanji: 彼らは昨日は仕事会議を担当しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>昨日<rt>きのう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>しました。
+    2:
+      english: The international conference will host delegates from many countries.
+      hiragana: こくさい かいぎ は たくさん の くに の しほう が たいいん として もうけられ ます。
+      kanji: 国際会議は多くの国の使節として催されます。
+      ruby: <ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>は<ruby>多<rt>たく</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>の<ruby>使節<rt>しせつ</rt></ruby>として<ruby>催<rt>もよお</rt></ruby>されます。
+  simple_meaning:
+    1: meeting
+    2: conference
+'1198380':
+  hiragana: かいぎしつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かい.ぎ.しつ
+    wanikani_level: '20'
+  kanji: 会議室
+  samples:
+    0:
+      english: The meeting room is reserved for tomorrow's presentation.
+      hiragana: かいぎしつ は あす の ひょうげん の ため に よやく されて います。
+      kanji: 会議室は明日の表現のために予約されています。
+      ruby: <ruby>会議室<rt>かいぎしつ</rt></ruby>は<ruby>明日<rt>あす</rt></ruby>の<ruby>表現<rt>ひょうげん</rt></ruby>のために<ruby>予約<rt>よやく</rt></ruby>されています。
+    1:
+      english: The conference room can accommodate up to 50 people.
+      hiragana: かんたいしつ は ごじゅう にん まで うけつける こと が できます。
+      kanji: 会議室は50人まで受けつけることができます。
+      ruby: <ruby>会議室<rt>かいぎしつ</rt></ruby>は50<ruby>人<rt>にん</rt></ruby>まで<ruby>受<rt>う</rt></ruby>けつけることができます。
+    2:
+      english: Please make sure to book the meeting room in advance.
+      hiragana: かいぎしつ は さき よやく して ください。
+      kanji: 会議室は先予約してください。
+      ruby: <ruby>会議室<rt>かいぎしつ</rt></ruby>は<ruby>先<rt>さき</rt></ruby><ruby>予約<rt>よやく</rt></ruby>してください。
+  simple_meaning:
+    1: conference room
+    2: meeting room
+'1198660':
+  hiragana: かいじょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かい.じょう
+    wanikani_level: null
+  kanji: 会場
+  samples:
+    0:
+      english: The concert will be held at the large venue downtown.
+      hiragana: コンサート は おおきい かいじょう で ひかえて います。
+      kanji: コンサートは大きい会場で開催されています。
+      ruby: コンサートは<ruby>大<rt>おお</rt></ruby>きい<ruby>会場<rt>かいじょう</rt></ruby>で<ruby>開催<rt>かいさい</rt></ruby>されています。
+    1:
+      english: The wedding reception took place in a beautiful hall.
+      hiragana: けっこん しき は うつくしい ほーる で おこなわれました。
+      kanji: 結婚式は美しい会場で行われました。
+      ruby: <ruby>結婚式<rt>けっこんしき</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい<ruby>会場<rt>かいじょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>われました。
+  simple_meaning:
+    1: venue
+    2: location
+'1198880':
+  hiragana: かいわ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かい.わ
+    wanikani_level: '8'
+  kanji: 会話
+  samples:
+    0:
+      english: This textbook has many conversations.
+      hiragana: この きょうかしょ に は おおく の かいわ が あります。
+      kanji: この教科書には多くの会話があります。
+      ruby: この<ruby>教科書<rt>きょうかしょ</rt></ruby>には<ruby>多<rt>おお</rt></ruby>くの<ruby>会話<rt>かいわ</rt></ruby>があります。
+    1:
+      english: I practice Japanese conversation every day.
+      hiragana: わたし は まいにち にほんご の かいわ を れんしゅう します。
+      kanji: 私は毎日日本語の会話を練習します。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>します。
+    2:
+      english: That conversation was very interesting.
+      hiragana: あの かいわ は とても おもしろかった です。
+      kanji: あの会話はとても面白かったです。
+      ruby: あの<ruby>会話<rt>かいわ</rt></ruby>はとても<ruby>面白かった<rt>おもしろかった</rt></ruby>です。
+  simple_meaning:
+    1: conversation
+    2: dialogue
+'1199890':
+  hiragana: こわす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こわ.す
+    wanikani_level: '29'
+  kanji: 壊す
+  samples:
+    0:
+      english: I broke the vase.
+      hiragana: わたし は かびん を こわしました。
+      kanji: 私は花瓶を壊しました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>花瓶<rt>かびん</rt></ruby>を<ruby>壊しました<rt>こわしました</rt></ruby>。
+    1:
+      english: Don't break the toy.
+      hiragana: おもちゃ を こわさない で ください。
+      kanji: おもちゃを壊さないでください。
+      ruby: おもちゃを<ruby>壊さない<rt>こわさない</rt></ruby>でください。
+    2:
+      english: He accidentally broke the computer.
+      hiragana: かれ は まちがって コンピューター を こわしました。
+      kanji: 彼は間違ってコンピューターを壊しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>間<rt>ま</rt></ruby><ruby>違<rt>ち</rt></ruby>ってコンピューターを<ruby>壊<rt>こわ</rt></ruby>しました。
+  simple_meaning:
+    1: to break (something)
+    2: to destroy
+'1199900':
+  hiragana: こわれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こわ.れ.る
+    wanikani_level: '31'
+  kanji: 壊れる
+  samples:
+    0:
+      english: The vase broke.
+      hiragana: かびん が こわれました。
+      kanji: 花瓶が壊れました。
+      ruby: <ruby>花瓶<rt>かびん</rt></ruby>が<ruby>壊れました<rt>こわれました</rt></ruby>。
+    1:
+      english: The toy is broken.
+      hiragana: おもちゃ が こわれています。
+      kanji: おもちゃが壊れています。
+      ruby: おもちゃが<ruby>壊<rt>こわ</rt></ruby>れています。
+    2:
+      english: The computer broke down yesterday.
+      hiragana: きのう、コンピューター が こわれました。
+      kanji: 昨日、コンピューターが壊れました。
+      ruby: <ruby>昨日<rt>きのう</rt></ruby>、コンピューターが<ruby>壊れました<rt>こわれました</rt></ruby>。
+  simple_meaning:
+    1: to break (intransitive)
+    2: to be broken
+'1201280':
+  hiragana: かいがん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かい.がん
+    wanikani_level: '11'
+  kanji: 海岸
+  samples:
+    1:
+      english: The coastline of this island is known for its beautiful beaches.
+      hiragana: この しま の かいがんせん は うつくしい すなはま で しら れて います。
+      kanji: この島の海岸線は美しい砂浜で知られています。
+      ruby: この<ruby>島<rt>しま</rt></ruby>の<ruby>海岸線<rt>かいがんせん</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい<ruby>砂浜<rt>すなはま</rt></ruby>で<ruby>知<rt>し</rt></ruby>られています。
+    2:
+      english: They built a seaside resort along the coast.
+      hiragana: かれら は かいがん に みずうみ じょう りょう しを たて ました。
+      kanji: 彼らは海岸に湖上旅館を建てました。
+      ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>海岸<rt>かいがん</rt></ruby>に<ruby>湖上旅館<rt>みずうみじょうりょうかん</rt></ruby>を<ruby>建<rt>た</rt></ruby>てました。
+  simple_meaning:
+    1: coastline
+    2: beach
+'1202440':
+  hiragana: ひらく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひら.く
+    wanikani_level: null
+  kanji: 開く
+  samples:
+    0:
+      english: Please open the door for me.
+      hiragana: どうぞ わたし の ため に トビラ を ひらいて ください。
+      kanji: どうぞ私のために扉を開けてください。
+      ruby: どうぞ<ruby>私<rt>わたし</rt></ruby>のために<ruby>扉<rt>とびら</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けてください。
+    1:
+      english: The store opens at 9 AM every day.
+      hiragana: まい ひ あさ ９ じ に みせ が ひらきます。
+      kanji: 毎日朝9時に店が開きます。
+      ruby: <ruby>毎日朝9時<rt>まいにちあさ9じ</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>きます。
+  simple_meaning:
+    1: to open
+    2: to bloom
+'1207250':
+  hiragana: たのしみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たの.し.み
+    wanikani_level: '10'
+  kanji: 楽しみ
+  samples:
+    0:
+      english: I'm looking forward to the weekend; it's going to be fun!
+      hiragana: しゅうまつ が たのしみ です！
+      kanji: 週末が楽しみです！。
+      ruby: <ruby>週末<rt>しゅうまつ</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみです！。
+    2:
+      english: Traveling to new places is always a joy.
+      hiragana: あたらしい ところ へ いく の は つねに たのしみ です。
+      kanji: 新しいところへ行くのは常に楽しみです。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しいところへ<ruby>行<rt>い</rt></ruby>くのは<ruby>常<rt>つね</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しみです。
+  simple_meaning:
+    1: enjoyment
+    2: excitement
+'1207270':
+  hiragana: たのしむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たの.し.む
+    wanikani_level: '10'
+  kanji: 楽しむ
+  samples:
+    0:
+      english: I enjoy reading books.
+      hiragana: わたし は ほん を よむ の を たのしんで います。
+      kanji: 私は本を読むのを楽しんでいます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むのを<ruby>楽<rt>たの</rt></ruby>しんでいます。
+    1:
+      english: She enjoys playing the piano.
+      hiragana: かのじょ は ピアノ を ひく こと を たのしんで います。
+      kanji: 彼女はピアノを弾くことを楽しんでいます。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>はピアノを<ruby>弾<rt>ひ</rt></ruby>くことを<ruby>楽<rt>たの</rt></ruby>しんでいます。
+    2:
+      english: They enjoyed the party last night.
+      hiragana: かれら は ゆうべ の パーティー を たのしみました。
+      kanji: 彼らは昨夜のパーティーを楽しみました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>昨夜<rt>さくや</rt></ruby>のパーティーを<ruby>楽<rt>たの</rt></ruby>しみました。
+  simple_meaning:
+    1: to enjoy
+    2: to have fun
+'1208020':
+  hiragana: われる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: わ.れ.る
+    wanikani_level: '25'
+  kanji: 割れる
+  samples:
+    0:
+      english: The glass broke and shattered into pieces.
+      hiragana: ガラス は こわれ て かけら に なりました。
+      kanji: ガラスは割れてかけらになりました。
+      ruby: ガラスは<ruby>割<rt>わ</rt></ruby>れてかけらになりました。
+    2:
+      english: This vase is fragile and can easily break.
+      hiragana: この かびん は もろく て かんたん に こわれ ます。
+      kanji: この花瓶は脆くて簡単に割れます。
+      ruby: この<ruby>花瓶<rt>かびん</rt></ruby>は<ruby>脆<rt>もろ</rt></ruby>くて<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>割<rt>わ</rt></ruby>れます。
+  simple_meaning:
+    1: to break
+    2: to shatter
+'1208640':
+  hiragana: すべる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: すべ.る
+    wanikani_level: '42'
+  kanji: 滑る
+  samples:
+    0:
+      english: Be careful not to slip on the wet floor.
+      hiragana: しずか な ゆ に すべらない よう に き を つけて ください。
+      kanji: 静かな床に滑らないように気をつけてください。
+      ruby: <ruby>静<rt>しず</rt></ruby>かな<ruby>床<rt>ゆ</rt></ruby>に<ruby>滑<rt>すべ</rt></ruby>らないように<ruby>気<rt>き</rt></ruby>をつけてください。
+    1:
+      english: She slipped on the ice and fell while walking.
+      hiragana: かのじょ は こおり に のる と き 、 すべり て ころびました。
+      kanji: 彼女は氷に乗るとき、滑りて転びました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>氷<rt>こおり</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るとき、<ruby>滑<rt>すべ</rt></ruby>りて<ruby>転<rt>ころ</rt></ruby>びました。
+    2:
+      english: The car skidded on the slippery road due to the rain.
+      hiragana: あめ に よる つるつる の みち で くるま は すべり ました。
+      kanji: 雨によるつるつるの道で車は滑りました。
+      ruby: <ruby>雨<rt>あめ</rt></ruby>によるつるつるの<ruby>道<rt>みち</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>は<ruby>滑<rt>すべ</rt></ruby>りました。
+  simple_meaning:
+    1: to slide
+    2: to slip
+'1209240':
+  hiragana: かむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.む
+    wanikani_level: null
+  kanji: 噛む
+  samples:
+    0:
+      english: The dog bit my hand.
+      hiragana: いぬ が わたし の て を かみました。
+      kanji: 犬が私の手を噛みました。
+      ruby: <ruby>犬<rt>いぬ</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>噛<rt>か</rt></ruby>みました。
+    1:
+      english: Please chew your food well.
+      hiragana: たべもの を よく かんで ください。
+      kanji: 食べ物をよく噛んでください。
+      ruby: <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をよく<ruby>噛<rt>か</rt></ruby>んでください。
+    2:
+      english: He chewed gum.
+      hiragana: かれ は ガム を かみました。
+      kanji: 彼はガムを噛みました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はガムを<ruby>噛<rt>か</rt></ruby>みました。
+  simple_meaning:
+    1: to bite
+    2: to chew
+'1209650':
+  hiragana: かわく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かわ.く
+    wanikani_level: '29'
+  kanji: 乾く
+  samples:
+    0:
+      english: The laundry will dry quickly in the warm sun.
+      hiragana: あたたかい たいよう の なか で せんたく は はやく かわき ます。
+      kanji: 暖かい太陽の中で洗濯は早く乾きます。
+      ruby: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>洗濯<rt>せんたく</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>乾<rt>かわ</rt></ruby>きます。
+    1:
+      english: Please hang the wet towels outside to dry.
+      hiragana: しめられ ない ふきん を そと に つるし て かわかす おねがい します。
+      kanji: 湿れない布巾を外に吊るして乾かすお願いします。
+      ruby: <ruby>湿<rt>しめ</rt></ruby>れない<ruby>布巾<rt>ふきん</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>吊<rt>つ</rt></ruby>るして<ruby>乾<rt>かわ</rt></ruby>かすお<ruby>願<rt>ねが</rt></ruby>いします。
+    2:
+      english: The riverbed dried up during the summer..
+      hiragana: なつ に かわ の かわら が かわきました。
+      kanji: 夏に川の河原が乾きました。
+      ruby: <ruby>夏<rt>なつ</rt></ruby>に<ruby>川<rt>かわ</rt></ruby>の<ruby>河原<rt>かわら</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>きました。
+  simple_meaning:
+    1: to dry
+    2: to become dry
+'1212670':
+  hiragana: なれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: な.れ.る
+    wanikani_level: '25'
+  kanji: 慣れる
+  samples:
+    0:
+      english: After a while, you'll get used to the new environment.
+      hiragana: しばらく する と あたらしい きょうきょく に なれる でしょう。
+      kanji: しばらくすると新しい環境に慣れるでしょう。
+      ruby: しばらくすると<ruby>新<rt>あたら</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れるでしょう。
+    1:
+      english: He quickly adapted to the fast-paced city life.
+      hiragana: かれ は すばやく そうがい ひんがい の せいかつ に なれました。
+      kanji: 彼は素早く速がい都市生活に慣れました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>素早<rt>すばや</rt></ruby>く<ruby>速<rt>そう</rt></ruby>がい<ruby>都市生活<rt>としせいかつ</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れました。
+    2:
+      english: It takes time to become accustomed to a new job.
+      hiragana: あたらしい しごと に なれる に は じかん が かかり ます。
+      kanji: 新しい仕事に慣れるには時間がかかります。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れるには<ruby>時間<rt>じかん</rt></ruby>がかかります。
+  simple_meaning:
+    1: to get used to
+    2: to become accustomed to
+'1214330':
+  hiragana: かんたん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かん.たん
+    wanikani_level: '33'
+  kanji: 簡単
+  samples:
+    1:
+      english: This recipe is easy to follow.
+      hiragana: このれしぴはかんたんです。
+      kanji: このレシピは簡単です。
+      ruby: このレシピは<ruby>簡単<rt>かんたん</rt></ruby>です。
+    2:
+      english: Learning to use this software is a breeze.
+      hiragana: この ソフトウェア の つかい かた は たんぱく です。
+      kanji: このソフトウェアの使い方は簡単です。
+      ruby: このソフトウェアの<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>です。
+  simple_meaning:
+    1: easy
+    2: simple
+'1215230':
+  hiragana: あいだ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あいだ
+    wanikani_level: null
+  kanji: 間
+  samples:
+    0:
+      english: I studied during the summer vacation.
+      hiragana: わたし は なつやすみ の あいだ べんきょう しました。
+      kanji: 私は夏休みの間勉強しました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>あいだ</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しました。
+    1:
+      english: There is a park between the two buildings.
+      hiragana: ふたつ の たてもの の あいだ に こうえん が あります。
+      kanji: 二つの建物の間に公園があります。
+      ruby: <ruby>二<rt>ふた</rt></ruby>つの<ruby>建物<rt>たてもの</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>公園<rt>こうえん</rt></ruby>があります。
+    2:
+      english: I slept for an hour.
+      hiragana: わたし は いちじかん の あいだ ねました。
+      kanji: 私は一時間の間寝ました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>一<rt>いち</rt></ruby><ruby>時間<rt>じかん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby><ruby>寝<rt>ね</rt></ruby>ました。
+  simple_meaning:
+    1: between
+    2: during
+'1215260':
+  hiragana: まにあう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ま.に.あ.う
+    wanikani_level: '14'
+  kanji: 間に合う
+  samples:
+    0:
+      english: We will be on time for the meeting.
+      hiragana: わたしたち は かいぎ に まにあいます。
+      kanji: 私たちは会議に間に合います。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>います。
+    1:
+      english: He ran fast to make it in time for the train.
+      hiragana: かれ は でんしゃ に まにあう ように はやく はしりました。
+      kanji: 彼は電車に間に合うように速く走りました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように<ruby>速<rt>はや</rt></ruby>く<ruby>走<rt>はし</rt></ruby>りました。
+    2:
+      english: I couldn’t finish my homework on time.
+      hiragana: しゅくだい が まにあいません でした。
+      kanji: 宿題が間に合いませんでした。
+      ruby: <ruby>宿題<rt>しゅくだい</rt></ruby>が<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いませんでした。
+  simple_meaning:
+    1: to be on time
+    2: to make it in time
+'1215330':
+  hiragana: まちがえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ま.ちが.え.る
+    wanikani_level: '28'
+  kanji: 間違える
+  samples:
+    0:
+      english: I made a mistake on the test.
+      hiragana: テスト で まちがえました。
+      kanji: テストで間違えました。
+      ruby: テストで<ruby>間違<rt>まちが</rt></ruby>えました。
+    1:
+      english: He often makes mistakes when speaking Japanese.
+      hiragana: かれ は にほんご を はなす とき に よく まちがえます。
+      kanji: 彼は日本語を話す時によく間違えます。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>す<ruby>時<rt>とき</rt></ruby>によく<ruby>間違<rt>まちが</rt></ruby>えます。
+    2:
+      english: Please correct me if I make a mistake.
+      hiragana: もし わたし が まちがえた ら、 なおして ください。
+      kanji: もし私が間違えたら、直してください。
+      ruby: もし<ruby>私<rt>わたし</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>えたら、<ruby>直<rt>なお</rt></ruby>してください。
+  simple_meaning:
+    1: to make a mistake
+    2: to be incorrect
+'1215810':
+  hiragana: かんけい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かん.けい
+    wanikani_level: '16'
+  kanji: 関係
+  samples:
+    0:
+      english: There is a close relationship between the two companies.
+      hiragana: ふた つ の かいしゃ の かんけい は きんじ て います。
+      kanji: 二つの会社の関係は近じています。
+      ruby: <ruby>二<rt>ふた</rt></ruby>つの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>は<ruby>近<rt>きん</rt></ruby>じています。
+    1:
+      english: The teacher-student relationship is important in education.
+      hiragana: きょういく において せんせい と せいと の かんけい は じゅうよう です。
+      kanji: 教育において先生と生徒の関係は重要です。
+      ruby: <ruby>教育<rt>きょういく</rt></ruby>において<ruby>先生<rt>せんせい</rt></ruby>と<ruby>生徒<rt>せいと</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>は<ruby>重要<rt>じゅうよう</rt></ruby>です。
+  simple_meaning:
+    1: relationship
+    2: connection
+'1218560':
+  hiragana: きけん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.けん
+    wanikani_level: '16'
+  kanji: 危険
+  samples:
+    0:
+      english: Swimming in deep water can be dangerous.
+      hiragana: ふかい みず で およぐ の は きけん かも しれません。
+      kanji: 深い水で泳ぐのは危険かもしれません。
+      ruby: <ruby>深<rt>ふか</rt></ruby>い<ruby>水<rt>みず</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぐのは<ruby>危険<rt>きけん</rt></ruby>かもしれません。
+    2:
+      english: Not wearing a helmet while cycling is risky.
+      hiragana: じてんしゃ で の とき に かぶりもの を かぶらない と きけん です。
+      kanji: 自転車での時にかぶり物をかぶらないと危険です。
+      ruby: <ruby>自転車<rt>じてんしゃ</rt></ruby>での<ruby>時<rt>とき</rt></ruby>にかぶり<ruby>物<rt>もの</rt></ruby>をかぶらないと<ruby>危険<rt>きけん</rt></ruby>です。
+  simple_meaning:
+    1: danger
+    2: risk
+'1218760':
+  hiragana: よろこぶ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よろこ.ぶ
+    wanikani_level: '17'
+  kanji: 喜ぶ
+  samples:
+    0:
+      english: I am glad to help you.
+      hiragana: たすける こと が できて よろこびます。
+      kanji: 助けることができて喜びます。
+      ruby: <ruby>助<rt>たす</rt></ruby>けることができて<ruby>喜びます<rt>よろこびます</rt></ruby>。
+    2:
+      english: The children rejoiced when they saw the fireworks.
+      hiragana: こどもたち は はなび を みて よろこびました。
+      kanji: 子供たちは花火を見て喜びました。
+      ruby: <ruby>子供<rt>こども</rt></ruby>たちは<ruby>花火<rt>はなび</rt></ruby>を見て<ruby>喜びました<rt>よろこびました</rt></ruby>。
+  simple_meaning:
+    1: to be delighted
+    2: to be happy
+'1219680':
+  hiragana: よる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よ.る
+    wanikani_level: '29'
+  kanji: 寄る
+  samples:
+    0:
+      english: Please drop by my house when you have time.
+      hiragana: じかん が ある とき 、 いえ に よって ください。
+      kanji: 時間がある時、家に寄ってください。
+      ruby: <ruby>時間<rt>じかん</rt></ruby>がある<ruby>時<rt>とき</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>ってください。
+    1:
+      english: The birds often gather around the bird feeder.
+      hiragana: とり たちは とりえ に しばしば よります。
+      kanji: 鳥たちは鳥えにしばしば寄ります。
+      ruby: <ruby>鳥<rt>とり</rt></ruby>たちは<ruby>鳥<rt>とり</rt></ruby>えにしばしば<ruby>寄<rt>よ</rt></ruby>ります。
+    2:
+      english: Can you stop by the store on your way home?
+      hiragana: かえり みち で てん ぷく に よって くれ ます か？
+      kanji: 帰り道で店ふくに寄ってくれますか？
+      ruby: <ruby>帰<rt>かえ</rt></ruby>り<ruby>道<rt>みち</rt></ruby>で<ruby>店<rt>てん</rt></ruby>ふくに<ruby>寄<rt>よ</rt></ruby>ってくれますか？
+  simple_meaning:
+    1: to drop by
+    2: to visit briefly
+'1220800':
+  hiragana: きかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.かい
+    wanikani_level: '22'
+  kanji: 機会
+  samples:
+    0:
+      english: This is a great opportunity.
+      hiragana: これは すばらしい きかい です。
+      kanji: これは素晴らしい機会です。
+      ruby: これは<ruby>素晴らしい<rt>すばらしい</rt></ruby><ruby>機会<rt>きかい</rt></ruby>です。
+    1:
+      english: I had the chance to travel abroad.
+      hiragana: わたし は かいがい に りょこう する きかい が ありました。
+      kanji: 私は海外に旅行する機会がありました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>機会<rt>きかい</rt></ruby>がありました。
+  simple_meaning:
+    1: opportunity
+    2: chance
+'1221250':
+  hiragana: かえり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かえ.り
+    wanikani_level: null
+  kanji: 帰り
+  samples:
+    0:
+      english: I'll see you on my way back home.
+      hiragana: かえり に あいましょう。
+      kanji: 帰りに会いましょう。
+      ruby: <ruby>帰<rt>かえ</rt></ruby>りに<ruby>会<rt>あ</rt></ruby>いましょう。
+    2:
+      english: I had a pleasant journey back home.
+      hiragana: いえ へ の たび の かえり は たのしい でした。
+      kanji: 家への旅の帰りは楽しいでした。
+      ruby: <ruby>家<rt>いえ</rt></ruby>への<ruby>旅<rt>たび</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りは<ruby>楽<rt>たの</rt></ruby>しいでした。
+  simple_meaning:
+    1: return
+    2: way back home
+'1221520':
+  hiragana: き
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き
+    wanikani_level: '4'
+  kanji: 気
+  samples:
+    0:
+      english: I have a good feeling about this.
+      hiragana: わたし は これ に いい き が する。
+      kanji: 私はこれにいい気がする。
+      ruby: <ruby>私<rt>わたし</rt></ruby>はこれに<ruby>いい気<rt>いいき</rt></ruby>がする。
+    1:
+      english: He's in a bad mood today.
+      hiragana: かれ は きょう 、 わるい き で す。
+      kanji: 彼は今日、悪い気です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>、<ruby>悪い気<rt>わるいき</rt></ruby>です。
+    2:
+      english: Please take care of your health.
+      hiragana: けんこう に き を つけ て ください。
+      kanji: 健康に気をつけてください。
+      ruby: <ruby>健康<rt>けんこう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてください。
+  simple_meaning:
+    1: mood
+    2: feeling
+'1222590':
+  hiragana: きぶん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.ぶん
+    wanikani_level: '4'
+  kanji: 気分
+  samples:
+    0:
+      english: I'm in a good mood today.
+      hiragana: きょう は きげん が いい です。
+      kanji: 今日は気分がいいです。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>気分<rt>きぶん</rt></ruby>がいいです。
+    1:
+      english: She's feeling happy after receiving the news.
+      hiragana: しらせ を もらって かのしょ は うれしい きぶん で す。
+      kanji: 知らせをもらって彼女は嬉しい気分です。
+      ruby: <ruby>知<rt>し</rt></ruby>らせをもらって<ruby>彼女<rt>かのしょ</rt></ruby>は<ruby>嬉<rt>うれ</rt></ruby>しい<ruby>気分<rt>きぶん</rt></ruby>です。
+    2:
+      english: Bad weather can affect your mood.
+      hiragana: あくしょく の てんき は きぶん に えいきょう を あたえる こと が あります。
+      kanji: 悪色の天気は気分に影響を与えることがあります。
+      ruby: <ruby>悪色<rt>あくしょく</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>気分<rt>きぶん</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えることがあります。
+  simple_meaning:
+    1: mood
+    2: feeling
+'1222700':
+  hiragana: きしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.しゃ
+    wanikani_level: '18'
+  kanji: 汽車
+  samples:
+    0:
+      english: We took the train to the countryside.
+      hiragana: ふるさと に きしゃ に のり ました。
+      kanji: 故郷に汽車に乗りました。
+      ruby: <ruby>故郷<rt>ふるさと</rt></ruby>に<ruby>汽車<rt>きしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りました。
+    1:
+      english: The steam train is a nostalgic mode of transportation.
+      hiragana: ゆうき きしゃ は なつかしい こうつう きがた で す。
+      kanji: 蒸気汽車は懐かしい交通機械です。
+      ruby: <ruby>蒸気<rt>ゆうき</rt></ruby><ruby>汽車<rt>きしゃ</rt></ruby>は<ruby>懐かしい<rt>なつかしい</rt></ruby><ruby>交通機械<rt>こうつうきかた</rt></ruby>です。
+  simple_meaning:
+    1: steam train
+    2: train
+'1222770':
+  hiragana: いのる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: いの.る
+    wanikani_level: '18'
+  kanji: 祈る
+  samples:
+    0:
+      english: She prayed for her family's well-being.
+      hiragana: かぞく の けんこう を いのり ました。
+      kanji: 家族の健康を祈りました。
+      ruby: <ruby>家族<rt>かぞく</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>りました。
+    1:
+      english: People often pray at the temple for good fortune.
+      hiragana: ひと たちは しばしば てら で こううん を いのり ます。
+      kanji: 人たちはしばしば寺で幸運を祈ります。
+      ruby: <ruby>人<rt>ひと</rt></ruby>たちはしばしば<ruby>寺<rt>てら</rt></ruby>で<ruby>幸運<rt>こううん</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>ります。
+    2:
+      english: He prayed silently in his heart.
+      hiragana: かれ は ひそか に こころ で いのり ました。
+      kanji: 彼はひそかに心で祈りました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はひそかに<ruby>心<rt>こころ</rt></ruby>で<ruby>祈<rt>いの</rt></ruby>りました。
+  simple_meaning:
+    1: to pray
+    2: to wish
+'1222840':
+  hiragana: きせつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.せつ
+    wanikani_level: '19'
+  kanji: 季節
+  samples:
+    0:
+      english: Spring is my favorite season.
+      hiragana: はる は わたし の すき な きせつ で す。
+      kanji: 春は私の好きな季節です。
+      ruby: <ruby>春<rt>はる</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>好<rt>す</rt></ruby>きな<ruby>季節<rt>きせつ</rt></ruby>です。
+    2:
+      english: Winter is a cold season.
+      hiragana: ふゆ は さむい きせつ で す。
+      kanji: 冬は寒い季節です。
+      ruby: <ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>です。
+  simple_meaning:
+    1: season
+    2: period
+'1223020':
+  hiragana: きそく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.そく
+    wanikani_level: '23'
+  kanji: 規則
+  samples:
+    0:
+      english: Please follow the rules of the school.
+      hiragana: がっこう の きそく を まもって ください。
+      kanji: 学校の規則を守ってください。
+      ruby: <ruby>学校<rt>がっこう</rt></ruby>の<ruby>規則<rt>きそく</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ってください。
+    1:
+      english: The company has strict regulations.
+      hiragana: かいしゃ は きびしい きそく を もって います。
+      kanji: 会社は厳しい規則を持っています。
+      ruby: <ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しい<ruby>規則<rt>きそく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。
+    2:
+      english: There are rules to ensure safety.
+      hiragana: あんぜん を たもつ ため の きそく が あり ます。
+      kanji: 安全を守つための規則があります。
+      ruby: <ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>つための<ruby>規則<rt>きそく</rt></ruby>があります。
+  simple_meaning:
+    1: rules
+    2: regulations
+'1223660':
+  hiragana: おこす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.こ.す
+    wanikani_level: '14'
+  kanji: 起こす
+  samples:
+    0:
+      english: Please wake me up at 7 AM.
+      hiragana: あさ しち じ に おこして ください。
+      kanji: 朝7時に起こしてください。
+      ruby: <ruby>朝<rt>あさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>こしてください。
+    1:
+      english: The loud noise startled the cat.
+      hiragana: おおきな おと が ねこ を おこしました。
+      kanji: 大きな音が猫を起こしました。
+      ruby: <ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>が<ruby>猫<rt>ねこ</rt></ruby>を<ruby>起<rt>お</rt></ruby>こしました。
+    2:
+      english: His actions caused a commotion.
+      hiragana: かれ の こうどう が さわぎ を おこしました。
+      kanji: 彼の行動が騒ぎを起こしました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>が<ruby>騒<rt>さわ</rt></ruby>ぎを<ruby>起<rt>お</rt></ruby>こしました。
+  simple_meaning:
+    1: to wake up
+    2: to cause
+'1225130':
+  hiragana: ぎじゅつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぎ.じゅつ
+    wanikani_level: '16'
+  kanji: 技術
+  samples:
+    0:
+      english: His technical skills are impressive.
+      hiragana: かれ の ぎじゅつ げい の じょうしゅう は あっ ぷ で す。
+      kanji: 彼の技術芸の承継は圧巻です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>技術<rt>ぎしゅつ</rt></ruby><ruby>芸<rt>げい</rt></ruby>の<ruby>承継<rt>しょうけい</rt></ruby>は<ruby>圧巻<rt>あっぱく</rt></ruby>です。
+    1:
+      english: Technology is advancing rapidly.
+      hiragana: ぎじゅつ は はやく さくしん して います。
+      kanji: 技術は速く進んでいます。
+      ruby: <ruby>技術<rt>ぎじゅつ</rt></ruby>は<ruby>速<rt>はや</rt></ruby>く<ruby>進<rt>すす</rt></ruby>んでいます。
+    2:
+      english: This company is known for its innovative technology.
+      hiragana: この かいしゃ は そうそうてき な ぎじゅつ で よく しら れて い ます。
+      kanji: この会社は創造的な技術でよく知られています。
+      ruby: この<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>創造的<rt>そうぞうてき</rt></ruby>な<ruby>技術<rt>ぎしゅつ</rt></ruby>でよく<ruby>知<rt>し</rt></ruby>られています。
+  simple_meaning:
+    1: technology
+    2: skill
+'1226630':
+  hiragana: きゃく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きゃく
+    wanikani_level: null
+  kanji: 客
+  samples:
+    0:
+      english: The customer asked for a menu.
+      hiragana: おきゃく は お えらび の めにゅう を たね ました。
+      kanji: お客はお選びのメニューをたねました。
+      ruby: <ruby>お客<rt>おきゃく</rt></ruby>は<ruby>お選びの<rt>おえらびの</rt></ruby>メニューをたねました。
+    1:
+      english: We have many visitors from abroad.
+      hiragana: かい げき は かいこく から たくさん きます。
+      kanji: 会議客は外国からたくさん来ます。
+      ruby: <ruby>会議客<rt>かいぎきゃく</rt></ruby>は<ruby>外国<rt>がいこく</rt></ruby>からたくさん<ruby>来<rt>き</rt></ruby>ます。
+    2:
+      english: The hotel welcomes guests warmly.
+      hiragana: ホテル は おきゃく さん を あたたか く むかえます。
+      kanji: ホテルはお客さんを温かく迎えます。
+      ruby: ホテルはお<ruby>客<rt>きゃく</rt></ruby>さんを<ruby>温<rt>あたた</rt></ruby>かく<ruby>迎<rt>むか</rt></ruby>えます。
+  simple_meaning:
+    1: guest
+    2: customer
+'1227370':
+  hiragana: ひさしぶり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひさ.し.ぶ.り
+    wanikani_level: '34'
+  kanji: 久しぶり
+  samples:
+    0:
+      english: It's been a long time since we last met.
+      hiragana: さい こう あっ た とき から ひさしぶり です。
+      kanji: 最後会った時から久しぶりです。
+      ruby: <ruby>最後会った時から<rt>さいごあったときから</rt></ruby><ruby>久しぶり<rt>ひさしぶり</rt></ruby>です。
+    1:
+      english: I'm happy to see you after such a long time.
+      hiragana: ひさしぶり に あい て うれしい です。
+      kanji: 久しぶりに会いて嬉しいです。
+      ruby: <ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会<rt>あ</rt></ruby>いて<ruby>嬉<rt>うれ</rt></ruby>しいです。
+    2:
+      english: Long time no see! How have you been?
+      hiragana: ひさしぶり! どう して い ます か？
+      kanji: 久しぶり! どうしていますか？
+      ruby: <ruby>久しぶり<rt>ひさしぶり</rt></ruby>! どうしていますか？
+  simple_meaning:
+    1: a long time
+    2: after many years
+'1228560':
+  hiragana: きゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きゅう
+    wanikani_level: '16'
+  kanji: 急
+  samples:
+    0:
+      english: This river's current is fast.
+      hiragana: この かわ の ながれ は きゅう だ。
+      kanji: この川の流れは急だ。
+      ruby: この<ruby>川<rt>かわ</rt></ruby>の<ruby>流れ<rt>ながれ</rt></ruby>は<ruby>急<rt>きゅう</rt></ruby>だ。
+    1:
+      english: The stairs going up are steep and narrow.
+      hiragana: うえ に いく かいだん は きゅう で せまい です。
+      kanji: 上に行く階段は急で狭いです。
+      ruby: <ruby>上<rt>うえ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>階段<rt>かいだん</rt></ruby>は<ruby>急<rt>きゅう</rt></ruby>で<ruby>狭い<rt>せまい</rt></ruby>です。
+  simple_meaning:
+    1: fast
+    2: sudden
+'1228650':
+  hiragana: いそぐ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: いそ.ぐ
+    wanikani_level: '16'
+  kanji: 急ぐ
+  samples:
+    0:
+      english: I need to hurry to catch the train.
+      hiragana: でんしゃ に のる ために いそがなければ なりません。
+      kanji: 電車に乗るために急がなければなりません。
+      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るために<ruby>急<rt>いそ</rt></ruby>がなければなりません。
+    1:
+      english: Please hurry, we are late.
+      hiragana: いそいで ください、 わたしたち は おくれています。
+      kanji: 急いでください、私たちは遅れています。
+      ruby: <ruby>急<rt></rt></ruby>い<ruby><rt>そい</rt></ruby>でください、<ruby>私<rt>わたし</rt></ruby>たちは<ruby>遅<rt>おく</rt></ruby>れています。
+    2:
+      english: He ran quickly to the station.
+      hiragana: かれ は えき まで いそいで はしりました。
+      kanji: 彼は駅まで急いで走りました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>駅<rt>えき</rt></ruby>まで<ruby>急<rt>いそ</rt></ruby>いで<ruby>走<rt>はし</rt></ruby>りました。
+  simple_meaning:
+    1: to hurry
+    2: to rush
+'1228690':
+  hiragana: きゅうこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きゅう.こう
+    wanikani_level: '16'
+  kanji: 急行
+  samples:
+    0:
+      english: The express train will arrive shortly.
+      hiragana: きゅうこう てつ が すく に とうちゃく いたし ます。
+      kanji: 急行列車がすぐに到着いたします。
+      ruby: <ruby>急行列車<rt>きゅうこうてつ</rt></ruby>がすぐに<ruby>到着<rt>とうちゃく</rt></ruby>いたします。
+    1:
+      english: We caught the express train to the city.
+      hiragana: きゅうこう てつ に のり ました ね。
+      kanji: 急行列車に乗りましたね。
+      ruby: <ruby>急行列車<rt>きゅうこうれっしゃ</rt></ruby>に<ruby>乗りました<rt>のりました</rt></ruby>ね。
+    2:
+      english: The rapid service is faster than the local train.
+      hiragana: とっきゅう りょうしゃ は きんてつ てん せきより はやい で す。
+      kanji: 特急列車は近特定席より速いです。
+      ruby: <ruby>特急列車<rt>とっきゅうりょうしゃ</rt></ruby>は<ruby>近特定席<rt>きんてつてんせき</rt></ruby>より速いです。
+  simple_meaning:
+    1: express train
+    2: rapid service
+'1229840':
+  hiragana: なく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: な.く
+    wanikani_level: '15'
+  kanji: 泣く
+  samples:
+    0:
+      english: She cried when she heard the sad news.
+      hiragana: かのしょ は かなしい しらせ を きいて なきました。
+      kanji: 彼女は悲しい知らせを聞いて泣きました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>悲<rt>かな</rt></ruby>しい<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いて<ruby>泣<rt>な</rt></ruby>きました。
+    1:
+      english: Don't cry; I'll help you find your lost toy.
+      hiragana: な く な、わたし が な く し た おもちゃ を さ がし て あげ る。
+      kanji: 泣くな、私がなくしたおもちゃを探してあげる。
+      ruby: <ruby>泣<rt>な</rt></ruby>くな、<ruby>私<rt>わたし</rt></ruby>がなくしたおもちゃを<ruby>探<rt>さが</rt></ruby>してあげる。
+    2:
+      english: The child cried loudly in the store.
+      hiragana: こども は みせ で おおきな こえ で なきました。
+      kanji: 子供は店で大きな声で泣きました。
+      ruby: <ruby>子供<rt>こども</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>泣<rt>な</rt></ruby>きました。
+  simple_meaning:
+    1: to cry
+    2: to weep
+'1234140':
+  hiragana: きょうそう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きょう.そう
+    wanikani_level: '11'
+  kanji: 競争
+  samples:
+    0:
+      english: There is fierce competition in the business world.
+      hiragana: ひじょう きょうそう が けいえい てき で す。
+      kanji: 非常競争が激しいです。
+      ruby: <ruby>非常競争<rt>ひじょうきょうそう</rt></ruby>が<ruby>激<rt>はげ</rt></ruby>しいです。
+    1:
+      english: They are in a fierce competition for the championship.
+      hiragana: ちょうてん タイトル の きょうそう で きょうとつ して い ます。
+      kanji: 重点タイトルの競争で競争しています。
+      ruby: <ruby>重点<rt>じゅうてん</rt></ruby>タイトルの<ruby>競争<rt>きょうそう</rt></ruby>で<ruby>競争<rt>きょうそう</rt></ruby>しています。
+    2:
+      english: Competition can lead to innovation.
+      hiragana: きょうそう は いのべい じゅつ に つながる こと が あります。
+      kanji: 競争はイノベーションにつながることがあります。
+      ruby: <ruby>競争<rt>きょうそう</rt></ruby>はイノベーションにつながることがあります。
+  simple_meaning:
+    1: competition
+    2: rivalry
+'1236950':
+  hiragana: きょういく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きょう.いく
+    wanikani_level: '11'
+  kanji: 教育
+  samples:
+    0:
+      english: Education plays a crucial role in personal development.
+      hiragana: きょういく は こころ てき な しびょう せいち に おおい よう が あり ます。
+      kanji: 教育は個人的な思慮成長に重要があります。
+      ruby: <ruby>教育<rt>きょういく</rt></ruby>は<ruby>個人的<rt>こじんてき</rt></ruby>な<ruby>思慮成長<rt>しりょせいちょう</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby>があります。
+    1:
+      english: Quality education is the foundation of a strong society.
+      hiragana: ごうせい な きょういく が つよ い しゃかい の きせき てき きそ で す。
+      kanji: 豪勢な教育が強い社会の基石です。
+      ruby: <ruby>豪勢<rt>ごうせい</rt></ruby>な<ruby>教育<rt>きょういく</rt></ruby>が<ruby>強い<rt>つよい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>基石<rt>きせき</rt></ruby>です。
+    2:
+      english: She works in the field of education.
+      hiragana: かのしょ は きょういく の ふきゅう で はたらい て い ます。
+      kanji: 彼女は教育の分野で働いています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>教育<rt>きょういく</rt></ruby>の<ruby>分野<rt>ぶんや</rt></ruby>で<ruby>働いて<rt>はたらいて</rt></ruby>います。
+  simple_meaning:
+    1: education
+    2: schooling
+'1237030':
+  hiragana: きょうかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きょう.かい
+    wanikani_level: null
+  kanji: 教会
+  samples:
+    0:
+      english: They got married in a beautiful church.
+      hiragana: かれ ら は うつくしい きょうかい で けっこん し ました。
+      kanji: 彼らは美しい教会で結婚しました。
+      ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい<ruby>教会<rt>きょうかい</rt></ruby>で<ruby>結婚<rt>けっこん</rt></ruby>しました。
+    1:
+      english: We go to church every Sunday.
+      hiragana: わ たち ら は まいしゅう に きょうかい に い き ます。
+      kanji: 私たちは毎週に教会に行きます。
+      ruby: <ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>毎週<rt>まいしゅう</rt></ruby>に<ruby>教会<rt>きょうかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+    2:
+      english: The church bell rang loudly.
+      hiragana: きょうかい の かね が おおきな おと で なり ました。
+      kanji: 教会の鐘が大きな音で鳴りました。
+      ruby: <ruby>教会<rt>きょうかい</rt></ruby>の<ruby>鐘<rt>かね</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>で<ruby>鳴<rt>な</rt></ruby>りました。
+  simple_meaning:
+    1: church
+    2: chapel
+'1238410':
+  hiragana: きょうみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きょう.み
+    wanikani_level: '32'
+  kanji: 興味
+  samples:
+    0:
+      english: I have an interest in Japanese culture.
+      hiragana: わたし は にほん の ぶんか に きょうみ が あります。
+      kanji: 私は日本の文化に興味があります。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>があります。
+    1:
+      english: She is interested in music.
+      hiragana: かのじょ は おんがく に きょうみ が あります。
+      kanji: 彼女は音楽に興味があります。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>があります。
+    2:
+      english: He lost interest in the game.
+      hiragana: かれ は その ゲーム に きょうみ を うしないました。
+      kanji: 彼はそのゲームに興味を失いました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はそのゲームに<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>いました。
+  simple_meaning:
+    1: interest
+    2: curiosity
+'1238550':
+  hiragana: かがみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かがみ
+    wanikani_level: '13'
+  kanji: 鏡
+  samples:
+    1:
+      english: The mirror on the wall is ornate.
+      hiragana: かべ の かがみ は いと しき で す。
+      kanji: 壁の鏡は美しきです。
+      ruby: <ruby>壁の鏡<rt>かべのかがみ</rt></ruby>は<ruby>美しき<rt>うつくしき</rt></ruby>です。
+    2:
+      english: He adjusted the angle of the mirror.
+      hiragana: かれ は かがみ の かく せつ を しゅとく し ました。
+      kanji: 彼は鏡の角度を修復しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>角度<rt>かくせつ</rt></ruby>を<ruby>修復<rt>しゅうふく</rt></ruby>しました。
+  simple_meaning:
+    1: mirror
+    2: looking glass
+'1238680':
+  hiragana: おどろく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おどろ.く
+    wanikani_level: '31'
+  kanji: 驚く
+  samples:
+    0:
+      english: I was surprised by the sudden thunderstorm.
+      hiragana: とつげき あめ に びっくり し ました。
+      kanji: 突然雨に驚きました。
+      ruby: <ruby>突然<rt>とつぜん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>に<ruby>驚<rt>おどろ</rt></ruby>きました。
+    2:
+      english: I was surprised by the unexpected gift.
+      hiragana: ひょう かんな め に おどろき ま し た。
+      kanji: 予想外な目に驚きました。
+      ruby: <ruby>予想外<rt>よそうがい</rt></ruby>な<ruby>目<rt>め</rt></ruby>に<ruby>驚<rt>おどろ</rt></ruby>きました。
+  simple_meaning:
+    1: to be surprised
+    2: to be amazed
+'1242350':
+  hiragana: きんじょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きん.じょ
+    wanikani_level: '10'
+  kanji: 近所
+  samples:
+    1:
+      english: I take a walk in the neighborhood every evening.
+      hiragana: わたし は まい ばん きんじょ を さんぼ します。
+      kanji: 私は毎晩近所を散歩します。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>毎晩<rt>まいばん</rt></ruby><ruby>近所<rt>きんじょ</rt></ruby>を<ruby>散歩<rt>さんぼ</rt></ruby>します。
+    2:
+      english: We organized a community event for the neighborhood.
+      hiragana: わたし ら は きんじょ の ち い きょういく を ためじ もの を けんぜん し ました。
+      kanji: 私らは近所の地域教育を促進しました。
+      ruby: <ruby>私ら<rt>わたしたち</rt></ruby>は<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>地域教育<rt>ちいききょういく</rt></ruby>を<ruby>促進<rt>そくしん</rt></ruby>しました。
+  simple_meaning:
+    1: neighborhood
+    2: vicinity
+'1244310':
+  hiragana: にがい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: にが.い
+    wanikani_level: '9'
+  kanji: 苦い
+  samples:
+    0:
+      english: This medicine tastes bitter.
+      hiragana: この くすり は にがい あじ が します。
+      kanji: この薬は苦い味がします。
+      ruby: この<ruby>薬<rt>くすり</rt></ruby>は<ruby>苦<rt>にが</rt></ruby>い<ruby>味<rt>あじ</rt></ruby>がします。
+    1:
+      english: The coffee is too bitter.
+      hiragana: コーヒー は にが すぎます。
+      kanji: コーヒーは苦すぎます。
+      ruby: コーヒーは<ruby>苦<rt>にが</rt></ruby>すぎます。
+    2:
+      english: I don’t like bitter vegetables.
+      hiragana: わたし は にがい やさい が きらい です。
+      kanji: 私は苦い野菜が嫌いです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>苦<rt>にが</rt></ruby>い<ruby>野菜<rt>やさい</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。
+  simple_meaning:
+    1: bitter
+    2: unpleasant
+'1245470':
+  hiragana: くうき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: くう.き
+    wanikani_level: '5'
+  kanji: 空気
+  samples:
+    1:
+      english: The fresh air in the mountains is refreshing.
+      hiragana: やま の さっぴょう な くうき は さっぴょう てき で す。
+      kanji: 山の爽やかな空気は爽やか的です。
+      ruby: <ruby>山<rt>やま</rt></ruby>の<ruby>爽やか<rt>さわやか</rt></ruby>な<ruby>空気<rt>くうき</rt></ruby>は<ruby>爽やか<rt>さわやか</rt></ruby>的です。
+    2:
+      english: Pollution can harm the quality of the air we breathe.
+      hiragana: おせん が くうき の けたい を ひとり で けき と る が で き ます。
+      kanji: 汚染が空気の質を危害とるができます。
+      ruby: <ruby>汚染<rt>おせん</rt></ruby>が<ruby>空気<rt>くうき</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>を<ruby>危害<rt>きがい</rt></ruby>とるができます。
+  simple_meaning:
+    1: air
+    2: atmosphere
+'1245570':
+  hiragana: くうこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: くう.こう
+    wanikani_level: '12'
+  kanji: 空港
+  samples:
+    1:
+      english: We arrived at the international airport early.
+      hiragana: わ たし たち は こくさい くうこう に はやく つき ました。
+      kanji: 私たちは国際空港に早く着きました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>国際空港<rt>こくさいくうこう</rt></ruby>に<ruby>早<rt>はや</rt></ruby>く<ruby>着<rt>つ</rt></ruby>きました。
+    2:
+      english: She waved goodbye to us from the airport terminal.
+      hiragana: かのしょ は くうこう ターミナル から さようなら を し ました。
+      kanji: 彼女は空港ターミナルからさようならをしました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>空港ターミナル<rt>くうこうターミナル</rt></ruby>からさようならをしました。
+  simple_meaning:
+    1: airport
+    2: aerodrome
+'1246440':
+  hiragana: すみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: すみ
+    wanikani_level: '51'
+  kanji: 隅
+  samples:
+    0:
+      english: He found a cozy corner to read his book.
+      hiragana: かれ は ほん を よ み ずま くうかく な すみ を みつけ ました。
+      kanji: 彼は本を読みずまく適な隅を見つけました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みずまく<ruby>適<rt>てき</rt></ruby>な<ruby>隅<rt>すみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
+    1:
+      english: She discovered a hidden gem in the corner of the antique shop.
+      hiragana: かのしょ は こっぴ てん じ の すみ で かくれた ひ ひん を みつけ ました。
+      kanji: 彼女は古美店じの隅で隠れた非品を見つけました。
+      ruby: <ruby>彼女<rt>かのしょ</rt></ruby>は<ruby>古美店<rt>こっぴてん</rt></ruby>じの<ruby>隅<rt>すみ</rt></ruby>で<ruby>隠<rt>かく</rt></ruby>れた<ruby>非品<rt>ひひん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
+    2:
+      english: The cat likes to curl up in the corner of the room.
+      hiragana: ねこ は へや の すみ に ころがり た が り ます。
+      kanji: 猫は部屋の隅に転がりたがります。
+      ruby: <ruby>猫<rt>ねこ</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>の<ruby>隅<rt>すみ</rt></ruby>に<ruby>転<rt>ころ</rt></ruby>がりたがります。
+  simple_meaning:
+    1: corner
+    2: nook
+'1247250':
+  hiragana: きみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きみ
+    wanikani_level: '8'
+  kanji: 君
+  samples:
+    0:
+      english: I'll wait for you here, my dear.
+      hiragana: わ たし は きみ を ここ で ま って い ます 、 あい しゃ で。
+      kanji: 私は君をここで待っています、愛者で。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>君<rt>きみ</rt></ruby>をここで<ruby>待<rt>ま</rt></ruby>っています、<ruby>愛者<rt>あいしゃ</rt></ruby>で。
+    1:
+      english: I'll always support you, my friend.
+      hiragana: わたし は いつ も きみ を たすげ ます、ともだち。
+      kanji: 私はいつも君を助けます、友達。
+      ruby: <ruby>私<rt>わたし</rt></ruby>はいつも<ruby>君<rt>きみ</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けます、<ruby>友達<rt>ともだち</rt></ruby>。
+    2:
+      english: You are my best friend.
+      hiragana: きみ は わたし の さいきょう の ともだち だ。
+      kanji: 君は私の最強の友達だ。
+      ruby: <ruby>君<rt>きみ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>だ。
+  simple_meaning:
+    1: you
+    2: dear
+'1247260':
+  hiragana: くん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: くん
+    wanikani_level: '8'
+  kanji: 君
+  samples:
+    0:
+      english: Taro-kun is my classmate.
+      hiragana: たろう くん は わたし の ともだち です。
+      kanji: 太郎君は私の友達です。
+      ruby: <ruby>太郎<rt>たろう</rt></ruby><ruby>君<rt>くん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>です。
+    1:
+      english: Hey, Shin-kun! Let's play together.
+      hiragana: おい、しん くん！ いっしょ に あそぼう。
+      kanji: おい、信君！一緒に遊ぼう。
+      ruby: おい、<ruby>信君<rt>しんくん</rt></ruby>！<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>ぼう。
+    2:
+      english: Yuki-kun, you're good at singing.
+      hiragana: ゆうき くん、きみ は うた が じょうず だ ね。
+      kanji: 裕紀君、君は歌が上手だね。
+      ruby: <ruby>裕紀<rt>ゆうき</rt></ruby><ruby>君<rt>くん</rt></ruby>、<ruby>君<rt>きみ</rt></ruby>は<ruby>歌<rt>うた</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>だね。
+  simple_meaning:
+    1: (suffix for boys)
+    2: (suffix for boys' names)
+'1250220':
+  hiragana: かたち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かたち
+    wanikani_level: '7'
+  kanji: 形
+  samples:
+    0:
+      english: The circle is a simple shape.
+      hiragana: まる は かんたん な かたち です。
+      kanji: 円は簡単な形です。
+      ruby: <ruby>円<rt>まる</rt></ruby>は<ruby>簡単な形<rt>かんたんなかたち</rt></ruby>です。
+    1:
+      english: What is the shape of this box?
+      hiragana: このはこのかたちはなんですか？
+      kanji: この箱の形は何ですか？
+      ruby: この<ruby>箱<rt>はこ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>は何ですか？
+    2:
+      english: This puzzle has various shapes to match.
+      hiragana: この パズル は いろいろ な かたち に あわ せ る。
+      kanji: このパズルは色々な形に合わせる。
+      ruby: このパズルは<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>形<rt>かたち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせる。
+  simple_meaning:
+    1: shape
+'1250870':
+  hiragana: けしき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: けしき
+    wanikani_level: '25'
+  kanji: 景色
+  samples:
+    0:
+      english: The view of the mountains is beautiful.
+      hiragana: やま の けしき は きれい です。
+      kanji: 山の景色は綺麗です。
+      ruby: <ruby>山<rt>やま</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>は<ruby>綺麗<rt>きれい</rt></ruby>です。
+    1:
+      english: I love the scenery by the lake.
+      hiragana: みずうみ の けしき が す き です。
+      kanji: 湖の景色が好きです。
+      ruby: <ruby>湖<rt>みずうみ</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>が<ruby>好き<rt>す
+        き</rt></ruby>です。
+    2:
+      english: In autumn, the landscape becomes colorful.
+      hiragana: あき に なる と けしき は いろとりどり に な り ます。
+      kanji: 秋になると景色は色とりどりになります。
+      ruby: <ruby>秋<rt>あき</rt></ruby>になると<ruby>景色<rt>けしき</rt></ruby>は<ruby>色とりどり<rt>いろとりどり</rt></ruby>になります。
+  simple_meaning:
+    0: Scenery
+    1: View
+    2: Landscape
+'1251320':
+  hiragana: けいざい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: けい.ざい
+    wanikani_level: '21'
+  kanji: 経済
+  samples:
+    0:
+      english: He studies economics at university.
+      hiragana: かれ は だいがく で けいざい を べんきょう しています。
+      kanji: 彼は大学で経済を勉強しています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>で<ruby>経済<rt>けいざい</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+    1:
+      english: The economy is improving.
+      hiragana: けいざい が よく なって います。
+      kanji: 経済が良くなっています。
+      ruby: <ruby>経済<rt>けいざい</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くなっています。
+    2:
+      english: She reads economic news every day.
+      hiragana: かのじょ は まいにち けいざい の ニュース を よみます。
+      kanji: 彼女は毎日経済のニュースを読みます。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>経済<rt>けいざい</rt></ruby>のニュースを<ruby>読<rt>よ</rt></ruby>みます。
+  simple_meaning:
+    1: economy
+    2: economics
+'1252390':
+  hiragana: けいさつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: けい.さつ
+    wanikani_level: '17'
+  kanji: 警察
+  samples:
+    0:
+      english: If you have a problem, you can go to the police.
+      hiragana: もんだいがあるとけいさつにいけます。
+      kanji: 問題がある場合、警察に行けます。
+      ruby: <ruby>問題<rt>もんだい</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>、<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>行けます<rt>いけます</rt></ruby>。
+    1:
+      english: I asked the police for help when I lost my bag.
+      hiragana: バッグをなくしたとき、けいさつにたすけをたのみました。
+      kanji: バッグをなくしたとき、警察に助けを頼みました。
+      ruby: バッグをなくしたとき、<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>助け<rt>たすけ</rt></ruby>を<ruby>頼みました<rt>たのみました</rt></ruby>。
+  simple_meaning:
+    0: Police
+    1: Law enforcement
+'1253190':
+  hiragana: むかえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: むか.え.る
+    wanikani_level: '32'
+  kanji: 迎える
+  samples:
+    0:
+      english: I will go to the airport to meet my friend.
+      hiragana: ともだちをむかえにくうこうにいきます。
+      kanji: 友達を迎えに空港に行きます。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>を<ruby>迎え<rt>むかえ</rt></ruby>に<ruby>空港<rt>くうこう</rt></ruby>に<ruby>行きます<rt>いきます</rt></ruby>。
+    1:
+      english: Let's welcome the new students with a party.
+      hiragana: しんにゅうせいをぱーてぃーでむかえましょう。
+      kanji: 新入生をパーティーで迎えましょう。
+      ruby: <ruby>新入生<rt>しんにゅうせい</rt></ruby>をパーティーで<ruby>迎えましょう<rt>むかえましょう</rt></ruby>。
+  simple_meaning:
+    0: To welcome
+    1: To greet
+    2: To meet
+'1254130':
+  hiragana: けっして
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: けっ.し.て
+    wanikani_level: null
+  kanji: 決して
+  samples:
+    1:
+      english: She will never give up on her dreams.
+      hiragana: 彼女は夢を決してあきらめません。
+      kanji: 彼女は夢を決して諦めません。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>決して諦めません<rt>けっしてあきらめません</rt></ruby>。
+    3:
+      english: He will never arrive late for a meeting.
+      hiragana: 彼は会議に遅れることは決してありません。
+      kanji: 彼は会議に遅れることは決してありません。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅れること<rt>おくれること</rt></ruby>は<ruby>決してありません<rt>けっしてありません</rt></ruby>。
+  simple_meaning:
+    0: Never
+    1: By no means
+'1254180':
+  hiragana: きめる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.め.る
+    wanikani_level: '8'
+  kanji: 決める
+  samples:
+    1:
+      english: Let's decide the date for our next meeting.
+      hiragana: 次回の会議の日程を決めましょう。
+      kanji: 次回の会議の日程を決めましょう。
+      ruby: <ruby>次回<rt>じかい</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>日程<rt>にってい</rt></ruby>を<ruby>決めましょう<rt>きめましょう</rt></ruby>。
+    2:
+      english: She decided to study Japanese.
+      hiragana: 彼女は日本語を勉強することに決めました。
+      kanji: 彼女は日本語を勉強することに決めました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>することに<ruby>決めました<rt>きめました</rt></ruby>。
+  simple_meaning:
+    0: To decide
+    1: To choose
+    2: To determine
+'1255060':
+  hiragana: ち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ち
+    wanikani_level: '6'
+  kanji: 血
+  samples:
+    0:
+      english: This is blood.
+      hiragana: これはちです。
+      kanji: これは血です。
+      ruby: <ruby>これ<rt>これ</rt></ruby>は<ruby>血<rt>ち</rt></ruby>です。
+    1:
+      english: My blood is red.
+      hiragana: わたしのちはあかいです。
+      kanji: 私の血は赤いです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>血<rt>ち</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>いです。
+    2:
+      english: I saw blood.
+      hiragana: ちをみました。
+      kanji: 血を見ました。
+      ruby: <ruby>血<rt>ち</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
+  simple_meaning:
+    0: Blood
+'1257040':
+  hiragana: けんか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: けん.か
+    wanikani_level: null
+  kanji: 喧嘩
+  samples:
+    0: null
+    english: They are fighting.
+    hiragana: かれらはけんかしています。
+    kanji: 彼らは喧嘩しています。
+    ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>喧嘩<rt>けんか</rt></ruby>しています。
+    1:
+      english: I had a fight with my friend.
+      hiragana: ともだちとけんかしました。
+      kanji: 友達と喧嘩しました。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>しました。
+    2:
+      english: I don’t like fights.
+      hiragana: わたしはけんかがすきではありません。
+      kanji: 私は喧嘩が好きではありません。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>喧嘩<rt>けんか</rt></ruby>が<ruby>好<rt>す</rt></ruby>きではありません。
+  simple_meaning:
+    0: Fight
+    1: Quarrel
+'1257110':
+  hiragana: かたい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かた.い
+    wanikani_level: '45'
+  kanji: 硬い
+  samples:
+    0: null
+    english: This bread is hard.
+    hiragana: このパンはかたいです。
+    kanji: このパンは硬いです。
+    ruby: <ruby>この<rt>この</rt></ruby><ruby>パン<rt>ぱん</rt></ruby>は<ruby>硬<rt>かた</rt></ruby>いです。
+    1:
+      english: The box is hard.
+      hiragana: はこはかたいです。
+      kanji: 箱は硬いです。
+      ruby: <ruby>箱<rt>はこ</rt></ruby>は<ruby>硬<rt>かた</rt></ruby>いです。
+    2:
+      english: His thinking is hard.
+      hiragana: かれのかんがえはかたいです。
+      kanji: 彼の考えは硬いです。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えは<ruby>硬<rt>かた</rt></ruby>いです。
+  simple_meaning:
+    0: Hard
+    1: Solid
+    2: Stiff
+'1257330':
+  hiragana: たてる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: た.て.る
+    wanikani_level: '15'
+  kanji: 建てる
+  samples:
+    0:
+      english: I will build a house.
+      hiragana: わたしはいえをたてます。
+      kanji: 私は家を建てます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>を<ruby>建<rt>た</rt></ruby>てます。
+    1:
+      english: My father built this house.
+      hiragana: ちちはこのいえをたてました。
+      kanji: 父はこの家を建てました。
+      ruby: <ruby>父<rt>ちち</rt></ruby>は<ruby>この<rt>この</rt></ruby><ruby>家<rt>いえ</rt></ruby>を<ruby>建<rt>た</rt></ruby>てました。
+    2:
+      english: They are building a school.
+      hiragana: かれらはがっこうをたてています。
+      kanji: 彼らは学校を建てています。
+      ruby: <ruby>彼ら<rt>かれら</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>を<ruby>建<rt>た</rt></ruby>てています。
+  simple_meaning:
+    0: To build
+    1: To construct
+'1258520':
+  hiragana: けんきゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: けん.きゅう
+    wanikani_level: '8'
+  kanji: 研究
+  samples:
+    0:
+      english: I like research.
+      hiragana: わたしはけんきゅうがすきです。
+      kanji: 私は研究が好きです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。
+    1:
+      english: He is doing research.
+      hiragana: かれはけんきゅうをしています。
+      kanji: 彼は研究をしています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby>をしています。
+    2:
+      english: Research is important.
+      hiragana: けんきゅうはたいせつです。
+      kanji: 研究は大切です。
+      ruby: <ruby>研究<rt>けんきゅう</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>です。
+  simple_meaning:
+    0: Research
+    1: Study
+'1258570':
+  hiragana: けんきゅうしつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: けん.きゅう.しつ
+    wanikani_level: '10'
+  kanji: 研究室
+  samples:
+    0:
+      english: This is the research room.
+      hiragana: ここはけんきゅうしつです。
+      kanji: ここは研究室です。
+      ruby: <ruby>ここ<rt>ここ</rt></ruby>は<ruby>研究室<rt>けんきゅうしつ</rt></ruby>です。
+    1:
+      english: I study in the research room.
+      hiragana: わたしはけんきゅうしつでべんきょうします。
+      kanji: 私は研究室で勉強します。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>研究室<rt>けんきゅうしつ</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。
+  simple_meaning:
+    0: Laboratory
+    1: Research room
+'1258710':
+  hiragana: きぬ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きぬ
+    wanikani_level: '58'
+  kanji: 絹
+  samples:
+    0:
+      english: This cloth is silk.
+      hiragana: このぬのはきぬです。
+      kanji: この布は絹です。
+      ruby: <ruby>この<rt>この</rt></ruby><ruby>布<rt>ぬの</rt></ruby>は<ruby>絹<rt>きぬ</rt></ruby>です。
+    1:
+      english: I bought silk.
+      hiragana: きぬをかいました。
+      kanji: 絹を買いました。
+      ruby: <ruby>絹<rt>きぬ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
+  simple_meaning:
+    0: Silk
+'1259140':
+  hiragana: みえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: み.え.る
+    wanikani_level: '4'
+  kanji: 見える
+  samples:
+    0:
+      english: I can see the mountain.
+      hiragana: やまがみえます。
+      kanji: 山が見えます。
+      ruby: <ruby>山<rt>やま</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。
+    1:
+      english: The stars are visible.
+      hiragana: ほしがみえます。
+      kanji: 星が見えます。
+      ruby: <ruby>星<rt>ほし</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。
+  simple_meaning:
+    0: To be visible
+    1: To be seen
+'1260000':
+  hiragana: けんぶつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: けん.ぶつ
+    wanikani_level: '11'
+  kanji: 見物
+  samples:
+    0:
+      english: I went to see the festival.
+      hiragana: おまつりをけんぶつしました。
+      kanji: お祭りを見物しました。
+      ruby: <ruby>お祭り<rt>おまつり</rt></ruby>を<ruby>見物<rt>けんぶつ</rt></ruby>しました。
+    1:
+      english: We are watching the parade.
+      hiragana: わたしたちはパレードをけんぶつしています。
+      kanji: 私たちはパレードを見物しています。
+      ruby: <ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>パレード<rt>ぱれーど</rt></ruby>を<ruby>見物<rt>けんぶつ</rt></ruby>しています。
+  simple_meaning:
+    0: Sightseeing
+    1: Watching
+'1261190':
+  hiragana: げんいん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: げん.いん
+    wanikani_level: '17'
+  kanji: 原因
+  samples:
+    0:
+      english: What is the cause?
+      hiragana: げんいんはなんですか。
+      kanji: 原因は何ですか。
+      ruby: <ruby>原因<rt>げんいん</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。
+    1:
+      english: The cause is unknown.
+      hiragana: げんいんはわかりません。
+      kanji: 原因は分かりません。
+      ruby: <ruby>原因<rt>げんいん</rt></ruby>は<ruby>分<rt>わ</rt></ruby>かりません。
+  simple_meaning:
+    0: Cause
+    1: Origin
+'1262530':
+  hiragana: きびしい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: きび.し.い
+    wanikani_level: '32'
+  kanji: 厳しい
+  samples:
+    0:
+      english: My teacher is strict.
+      hiragana: わたしのせんせいはきびしいです。
+      kanji: 私の先生は厳しいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しいです。
+    1:
+      english: The rules are strict.
+      hiragana: きそくはきびしいです。
+      kanji: 規則は厳しいです。
+      ruby: <ruby>規則<rt>きそく</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しいです。
+  simple_meaning:
+    0: Strict
+    1: Severe
+'1267180':
+  hiragana: こしょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こ.しょう
+    wanikani_level: '26'
+  kanji: 故障
+  samples:
+    0:
+      english: The car broke down.
+      hiragana: くるまがこしょうしました。
+      kanji: 車が故障しました。
+      ruby: <ruby>車<rt>くるま</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>しました。
+    1:
+      english: The machine is broken.
+      hiragana: きかいがこしょうしています。
+      kanji: 機械が故障しています。
+      ruby: <ruby>機械<rt>きかい</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>しています。
+  simple_meaning:
+    0: Breakdown
+    1: Failure
+'1267280':
+  hiragana: みずうみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: みずうみ
+    wanikani_level: '35'
+  kanji: 湖
+  samples:
+    0:
+      english: I went to the lake.
+      hiragana: みずうみにいきました。
+      kanji: 湖に行きました。
+      ruby: <ruby>湖<rt>みずうみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+    1:
+      english: The lake is big.
+      hiragana: みずうみはおおきいです。
+      kanji: 湖は大きいです。
+      ruby: <ruby>湖<rt>みずうみ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです。
+  simple_meaning:
+    0: Lake
+'1270390':
+  hiragana: ごしゅじん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ご.しゅ.じん
+    wanikani_level: null
+  kanji: ご主人
+  samples:
+    0:
+      english: Is your husband at home?
+      hiragana: ごしゅじんはいえにいますか。
+      kanji: ご主人は家にいますか。
+      ruby: <ruby>ご主人<rt>ごしゅじん</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>にいますか。
+    1:
+      english: Her husband is kind.
+      hiragana: かのじょのごしゅじんはやさしいです。
+      kanji: 彼女のご主人は優しいです。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>ご主人<rt>ごしゅじん</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しいです。
+  simple_meaning:
+    0: Husband
+    1: Master
+'1270550':
+  hiragana: おつり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.つ.り
+    wanikani_level: null
+  kanji: お釣り
+  samples:
+    0:
+      english: I got change.
+      hiragana: おつりをもらいました。
+      kanji: お釣りをもらいました。
+      ruby: お<ruby>釣<rt>つ</rt></ruby>をもら いました。
+    1:
+      english: Please give me the change.
+      hiragana: おつりをください。
+      kanji: お釣りをください。
+      ruby: <ruby>お釣り<rt>おつり</rt></ruby>をください。
+  simple_meaning:
+    0: Change (money)
+'1270810':
+  hiragana: おれい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.れい
+    wanikani_level: '4'
+  kanji: お礼
+  samples:
+    0:
+      english: I said thank you.
+      hiragana: おれいをいいました。
+      kanji: お礼を言いました。
+      ruby: <ruby>お礼<rt>おれい</rt></ruby>を<ruby>言<rt>い</rt></ruby>いました。
+    1:
+      english: This is a gift of thanks.
+      hiragana: これはおれいのプレゼントです。
+      kanji: これはお礼のプレゼントです。
+      ruby: <ruby>これ<rt>これ</rt></ruby>は<ruby>お礼<rt>おれい</rt></ruby>の<ruby>プレゼント<rt>ぷれぜんと</rt></ruby>です。
+  simple_meaning:
+    0: Thanks
+    1: Gratitude
+'1272280':
+  hiragana: こうつう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.つう
+    wanikani_level: '7'
+  kanji: 交通
+  samples:
+    0:
+      english: Traffic is busy.
+      hiragana: こうつうがいそがしいです。
+      kanji: 交通が忙しいです。
+      ruby: <ruby>交通<rt>こうつう</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しいです。
+    1:
+      english: I use public transportation.
+      hiragana: こうきょうこうつうをつかいます。
+      kanji: 公共交通を使います。
+      ruby: <ruby>公共交通<rt>こうきょうこうつう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。
+  simple_meaning:
+    0: Traffic
+    1: Transportation
+'1272780':
+  hiragana: ひかり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひかり
+    wanikani_level: '5'
+  kanji: 光
+  samples:
+    0:
+      english: The light is beautiful.
+      hiragana: ひかりはきれいです。
+      kanji: 光はきれいです。
+      ruby: <ruby>光<rt>ひかり</rt></ruby>は<ruby>きれい<rt>きれい</rt></ruby>です。
+    1:
+      english: I saw the light.
+      hiragana: ひかりをみました。
+      kanji: 光を見ました。
+      ruby: <ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
+  simple_meaning:
+    0: Light
+    1: Ray
+'1272820':
+  hiragana: ひかる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひか.る
+    wanikani_level: '7'
+  kanji: 光る
+  samples: {}
+  simple_meaning:
+    0: To shine
+    1: To glitter
+'1274820':
+  hiragana: こうむいん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.む.いん
+    wanikani_level: null
+  kanji: 公務員
+  samples:
+    0:
+      english: My sister is a public servant.
+      hiragana: わたし の あね は こうむいん です。
+      kanji: 私の姉は公務員です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>は<ruby>公務員<rt>こうむいん</rt></ruby>です。
+    1:
+      english: He became a government worker last year.
+      hiragana: かれ は きょねん こうむいん に なり ました。
+      kanji: 彼は去年公務員になりました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>公務員<rt>こうむいん</rt></ruby>になりました。
+    2:
+      english: Public servants work for the government.
+      hiragana: こうむいん は せいふ の ため に はたらき ます。
+      kanji: 公務員は政府のために働きます。
+      ruby: <ruby>公務員<rt>こうむいん</rt></ruby>は<ruby>政府<rt>せいふ</rt></ruby>のために<ruby>働<rt>はたら</rt></ruby>きます。
+  simple_meaning:
+    0: Civil servant
+    1: Government worker
+'1278040':
+  hiragana: こうぎょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.ぎょう
+    wanikani_level: '10'
+  kanji: 工業
+  samples:
+    0:
+      english: This town has many factories.
+      hiragana: この まち に は こうじょう が おおい です。
+      kanji: この町には工場が多いです。
+      ruby: <ruby>この<rt>この</rt></ruby><ruby>町<rt>まち</rt></ruby>には<ruby>工場<rt>こうじょう</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。
+    1:
+      english: My uncle works in industry.
+      hiragana: おじ は こうぎょう で はたらいて います。
+      kanji: 叔父は工業で働いています。
+      ruby: <ruby>叔父<rt>おじ</rt></ruby>は<ruby>工業<rt>こうぎょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。
+    2:
+      english: I study industrial technology.
+      hiragana: わたし は こうぎょう の ぎじゅつ を べんきょう します。
+      kanji: 私は工業の技術を勉強します。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>工業<rt>こうぎょう</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。
+  simple_meaning:
+    0: Industry
+'1279590':
+  hiragana: こうちょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.ちょう
+    wanikani_level: null
+  kanji: 校長
+  samples:
+    0:
+      english: The principal is in the office.
+      hiragana: こうちょう は じむしょ に います。
+      kanji: 校長は事務所にいます。
+      ruby: <ruby>校長<rt>こうちょう</rt></ruby>は<ruby>事務所<rt>じむしょ</rt></ruby>にいます。
+    1:
+      english: Our principal is kind.
+      hiragana: わたしたち の こうちょう は やさしい です。
+      kanji: 私たちの校長は優しいです。
+      ruby: <ruby>私たち<rt>わたしたち</rt></ruby>の<ruby>校長<rt>こうちょう</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しいです。
+    2:
+      english: I talked to the principal.
+      hiragana: わたし は こうちょう と はなし ました。
+      kanji: 私は校長と話しました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>校長<rt>こうちょう</rt></ruby>と<ruby>話<rt>はな</rt></ruby>しました。
+    simple_meaning:
+      0: Principal
+      1: Headmaster
+'1279990':
+  hiragana: みなと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: みなと
+    wanikani_level: '12'
+  kanji: 港
+  samples:
+    0:
+      english: There is a big ship at the port.
+      hiragana: みなと に おおきい ふね が います。
+      kanji: 港に大きい船がいます。
+      ruby: <ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きい<ruby>船<rt>ふね</rt></ruby>がいます。
+    1:
+      english: I went to the port yesterday.
+      hiragana: きのう、みなと に いきました。
+      kanji: 昨日、港に行きました。
+      ruby: <ruby>昨日<rt>きのう</rt></ruby>、<ruby>港<rt>みなと</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+    2:
+      english: The port is near the sea.
+      hiragana: みなと は うみ の ちかく に あります。
+      kanji: 港は海の近くにあります。
+      ruby: <ruby>港<rt>みなと</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにあります。
+  simple_meaning:
+    0: Port
+    1: Harbor
+'1281020':
+  hiragana: かんがえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かんが.え.る
+    wanikani_level: '5'
+  kanji: 考える
+  samples:
+    0:
+      english: I think about my family.
+      hiragana: わたし は かぞく の こと を かんがえる。
+      kanji: 私は家族のことを考える。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>のことを<ruby>考<rt>かんが</rt></ruby>える。
+    1:
+      english: He thinks every day.
+      hiragana: かれ は まいにち かんがえる。
+      kanji: 彼は毎日考える。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>考<rt>かんが</rt></ruby>える。
+    2:
+      english: I want to think slowly.
+      hiragana: ゆっくり かんがえたい。
+      kanji: ゆっくり考えたい。
+      ruby: <ruby>ゆっくり<rt>ゆっくり</rt></ruby><ruby>考<rt>かんが</rt></ruby>えたい。
+    simple_meaning:
+      0: To think
+      1: To consider
+'1282260':
+  hiragana: こうぎ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.ぎ
+    wanikani_level: '35'
+  kanji: 講義
+  samples:
+    0:
+      english: The lecture starts at 9 o'clock.
+      hiragana: こうぎ は くじ に はじまります。
+      kanji: 講義は九時に始まります。
+      ruby: <ruby>講義<rt>こうぎ</rt></ruby>は<ruby>九時<rt>くじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。
+    1:
+      english: I listened to the lecture.
+      hiragana: わたし は こうぎ を ききました。
+      kanji: 私は講義を聞きました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>講義<rt>こうぎ</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。
+    2:
+      english: Today's lecture is interesting.
+      hiragana: きょう の こうぎ は おもしろい です。
+      kanji: 今日の講義は面白いです。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>いです。
+  simple_meaning:
+    0: Lecture
+'1282340':
+  hiragana: こうどう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.どう
+    wanikani_level: null
+  kanji: 講堂
+  samples:
+    0:
+      english: The students are in the auditorium.
+      hiragana: がくせい は こうどう に います。
+      kanji: 学生は講堂にいます。
+      ruby: <ruby>学生<rt>がくせい</rt></ruby>は<ruby>講堂<rt>こうどう</rt></ruby>にいます。
+    1:
+      english: The lecture is in the auditorium.
+      hiragana: こうぎ は こうどう で あります。
+      kanji: 講義は講堂であります。
+      ruby: <ruby>講義<rt>こうぎ</rt></ruby>は<ruby>講堂<rt>こうどう</rt></ruby>であります。
+    2:
+      english: We went to the auditorium.
+      hiragana: わたしたち は こうどう に いきました。
+      kanji: 私たちは講堂に行きました。
+      ruby: <ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>講堂<rt>こうどう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+  simple_meaning:
+    0: Auditorium
+'1282490':
+  hiragana: こうがい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.がい
+    wanikani_level: '51'
+  kanji: 郊外
+  samples:
+    0:
+      english: I live in the suburbs.
+      hiragana: わたし は こうがい に すんで います。
+      kanji: 私は郊外に住んでいます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>郊外<rt>こうがい</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    1:
+      english: The suburbs are quiet.
+      hiragana: こうがい は しずか です。
+      kanji: 郊外は静かです。
+      ruby: <ruby>郊外<rt>こうがい</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かです。
+    2:
+      english: We went to the suburbs on Sunday.
+      hiragana: にちようび に こうがい へ いきました。
+      kanji: 日曜日に郊外へ行きました。
+      ruby: <ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>郊外<rt>こうがい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
+  simple_meaning:
+    0: Suburb
+    1: Outskirts
+'1282770':
+  hiragana: ふりだす
+  jisho_info:
+    is_common_word: false
+    jlpt_level: N4
+    split_hiragana: ふ.り.だ.す
+    wanikani_level: null
+  kanji: 降り出す
+  samples:
+    0:
+      english: It starts to rain.
+      hiragana: あめ が ふりだす。
+      kanji: 雨が降り出す。
+      ruby: <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す。
+    1:
+      english: Snow begins to fall.
+      hiragana: ゆき が ふりだす。
+      kanji: 雪が降り出す。
+      ruby: <ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す。
+    2:
+      english: It suddenly started raining.
+      hiragana: とつぜん あめ が ふりだした。
+      kanji: 突然雨が降り出した。
+      ruby: <ruby>突然<rt>とつぜん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>した。
+  simple_meaning:
+    0: To start to rain
+    1: To begin to snow
+'1283500':
+  hiragana: こうこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.こう
+    wanikani_level: '7'
+  kanji: 高校
+  samples:
+    0:
+      english: My brother goes to high school.
+      hiragana: わたし の おとうと は こうこう に いきます。
+      kanji: 私の弟は高校に行きます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>は<ruby>高校<rt>こうこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+    1:
+      english: I study English in high school.
+      hiragana: こうこう で えいご を べんきょう します。
+      kanji: 高校で英語を勉強します。
+      ruby: <ruby>高校<rt>こうこう</rt></ruby>で<ruby>英語<rt>えいご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。
+    2:
+      english: My high school is big.
+      hiragana: わたし の こうこう は おおきい です。
+      kanji: 私の高校は大きいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>高校<rt>こうこう</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです。
+  simple_meaning:
+    0: High school
+'1283510':
+  hiragana: こうこうせい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.こう.せい
+    wanikani_level: '9'
+  kanji: 高校生
+  samples:
+    0:
+      english: My sister is a high school student.
+      hiragana: わたし の あね は こうこうせい です。
+      kanji: 私の姉は高校生です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>は<ruby>高校生<rt>こうこうせい</rt></ruby>です。
+    1:
+      english: The high school students are studying.
+      hiragana: こうこうせい は べんきょう して います。
+      kanji: 高校生は勉強しています。
+      ruby: <ruby>高校生<rt>こうこうせい</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+    2:
+      english: I want to be a high school student.
+      hiragana: わたし は こうこうせい に なりたい です。
+      kanji: 私は高校生になりたいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>高校生<rt>こうこうせい</rt></ruby>に<ruby>なりたい<rt>なりたい</rt></ruby>です。
+
+  simple_meaning:
+    0: High school student
+'1283860':
+  hiragana: こうとうがっこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.とう.がっこう
+    wanikani_level: '20'
+  kanji: 高等学校
+  samples:
+    0:
+      english: My sister goes to high school.
+      hiragana: わたし の あね は こうとうがっこう に かよって います。
+      kanji: 私の姉は高等学校に通っています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>は<ruby>高等学校<rt>こうとうがっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。
+    1:
+      english: The high school is near the station.
+      hiragana: こうとうがっこう は えき の ちかく に あります。
+      kanji: 高等学校は駅の近くにあります。
+      ruby: <ruby>高等学校<rt>こうとうがっこう</rt></ruby>は<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにあります。
+    2:
+      english: I want to enter high school.
+      hiragana: わたし は こうとうがっこう に はいりたい です。
+      kanji: 私は高等学校に入りたいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>高等学校<rt>こうとうがっこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたいです。
+  simple_meaning:
+    0: High school
+'1284430':
+  hiragana: あう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あ.う
+    wanikani_level: '12'
+  kanji: 合う
+  samples:
+    0:
+      english: These shoes fit me.
+      hiragana: この くつ は わたし に あう。
+      kanji: この靴は私に合う。
+      ruby: <ruby>この<rt>この</rt></ruby><ruby>靴<rt>くつ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う。
+    1:
+      english: That shirt matches your pants.
+      hiragana: その シャツ は ズボン に あう。
+      kanji: そのシャツはズボンに合う。
+      ruby: <ruby>その<rt>その</rt></ruby><ruby>シャツ<rt>しゃつ</rt></ruby>は<ruby>ズボン<rt>ずぼん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う。
+    2:
+      english: We get along well.
+      hiragana: わたしたち は よく あう。
+      kanji: 私たちはよく合う。
+      ruby: <ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>よく<rt>よく</rt></ruby><ruby>合<rt>あ</rt></ruby>う。
+  simple_meaning:
+    0: To fit
+    1: To match
+    2: To get along
+'1286400':
+  hiragana: こくさい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こく.さい
+    wanikani_level: '21'
+  kanji: 国際
+  samples:
+    0:
+      english: She studies international law.
+      hiragana: かのじょ は こくさい ほう を べんきょう して います。
+      kanji: 彼女は国際法を勉強しています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>国際<rt>こくさい</rt></ruby><ruby>法<rt>ほう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+    1:
+      english: I want to work at an international company.
+      hiragana: わたし は こくさい がいしゃ で はたらきたい です。
+      kanji: 私は国際会社で働きたいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>国際<rt>こくさい</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたいです。
+    2:
+      english: This is an international airport.
+      hiragana: ここ は こくさい くうこう です。
+      kanji: ここは国際空港です。
+      ruby: <ruby>ここ<rt>ここ</rt></ruby>は<ruby>国際<rt>こくさい</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>です。
+  simple_meaning:
+    0: International
+'1289370':
+  hiragana: こんど
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こん.ど
+    wanikani_level: '9'
+  kanji: 今度
+  samples:
+    0:
+      english: I will go next time.
+      hiragana: こんど いきます。
+      kanji: 今度行きます。
+      ruby: <ruby>今度<rt>こんど</rt></ruby><ruby>行<rt>い</rt></ruby>きます。
+    1:
+      english: Let's meet next time.
+      hiragana: こんど あいましょう。
+      kanji: 今度会いましょう。
+      ruby: <ruby>今度<rt>こんど</rt></ruby><ruby>会<rt>あ</rt></ruby>いましょう。
+    2:
+      english: What will you do next time?
+      hiragana: こんど なに を します か。
+      kanji: 今度何をしますか。
+      ruby: <ruby>今度<rt>こんど</rt></ruby><ruby>何<rt>なに</rt></ruby>を<ruby>します<rt>します</rt></ruby>か。
+  simple_meaning:
+    0: Next time
+    1: This time
+'1289520':
+  hiragana: こんや
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こん.や
+    wanikani_level: '6'
+  kanji: 今夜
+  samples:
+    0:
+      english: I will study tonight.
+      hiragana: こんや べんきょう します。
+      kanji: 今夜勉強します。
+      ruby: <ruby>今夜<rt>こんや</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>します。
+    1:
+      english: Are you free tonight?
+      hiragana: こんや は ひま です か。
+      kanji: 今夜は暇ですか。
+      ruby: <ruby>今夜<rt>こんや</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>ですか。
+    2:
+      english: It will rain tonight.
+      hiragana: こんや あめ が ふります。
+      kanji: 今夜雨が降ります。
+      ruby: <ruby>今夜<rt>こんや</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ります。
+  simple_meaning:
+    0: Tonight
+'1291270':
+  hiragana: さしあげる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さ.し.あ.げ.る
+    wanikani_level: '26'
+  kanji: 差し上げる
+  samples:
+    0:
+      english: I will give this book to the teacher.
+      hiragana: わたし は せんせい に この ほん を さしあげます。
+      kanji: 私は先生にこの本を差し上げます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>に<ruby>この<rt>この</rt></ruby><ruby>本<rt>ほん</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
+    1:
+      english: I gave a gift to my boss.
+      hiragana: わたし は じょうし に プレゼント を さしあげました。
+      kanji: 私は上司にプレゼントを差し上げました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>上司<rt>じょうし</rt></ruby>に<ruby>プレゼント<rt>ぷれぜんと</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げました。
+    2:
+      english: I will give you this letter.
+      hiragana: あなた に この てがみ を さしあげます。
+      kanji: あなたにこの手紙を差し上げます。
+      ruby: <ruby>あなた<rt>あなた</rt></ruby>に<ruby>この<rt>この</rt></ruby><ruby>手紙<rt>てがみ</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
+  simple_meaning:
+    0: To give (humble)
+    1: To offer
+'1291500':
+  hiragana: すな
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: すな
+    wanikani_level: '33'
+  kanji: 砂
+  samples:
+    0:
+      english: There is sand on the beach.
+      hiragana: うみべ に すな が あります。
+      kanji: 海辺に砂があります。
+      ruby: <ruby>海辺<rt>うみべ</rt></ruby>に<ruby>砂<rt>すな</rt></ruby>があります。
+    1:
+      english: I touched the sand.
+      hiragana: わたし は すな に さわりました。
+      kanji: 私は砂に触りました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>砂<rt>すな</rt></ruby>に<ruby>触<rt>さわ</rt></ruby>りました。
+    2:
+      english: The sand is hot.
+      hiragana: すな は あつい です。
+      kanji: 砂は熱いです。
+      ruby: <ruby>砂<rt>すな</rt></ruby>は<ruby>熱<rt>あつ</rt></ruby>いです。
+  simple_meaning:
+    0: Sand
+'1293640':
+  hiragana: さらいげつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さ.らい.げつ
+    wanikani_level: '26'
+  kanji: 再来月
+  samples: {}
+  simple_meaning:
+    0: Month after next
+'1293650':
+  hiragana: さらいしゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さ.らい.しゅう
+    wanikani_level: '26'
+  kanji: 再来週
+  samples: {}
+  simple_meaning:
+    0: Week after next
+'1293780':
+  hiragana: さいきん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さい.きん
+    wanikani_level: '10'
+  kanji: 最近
+  samples: {}
+  simple_meaning:
+    0: Recently
+    1: Lately
+'1293810':
+  hiragana: さいご
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さい.ご
+    wanikani_level: '10'
+  kanji: 最後
+  samples: {}
+  simple_meaning:
+    0: Last
+    1: End
+'1293990':
+  hiragana: さいしょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さい.しょ
+    wanikani_level: '11'
+  kanji: 最初
+  samples: {}
+  simple_meaning:
+    0: First
+    1: Beginning
+'1294330':
+  hiragana: つま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つま
+    wanikani_level: '20'
+  kanji: 妻
+  samples: {}
+  simple_meaning:
+    0: Wife
+'1295070':
+  hiragana: すむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: す.む
+    wanikani_level: '21'
+  kanji: 済む
+  samples: {}
+  simple_meaning:
+    0: To finish
+    1: To end
+'1295530':
+  hiragana: こまかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こま.か.い
+    wanikani_level: '19'
+  kanji: 細かい
+  samples: {}
+  simple_meaning:
+    0: Small
+    1: Fine
+    2: Detailed
+'1297110':
+  hiragana: さか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さか
+    wanikani_level: '15'
+  kanji: 坂
+  samples: {}
+  simple_meaning:
+    0: Slope
+    1: Hill
+'1302070':
+  hiragana: まいる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: まい.る
+    wanikani_level: '14'
+  kanji: 参る
+  samples: {}
+  simple_meaning:
+    0: To go
+    1: To come
+    2: To visit (humble)
+'1303770':
+  hiragana: さんぎょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さん.ぎょう
+    wanikani_level: '22'
+  kanji: 産業
+  samples: {}
+  simple_meaning:
+    0: Industry
+'1304510':
+  hiragana: のこる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: のこ.る
+    wanikani_level: '14'
+  kanji: 残る
+  samples: {}
+  simple_meaning:
+    0: To remain
+    1: To be left
+'1304680':
+  hiragana: ざんねん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ざん.ねん
+    wanikani_level: '14'
+  kanji: 残念
+  samples: {}
+  simple_meaning:
+    0: Regret
+    1: Disappointment
+'1307550':
+  hiragana: はじめる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はじ.め.る
+    wanikani_level: '10'
+  kanji: 始める
+  samples: {}
+  simple_meaning:
+    0: To start
+    1: To begin
+'1307770':
+  hiragana: こ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こ
+    wanikani_level: '2'
+  kanji: 子
+  samples: {}
+  simple_meaning:
+    0: Child
+'1308090':
+  hiragana: し
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: し
+    wanikani_level: '3'
+  kanji: 市
+  samples: {}
+  simple_meaning:
+    0: City
+'1308690':
+  hiragana: しみん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: し.みん
+    wanikani_level: null
+  kanji: 市民
+  samples: {}
+  simple_meaning:
+    0: Citizen
+'1309260':
+  hiragana: おもいだす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おも.い.だ.す
+    wanikani_level: '8'
+  kanji: 思い出す
+  samples: {}
+  simple_meaning:
+    0: To recall
+    1: To remember
+'1309650':
+  hiragana: ゆび
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ゆび
+    wanikani_level: '11'
+  kanji: 指
+  samples: {}
+  simple_meaning:
+    0: Finger
+'1310050':
+  hiragana: ゆびわ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ゆび.わ
+    wanikani_level: '15'
+  kanji: 指輪
+  samples: {}
+  simple_meaning:
+    0: Ring (jewelry)
+'1310530':
+  hiragana: えだ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: えだ
+    wanikani_level: '34'
+  kanji: 枝
+  samples: {}
+  simple_meaning:
+    0: Branch
+    1: Twig
+'1310640':
+  hiragana: やむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: や.む
+    wanikani_level: null
+  kanji: 止む
+  samples: {}
+  simple_meaning:
+    0: To stop
+    1: To cease
+'1310670':
+  hiragana: とめる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: と.め.る
+    wanikani_level: '3'
+  kanji: 止める
+  samples: {}
+  simple_meaning:
+    0: To stop
+    1: To halt
+    2: To park
+'1311450':
+  hiragana: いと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: いと
+    wanikani_level: '4'
+  kanji: 糸
+  samples: {}
+  simple_meaning:
+    0: Thread
+    1: String
+'1312350':
+  hiragana: しけん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: し.けん
+    wanikani_level: '9'
+  kanji: 試験
+  samples: {}
+  simple_meaning:
+    0: Exam
+    1: Test
+'1312420':
+  hiragana: しあい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しあい.
+    wanikani_level: '14'
+  kanji: 試合
+  samples: {}
+  simple_meaning:
+    0: Match
+    1: Game
+    2: Competition
+'1313080':
+  hiragana: はいしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: は.い.しゃ
+    wanikani_level: '12'
+  kanji: 歯医者
+  samples: {}
+  simple_meaning:
+    0: Dentist
+'1313850':
+  hiragana: じこ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じ.こ
+    wanikani_level: '26'
+  kanji: 事故
+  samples: {}
+  simple_meaning:
+    0: Accident
+'1314400':
+  hiragana: じむしょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じ.む.しょ
+    wanikani_level: '21'
+  kanji: 事務所
+  samples: {}
+  simple_meaning:
+    0: Office
+'1314600':
+  hiragana: にる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: に.る
+    wanikani_level: '31'
+  kanji: 似る
+  samples: {}
+  simple_meaning:
+    0: To resemble
+    1: To look like
+'1315130':
+  hiragana: じ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じ
+    wanikani_level: '4'
+  kanji: 字
+  samples: {}
+  simple_meaning:
+    0: Character
+    1: Letter
+'1315240':
+  hiragana: てら
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: てら
+    wanikani_level: '15'
+  kanji: 寺
+  samples: {}
+  simple_meaning:
+    0: Temple
+'1316300':
+  hiragana: じだい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じ.だい
+    wanikani_level: '7'
+  kanji: 時代
+  samples: {}
+  simple_meaning:
+    0: Era
+    1: Period
+    2: Age
+'1318720':
+  hiragana: じゆう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じ.ゆう
+    wanikani_level: '7'
+  kanji: 自由
+  samples: {}
+  simple_meaning:
+    0: Freedom
+    1: Liberty
+'1320140':
+  hiragana: しっぱい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しっ.ぱい
+    wanikani_level: '17'
+  kanji: 失敗
+  samples: {}
+  simple_meaning:
+    0: Failure
+    1: Mistake
+'1322320':
+  hiragana: すてる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: す.て.る
+    wanikani_level: '32'
+  kanji: 捨てる
+  samples: {}
+  simple_meaning:
+    0: To throw away
+    1: To discard
+'1322700':
+  hiragana: しゃかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しゃ.かい
+    wanikani_level: '7'
+  kanji: 社会
+  samples: {}
+  simple_meaning:
+    0: Society
+'1322920':
+  hiragana: しゃちょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しゃ.ちょう
+    wanikani_level: '6'
+  kanji: 社長
+  samples: {}
+  simple_meaning:
+    0: Company president
+    1: CEO
+'1323010':
+  hiragana: あやまる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あやま.る
+    wanikani_level: '13'
+  kanji: 謝る
+  samples: {}
+  simple_meaning:
+    0: To apologize
+'1326830':
+  hiragana: とりかえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: と.り.か.え.る
+    wanikani_level: '27'
+  kanji: 取り替える
+  samples: {}
+  simple_meaning:
+    0: To exchange
+    1: To replace
+'1328090':
+  hiragana: てぶくろ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: て.ぶくろ
+    wanikani_level: '44'
+  kanji: 手袋
+  samples: {}
+  simple_meaning:
+    0: Gloves
+'1328190':
+  hiragana: てつだう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: て.つだ.う
+    wanikani_level: '13'
+  kanji: 手伝う
+  samples: {}
+  simple_meaning:
+    0: To help
+    1: To assist
+'1329000':
+  hiragana: しゅみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しゅ.み
+    wanikani_level: '43'
+  kanji: 趣味
+  samples: {}
+  simple_meaning:
+    0: Hobby
+    1: Interest
+'1329590':
+  hiragana: うける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: う.け.る
+    wanikani_level: '9'
+  kanji: 受ける
+  samples: {}
+  simple_meaning:
+    0: To receive
+    1: To take (a test)
+'1332570':
+  hiragana: ひろう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひろ.う
+    wanikani_level: '11'
+  kanji: 拾う
+  samples: {}
+  simple_meaning:
+    0: To pick up
+'1333090':
+  hiragana: しゅうかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しゅう.かん
+    wanikani_level: '25'
+  kanji: 習慣
+  samples: {}
+  simple_meaning:
+    0: Habit
+    1: Custom
+'1333550':
+  hiragana: あつまる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あつ.ま.る
+    wanikani_level: '12'
+  kanji: 集まる
+  samples: {}
+  simple_meaning:
+    0: To gather
+    1: To assemble
+'1333560':
+  hiragana: あつめる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あつ.め.る
+    wanikani_level: '10'
+  kanji: 集める
+  samples: {}
+  simple_meaning:
+    0: To collect
+    1: To gather
+'1334080':
+  hiragana: じゅうしょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じゅう.しょ
+    wanikani_level: '8'
+  kanji: 住所
+  samples: {}
+  simple_meaning:
+    0: Address
+'1335080':
+  hiragana: じゅうぶん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じゅう.ぶん
+    wanikani_level: null
+  kanji: 十分
+  samples: {}
+  simple_meaning:
+    0: Enough
+    1: Sufficient
+'1335440':
+  hiragana: じゅうどう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じゅう.どう
+    wanikani_level: '43'
+  kanji: 柔道
+  samples: {}
+  simple_meaning:
+    0: Judo
+'1345250':
+  hiragana: じょせい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じょ.せい
+    wanikani_level: '14'
+  kanji: 女性
+  samples: {}
+  simple_meaning:
+    0: Woman
+    1: Female
+'1346150':
+  hiragana: かつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.つ
+    wanikani_level: '9'
+  kanji: 勝つ
+  samples: {}
+  simple_meaning:
+    0: To win
+'1346370':
+  hiragana: めしあがる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: め.し.あ.が.る
+    wanikani_level: '53'
+  kanji: 召し上がる
+  samples: {}
+  simple_meaning:
+    0: To eat (honorific)
+    1: To drink (honorific)
+'1347710':
+  hiragana: しょうらい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しょう.らい
+    wanikani_level: '36'
+  kanji: 将来
+  samples: {}
+  simple_meaning:
+    0: Future
+'1347870':
+  hiragana: しょうがっこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しょう.がっこう
+    wanikani_level: '9'
+  kanji: 小学校
+  samples: {}
+  simple_meaning:
+    0: Elementary school
+'1348430':
+  hiragana: しょうせつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しょう.せつ
+    wanikani_level: '17'
+  kanji: 小説
+  samples: {}
+  simple_meaning:
+    0: Novel
+    1: Story
+'1348530':
+  hiragana: ことり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こ.とり
+    wanikani_level: null
+  kanji: 小鳥
+  samples: {}
+  simple_meaning:
+    0: Small bird
+    1: Little bird
+'1349410':
+  hiragana: とこや
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: とこ.や
+    wanikani_level: null
+  kanji: 床屋
+  samples: {}
+  simple_meaning:
+    0: Barber
+    1: Barbershop
+'1350600':
+  hiragana: やく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: や.く
+    wanikani_level: '18'
+  kanji: 焼く
+  samples: {}
+  simple_meaning:
+    0: To bake
+    1: To grill
+    2: To roast
+'1350610':
+  hiragana: やける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: や.け.る
+    wanikani_level: '20'
+  kanji: 焼ける
+  samples: {}
+  simple_meaning:
+    0: To be burned
+    1: To be roasted
+'1351360':
+  hiragana: わらう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: わら.う
+    wanikani_level: '16'
+  kanji: 笑う
+  samples: {}
+  simple_meaning:
+    0: To laugh
+    1: To smile
+'1351430':
+  hiragana: しょうかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しょう.かい
+    wanikani_level: '37'
+  kanji: 紹介
+  samples: {}
+  simple_meaning:
+    0: Introduction
+'1352290':
+  hiragana: あがる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あ.が.る
+    wanikani_level: '21'
+  kanji: 上がる
+  samples: {}
+  simple_meaning:
+    0: To rise
+    1: To go up
+'1355810':
+  hiragana: ばあい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ば.あい
+    wanikani_level: '14'
+  kanji: 場合
+  samples: {}
+  simple_meaning:
+    0: Case
+    1: Situation
+'1355850':
+  hiragana: ばしょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ば.しょ
+    wanikani_level: '8'
+  kanji: 場所
+  samples: {}
+  simple_meaning:
+    0: Place
+    1: Location
+'1356750':
+  hiragana: たたみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たたみ
+    wanikani_level: '47'
+  kanji: 畳
+  samples: {}
+  simple_meaning:
+    0: Tatami mat
+'1357210':
+  hiragana: かざる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かざ.る
+    wanikani_level: '30'
+  kanji: 飾る
+  samples: {}
+  simple_meaning:
+    0: To decorate
+'1357250':
+  hiragana: うえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: う.え.る
+    wanikani_level: '12'
+  kanji: 植える
+  samples: {}
+  simple_meaning:
+    0: To plant
+'1357980':
+  hiragana: さわる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さわ.る
+    wanikani_level: '24'
+  kanji: 触る
+  samples: {}
+  simple_meaning:
+    0: To touch
+'1358680':
+  hiragana: しょくりょうひん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しょく.りょう.ひん
+    wanikani_level: '16'
+  kanji: 食料品
+  samples: {}
+  simple_meaning:
+    0: Groceries
+    1: Food items
+'1360320':
+  hiragana: ねぼう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ね.ぼう
+    wanikani_level: '24'
+  kanji: 寝坊
+  samples: {}
+  simple_meaning:
+    0: Oversleeping
+'1360480':
+  hiragana: こころ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こころ
+    wanikani_level: '3'
+  kanji: 心
+  samples: {}
+  simple_meaning:
+    0: Heart
+    1: Mind
+    2: Spirit
+'1362400':
+  hiragana: しんぶんしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しん.ぶん.しゃ
+    wanikani_level: null
+  kanji: 新聞社
+  samples: {}
+  simple_meaning:
+    0: Newspaper company
+'1362490':
+  hiragana: もり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: もり
+    wanikani_level: '8'
+  kanji: 森
+  samples: {}
+  simple_meaning:
+    0: Forest
+'1362640':
+  hiragana: ふかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふか.い
+    wanikani_level: '12'
+  kanji: 深い
+  samples: {}
+  simple_meaning:
+    0: Deep
+'1362950':
+  hiragana: もうしあげる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: もう.し.あ.げ.る
+    wanikani_level: null
+  kanji: 申し上げる
+  samples: {}
+  simple_meaning:
+    0: To say (humble)
+    1: To tell
+'1363090':
+  hiragana: もうす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: もう.す
+    wanikani_level: '4'
+  kanji: 申す
+  samples: {}
+  simple_meaning:
+    0: To say (humble)
+'1364670':
+  hiragana: じんじゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じん.じゃ
+    wanikani_level: '11'
+  kanji: 神社
+  samples: {}
+  simple_meaning:
+    0: Shrine (Shinto)
+'1365040':
+  hiragana: おや
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おや
+    wanikani_level: '10'
+  kanji: 親
+  samples: {}
+  simple_meaning:
+    0: Parent
+'1365250':
+  hiragana: しんせつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しん.せつ
+    wanikani_level: '10'
+  kanji: 親切
+  samples: {}
+  simple_meaning:
+    0: Kind
+    1: Helpful
+'1365980':
+  hiragana: すすむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: すす.む
+    wanikani_level: '10'
+  kanji: 進む
+  samples: {}
+  simple_meaning:
+    0: To advance
+    1: To proceed
+'1367120':
+  hiragana: にんぎょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: にん.ぎょう
+    wanikani_level: '7'
+  kanji: 人形
+  samples: {}
+  simple_meaning:
+    0: Doll
+    1: Puppet
+'1367300':
+  hiragana: じんこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じん.こう
+    wanikani_level: '1'
+  kanji: 人口
+  samples: {}
+  simple_meaning:
+    0: Population
+'1369940':
+  hiragana: たずねる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たず.ね.る
+    wanikani_level: '31'
+  kanji: 尋ねる
+  samples: {}
+  simple_meaning:
+    0: To ask
+    1: To inquire
+'1371320':
+  hiragana: すいえい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: すい.えい
+    wanikani_level: null
+  kanji: 水泳
+  samples: {}
+  simple_meaning:
+    0: Swimming
+'1371920':
+  hiragana: すいどう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: すい.どう
+    wanikani_level: '8'
+  kanji: 水道
+  samples: {}
+  simple_meaning:
+    0: Water supply
+    1: Water service
+'1372980':
+  hiragana: すうがく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: すう.がく
+    wanikani_level: '8'
+  kanji: 数学
+  samples: {}
+  simple_meaning:
+    0: Mathematics
+'1373860':
+  hiragana: せかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せ.かい
+    wanikani_level: '9'
+  kanji: 世界
+  samples: {}
+  simple_meaning:
+    0: World
+'1375970':
+  hiragana: せいじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せい.じ
+    wanikani_level: '16'
+  kanji: 政治
+  samples: {}
+  simple_meaning:
+    0: Politics
+    1: Government
+'1376310':
+  hiragana: ほし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ほし
+    wanikani_level: '6'
+  kanji: 星
+  samples: {}
+  simple_meaning:
+    0: Star
+'1376600':
+  hiragana: ただしい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ただ.し.い
+    wanikani_level: '2'
+  kanji: 正しい
+  samples: {}
+  simple_meaning:
+    0: Correct
+    1: Right
+'1378520':
+  hiragana: いきる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: い.き.る
+    wanikani_level: '3'
+  kanji: 生きる
+  samples: {}
+  simple_meaning:
+    0: To live
+'1378860':
+  hiragana: せいかつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せい.かつ
+    wanikani_level: '6'
+  kanji: 生活
+  samples: {}
+  simple_meaning:
+    0: Life
+    1: Living
+    2: Livelihood
+'1378990':
+  hiragana: せいさん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せい.さん
+    wanikani_level: null
+  kanji: 生産
+  samples: {}
+  simple_meaning:
+    0: Production
+'1379750':
+  hiragana: さかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さか.ん
+    wanikani_level: null
+  kanji: 盛ん
+  samples: {}
+  simple_meaning:
+    0: Prosperous
+    1: Popular
+    2: Active
+'1381100':
+  hiragana: せいよう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せい.よう
+    wanikani_level: '11'
+  kanji: 西洋
+  samples: {}
+  simple_meaning:
+    0: The West
+    1: Western countries
+'1382250':
+  hiragana: せき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せき
+    wanikani_level: '17'
+  kanji: 席
+  samples: {}
+  simple_meaning:
+    0: Seat
+'1382370':
+  hiragana: むかし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: むかし
+    wanikani_level: '11'
+  kanji: 昔
+  samples: {}
+  simple_meaning:
+    0: Long ago
+    1: Old times
+'1382440':
+  hiragana: いし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: いし
+    wanikani_level: '4'
+  kanji: 石
+  samples: {}
+  simple_meaning:
+    0: Stone
+    1: Rock
+'1383260':
+  hiragana: あかちゃん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あか.ち.ゃ.ん
+    wanikani_level: '4'
+  kanji: 赤ちゃん
+  samples: {}
+  simple_meaning:
+    0: Baby
+'1383310':
+  hiragana: あかんぼう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あか.ん.ぼう
+    wanikani_level: '22'
+  kanji: 赤ん坊
+  samples: {}
+  simple_meaning:
+    0: Infant
+    1: Baby
+'1385910':
+  hiragana: おる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.る
+    wanikani_level: '14'
+  kanji: 折る
+  samples: {}
+  simple_meaning:
+    0: To break
+    1: To fold
+'1385920':
+  hiragana: おれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.れ.る
+    wanikani_level: '16'
+  kanji: 折れる
+  samples: {}
+  simple_meaning:
+    0: To be broken
+    1: To snap
+'1386460':
+  hiragana: せつめい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せつ.めい
+    wanikani_level: '17'
+  kanji: 説明
+  samples: {}
+  simple_meaning:
+    0: Explanation
+'1388410':
+  hiragana: せんぱい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せん.ぱい
+    wanikani_level: '25'
+  kanji: 先輩
+  samples: {}
+  simple_meaning:
+    0: Senior
+    1: Upperclassman
+'1390360':
+  hiragana: せんそう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せん.そう
+    wanikani_level: '11'
+  kanji: 戦争
+  samples: {}
+  simple_meaning:
+    0: War
+'1390800':
+  hiragana: あさい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あさ.い
+    wanikani_level: '15'
+  kanji: 浅い
+  samples: {}
+  simple_meaning:
+    0: Shallow
+'1391780':
+  hiragana: せん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せん
+    wanikani_level: '10'
+  kanji: 線
+  samples: {}
+  simple_meaning:
+    0: Line
+    1: Track
+'1396840':
+  hiragana: そふ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: そ.ふ
+    wanikani_level: '32'
+  kanji: 祖父
+  samples: {}
+  simple_meaning:
+    0: Grandfather
+'1396860':
+  hiragana: そぼ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: そ.ぼ
+    wanikani_level: '32'
+  kanji: 祖母
+  samples: {}
+  simple_meaning:
+    0: Grandmother
+'1401910':
+  hiragana: くさ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: くさ
+    wanikani_level: '5'
+  kanji: 草
+  samples: {}
+  simple_meaning:
+    0: Grass
+'1402730':
+  hiragana: おくる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おく.る
+    wanikani_level: '9'
+  kanji: 送る
+  samples: {}
+  simple_meaning:
+    0: To send
+    1: To escort
+'1403040':
+  hiragana: さわぐ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さわ.ぐ
+    wanikani_level: '30'
+  kanji: 騒ぐ
+  samples: {}
+  simple_meaning:
+    0: To make noise
+    1: To be noisy
+'1404390':
+  hiragana: むすこ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: むすこ
+    wanikani_level: '12'
+  kanji: 息子
+  samples: {}
+  simple_meaning:
+    0: Son
+'1404700':
+  hiragana: たす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: た.す
+    wanikani_level: '6'
+  kanji: 足す
+  samples: {}
+  simple_meaning:
+    0: To add
+'1404740':
+  hiragana: たりる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: た.り.る
+    wanikani_level: '4'
+  kanji: 足りる
+  samples: {}
+  simple_meaning:
+    0: To be enough
+    1: To suffice
+'1405790':
+  hiragana: つづく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つづ.く
+    wanikani_level: '19'
+  kanji: 続く
+  samples: {}
+  simple_meaning:
+    0: To continue
+'1405800':
+  hiragana: つづける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つづ.け.る
+    wanikani_level: '21'
+  kanji: 続ける
+  samples: {}
+  simple_meaning:
+    0: To keep doing
+    1: To continue
+'1405890':
+  hiragana: そつぎょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: そつ.ぎょう
+    wanikani_level: '16'
+  kanji: 卒業
+  samples: {}
+  simple_meaning:
+    0: Graduation
+'1408220':
+  hiragana: ふとる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふと.る
+    wanikani_level: '3'
+  kanji: 太る
+  samples: {}
+  simple_meaning:
+    0: To gain weight
+'1408810':
+  hiragana: うつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: う.つ
+    wanikani_level: '4'
+  kanji: 打つ
+  samples: {}
+  simple_meaning:
+    0: To hit
+    1: To strike
+'1411300':
+  hiragana: たいいん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たい.いん
+    wanikani_level: '27'
+  kanji: 退院
+  samples: {}
+  simple_meaning:
+    0: Discharge from hospital
+'1413260':
+  hiragana: だいがくせい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: だい.がく.せい
+    wanikani_level: '7'
+  kanji: 大学生
+  samples: {}
+  simple_meaning:
+    0: University student
+'1413940':
+  hiragana: だいじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: だい.じ
+    wanikani_level: '9'
+  kanji: 大事
+  samples: {}
+  simple_meaning:
+    0: Important
+    1: Serious
+'1414580':
+  hiragana: たいてい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たい.てい
+    wanikani_level: '37'
+  kanji: 大抵
+  samples: {}
+  simple_meaning:
+    0: Usually
+    1: Generally
+'1416700':
+  hiragana: たな
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たな
+    wanikani_level: '44'
+  kanji: 棚
+  samples: {}
+  simple_meaning:
+    0: Shelf
+'1419860':
+  hiragana: だんぼう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: だん.ぼう
+    wanikani_level: '38'
+  kanji: 暖房
+  samples: {}
+  simple_meaning:
+    0: Heating
+'1420160':
+  hiragana: だんせい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: だん.せい
+    wanikani_level: '14'
+  kanji: 男性
+  samples: {}
+  simple_meaning:
+    0: Man
+    1: Male
+'1420410':
+  hiragana: しらせる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: し.ら.せ.る
+    wanikani_level: null
+  kanji: 知らせる
+  samples: {}
+  simple_meaning:
+    0: To inform
+    1: To notify
+'1421210':
+  hiragana: じしん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じ.しん
+    wanikani_level: '20'
+  kanji: 地震
+  samples: {}
+  simple_meaning:
+    0: Earthquake
+'1421540':
+  hiragana: ちり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ち.り
+    wanikani_level: '7'
+  kanji: 地理
+  samples: {}
+  simple_meaning:
+    0: Geography
+'1421630':
+  hiragana: はずかしい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: は.ず.か.し.い
+    wanikani_level: '35'
+  kanji: 恥ずかしい
+  samples: {}
+  simple_meaning:
+    0: Embarrassed
+    1: Shy
+'1423240':
+  hiragana: きもの
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.もの
+    wanikani_level: '14'
+  kanji: 着物
+  samples: {}
+  simple_meaning:
+    0: Kimono
+    1: Traditional clothing
+'1423650':
+  hiragana: ちゅうがっこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ちゅう.がっこう
+    wanikani_level: '9'
+  kanji: 中学校
+  samples: {}
+  simple_meaning:
+    0: Junior high school
+'1426290':
+  hiragana: ひるやすみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひる.やす.み
+    wanikani_level: '15'
+  kanji: 昼休み
+  samples: {}
+  simple_meaning:
+    0: Lunch break
+    1: Noon recess
+'1426530':
+  hiragana: ちゅうい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ちゅう.い
+    wanikani_level: '11'
+  kanji: 注意
+  samples: {}
+  simple_meaning:
+    0: Caution
+    1: Attention
+'1426590':
+  hiragana: ちゅうしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ちゅう.しゃ
+    wanikani_level: '34'
+  kanji: 注射
+  samples: {}
+  simple_meaning:
+    0: Injection
+    1: Shot
+'1426680':
+  hiragana: むし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: むし
+    wanikani_level: '4'
+  kanji: 虫
+  samples: {}
+  simple_meaning:
+    0: Insect
+    1: Bug
+'1426920':
+  hiragana: ちゅうしゃじょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ちゅう.しゃ.じょう
+    wanikani_level: '40'
+  kanji: 駐車場
+  samples: {}
+  simple_meaning:
+    0: Parking lot
+'1427360':
+  hiragana: ていねい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: てい.ねい
+    wanikani_level: '46'
+  kanji: 丁寧
+  samples: {}
+  simple_meaning:
+    0: Polite
+    1: Careful
+'1429060':
+  hiragana: しらべる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しら.べ.る
+    wanikani_level: '10'
+  kanji: 調べる
+  samples: {}
+  simple_meaning:
+    0: To investigate
+    1: To check
+'1431850':
+  hiragana: めずらしい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: めずら.し.い
+    wanikani_level: '43'
+  kanji: 珍しい
+  samples: {}
+  simple_meaning:
+    0: Rare
+    1: Unusual
+'1432850':
+  hiragana: かよう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かよ.う
+    wanikani_level: '11'
+  kanji: 通う
+  samples: {}
+  simple_meaning:
+    0: To commute
+    1: To attend
+'1433030':
+  hiragana: とおる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: とお.る
+    wanikani_level: '7'
+  kanji: 通る
+  samples: {}
+  simple_meaning:
+    0: To pass through
+'1433680':
+  hiragana: つける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つ.け.る
+    wanikani_level: '57'
+  kanji: 漬ける
+  samples: {}
+  simple_meaning:
+    0: To pickle
+    1: To soak
+'1434120':
+  hiragana: つる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つ.る
+    wanikani_level: '44'
+  kanji: 釣る
+  samples: {}
+  simple_meaning:
+    0: To fish
+'1437450':
+  hiragana: てきとう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: てき.とう
+    wanikani_level: '30'
+  kanji: 適当
+  samples: {}
+  simple_meaning:
+    0: Suitable
+    1: Appropriate
+'1438770':
+  hiragana: てんきよほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: てん.き.よ.ほう
+    wanikani_level: '20'
+  kanji: 天気予報
+  samples: {}
+  simple_meaning:
+    0: Weather forecast
+'1440660':
+  hiragana: てんらんかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: てん.らん.かい
+    wanikani_level: null
+  kanji: 展覧会
+  samples: {}
+  simple_meaning:
+    0: Exhibition
+'1440670':
+  hiragana: てんいん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: てん.いん
+    wanikani_level: '12'
+  kanji: 店員
+  samples: {}
+  simple_meaning:
+    0: Store clerk
+    1: Shop assistant
+'1441390':
+  hiragana: てん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: てん
+    wanikani_level: '6'
+  kanji: 点
+  samples: {}
+  simple_meaning:
+    0: Point
+    1: Dot
+    2: Score
+'1441870':
+  hiragana: つたえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つた.え.る
+    wanikani_level: '11'
+  kanji: 伝える
+  samples: {}
+  simple_meaning:
+    0: To convey
+    1: To report
+'1442750':
+  hiragana: いなか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: いなか
+    wanikani_level: '35'
+  kanji: 田舎
+  samples: {}
+  simple_meaning:
+    0: Countryside
+    1: Rural area
+'1443660':
+  hiragana: でんとう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: でん.とう
+    wanikani_level: '48'
+  kanji: 電灯
+  samples: {}
+  simple_meaning:
+    0: Electric light
+'1443760':
+  hiragana: でんぽう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: でん.ぽう
+    wanikani_level: null
+  kanji: 電報
+  samples: {}
+  simple_meaning:
+    0: Telegram
+'1444270':
+  hiragana: ぬる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぬ.る
+    wanikani_level: '48'
+  kanji: 塗る
+  samples: {}
+  simple_meaning:
+    0: To paint
+    1: To spread
+'1444980':
+  hiragana: つごう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つ.ごう
+    wanikani_level: '12'
+  kanji: 都合
+  samples: {}
+  simple_meaning:
+    0: Convenience
+    1: Circumstances
+'1445690':
+  hiragana: おこる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おこ.る
+    wanikani_level: '27'
+  kanji: 怒る
+  samples: {}
+  simple_meaning:
+    0: To get angry
+'1445790':
+  hiragana: たおれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たお.れ.る
+    wanikani_level: '22'
+  kanji: 倒れる
+  samples: {}
+  simple_meaning:
+    0: To fall down
+    1: To collapse
+'1446760':
+  hiragana: しま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しま
+    wanikani_level: '12'
+  kanji: 島
+  samples: {}
+  simple_meaning:
+    0: Island
+'1447000':
+  hiragana: なげる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: な.げ.る
+    wanikani_level: '8'
+  kanji: 投げる
+  samples: {}
+  simple_meaning:
+    0: To throw
+'1448440':
+  hiragana: ぬすむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぬす.む
+    wanikani_level: '30'
+  kanji: 盗む
+  samples: {}
+  simple_meaning:
+    0: To steal
+'1448580':
+  hiragana: ゆ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ゆ
+    wanikani_level: '12'
+  kanji: 湯
+  samples: {}
+  simple_meaning:
+    0: Hot water
+'1449530':
+  hiragana: こたえ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こた.え
+    wanikani_level: '8'
+  kanji: 答え
+  samples: {}
+  simple_meaning:
+    0: Answer
+    1: Response
+'1450270':
+  hiragana: ふむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふ.む
+    wanikani_level: '36'
+  kanji: 踏む
+  samples: {}
+  simple_meaning:
+    0: To step on
+'1450330':
+  hiragana: にげる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: に.げ.る
+    wanikani_level: '38'
+  kanji: 逃げる
+  samples: {}
+  simple_meaning:
+    0: To escape
+    1: To run away
+'1451210':
+  hiragana: うごく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うご.く
+    wanikani_level: '12'
+  kanji: 動く
+  samples: {}
+  simple_meaning:
+    0: To move
+'1451490':
+  hiragana: どうぶつえん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: どう.ぶつ.えん
+    wanikani_level: '16'
+  kanji: 動物園
+  samples: {}
+  simple_meaning:
+    0: Zoo
+'1454180':
+  hiragana: どうぐ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: どう.ぐ
+    wanikani_level: '9'
+  kanji: 道具
+  samples: {}
+  simple_meaning:
+    0: Tool
+    1: Equipment
+'1454670':
+  hiragana: とくに
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: とく.に
+    wanikani_level: '11'
+  kanji: 特に
+  samples: {}
+  simple_meaning:
+    0: Especially
+    1: Particularly
+'1454750':
+  hiragana: とっきゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: とっきゅう
+    wanikani_level: '16'
+  kanji: 特急
+  samples: {}
+  simple_meaning:
+    0: Limited express (train)
+'1455280':
+  hiragana: とくべつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: とく.べつ
+    wanikani_level: '11'
+  kanji: 特別
+  samples: {}
+  simple_meaning:
+    0: Special
+'1457210':
+  hiragana: とどける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: とど.け.る
+    wanikani_level: '26'
+  kanji: 届ける
+  samples: {}
+  simple_meaning:
+    0: To deliver
+    1: To send
+'1457730':
+  hiragana: うち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うち
+    wanikani_level: '3'
+  kanji: 内
+  samples: {}
+  simple_meaning:
+    0: Inside
+    1: Within
+'1463770':
+  hiragana: ひ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひ
+    wanikani_level: '2'
+  kanji: 日
+  samples: {}
+  simple_meaning:
+    0: Day
+    1: Sun
+'1463930':
+  hiragana: にっき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: にっき
+    wanikani_level: '7'
+  kanji: 日記
+  samples: {}
+  simple_meaning:
+    0: Diary
+    1: Journal
+'1465720':
+  hiragana: にゅういん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: にゅう.いん
+    wanikani_level: '10'
+  kanji: 入院
+  samples: {}
+  simple_meaning:
+    0: Hospitalization
+'1465850':
+  hiragana: にゅうがく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: にゅう.がく
+    wanikani_level: '5'
+  kanji: 入学
+  samples: {}
+  simple_meaning:
+    0: School admission
+'1467620':
+  hiragana: ぬれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぬ.れ.る
+    wanikani_level: null
+  kanji: 濡れる
+  samples: {}
+  simple_meaning:
+    0: To get wet
+'1467710':
+  hiragana: ねつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ねつ
+    wanikani_level: '13'
+  kanji: 熱
+  samples: {}
+  simple_meaning:
+    0: Fever
+    1: Heat
+'1472270':
+  hiragana: はいけん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はい.けん
+    wanikani_level: '34'
+  kanji: 拝見
+  samples: {}
+  simple_meaning:
+    0: To see (humble)
+'1472800':
+  hiragana: せなか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: せ.なか
+    wanikani_level: '32'
+  kanji: 背中
+  samples: {}
+  simple_meaning:
+    0: Back (body)
+'1473230':
+  hiragana: ばい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ばい
+    wanikani_level: '12'
+  kanji: 倍
+  samples: {}
+  simple_meaning:
+    0: Double
+    1: Times
+'1474850':
+  hiragana: とまる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: と.ま.る
+    wanikani_level: '42'
+  kanji: 泊まる
+  samples: {}
+  simple_meaning:
+    0: To stay overnight
+'1476430':
+  hiragana: はず
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はず
+    wanikani_level: null
+  kanji: 筈
+  samples: {}
+  simple_meaning:
+    0: Should be
+    1: Expected to
+'1477170':
+  hiragana: はつおん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はつ.おん
+    wanikani_level: '9'
+  kanji: 発音
+  samples: {}
+  simple_meaning:
+    0: Pronunciation
+'1477950':
+  hiragana: かみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かみ
+    wanikani_level: '44'
+  kanji: 髪
+  samples: {}
+  simple_meaning:
+    0: Hair
+'1480670':
+  hiragana: はんたい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はん.たい
+    wanikani_level: '8'
+  kanji: 反対
+  samples: {}
+  simple_meaning:
+    0: Opposition
+    1: Opposite
+'1482340':
+  hiragana: ばんぐみ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ばん.ぐみ
+    wanikani_level: '8'
+  kanji: 番組
+  samples: {}
+  simple_meaning:
+    0: TV program
+    1: Show
+'1483070':
+  hiragana: かれ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かれ
+    wanikani_level: '35'
+  kanji: 彼
+  samples: {}
+  simple_meaning:
+    0: He
+    1: Boyfriend
+'1483150':
+  hiragana: かのじょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かの.じょ
+    wanikani_level: '37'
+  kanji: 彼女
+  samples: {}
+  simple_meaning:
+    0: She
+    1: Girlfriend
+'1483190':
+  hiragana: かなしい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かな.し.い
+    wanikani_level: '19'
+  kanji: 悲しい
+  samples: {}
+  simple_meaning:
+    0: Sad
+'1483540':
+  hiragana: くらべる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: くら.べ.る
+    wanikani_level: '19'
+  kanji: 比べる
+  samples: {}
+  simple_meaning:
+    0: To compare
+'1484930':
+  hiragana: ひじょうに
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひ.じょう.に
+    wanikani_level: '19'
+  kanji: 非常に
+  samples: {}
+  simple_meaning:
+    0: Very
+    1: Extremely
+'1485520':
+  hiragana: ひこうじょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひ.こう.じょう
+    wanikani_level: null
+  kanji: 飛行場
+  samples: {}
+  simple_meaning:
+    0: Airport
+    1: Airfield
+'1486360':
+  hiragana: うつくしい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うつく.し.い
+    wanikani_level: '9'
+  kanji: 美しい
+  samples: {}
+  simple_meaning:
+    0: Beautiful
+'1486460':
+  hiragana: びじゅつかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: び.じゅつ.かん
+    wanikani_level: '16'
+  kanji: 美術館
+  samples: {}
+  simple_meaning:
+    0: Art museum
+'1487400':
+  hiragana: かならず
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かなら.ず
+    wanikani_level: '7'
+  kanji: 必ず
+  samples: {}
+  simple_meaning:
+    0: Surely
+    1: Certainly
+'1487660':
+  hiragana: ひつよう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひつ.よう
+    wanikani_level: '9'
+  kanji: 必要
+  samples: {}
+  simple_meaning:
+    0: Necessary
+    1: Essential
+'1489340':
+  hiragana: おもて
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おもて
+    wanikani_level: '9'
+  kanji: 表
+  samples: {}
+  simple_meaning:
+    0: Surface
+    1: Front
+'1490670':
+  hiragana: しなもの
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: しな.もの
+    wanikani_level: '18'
+  kanji: 品物
+  samples: {}
+  simple_meaning:
+    0: Goods
+    1: Item
+    2: Product
+'1494860':
+  hiragana: ふべん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふ.べん
+    wanikani_level: '11'
+  kanji: 不便
+  samples: {}
+  simple_meaning:
+    0: Inconvenient
+'1495740':
+  hiragana: つく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つ.く
+    wanikani_level: '9'
+  kanji: 付く
+  samples: {}
+  simple_meaning:
+    0: To attach
+    1: To stick
+'1496480':
+  hiragana: おっと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おっと
+    wanikani_level: '15'
+  kanji: 夫
+  samples: {}
+  simple_meaning:
+    0: Husband
+'1496890':
+  hiragana: ふとん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふとん.
+    wanikani_level: '19'
+  kanji: 布団
+  samples: {}
+  simple_meaning:
+    0: Futon
+    1: Bedding
+'1497190':
+  hiragana: ふつう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふ.つう
+    wanikani_level: '31'
+  kanji: 普通
+  samples: {}
+  simple_meaning:
+    0: Normal
+    1: Usual
+    2: Ordinary
+'1497980':
+  hiragana: まける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ま.け.る
+    wanikani_level: '9'
+  kanji: 負ける
+  samples: {}
+  simple_meaning:
+    0: To lose
+    1: To be defeated
+'1499460':
+  hiragana: ぶちょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぶ.ちょう
+    wanikani_level: null
+  kanji: 部長
+  samples: {}
+  simple_meaning:
+    0: Department head
+    1: Manager
+'1500800':
+  hiragana: ふくしゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふく.しゅう
+    wanikani_level: '26'
+  kanji: 復習
+  samples: {}
+  simple_meaning:
+    0: Review
+    1: Revision
+'1501350':
+  hiragana: ふくざつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふく.ざつ
+    wanikani_level: '32'
+  kanji: 複雑
+  samples: {}
+  simple_meaning:
+    0: Complicated
+    1: Complex
+'1501620':
+  hiragana: はらう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はら.う
+    wanikani_level: '35'
+  kanji: 払う
+  samples: {}
+  simple_meaning:
+    0: To pay
+'1501660':
+  hiragana: わかす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: わ.か.す
+    wanikani_level: '53'
+  kanji: 沸かす
+  samples: {}
+  simple_meaning:
+    0: To boil
+    1: To heat
+'1505120':
+  hiragana: ぶんか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぶん.か
+    wanikani_level: '6'
+  kanji: 文化
+  samples: {}
+  simple_meaning:
+    0: Culture
+'1505190':
+  hiragana: ぶんがく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぶん.がく
+    wanikani_level: '5'
+  kanji: 文学
+  samples: {}
+  simple_meaning:
+    0: Literature
+'1505600':
+  hiragana: ぶんぽう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぶん.ぽう
+    wanikani_level: '15'
+  kanji: 文法
+  samples: {}
+  simple_meaning:
+    0: Grammar
+'1508750':
+  hiragana: こめ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こめ
+    wanikani_level: '5'
+  kanji: 米
+  samples: {}
+  simple_meaning:
+    0: Rice (uncooked)
+'1509290':
+  hiragana: かべ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かべ
+    wanikani_level: '39'
+  kanji: 壁
+  samples: {}
+  simple_meaning:
+    0: Wall
+'1509430':
+  hiragana: べつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: べつ
+    wanikani_level: '11'
+  kanji: 別
+  samples: {}
+  simple_meaning:
+    0: Separate
+    1: Different
+'1510640':
+  hiragana: へん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: へん
+    wanikani_level: '15'
+  kanji: 変
+  samples: {}
+  simple_meaning:
+    0: Strange
+    1: Unusual
+'1510650':
+  hiragana: かえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.え.る
+    wanikani_level: '15'
+  kanji: 変える
+  samples: {}
+  simple_meaning:
+    0: To change
+    1: To alter
+'1510790':
+  hiragana: かわる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.わ.る
+    wanikani_level: '17'
+  kanji: 変わる
+  samples: {}
+  simple_meaning:
+    0: To change
+    1: To be transformed
+'1511790':
+  hiragana: かたづける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かた.づ.け.る
+    wanikani_level: null
+  kanji: 片付ける
+  samples: {}
+  simple_meaning:
+    0: To tidy up
+    1: To put away
+'1512220':
+  hiragana: へんじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: へん.じ
+    wanikani_level: '9'
+  kanji: 返事
+  samples: {}
+  simple_meaning:
+    0: Reply
+    1: Response
+'1514960':
+  hiragana: くれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: く.れ.る
+    wanikani_level: '35'
+  kanji: 暮れる
+  samples: {}
+  simple_meaning:
+    0: To get dark
+    1: To end (a day)
+'1517480':
+  hiragana: ほうりつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ほう.りつ
+    wanikani_level: '23'
+  kanji: 法律
+  samples: {}
+  simple_meaning:
+    0: Law
+'1518070':
+  hiragana: たずねる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たず.ね.る
+    wanikani_level: '27'
+  kanji: 訪ねる
+  samples: {}
+  simple_meaning:
+    0: To visit
+'1518540':
+  hiragana: なくなる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: な.く.な.る
+    wanikani_level: '6'
+  kanji: 亡くなる
+  samples: {}
+  simple_meaning:
+    0: To pass away
+'1519230':
+  hiragana: わすれもの
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: わす.れ.もの
+    wanikani_level: '20'
+  kanji: 忘れ物
+  samples: {}
+  simple_meaning:
+    0: Lost item
+    1: Forgotten item
+'1520120':
+  hiragana: ぼうえき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぼう.えき
+    wanikani_level: '36'
+  kanji: 貿易
+  samples: {}
+  simple_meaning:
+    0: Trade
+    1: Commerce
+'1521400':
+  hiragana: ぼく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぼく
+    wanikani_level: '12'
+  kanji: 僕
+  samples: {}
+  simple_meaning:
+    0: I (used by males)
+'1523400':
+  hiragana: ほんやく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ほん.やく
+    wanikani_level: '50'
+  kanji: 翻訳
+  samples: {}
+  simple_meaning:
+    0: Translation
+'1526920':
+  hiragana: まんが
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: まん.が
+    wanikani_level: '50'
+  kanji: 漫画
+  samples: {}
+  simple_meaning:
+    0: Manga
+    1: Comic
+'1526960':
+  hiragana: あじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あじ
+    wanikani_level: '11'
+  kanji: 味
+  samples: {}
+  simple_meaning:
+    0: Taste
+    1: Flavor
+'1527040':
+  hiragana: みそ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: み.そ
+    wanikani_level: '35'
+  kanji: 味噌
+  samples: {}
+  simple_meaning:
+    0: Miso (fermented soybean paste)
+'1529330':
+  hiragana: ねむい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ねむ.い
+    wanikani_level: '27'
+  kanji: 眠い
+  samples: {}
+  simple_meaning:
+    0: Sleepy
+'1529390':
+  hiragana: ねむる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ねむ.る
+    wanikani_level: '29'
+  kanji: 眠る
+  samples: {}
+  simple_meaning:
+    0: To sleep
+'1529410':
+  hiragana: ゆめ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ゆめ
+    wanikani_level: '20'
+  kanji: 夢
+  samples: {}
+  simple_meaning:
+    0: Dream
+'1530970':
+  hiragana: むり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: む.り
+    wanikani_level: '17'
+  kanji: 無理
+  samples: {}
+  simple_meaning:
+    0: Impossible
+    1: Unreasonable
+'1531190':
+  hiragana: むすめ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: むすめ
+    wanikani_level: '29'
+  kanji: 娘
+  samples: {}
+  simple_meaning:
+    0: Daughter
+'1532910':
+  hiragana: なる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: な.る
+    wanikani_level: '12'
+  kanji: 鳴る
+  samples: {}
+  simple_meaning:
+    0: To ring
+    1: To sound
+'1533820':
+  hiragana: け
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: け
+    wanikani_level: '3'
+  kanji: 毛
+  samples: {}
+  simple_meaning:
+    0: Hair
+    1: Fur
+'1534870':
+  hiragana: もめん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: もめん
+    wanikani_level: '46'
+  kanji: 木綿
+  samples: {}
+  simple_meaning:
+    0: Cotton
+'1535880':
+  hiragana: もどる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: もど.る
+    wanikani_level: '37'
+  kanji: 戻る
+  samples: {}
+  simple_meaning:
+    0: To return
+    1: To go back
+'1537980':
+  hiragana: やくにたつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: やく.に.た.つ
+    wanikani_level: '8'
+  kanji: 役に立つ
+  samples: {}
+  simple_meaning:
+    0: To be useful
+    1: To be helpful
+'1538130':
+  hiragana: やくそく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: やく.そく
+    wanikani_level: '16'
+  kanji: 約束
+  samples: {}
+  simple_meaning:
+    0: Promise
+    1: Appointment
+'1538440':
+  hiragana: おどる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おど.る
+    wanikani_level: '48'
+  kanji: 踊る
+  samples: {}
+  simple_meaning:
+    0: To dance
+'1539040':
+  hiragana: やさしい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: やさ.し.い
+    wanikani_level: '23'
+  kanji: 優しい
+  samples: {}
+  simple_meaning:
+    0: Kind
+    1: Gentle
+'1542070':
+  hiragana: あそび
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: あそ.び
+    wanikani_level: '32'
+  kanji: 遊び
+  samples: {}
+  simple_meaning:
+    0: Play
+    1: Game
+'1543070':
+  hiragana: よしゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よ.しゅう
+    wanikani_level: null
+  kanji: 予習
+  samples: {}
+  simple_meaning:
+    0: Preparation (for lessons)
+'1543240':
+  hiragana: よてい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よ.てい
+    wanikani_level: '9'
+  kanji: 予定
+  samples: {}
+  simple_meaning:
+    0: Schedule
+    1: Plan
+'1543750':
+  hiragana: よやく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よ.やく
+    wanikani_level: '14'
+  kanji: 予約
+  samples: {}
+  simple_meaning:
+    0: Reservation
+    1: Booking
+'1545710':
+  hiragana: ゆれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ゆ.れ.る
+    wanikani_level: '44'
+  kanji: 揺れる
+  samples: {}
+  simple_meaning:
+    0: To shake
+    1: To sway
+'1546200':
+  hiragana: よう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よう
+    wanikani_level: '3'
+  kanji: 用
+  samples: {}
+  simple_meaning:
+    0: Use
+    1: Business
+'1546220':
+  hiragana: ようい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よう.い
+    wanikani_level: '11'
+  kanji: 用意
+  samples: {}
+  simple_meaning:
+    0: Preparation
+    1: Arrangements
+'1546300':
+  hiragana: ようじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: よう.じ
+    wanikani_level: '9'
+  kanji: 用事
+  samples: {}
+  simple_meaning:
+    0: Errand
+    1: Business
+'1546550':
+  hiragana: は
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: は
+    wanikani_level: '10'
+  kanji: 葉
+  samples: {}
+  simple_meaning:
+    0: Leaf
+'1546880':
+  hiragana: おどり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おど.り
+    wanikani_level: '48'
+  kanji: 踊り
+  samples: {}
+  simple_meaning:
+    0: Dance
+'1548550':
+  hiragana: おちる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.ち.る
+    wanikani_level: '10'
+  kanji: 落ちる
+  samples: {}
+  simple_meaning:
+    0: To fall
+    1: To drop
+'1549660':
+  hiragana: りよう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: り.よう
+    wanikani_level: null
+  kanji: 利用
+  samples: {}
+  simple_meaning:
+    0: Use
+    1: Utilization
+'1550140':
+  hiragana: りゆう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: り.ゆう
+    wanikani_level: '7'
+  kanji: 理由
+  samples: {}
+  simple_meaning:
+    0: Reason
+'1550190':
+  hiragana: うら
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うら
+    wanikani_level: '33'
+  kanji: 裏
+  samples: {}
+  simple_meaning:
+    0: Back
+    1: Reverse side
+'1551530':
+  hiragana: たてる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: た.て.る
+    wanikani_level: '2'
+  kanji: 立てる
+  samples: {}
+  simple_meaning:
+    0: To stand up
+    1: To build
+'1552760':
+  hiragana: るす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: る.す
+    wanikani_level: '16'
+  kanji: 留守
+  samples: {}
+  simple_meaning:
+    0: Absence
+    1: Not at home
+'1553130':
+  hiragana: りょかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: りょ.かん
+    wanikani_level: '13'
+  kanji: 旅館
+  samples: {}
+  simple_meaning:
+    0: Japanese inn
+'1554010':
+  hiragana: りょうほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: りょう.ほう
+    wanikani_level: '6'
+  kanji: 両方
+  samples: {}
+  simple_meaning:
+    0: Both sides
+    1: Both
+'1554820':
+  hiragana: ちから
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ちから
+    wanikani_level: '1'
+  kanji: 力
+  samples: {}
+  simple_meaning:
+    0: Power
+    1: Strength
+'1555440':
+  hiragana: はやし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: はやし
+    wanikani_level: '5'
+  kanji: 林
+  samples: {}
+  simple_meaning:
+    0: Woods
+    1: Grove
+'1556370':
+  hiragana: たとえば
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たと.え.ば
+    wanikani_level: '14'
+  kanji: 例えば
+  samples: {}
+  simple_meaning:
+    0: For example
+'1556630':
+  hiragana: ひえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひ.え.る
+    wanikani_level: '32'
+  kanji: 冷える
+  samples: {}
+  simple_meaning:
+    0: To get cold
+    1: To cool down
+'1557290':
+  hiragana: れいぼう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: れい.ぼう
+    wanikani_level: '38'
+  kanji: 冷房
+  samples: {}
+  simple_meaning:
+    0: Air conditioning
+'1558050':
+  hiragana: れきし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: れき.し
+    wanikani_level: '19'
+  kanji: 歴史
+  samples: {}
+  simple_meaning:
+    0: History
+'1559900':
+  hiragana: れんらく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: れん.らく
+    wanikani_level: '19'
+  kanji: 連絡
+  samples: {}
+  simple_meaning:
+    0: Contact
+    1: Communication
+'1562850':
+  hiragana: うで
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うで
+    wanikani_level: '24'
+  kanji: 腕
+  samples: {}
+  simple_meaning:
+    0: Arm
+'1576250':
+  hiragana: いちど
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: いち.ど
+    wanikani_level: null
+  kanji: 一度
+  samples: {}
+  simple_meaning:
+    0: Once
+    1: One time
+'1576900':
+  hiragana: おと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おと
+    wanikani_level: '5'
+  kanji: 音
+  samples: {}
+  simple_meaning:
+    0: Sound
+    1: Noise
+'1578700':
+  hiragana: こうじょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こう.じょう
+    wanikani_level: '8'
+  kanji: 工場
+  samples: {}
+  simple_meaning:
+    0: Factory
+'1579720':
+  hiragana: さびしい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さび.し.い
+    wanikani_level: '56'
+  kanji: 寂しい
+  samples: {}
+  simple_meaning:
+    0: Lonely
+    1: Sad
+'1581710':
+  hiragana: ひるま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひる.ま
+    wanikani_level: null
+  kanji: 昼間
+  samples: {}
+  simple_meaning:
+    0: Daytime
+'1582200':
+  hiragana: とちゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: と.ちゅう
+    wanikani_level: '27'
+  kanji: 途中
+  samples: {}
+  simple_meaning:
+    0: On the way
+    1: In the middle
+'1584060':
+  hiragana: つつむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つつ.む
+    wanikani_level: '41'
+  kanji: 包む
+  samples: {}
+  simple_meaning:
+    0: To wrap
+    1: To cover
+'1588060':
+  hiragana: うけつけ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うけ.つけ
+    wanikani_level: '11'
+  kanji: 受付
+  samples: {}
+  simple_meaning:
+    0: Reception
+    1: Front desk
+'1588320':
+  hiragana: うつす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: うつ.す
+    wanikani_level: '4'
+  kanji: 写す
+  samples: {}
+  simple_meaning:
+    0: To copy
+    1: To photograph
+'1588550':
+  hiragana: うりば
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: う.り.ば
+    wanikani_level: null
+  kanji: 売り場
+  samples: {}
+  simple_meaning:
+    0: Sales counter
+    1: Department
+'1588730':
+  hiragana: えらぶ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: えら.ぶ
+    wanikani_level: '13'
+  kanji: 選ぶ
+  samples: {}
+  simple_meaning:
+    0: To choose
+    1: To select
+'1589030':
+  hiragana: おくりもの
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おく.り.もの
+    wanikani_level: '40'
+  kanji: 贈り物
+  samples: {}
+  simple_meaning:
+    0: Gift
+    1: Present
+'1589040':
+  hiragana: おくれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おく.れ.る
+    wanikani_level: '35'
+  kanji: 遅れる
+  samples: {}
+  simple_meaning:
+    0: To be late
+'1589060':
+  hiragana: おこなう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おこな.う
+    wanikani_level: '5'
+  kanji: 行う
+  samples: {}
+  simple_meaning:
+    0: To carry out
+    1: To perform
+'1589260':
+  hiragana: おとす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.と.す
+    wanikani_level: '12'
+  kanji: 落とす
+  samples: {}
+  simple_meaning:
+    0: To drop
+    1: To lose
+'1589350':
+  hiragana: おもう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: おも.う
+    wanikani_level: '6'
+  kanji: 思う
+  samples: {}
+  simple_meaning:
+    0: To think
+    1: To feel
+'1589590':
+  hiragana: おわり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.わ.り
+    wanikani_level: '12'
+  kanji: 終わり
+  samples: {}
+  simple_meaning:
+    0: End
+    1: Conclusion
+'1590770':
+  hiragana: かわり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: か.わ.り
+    wanikani_level: '6'
+  kanji: 代わり
+  samples: {}
+  simple_meaning:
+    0: Substitute
+    1: Replacement
+'1591150':
+  hiragana: きこえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.こ.え.る
+    wanikani_level: '12'
+  kanji: 聞こえる
+  samples: {}
+  simple_meaning:
+    0: To be heard
+    1: To be audible
+'1591420':
+  hiragana: きまる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.ま.る
+    wanikani_level: '10'
+  kanji: 決まる
+  samples: {}
+  simple_meaning:
+    0: To be decided
+'1591430':
+  hiragana: きもち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: き.も.ち
+    wanikani_level: '11'
+  kanji: 気持ち
+  samples: {}
+  simple_meaning:
+    0: Feeling
+    1: Mood
+'1592270':
+  hiragana: くび
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: くび
+    wanikani_level: '6'
+  kanji: 首
+  samples: {}
+  simple_meaning:
+    0: Neck
+'1592500':
+  hiragana: ぐあい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ぐ.あい
+    wanikani_level: '14'
+  kanji: 具合
+  samples: {}
+  simple_meaning:
+    0: Condition
+    1: Health
+    2: State
+'1593410':
+  hiragana: こむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こ.む
+    wanikani_level: '32'
+  kanji: 込む
+  samples: {}
+  simple_meaning:
+    0: To be crowded
+    1: To be packed
+'1593480':
+  hiragana: こわい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: こわ.い
+    wanikani_level: '31'
+  kanji: 怖い
+  samples: {}
+  simple_meaning:
+    0: Scary
+    1: Frightening
+'1593570':
+  hiragana: ごぞんじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ご.ぞん.じ
+    wanikani_level: null
+  kanji: ご存じ
+  samples: {}
+  simple_meaning:
+    0: To know (honorific)
+'1593590':
+  hiragana: ごちそう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ご.ち.そう
+    wanikani_level: null
+  kanji: ご馳走
+  samples: {}
+  simple_meaning:
+    0: Feast
+    1: Treat
+'1593670':
+  hiragana: さがす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: さが.す
+    wanikani_level: '31'
+  kanji: 探す
+  samples: {}
+  simple_meaning:
+    0: To search
+    1: To look for
+'1594110':
+  hiragana: しかた
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: し.かた
+    wanikani_level: '4'
+  kanji: 仕方
+  samples: {}
+  simple_meaning:
+    0: Way
+    1: Method
+'1595270':
+  hiragana: じてん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: じ.てん
+    wanikani_level: '16'
+  kanji: 辞典
+  samples: {}
+  simple_meaning:
+    0: Dictionary
+'1596780':
+  hiragana: たいふう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たい.ふう
+    wanikani_level: '7'
+  kanji: 台風
+  samples: {}
+  simple_meaning:
+    0: Typhoon
+'1596930':
+  hiragana: たしか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: たし.か
+    wanikani_level: null
+  kanji: 確か
+  samples: {}
+  simple_meaning:
+    0: Certain
+    1: Sure
+'1597780':
+  hiragana: つかまえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: つか.ま.え.る
+    wanikani_level: null
+  kanji: 捕まえる
+  samples: {}
+  simple_meaning:
+    0: To catch
+    1: To capture
+'1599340':
+  hiragana: どろぼう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: どろ.ぼう
+    wanikani_level: '33'
+  kanji: 泥棒
+  samples: {}
+  simple_meaning:
+    0: Thief
+    1: Burglar
+'1599390':
+  hiragana: なおす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: なお.す
+    wanikani_level: '6'
+  kanji: 治す
+  samples: {}
+  simple_meaning:
+    0: To heal
+    1: To cure
+    2: To fix
+'1599400':
+  hiragana: なおる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: なお.る
+    wanikani_level: '6'
+  kanji: 治る
+  samples: {}
+  simple_meaning:
+    0: To be healed
+    1: To recover
+'1599800':
+  hiragana: にかいだて
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: に.かい.だ.て
+    wanikani_level: null
+  kanji: 二階建て
+  samples: {}
+  simple_meaning:
+    0: Two-story building
+'1600160':
+  hiragana: ねだん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ね.だん
+    wanikani_level: '27'
+  kanji: 値段
+  samples: {}
+  simple_meaning:
+    0: Price
+    1: Cost
+'1600470':
+  hiragana: のりかえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: の.り.か.え.る
+    wanikani_level: '38'
+  kanji: 乗り換える
+  samples: {}
+  simple_meaning:
+    0: To transfer (transport)
+    1: To change
+'1600530':
+  hiragana: のりもの
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: の.り.もの
+    wanikani_level: '11'
+  kanji: 乗り物
+  samples: {}
+  simple_meaning:
+    0: Vehicle
+    1: Transportation
+'1601650':
+  hiragana: ひきだし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひ.き.だ.し
+    wanikani_level: null
+  kanji: 引き出し
+  samples: {}
+  simple_meaning:
+    0: Drawer
+'1601660':
+  hiragana: ひきだす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひ.き.だ.す
+    wanikani_level: null
+  kanji: 引き出す
+  samples: {}
+  simple_meaning:
+    0: To withdraw
+    1: To pull out
+'1601810':
+  hiragana: ひげ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ひげ
+    wanikani_level: null
+  kanji: 髭
+  samples: {}
+  simple_meaning:
+    0: Beard
+    1: Mustache
+'1602440':
+  hiragana: ふえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふ.え.る
+    wanikani_level: '40'
+  kanji: 増える
+  samples: {}
+  simple_meaning:
+    0: To increase
+    1: To grow
+'1602800':
+  hiragana: ふね
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ふね
+    wanikani_level: '7'
+  kanji: 船
+  samples: {}
+  simple_meaning:
+    0: Ship
+    1: Boat
+'1603550':
+  hiragana: ほめる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ほ.め.る
+    wanikani_level: '40'
+  kanji: 褒める
+  samples: {}
+  simple_meaning:
+    0: To praise
+    1: To compliment
+'1604290':
+  hiragana: まわり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: まわ.り
+    wanikani_level: '14'
+  kanji: 周り
+  samples: {}
+  simple_meaning:
+    0: Surroundings
+    1: Around
+'1604300':
+  hiragana: まわる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: まわ.る
+    wanikani_level: '5'
+  kanji: 回る
+  samples: {}
+  simple_meaning:
+    0: To turn
+    1: To go around
+'1604350':
+  hiragana: まんなか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ま.ん.なか
+    wanikani_level: null
+  kanji: 真ん中
+  samples: {}
+  simple_meaning:
+    0: Center
+    1: Middle
+'1604550':
+  hiragana: みつかる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: み.つ.か.る
+    wanikani_level: null
+  kanji: 見つかる
+  samples: {}
+  simple_meaning:
+    0: To be found
+'1604570':
+  hiragana: みつける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: み.つ.け.る
+    wanikani_level: '9'
+  kanji: 見つける
+  samples: {}
+  simple_meaning:
+    0: To find
+'1604800':
+  hiragana: むかう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: む.か.う
+    wanikani_level: null
+  kanji: 向かう
+  samples: {}
+  simple_meaning:
+    0: To head toward
+'1605510':
+  hiragana: やせる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: や.せ.る
+    wanikani_level: null
+  kanji: 痩せる
+  samples: {}
+  simple_meaning:
+    0: To lose weight
+    1: To become thin
+'1605630':
+  hiragana: やわらかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: やわ.ら.か.い
+    wanikani_level: '43'
+  kanji: 柔らかい
+  samples: {}
+  simple_meaning:
+    0: Soft
+    1: Tender
+'1606590':
+  hiragana: わかれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: わか.れ.る
+    wanikani_level: '13'
+  kanji: 別れる
+  samples: {}
+  simple_meaning:
+    0: To part
+    1: To separate
+'1606680':
+  hiragana: わく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: わ.く
+    wanikani_level: '51'
+  kanji: 沸く
+  samples: {}
+  simple_meaning:
+    0: To boil
+    1: To be excited
+'1606810':
+  hiragana: わりあい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: わり.あい
+    wanikani_level: '23'
+  kanji: 割合
+  samples: {}
+  simple_meaning:
+    0: Ratio
+    1: Percentage
+'1612770':
+  hiragana: おいわい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: お.いわ.い
+    wanikani_level: '26'
+  kanji: お祝い
+  samples: {}
+  simple_meaning:
+    0: Celebration
+    1: Congratulation
+'1928100':
+  hiragana: かんごし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: かん.ご.し
+    wanikani_level: '23'
+  kanji: 看護師
+  samples: {}
+  simple_meaning:
+    0: Nurse
+'2217040':
+  hiragana: ごらんになる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: N4
+    split_hiragana: ご.らん.に.な.る
+    wanikani_level: '39'
+  kanji: ご覧になる
+  samples: {}
+  simple_meaning:
+    0: To see (honorific)

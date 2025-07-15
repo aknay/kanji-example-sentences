@@ -3,7 +3,7 @@ from statistics import median
 
 import yaml
 
-from assets.get_example_sentences_file_path import getExampleSentenceFilePath
+from assets.get_example_sentences_file_path import get_example_sentence_file_path
 
 
 def check_kanji_length(path: Path) -> None:
@@ -26,7 +26,7 @@ def check_kanji_length(path: Path) -> None:
 
 if __name__ == "__main__":
     kanji_length_list = list()
-    with open(getExampleSentenceFilePath(), "r") as file:
+    with open(get_example_sentence_file_path(), "r") as file:
         kanjiInfo = yaml.safe_load(file)
         for k, v in kanjiInfo.items():
             if "samples" in v:

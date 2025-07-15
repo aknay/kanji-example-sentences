@@ -3,14 +3,14 @@ from pathlib import Path
 import pytest
 import yaml
 
-from assets.get_example_sentences_file_path import getExampleSentenceFilePath
+from assets.get_example_sentences_file_path import get_example_sentence_file_path
 from is_ruby_formated_correctly import is_valid_ruby
-from utils.utils import has_empty_ruby_rt_tag
+from utils.utils import has_empty_ruby_rt_tag, has_this_level_completed
 
 
 @pytest.fixture
 def example_sentences_file_path() -> Path:
-    return getExampleSentenceFilePath()
+    return get_example_sentence_file_path()
 
 
 def test_empty_ruby_tag(example_sentences_file_path):
@@ -27,3 +27,9 @@ def test_ruby_tag_is_correctly_formatted(example_sentences_file_path):
                     if sample is not None:
                         assert "ruby" in sample
                         assert is_valid_ruby(sample['ruby']), print(sample['ruby'])
+
+def test_n5_level_completed(example_sentences_file_path):
+    pass
+    # results = has_this_level_completed(path=example_sentences_file_path)
+    # print('result', len(results))
+    # assert len(results) == 0

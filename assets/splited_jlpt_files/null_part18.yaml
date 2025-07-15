@@ -1,0 +1,9872 @@
+'1944790':
+  hiragana: にっぽんぎんこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にっぽんぎんこう
+    wanikani_level: null
+  kanji: 日本銀行
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1944860':
+  hiragana: にゅうかんりょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にゅう.かん.りょう
+    wanikani_level: '13'
+  kanji: 入館料
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1945150':
+  hiragana: のうがくぶ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: のう.がく.ぶ
+    wanikani_level: null
+  kanji: 農学部
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1945820':
+  hiragana: びじゅつてん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: び.じゅつ.てん
+    wanikani_level: null
+  kanji: 美術展
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1946230':
+  hiragana: ふっこくばん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ふっこくばん
+    wanikani_level: null
+  kanji: 復刻版
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1946440':
+  hiragana: ぶんかいさん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぶん.か.い.さん
+    wanikani_level: null
+  kanji: 文化遺産
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1946730':
+  hiragana: とりものちょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: とり.もの.ちょう
+    wanikani_level: null
+  kanji: 捕物帳
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1946980':
+  hiragana: ほうりつじむしょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ほう.りつ.じ.む.しょ
+    wanikani_level: null
+  kanji: 法律事務所
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1947220':
+  hiragana: まんぞくかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: まん.ぞく.かん
+    wanikani_level: null
+  kanji: 満足感
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1947700':
+  hiragana: やこうせい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: や.こう.せい
+    wanikani_level: null
+  kanji: 夜行性
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1947940':
+  hiragana: ゆうきひりょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ゆう.き.ひ.りょう
+    wanikani_level: null
+  kanji: 有機肥料
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1948590':
+  hiragana: りょうはんてん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: りょう.はん.てん
+    wanikani_level: null
+  kanji: 量販店
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1948900':
+  hiragana: れんきんじゅつし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: れん.きん.じゅつ.し
+    wanikani_level: null
+  kanji: 錬金術師
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1948960':
+  hiragana: ろうどうきじゅんほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ろう.どう.き.じゅん.ほう
+    wanikani_level: null
+  kanji: 労働基準法
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1949200':
+  hiragana: たっし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: たっ.し
+    wanikani_level: null
+  kanji: 達し
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1949280':
+  hiragana: うかす
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: う.か.す
+    wanikani_level: null
+  kanji: 浮かす
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1949330':
+  hiragana: たいようしゅう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: たい.よう.しゅう
+    wanikani_level: null
+  kanji: 大洋州
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1949620':
+  hiragana: しょうかいぶん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょう.かい.ぶん
+    wanikani_level: null
+  kanji: 紹介文
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1949630':
+  hiragana: かしだしよう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かし.だし.よう
+    wanikani_level: null
+  kanji: 貸出用
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950190':
+  hiragana: ひきのばし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ひ.き.の.ば.し
+    wanikani_level: null
+  kanji: 引き伸ばし
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950210':
+  hiragana: ひきおとし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ひ.き.お.と.し
+    wanikani_level: null
+  kanji: 引き落とし
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950270':
+  hiragana: えいい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: えい.い
+    wanikani_level: null
+  kanji: 営為
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950300':
+  hiragana: えんとう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: えん.とう
+    wanikani_level: null
+  kanji: 遠投
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950320':
+  hiragana: おしたおし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: お.し.たお.し
+    wanikani_level: null
+  kanji: 押し倒し
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950430':
+  hiragana: はては
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: は.て.は
+    wanikani_level: null
+  kanji: 果ては
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950470':
+  hiragana: かいとう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かい.とう
+    wanikani_level: null
+  kanji: 快投
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950540':
+  hiragana: がいせんしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: がい.せん.しゃ
+    wanikani_level: null
+  kanji: 街宣車
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950610':
+  hiragana: かんちょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かん.ちょう
+    wanikani_level: null
+  kanji: 完調
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950660':
+  hiragana: まじきり
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ま.じ.き.り
+    wanikani_level: null
+  kanji: 間仕切り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950710':
+  hiragana: きぼうほう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: き.ぼう.ほう
+    wanikani_level: null
+  kanji: 喜望峰
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950780':
+  hiragana: きしもじん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: き.し.も.じん
+    wanikani_level: null
+  kanji: 鬼子母神
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950800':
+  hiragana: すいあげ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: す.い.あ.げ
+    wanikani_level: null
+  kanji: 吸い上げ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950830':
+  hiragana: なかされる
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: な.か.さ.れ.る
+    wanikani_level: null
+  kanji: 泣かされる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1950850':
+  hiragana: きゅうそく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: きゅう.そく
+    wanikani_level: null
+  kanji: 球速
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951150':
+  hiragana: きまって
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: き.ま.っ.て
+    wanikani_level: null
+  kanji: 決まって
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951190':
+  hiragana: けんがく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: けん.がく
+    wanikani_level: null
+  kanji: 建学
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951250':
+  hiragana: げんえき
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: げん.えき
+    wanikani_level: null
+  kanji: 原液
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951260':
+  hiragana: げんしゅ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: げん.しゅ
+    wanikani_level: null
+  kanji: 原酒
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951400':
+  hiragana: ごばく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ご.ばく
+    wanikani_level: null
+  kanji: 誤爆
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951460':
+  hiragana: このんで
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: この.ん.で
+    wanikani_level: null
+  kanji: 好んで
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951680':
+  hiragana: さしこみ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: さ.し.こ.み
+    wanikani_level: null
+  kanji: 差し込み
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951750':
+  hiragana: さいこうれつ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: さい.こう.れつ
+    wanikani_level: null
+  kanji: 最後列
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1951880':
+  hiragana: さんゆこく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さん.ゆ.こく
+    wanikani_level: null
+  kanji: 産油国
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952020':
+  hiragana: しじゅほうしょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: し.じゅ.ほう.しょう
+    wanikani_level: null
+  kanji: 紫綬褒章
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952190':
+  hiragana: しゅちょ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しゅ.ちょ
+    wanikani_level: null
+  kanji: 主著
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952200':
+  hiragana: とっくみあい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: と.っ.く.み.あ.い
+    wanikani_level: null
+  kanji: 取っ組み合い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952390':
+  hiragana: おもし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おも.し
+    wanikani_level: null
+  kanji: 重し
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952430':
+  hiragana: しょきゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょ.きゅう
+    wanikani_level: null
+  kanji: 初球
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952440':
+  hiragana: かきなおし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: か.き.なお.し
+    wanikani_level: null
+  kanji: 書き直し
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952490':
+  hiragana: たすけあい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: たす.け.あ.い
+    wanikani_level: null
+  kanji: 助け合い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952510':
+  hiragana: じょにだん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: じょ.に.だん
+    wanikani_level: null
+  kanji: 序二段
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952530':
+  hiragana: しょうさ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しょう.さ
+    wanikani_level: null
+  kanji: 勝差
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952570':
+  hiragana: こてなげ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: こ.て.な.げ
+    wanikani_level: null
+  kanji: 小手投げ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952580':
+  hiragana: しょうせんきょく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょう.せん.きょ.く
+    wanikani_level: null
+  kanji: 小選挙区
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952630':
+  hiragana: けしさる
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: け.し.さ.る
+    wanikani_level: null
+  kanji: 消し去る
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952650':
+  hiragana: しょうようじゅりん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しょう.よう.じゅ.りん
+    wanikani_level: null
+  kanji: 照葉樹林
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952740':
+  hiragana: ふるまい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ふ.る.ま.い
+    wanikani_level: null
+  kanji: 振る舞い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952750':
+  hiragana: しんせいかつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しん.せい.かつ
+    wanikani_level: null
+  kanji: 新生活
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952760':
+  hiragana: しんそつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しん.そつ
+    wanikani_level: null
+  kanji: 新卒
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952780':
+  hiragana: しんぷ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しん.ぷ
+    wanikani_level: null
+  kanji: 新譜
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952900':
+  hiragana: ふきつけ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ふ.き.つ.け
+    wanikani_level: null
+  kanji: 吹き付け
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952930':
+  hiragana: よい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.い
+    wanikani_level: null
+  kanji: 酔い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1952980':
+  hiragana: すえつけ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: す.え.つ.け
+    wanikani_level: null
+  kanji: 据え付け
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953100':
+  hiragana: つみだし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: つ.み.だ.し
+    wanikani_level: null
+  kanji: 積み出し
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953230':
+  hiragana: ふながいしゃ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ふな.がい.しゃ
+    wanikani_level: null
+  kanji: 船会社
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953360':
+  hiragana: そうりょく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: そう.りょく
+    wanikani_level: null
+  kanji: 走力
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953370':
+  hiragana: おくりだし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おく.り.だ.し
+    wanikani_level: null
+  kanji: 送り出し
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953400':
+  hiragana: ひとさま
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ひとさま
+    wanikani_level: null
+  kanji: 他人様
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953410':
+  hiragana: おおめ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おお.め
+    wanikani_level: null
+  kanji: 多め
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953430':
+  hiragana: たいきょく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: たい.きょく
+    wanikani_level: null
+  kanji: 対極
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953470':
+  hiragana: たいしつ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: たい.しつ
+    wanikani_level: null
+  kanji: 退室
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953480':
+  hiragana: だいそれた
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: だい.そ.れ.た
+    wanikani_level: null
+  kanji: 大それた
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953500':
+  hiragana: たいぐん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: たい.ぐん
+    wanikani_level: null
+  kanji: 大軍
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953520':
+  hiragana: おおじょたい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: おお.じょ.たい
+    wanikani_level: null
+  kanji: 大所帯
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953600':
+  hiragana: うばいあい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: うば.い.あ.い
+    wanikani_level: null
+  kanji: 奪い合い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953640':
+  hiragana: たんさん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: たん.さん
+    wanikani_level: null
+  kanji: 単産
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953680':
+  hiragana: みじかめ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: みじか.め
+    wanikani_level: null
+  kanji: 短め
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1953710':
+  hiragana: だんい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: だん.い
+    wanikani_level: null
+  kanji: 段位
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954070':
+  hiragana: どうわ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: どう.わ
+    wanikani_level: null
+  kanji: 同和
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954180':
+  hiragana: にげん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: に.げん
+    wanikani_level: null
+  kanji: 二元
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954200':
+  hiragana: にまい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: に.まい
+    wanikani_level: null
+  kanji: 二枚
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954230':
+  hiragana: ねんきゅう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ねん.きゅう
+    wanikani_level: null
+  kanji: 年休
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954240':
+  hiragana: ねんしょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ねん.しょう
+    wanikani_level: null
+  kanji: 年商
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954310':
+  hiragana: はいゆ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: はい.ゆ
+    wanikani_level: null
+  kanji: 廃油
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954330':
+  hiragana: はいてん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: はい.てん
+    wanikani_level: null
+  kanji: 配点
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954350':
+  hiragana: しらす
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しら.す
+    wanikani_level: null
+  kanji: 白州
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954390':
+  hiragana: かみがた
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かみ.がた
+    wanikani_level: '44'
+  kanji: 髪型
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954470':
+  hiragana: ひし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ひ.し
+    wanikani_level: null
+  kanji: 皮脂
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954550':
+  hiragana: ふしゅう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ふ.しゅう
+    wanikani_level: null
+  kanji: 腐臭
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954590':
+  hiragana: はらいさげ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: はら.い.さ.げ
+    wanikani_level: null
+  kanji: 払い下げ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954660':
+  hiragana: きこえ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: き.こ.え
+    wanikani_level: null
+  kanji: 聞こえ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954700':
+  hiragana: ほはば
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ほ.はば
+    wanikani_level: null
+  kanji: 歩幅
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954890':
+  hiragana: むこくせき
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: む.こく.せき
+    wanikani_level: null
+  kanji: 無国籍
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954940':
+  hiragana: めくじら
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: め.く.じ.ら
+    wanikani_level: null
+  kanji: 目くじら
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1954950':
+  hiragana: めざめ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: め.ざ.め
+    wanikani_level: null
+  kanji: 目覚め
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955050':
+  hiragana: あぶらえのぐ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: あぶら.え.の.ぐ
+    wanikani_level: null
+  kanji: 油絵の具
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955060':
+  hiragana: ゆうしゅん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ゆう.しゅん
+    wanikani_level: null
+  kanji: 優駿
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955240':
+  hiragana: れいだんぼう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: れい.だん.ぼう
+    wanikani_level: null
+  kanji: 冷暖房
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955310':
+  hiragana: あえもの
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: あ.え.もの
+    wanikani_level: null
+  kanji: 和え物
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955780':
+  hiragana: くら
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: くら
+    wanikani_level: null
+  kanji: 鞍
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955790':
+  hiragana: えき
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: えき
+    wanikani_level: null
+  kanji: 易
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955800':
+  hiragana: い
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: い
+    wanikani_level: null
+  kanji: 井
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955820':
+  hiragana: いそ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: いそ
+    wanikani_level: null
+  kanji: 磯
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955830':
+  hiragana: せき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せき
+    wanikani_level: '50'
+  kanji: 堰
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955870':
+  hiragana: おうさつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おう.さつ
+    wanikani_level: null
+  kanji: 応札
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955890':
+  hiragana: かい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かい
+    wanikani_level: null
+  kanji: 怪
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955930':
+  hiragana: かつ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かつ
+    wanikani_level: null
+  kanji: 渇
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955940':
+  hiragana: かん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かん
+    wanikani_level: null
+  kanji: 寒
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1955980':
+  hiragana: かん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かん
+    wanikani_level: null
+  kanji: 棺
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956010':
+  hiragana: かん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かん
+    wanikani_level: '52'
+  kanji: 貫
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956020':
+  hiragana: がん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: がん
+    wanikani_level: null
+  kanji: 願
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956040':
+  hiragana: ぎ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ぎ
+    wanikani_level: null
+  kanji: 義
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956060':
+  hiragana: きね
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: きね
+    wanikani_level: null
+  kanji: 杵
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956080':
+  hiragana: りょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: りょう
+    wanikani_level: null
+  kanji: 漁
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956110':
+  hiragana: きん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: きん
+    wanikani_level: null
+  kanji: 禁
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956120':
+  hiragana: きん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きん
+    wanikani_level: null
+  kanji: 菌
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956130':
+  hiragana: むくろ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: むくろ
+    wanikani_level: null
+  kanji: 躯
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956170':
+  hiragana: きょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きょう
+    wanikani_level: null
+  kanji: 経
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956180':
+  hiragana: けい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けい
+    wanikani_level: null
+  kanji: 軽
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956190':
+  hiragana: げい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: げい
+    wanikani_level: null
+  kanji: 芸
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956200':
+  hiragana: けつ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: けつ
+    wanikani_level: null
+  kanji: 欠
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956210':
+  hiragana: けつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けつ
+    wanikani_level: '8'
+  kanji: 決
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956220':
+  hiragana: すずり
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: すずり
+    wanikani_level: null
+  kanji: 硯
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956230':
+  hiragana: げん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: げん
+    wanikani_level: null
+  kanji: 言
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956240':
+  hiragana: こ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: こ
+    wanikani_level: null
+  kanji: 弧
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956260':
+  hiragana: ごう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ごう
+    wanikani_level: null
+  kanji: 合
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956280':
+  hiragana: さい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: さい
+    wanikani_level: null
+  kanji: 最
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956300':
+  hiragana: ささ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ささ
+    wanikani_level: null
+  kanji: 笹
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956310':
+  hiragana: さん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さん
+    wanikani_level: null
+  kanji: 賛
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956340':
+  hiragana: じ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じ
+    wanikani_level: null
+  kanji: 痔
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956360':
+  hiragana: しば
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しば
+    wanikani_level: '56'
+  kanji: 柴
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956390':
+  hiragana: しゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しゅう
+    wanikani_level: null
+  kanji: 宗
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956400':
+  hiragana: しゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しゅう
+    wanikani_level: null
+  kanji: 集
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956420':
+  hiragana: かきいれ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: か.き.い.れ
+    wanikani_level: null
+  kanji: 書き入れ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956440':
+  hiragana: しょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょう
+    wanikani_level: null
+  kanji: 将
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956480':
+  hiragana: しょく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょく
+    wanikani_level: null
+  kanji: 食
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956490':
+  hiragana: じん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: じん
+    wanikani_level: '37'
+  kanji: 陣
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956520':
+  hiragana: かさ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かさ
+    wanikani_level: null
+  kanji: 嵩
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956530':
+  hiragana: すん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: すん
+    wanikani_level: '44'
+  kanji: 寸
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956540':
+  hiragana: せき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せき
+    wanikani_level: null
+  kanji: 籍
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956560':
+  hiragana: せん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せん
+    wanikani_level: null
+  kanji: 選
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956570':
+  hiragana: そ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そ
+    wanikani_level: null
+  kanji: 祖
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956580':
+  hiragana: はや
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はや
+    wanikani_level: null
+  kanji: 早
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956590':
+  hiragana: ぞく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ぞく
+    wanikani_level: null
+  kanji: 賊
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956600':
+  hiragana: たいち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: たい.ち
+    wanikani_level: null
+  kanji: 対地
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956660':
+  hiragana: ちゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ちゅう
+    wanikani_level: '19'
+  kanji: 宙
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956680':
+  hiragana: ちょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ちょ
+    wanikani_level: null
+  kanji: 著
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956700':
+  hiragana: つち
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: つち
+    wanikani_level: null
+  kanji: 槌
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956710':
+  hiragana: つむぎ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: つむぎ
+    wanikani_level: null
+  kanji: 紬
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956720':
+  hiragana: と
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: と
+    wanikani_level: null
+  kanji: 途
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956760':
+  hiragana: とうりょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: とう.りょう
+    wanikani_level: null
+  kanji: 投了
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956790':
+  hiragana: なだ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なだ
+    wanikani_level: null
+  kanji: 灘
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956830':
+  hiragana: はん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はん
+    wanikani_level: null
+  kanji: 汎
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956840':
+  hiragana: はん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はん
+    wanikani_level: '42'
+  kanji: 範
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956860':
+  hiragana: ひ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ひ
+    wanikani_level: '49'
+  kanji: 妃
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956910':
+  hiragana: ふ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ふ
+    wanikani_level: null
+  kanji: 譜
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956920':
+  hiragana: まい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: まい
+    wanikani_level: '36'
+  kanji: 舞
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956930':
+  hiragana: ふく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ふく
+    wanikani_level: null
+  kanji: 複
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1956950':
+  hiragana: ほうしょく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ほう.しょく
+    wanikani_level: null
+  kanji: 宝飾
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1957010':
+  hiragana: もん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: もん
+    wanikani_level: '54'
+  kanji: 紋
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1957020':
+  hiragana: のやま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: の.やま
+    wanikani_level: null
+  kanji: 野山
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1957030':
+  hiragana: やなぎばぼうちょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: やなぎ.ば.ぼう.ちょう
+    wanikani_level: null
+  kanji: 柳刃包丁
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1957060':
+  hiragana: り
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: り
+    wanikani_level: null
+  kanji: 理
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1957070':
+  hiragana: りょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: りょう
+    wanikani_level: null
+  kanji: 良
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1957140':
+  hiragana: げき
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: げき
+    wanikani_level: null
+  kanji: 檄
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1957300':
+  hiragana: よぎなく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.ぎ.な.く
+    wanikani_level: null
+  kanji: 余儀なく
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1958330':
+  hiragana: よけん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: よ.けん
+    wanikani_level: null
+  kanji: 予研
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1958410':
+  hiragana: じょうほうがく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: じょう.ほう.がく
+    wanikani_level: null
+  kanji: 情報学
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1960080':
+  hiragana: るいする
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: るい.す.る
+    wanikani_level: null
+  kanji: 類する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1960150':
+  hiragana: ふくする
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ふく.す.る
+    wanikani_level: null
+  kanji: 服する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1960210':
+  hiragana: そあん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そ.あん
+    wanikani_level: null
+  kanji: 素案
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1960280':
+  hiragana: すいどうすい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: すい.どう.すい
+    wanikani_level: null
+  kanji: 水道水
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1970980':
+  hiragana: いにんとうち
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: い.にん.とう.ち
+    wanikani_level: null
+  kanji: 委任統治
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1971320':
+  hiragana: いどうせいこうきあつ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: い.どう.せい.こう.き.あつ
+    wanikani_level: null
+  kanji: 移動性高気圧
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1973700':
+  hiragana: しおじり
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しお.じり
+    wanikani_level: null
+  kanji: 塩尻
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1974780':
+  hiragana: かていい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: か.てい.い
+    wanikani_level: null
+  kanji: 家庭医
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1974880':
+  hiragana: かがくし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: か.がく.し
+    wanikani_level: null
+  kanji: 科学史
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1976000':
+  hiragana: がぎょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: がぎ.ょう
+    wanikani_level: null
+  kanji: 画業
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1977250':
+  hiragana: えそらごと
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: え.そら.ごと
+    wanikani_level: null
+  kanji: 絵空事
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1977270':
+  hiragana: えいり
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: え.い.り
+    wanikani_level: null
+  kanji: 絵入り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1977390':
+  hiragana: かいしょ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かい.しょ
+    wanikani_level: null
+  kanji: 開所
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1977890':
+  hiragana: がいむいん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: がい.む.いん
+    wanikani_level: null
+  kanji: 外務員
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1979710':
+  hiragana: かんきょうえいせい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かん.きょう.えい.せい
+    wanikani_level: null
+  kanji: 環境衛生
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1979770':
+  hiragana: あまから
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: あま.から
+    wanikani_level: null
+  kanji: 甘辛
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980250':
+  hiragana: ないかくかんぼう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ない.かく.かん.ぼう
+    wanikani_level: null
+  kanji: 内閣官房
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980270':
+  hiragana: ないかくふ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ない.かく.ふ
+    wanikani_level: null
+  kanji: 内閣府
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980280':
+  hiragana: こっかこうあんいいんかい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: こっかこうあんいいんかい
+    wanikani_level: null
+  kanji: 国家公安委員会
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980290':
+  hiragana: きんゆうちょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きん.ゆう.ちょう
+    wanikani_level: null
+  kanji: 金融庁
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980300':
+  hiragana: こうがいとうちょうせいいいんかい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: こう.がい.とう.ちょう.せい.い.いん.かい
+    wanikani_level: null
+  kanji: 公害等調整委員会
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980510':
+  hiragana: ふうじる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ふう.じ.る
+    wanikani_level: null
+  kanji: 封じる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980660':
+  hiragana: みにつける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: み.に.つ.け.る
+    wanikani_level: null
+  kanji: 身につける
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980690':
+  hiragana: とう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: とう
+    wanikani_level: null
+  kanji: 籐
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1980940':
+  hiragana: なつび
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: なつ.び
+    wanikani_level: null
+  kanji: 夏日
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1981020':
+  hiragana: かしょうしんこく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: か.しょう.しん.こく
+    wanikani_level: null
+  kanji: 過少申告
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1981030':
+  hiragana: そんぎかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そん.ぎ.かい
+    wanikani_level: null
+  kanji: 村議会
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1981940':
+  hiragana: あいくるしい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: あい.く.る.し.い
+    wanikani_level: null
+  kanji: 愛くるしい
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1981970':
+  hiragana: せいたい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: せい.たい
+    wanikani_level: null
+  kanji: 整体
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1982100':
+  hiragana: なのはな
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: な.の.はな
+    wanikani_level: null
+  kanji: 菜の花
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1982670':
+  hiragana: きもちわるい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: き.も.ち.わる.い
+    wanikani_level: '14'
+  kanji: 気持ち悪い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1982800':
+  hiragana: そんかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そん.かい
+    wanikani_level: null
+  kanji: 損壊
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1982810':
+  hiragana: しぼりこむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しぼ.り.こ.む
+    wanikani_level: null
+  kanji: 絞り込む
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1983240':
+  hiragana: たたみじき
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: たたみ.じ.き
+    wanikani_level: null
+  kanji: 畳敷き
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1983280':
+  hiragana: ばり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ば.り
+    wanikani_level: null
+  kanji: 張り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1983500':
+  hiragana: しょくざい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょく.ざい
+    wanikani_level: null
+  kanji: 食材
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1983510':
+  hiragana: うちひしがれる
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: う.ち.ひ.し.が.れ.る
+    wanikani_level: null
+  kanji: 打ちひしがれる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1983720':
+  hiragana: だいする
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だい.す.る
+    wanikani_level: null
+  kanji: 題する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1984000':
+  hiragana: つうねん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: つう.ねん
+    wanikani_level: null
+  kanji: 通年
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1984050':
+  hiragana: べいじん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: べい.じん
+    wanikani_level: null
+  kanji: 米人
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1984090':
+  hiragana: おてすう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.て.すう
+    wanikani_level: null
+  kanji: お手数
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1984130':
+  hiragana: つうはん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: つう.はん
+    wanikani_level: '24'
+  kanji: 通販
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1984240':
+  hiragana: ちゅうこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ちゅう.こう
+    wanikani_level: null
+  kanji: 中高
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1984260':
+  hiragana: こうなご
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: こう.なご
+    wanikani_level: null
+  kanji: 小女子
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1984600':
+  hiragana: ぎんじょうしゅ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ぎん.じょう.しゅ
+    wanikani_level: null
+  kanji: 吟醸酒
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1984930':
+  hiragana: よき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.き
+    wanikani_level: null
+  kanji: 良き
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1985020':
+  hiragana: きづき
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: き.づ.き
+    wanikani_level: null
+  kanji: 気付き
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1985180':
+  hiragana: のます
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: の.ま.す
+    wanikani_level: null
+  kanji: 飲ます
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1985210':
+  hiragana: おどらされる
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: おど.ら.さ.れ.る
+    wanikani_level: null
+  kanji: 踊らされる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1985220':
+  hiragana: けんじょうしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けん.じょう.しゃ
+    wanikani_level: null
+  kanji: 健常者
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1985310':
+  hiragana: よにん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.にん
+    wanikani_level: null
+  kanji: 四人
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1989360':
+  hiragana: かいごほけん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かい.ご.ほ.けん
+    wanikani_level: null
+  kanji: 介護保険
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1989500':
+  hiragana: ひらき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ひら.き
+    wanikani_level: null
+  kanji: 開き
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1990450':
+  hiragana: きゅうきゅういりょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きゅう.きゅう.い.りょう
+    wanikani_level: null
+  kanji: 救急医療
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1992000':
+  hiragana: けんぽうさいばんしょ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: けん.ぽう.さい.ばん.しょ
+    wanikani_level: null
+  kanji: 憲法裁判所
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1995090':
+  hiragana: しゅつじ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しゅつ.じ
+    wanikani_level: null
+  kanji: 出自
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1995270':
+  hiragana: こうりかかく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.りかかく
+    wanikani_level: null
+  kanji: 小売価格
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1995860':
+  hiragana: みのしろきんようきゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: み.のしろきんようきゅう
+    wanikani_level: null
+  kanji: 身代金要求
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1995980':
+  hiragana: すいとうしょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: すい.とう.しょう
+    wanikani_level: null
+  kanji: 水頭症
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1995990':
+  hiragana: みなまたびょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: みなまたびょう
+    wanikani_level: null
+  kanji: 水俣病
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1997990':
+  hiragana: たいりょうさつじん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: たい.りょう.さつ.じん
+    wanikani_level: null
+  kanji: 大量殺人
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1998670':
+  hiragana: そこうち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そこ.う.ち
+    wanikani_level: null
+  kanji: 底打ち
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1999080':
+  hiragana: とうきょうしょうけんとりひきじょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: とう.きょう.しょう.けん.とり.ひき.じょ
+    wanikani_level: null
+  kanji: 東京証券取引所
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1999360':
+  hiragana: ないかがく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ない.か.がく
+    wanikani_level: null
+  kanji: 内科学
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'1999500':
+  hiragana: にほんけいざい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にほんけいざい
+    wanikani_level: null
+  kanji: 日本経済
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2000230':
+  hiragana: ふざいしゃとうひょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ふ.ざい.しゃ.とう.ひょう
+    wanikani_level: null
+  kanji: 不在者投票
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2000350':
+  hiragana: ふじょぼうこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ふ.じょ.ぼう.こう
+    wanikani_level: null
+  kanji: 婦女暴行
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2000550':
+  hiragana: ぶんぐ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぶん.ぐ
+    wanikani_level: null
+  kanji: 文具
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2001130':
+  hiragana: むじるし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: む.じるし
+    wanikani_level: null
+  kanji: 無印
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2001230':
+  hiragana: むとうはそう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: む.とう.は.そう
+    wanikani_level: null
+  kanji: 無党派層
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2001720':
+  hiragana: りがくりょうほうし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: り.がく.りょう.ほう.し
+    wanikani_level: null
+  kanji: 理学療法士
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2001850':
+  hiragana: れいばい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: れい.ばい
+    wanikani_level: null
+  kanji: 冷媒
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2001970':
+  hiragana: ろうどうきじゅんきょく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ろう.どう.き.じゅん.きょく
+    wanikani_level: null
+  kanji: 労働基準局
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2002190':
+  hiragana: またす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ま.た.す
+    wanikani_level: null
+  kanji: 待たす
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2002460':
+  hiragana: とりかた
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: と.り.かた
+    wanikani_level: null
+  kanji: 取り方
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2004390':
+  hiragana: もと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: もと
+    wanikani_level: null
+  kanji: 下
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2005410':
+  hiragana: むくう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: むく.う
+    wanikani_level: null
+  kanji: 報う
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2005420':
+  hiragana: とびだし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: と.び.だ.し
+    wanikani_level: null
+  kanji: 飛び出し
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2005490':
+  hiragana: よんほん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よん.ほん
+    wanikani_level: null
+  kanji: 四本
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2005580':
+  hiragana: きかす
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: き.か.す
+    wanikani_level: null
+  kanji: 利かす
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2005590':
+  hiragana: きかせる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: き.か.せ.る
+    wanikani_level: null
+  kanji: 利かせる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2005640':
+  hiragana: さんこつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さん.こつ
+    wanikani_level: null
+  kanji: 散骨
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2005920':
+  hiragana: いっかつばらい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: いっ.かつ.ばら.い
+    wanikani_level: null
+  kanji: 一括払い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006130':
+  hiragana: なにびと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なに.びと
+    wanikani_level: null
+  kanji: 何人
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006200':
+  hiragana: かいする
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かい.す.る
+    wanikani_level: null
+  kanji: 介する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006210':
+  hiragana: ときほぐす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: と.き.ほ.ぐ.す
+    wanikani_level: null
+  kanji: 解きほぐす
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006240':
+  hiragana: かいする
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かい.す.る
+    wanikani_level: null
+  kanji: 解する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006510':
+  hiragana: そだちざかり
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: そだ.ち.ざか.り
+    wanikani_level: null
+  kanji: 育ち盛り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006620':
+  hiragana: すべりおりる
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: すべ.り.お.り.る
+    wanikani_level: null
+  kanji: 滑り降りる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006630':
+  hiragana: なれっこ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: な.れ.っ.こ
+    wanikani_level: null
+  kanji: 慣れっこ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006640':
+  hiragana: まちがいない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ま.ちが.い.な.い
+    wanikani_level: null
+  kanji: 間違いない
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006780':
+  hiragana: さいそく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: さい.そく
+    wanikani_level: null
+  kanji: 最速
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2006790':
+  hiragana: さいねんしょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.ねん.しょう
+    wanikani_level: null
+  kanji: 最年少
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2007360':
+  hiragana: うしろめたい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: うし.ろ.め.た.い
+    wanikani_level: null
+  kanji: 後ろめたい
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2007440':
+  hiragana: おおっぴら
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: おお.っ.ぴ.ら
+    wanikani_level: null
+  kanji: 大っぴら
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2007590':
+  hiragana: かいする
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かい.す.る
+    wanikani_level: null
+  kanji: 会する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2007660':
+  hiragana: かたや
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かた.や
+    wanikani_level: null
+  kanji: 片や
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2007890':
+  hiragana: くわす
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: く.わ.す
+    wanikani_level: null
+  kanji: 食わす
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2008380':
+  hiragana: しょする
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しょ.す.る
+    wanikani_level: null
+  kanji: 処する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2009290':
+  hiragana: なかでも
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なか.で.も
+    wanikani_level: null
+  kanji: 中でも
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2009330':
+  hiragana: ぬき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぬ.き
+    wanikani_level: null
+  kanji: 抜き
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2009420':
+  hiragana: はたらかす
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: はたら.か.す
+    wanikani_level: null
+  kanji: 働かす
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2009430':
+  hiragana: はたらかせる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はたら.か.せ.る
+    wanikani_level: null
+  kanji: 働かせる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2010340':
+  hiragana: あとずさり
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: あと.ず.さ.り
+    wanikani_level: null
+  kanji: 後ずさり
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2010880':
+  hiragana: ごする
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ご.す.る
+    wanikani_level: null
+  kanji: 伍する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2011730':
+  hiragana: かずすくない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かず.すく.な.い
+    wanikani_level: null
+  kanji: 数少ない
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2012290':
+  hiragana: もんくなし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: もん.く.な.し
+    wanikani_level: null
+  kanji: 文句なし
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2012420':
+  hiragana: おっかけ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.っ.か.け
+    wanikani_level: null
+  kanji: 追っかけ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2012540':
+  hiragana: うごきだす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: うご.き.だ.す
+    wanikani_level: null
+  kanji: 動き出す
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2013060':
+  hiragana: もえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: も.え.る
+    wanikani_level: null
+  kanji: 萌える
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2016170':
+  hiragana: のみかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: の.み.かい
+    wanikani_level: '13'
+  kanji: 飲み会
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2020140':
+  hiragana: いってきます
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.っ.て.き.ま.す
+    wanikani_level: null
+  kanji: 行ってきます
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2020520':
+  hiragana: つね
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: つね
+    wanikani_level: null
+  kanji: 常
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2020680':
+  hiragana: じ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じ
+    wanikani_level: '7'
+  kanji: 時
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2026850':
+  hiragana: いますぐ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: いま.す.ぐ
+    wanikani_level: '5'
+  kanji: 今すぐ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2027300':
+  hiragana: りょこうがいしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: りょ.こう.がい.しゃ
+    wanikani_level: null
+  kanji: 旅行会社
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2029860':
+  hiragana: いしそつう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.し.そ.つう
+    wanikani_level: null
+  kanji: 意思疎通
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2033380':
+  hiragana: しゅうかつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しゅう.かつ
+    wanikani_level: null
+  kanji: 就活
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2036870':
+  hiragana: おねがい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.ねが.い
+    wanikani_level: '15'
+  kanji: お願い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2036920':
+  hiragana: びはく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: び.はく
+    wanikani_level: null
+  kanji: 美白
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2037080':
+  hiragana: まるまる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: まる.ま.る
+    wanikani_level: null
+  kanji: 丸まる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2038160':
+  hiragana: だれにも
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だれ.に.も
+    wanikani_level: null
+  kanji: 誰にも
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2040040':
+  hiragana: おおばんぶるまい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: おお.ばん.ぶ.る.ま.い
+    wanikani_level: null
+  kanji: 大盤振る舞い
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2043010':
+  hiragana: かってきまま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かっ.て.き.ま.ま
+    wanikani_level: null
+  kanji: 勝手気まま
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2066670':
+  hiragana: なんにんか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なん.にん.か
+    wanikani_level: null
+  kanji: 何人か
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2067560':
+  hiragana: へい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: へい
+    wanikani_level: '17'
+  kanji: 兵
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2067900':
+  hiragana: かん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かん
+    wanikani_level: '8'
+  kanji: 間
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2068010':
+  hiragana: い
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い
+    wanikani_level: '11'
+  kanji: 位
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2069030':
+  hiragana: いつもどおり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.つ.も.どお.り
+    wanikani_level: null
+  kanji: いつも通り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2069220':
+  hiragana: す
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: す
+    wanikani_level: null
+  kanji: 素
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2073710':
+  hiragana: よそういじょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.そう.い.じょう
+    wanikani_level: null
+  kanji: 予想以上
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2078260':
+  hiragana: せかいいさん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せ.かい.い.さん
+    wanikani_level: null
+  kanji: 世界遺産
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2078800':
+  hiragana: おおさか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おお.さか
+    wanikani_level: '16'
+  kanji: 大阪
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2080720':
+  hiragana: りょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: りょう
+    wanikani_level: null
+  kanji: 両
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2080900':
+  hiragana: し
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し
+    wanikani_level: null
+  kanji: 史
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2080910':
+  hiragana: なばかり
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: な.ば.か.り
+    wanikani_level: null
+  kanji: 名ばかり
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2082140':
+  hiragana: おお
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おお
+    wanikani_level: null
+  kanji: 大
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2082450':
+  hiragana: だい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だい
+    wanikani_level: null
+  kanji: 大
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2083570':
+  hiragana: じゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じゅう
+    wanikani_level: null
+  kanji: 中
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2084590':
+  hiragana: かくちょうし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かく.ちょう.し
+    wanikani_level: null
+  kanji: 拡張子
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2084840':
+  hiragana: ねん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ねん
+    wanikani_level: null
+  kanji: 年
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2087420':
+  hiragana: おわび
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.わ.び
+    wanikani_level: null
+  kanji: お詫び
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2087620':
+  hiragana: ぜっこうちょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぜっ.こう.ちょう
+    wanikani_level: null
+  kanji: 絶好調
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2088270':
+  hiragana: まぎれもない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: まぎ.れ.も.な.い
+    wanikani_level: '46'
+  kanji: 紛れもない
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2088300':
+  hiragana: にほんはつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にほんはつ
+    wanikani_level: null
+  kanji: 日本初
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2089700':
+  hiragana: うれすじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: う.れ.すじ
+    wanikani_level: null
+  kanji: 売れ筋
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2098260':
+  hiragana: だれにでも
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だれ.に.で.も
+    wanikani_level: null
+  kanji: 誰にでも
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2098290':
+  hiragana: ない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ない
+    wanikani_level: null
+  kanji: 内
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2098400':
+  hiragana: やすくにじんじゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: やす.くに.じん.じゃ
+    wanikani_level: '56'
+  kanji: 靖国神社
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2100500':
+  hiragana: こんしゅうまつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こん.しゅう.まつ
+    wanikani_level: null
+  kanji: 今週末
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2101010':
+  hiragana: あるいみで
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: あ.る.い.み.で
+    wanikani_level: null
+  kanji: ある意味で
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2101020':
+  hiragana: あるいみでは
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: あ.る.い.み.で.は
+    wanikani_level: null
+  kanji: ある意味では
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2101420':
+  hiragana: かおをだす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かお.を.だ.す
+    wanikani_level: null
+  kanji: 顔を出す
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2101720':
+  hiragana: さいごのさいご
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.ご.の.さい.ご
+    wanikani_level: null
+  kanji: 最後の最後
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2103660':
+  hiragana: いちばんうえ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: いち.ばん.うえ
+    wanikani_level: null
+  kanji: 一番上
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2104360':
+  hiragana: せきにんをもつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せき.にん.を.も.つ
+    wanikani_level: null
+  kanji: 責任を持つ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2104790':
+  hiragana: せいかんたい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せい.かん.たい
+    wanikani_level: null
+  kanji: 性感帯
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2106010':
+  hiragana: おひとりさま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.ひと.り.さま
+    wanikani_level: null
+  kanji: お一人様
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2108190':
+  hiragana: しつもんをする
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しつ.もん.を.す.る
+    wanikani_level: null
+  kanji: 質問をする
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2110850':
+  hiragana: にどと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: に.ど.と
+    wanikani_level: null
+  kanji: 二度と
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2112070':
+  hiragana: ゆらぎ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ゆ.ら.ぎ
+    wanikani_level: null
+  kanji: 揺らぎ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2114420':
+  hiragana: できるだけはやく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: で.き.る.だ.け.はや.く
+    wanikani_level: null
+  kanji: できるだけ早く
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2116270':
+  hiragana: たいちゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: たい.ちゅう
+    wanikani_level: null
+  kanji: 対中
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2117800':
+  hiragana: りょこうけん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: りょ.こう.けん
+    wanikani_level: null
+  kanji: 旅行券
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2118110':
+  hiragana: なにをかくそう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なに.を.かく.そ.う
+    wanikani_level: null
+  kanji: 何を隠そう
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2124780':
+  hiragana: せかいかくち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せ.かい.かく.ち
+    wanikani_level: null
+  kanji: 世界各地
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2127150':
+  hiragana: げんだいしゃかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: げん.だい.しゃ.かい
+    wanikani_level: null
+  kanji: 現代社会
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2127390':
+  hiragana: こうぞうぶつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.ぞう.ぶつ
+    wanikani_level: null
+  kanji: 構造物
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2128790':
+  hiragana: さいぼうない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.ぼう.ない
+    wanikani_level: null
+  kanji: 細胞内
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2128800':
+  hiragana: きゅうせいき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きゅう.せい.き
+    wanikani_level: null
+  kanji: 急性期
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2128920':
+  hiragana: かいしじこく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かい.し.じ.こく
+    wanikani_level: null
+  kanji: 開始時刻
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2129150':
+  hiragana: そうきちりょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そう.き.ち.りょう
+    wanikani_level: null
+  kanji: 早期治療
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2130230':
+  hiragana: むりょくかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: む.りょく.かん
+    wanikani_level: null
+  kanji: 無力感
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2131210':
+  hiragana: はつうり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はつ.う.り
+    wanikani_level: null
+  kanji: 初売り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2131280':
+  hiragana: さいしんじょうほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.しん.じょう.ほう
+    wanikani_level: null
+  kanji: 最新情報
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2131390':
+  hiragana: さいしんけんきゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.しん.けん.きゅう
+    wanikani_level: null
+  kanji: 最新研究
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2131410':
+  hiragana: きしょうよほうし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: き.しょう.よ.ほう.し
+    wanikani_level: null
+  kanji: 気象予報士
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2131430':
+  hiragana: じこかんり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じ.こ.かん.り
+    wanikani_level: null
+  kanji: 自己管理
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2131450':
+  hiragana: とういつかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: とう.いつ.かん
+    wanikani_level: null
+  kanji: 統一感
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2131600':
+  hiragana: けんきゅうけっか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けん.きゅう.けっ.か
+    wanikani_level: null
+  kanji: 研究結果
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2131660':
+  hiragana: やくそくどおり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: やく.そく.どお.り
+    wanikani_level: null
+  kanji: 約束通り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2132180':
+  hiragana: しんがいねん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しん.がい.ねん
+    wanikani_level: null
+  kanji: 新概念
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2132420':
+  hiragana: にほんしゃかい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にほんしゃかい
+    wanikani_level: null
+  kanji: 日本社会
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2132560':
+  hiragana: せっていかのう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せっ.てい.か.のう
+    wanikani_level: null
+  kanji: 設定可能
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2132710':
+  hiragana: そうごこうりゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そう.ご.こう.りゅう
+    wanikani_level: null
+  kanji: 相互交流
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2132850':
+  hiragana: でんしぶひん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: でん.し.ぶ.ひん
+    wanikani_level: null
+  kanji: 電子部品
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2132980':
+  hiragana: だがしや
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だ.が.し.や
+    wanikani_level: null
+  kanji: 駄菓子屋
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2133380':
+  hiragana: しごとはじめ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し.ごと.はじ.め
+    wanikani_level: null
+  kanji: 仕事始め
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2133500':
+  hiragana: けいけんほうふ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けい.けん.ほう.ふ
+    wanikani_level: null
+  kanji: 経験豊富
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2133540':
+  hiragana: らちもんだい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ら.ち.もん.だい
+    wanikani_level: null
+  kanji: 拉致問題
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2133750':
+  hiragana: よろしくおねがいします
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.ろ.し.く.お.ねが.い.し.ま.す
+    wanikani_level: '40'
+  kanji: よろしくお願いします
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2133860':
+  hiragana: いみふめい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.み.ふ.めい
+    wanikani_level: null
+  kanji: 意味不明
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2134050':
+  hiragana: そうさかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そう.さ.かん
+    wanikani_level: null
+  kanji: 捜査官
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2134360':
+  hiragana: はんばいいん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はん.ばい.いん
+    wanikani_level: null
+  kanji: 販売員
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2134380':
+  hiragana: さいこうび
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.こう.び
+    wanikani_level: '20'
+  kanji: 最後尾
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2134440':
+  hiragana: にほんせいふ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にほんせいふ
+    wanikani_level: null
+  kanji: 日本政府
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2134830':
+  hiragana: しんせいじん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しん.せい.じん
+    wanikani_level: null
+  kanji: 新成人
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2134840':
+  hiragana: ようしょうき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よう.しょう.き
+    wanikani_level: null
+  kanji: 幼少期
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2134910':
+  hiragana: だいじけん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だい.じ.けん
+    wanikani_level: null
+  kanji: 大事件
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2135190':
+  hiragana: あさいちばん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: あさ.いち.ばん
+    wanikani_level: null
+  kanji: 朝一番
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2136010':
+  hiragana: えんぎりょく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: えん.ぎ.りょく
+    wanikani_level: null
+  kanji: 演技力
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2136040':
+  hiragana: にさいして
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: に.さい.し.て
+    wanikani_level: null
+  kanji: に際して
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2136900':
+  hiragana: うまれそだつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: う.ま.れ.そだ.つ
+    wanikani_level: null
+  kanji: 生まれ育つ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2137990':
+  hiragana: かいけつほうほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かい.けつ.ほう.ほう
+    wanikani_level: null
+  kanji: 解決方法
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2138240':
+  hiragana: よくあるしつもん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.く.あ.る.しつ.もん
+    wanikani_level: null
+  kanji: よくある質問
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2138360':
+  hiragana: うけつけちゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: うけ.つけ.ちゅう
+    wanikani_level: null
+  kanji: 受付中
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2140420':
+  hiragana: がっこうめい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: がっこうめい
+    wanikani_level: null
+  kanji: 学校名
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2140550':
+  hiragana: だいぼしゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だい.ぼ.しゅう
+    wanikani_level: null
+  kanji: 大募集
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2140820':
+  hiragana: もりつけ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: も.り.つ.け
+    wanikani_level: null
+  kanji: 盛り付け
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2142890':
+  hiragana: しゅるいほうふ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しゅ.るい.ほう.ふ
+    wanikani_level: null
+  kanji: 種類豊富
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2142910':
+  hiragana: でんとうぶんか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: でん.とう.ぶん.か
+    wanikani_level: null
+  kanji: 伝統文化
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2143040':
+  hiragana: にほんぜんこく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にほんぜんこく
+    wanikani_level: null
+  kanji: 日本全国
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2143090':
+  hiragana: めがさめる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: め.が.さ.め.る
+    wanikani_level: null
+  kanji: 目が覚める
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2143110':
+  hiragana: だいがくしんがく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だい.がく.しん.がく
+    wanikani_level: null
+  kanji: 大学進学
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2143390':
+  hiragana: こうざばんごう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.ざ.ばん.ごう
+    wanikani_level: null
+  kanji: 口座番号
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2143400':
+  hiragana: まんいんでんしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: まん.いん.でん.しゃ
+    wanikani_level: null
+  kanji: 満員電車
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2143410':
+  hiragana: にほんきぎょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にほんきぎょう
+    wanikani_level: null
+  kanji: 日本企業
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2143520':
+  hiragana: しゃたい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しゃ.たい
+    wanikani_level: '48'
+  kanji: 斜体
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2144080':
+  hiragana: けっこんあいて
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けっ.こん.あい.て
+    wanikani_level: null
+  kanji: 結婚相手
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2144260':
+  hiragana: いしきちょうさ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.しき.ちょう.さ
+    wanikani_level: null
+  kanji: 意識調査
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2144310':
+  hiragana: がっかいし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: がっかいし
+    wanikani_level: null
+  kanji: 学会誌
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2144400':
+  hiragana: いりょうひん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.りょう.ひん
+    wanikani_level: null
+  kanji: 衣料品
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2144420':
+  hiragana: めぐろ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: め.ぐろ
+    wanikani_level: null
+  kanji: 目黒
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2144810':
+  hiragana: かいがいしゅっちょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かい.がい.しゅっ.ちょう
+    wanikani_level: null
+  kanji: 海外出張
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2144830':
+  hiragana: きほんりょうきん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: き.ほん.りょう.きん
+    wanikani_level: null
+  kanji: 基本料金
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2144920':
+  hiragana: せかいかっこく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せ.かい.かっこく
+    wanikani_level: null
+  kanji: 世界各国
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2146500':
+  hiragana: けんおかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けん.お.かん
+    wanikani_level: '22'
+  kanji: 嫌悪感
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2146540':
+  hiragana: こくないりょこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こく.ない.りょ.こう
+    wanikani_level: null
+  kanji: 国内旅行
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2146780':
+  hiragana: きょうそうにゅうさつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きょう.そう.にゅう.さつ
+    wanikani_level: null
+  kanji: 競争入札
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2146980':
+  hiragana: さいしんえい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.しん.えい
+    wanikani_level: '42'
+  kanji: 最新鋭
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2149190':
+  hiragana: せんじょうざい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せん.じょう.ざい
+    wanikani_level: '55'
+  kanji: 洗浄剤
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2149890':
+  hiragana: にん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にん
+    wanikani_level: '3'
+  kanji: 人
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2151660':
+  hiragana: ぎもんてん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぎ.もん.てん
+    wanikani_level: null
+  kanji: 疑問点
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2151770':
+  hiragana: かいはつしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かい.はつ.しゃ
+    wanikani_level: null
+  kanji: 開発者
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2152210':
+  hiragana: かくやすこうくうけん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かく.やす.こう.くう.けん
+    wanikani_level: null
+  kanji: 格安航空券
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2153730':
+  hiragana: ぎょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぎょう
+    wanikani_level: null
+  kanji: 業
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2153770':
+  hiragana: こ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こ
+    wanikani_level: null
+  kanji: 小
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2153930':
+  hiragana: にかぎって
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: に.かぎ.っ.て
+    wanikani_level: null
+  kanji: に限って
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2160680':
+  hiragana: ほうがいい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ほう.が.い.い
+    wanikani_level: null
+  kanji: 方がいい
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164600':
+  hiragana: こうべ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.べ
+    wanikani_level: null
+  kanji: 神戸
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164610':
+  hiragana: よこはま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よこ.はま
+    wanikani_level: '28'
+  kanji: 横浜
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164620':
+  hiragana: なごや
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: な.ご.や
+    wanikani_level: '9'
+  kanji: 名古屋
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164630':
+  hiragana: きたきゅうしゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きた.きゅう.しゅう
+    wanikani_level: null
+  kanji: 北九州
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164640':
+  hiragana: ふくおか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ふく.おか
+    wanikani_level: null
+  kanji: 福岡
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164650':
+  hiragana: かわさき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かわ.さき
+    wanikani_level: '23'
+  kanji: 川崎
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164660':
+  hiragana: さっぽろ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さっ.ぽろ
+    wanikani_level: null
+  kanji: 札幌
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164670':
+  hiragana: ひろしま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ひろ.しま
+    wanikani_level: '12'
+  kanji: 広島
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164680':
+  hiragana: せんだい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せん.だい
+    wanikani_level: '39'
+  kanji: 仙台
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164690':
+  hiragana: ちば
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ち.ば
+    wanikani_level: '10'
+  kanji: 千葉
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164700':
+  hiragana: さいたま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.たま
+    wanikani_level: null
+  kanji: 埼玉
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164710':
+  hiragana: しずおか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しず.おか
+    wanikani_level: null
+  kanji: 静岡
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164730':
+  hiragana: にいがた
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にい.がた
+    wanikani_level: null
+  kanji: 新潟
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2164740':
+  hiragana: はままつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はま.まつ
+    wanikani_level: null
+  kanji: 浜松
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2165320':
+  hiragana: しょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょう
+    wanikani_level: null
+  kanji: 少
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2178430':
+  hiragana: ろせんず
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ろ.せん.ず
+    wanikani_level: null
+  kanji: 路線図
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2182740':
+  hiragana: すうじかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: すう.じ.かん
+    wanikani_level: null
+  kanji: 数時間
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2182750':
+  hiragana: すうふん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: すう.ふん
+    wanikani_level: null
+  kanji: 数分
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2185820':
+  hiragana: むしゅうせい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: む.しゅう.せい
+    wanikani_level: null
+  kanji: 無修正
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2187310':
+  hiragana: おきどけい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: お.き.どけい
+    wanikani_level: null
+  kanji: 置き時計
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2188800':
+  hiragana: はつちょうせん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はつ.ちょう.せん
+    wanikani_level: null
+  kanji: 初挑戦
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2194120':
+  hiragana: もつなべ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: も.つ.なべ
+    wanikani_level: null
+  kanji: もつ鍋
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2195930':
+  hiragana: こかくまんぞく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こ.かく.まん.ぞく
+    wanikani_level: null
+  kanji: 顧客満足
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2198630':
+  hiragana: ずみ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ず.み
+    wanikani_level: null
+  kanji: 済み
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2201370':
+  hiragana: こまかいこと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こま.か.い.こ.と
+    wanikani_level: null
+  kanji: 細かいこと
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2203050':
+  hiragana: じれいしゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じ.れい.しゅう
+    wanikani_level: null
+  kanji: 事例集
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2203210':
+  hiragana: おじか
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: お.じか
+    wanikani_level: null
+  kanji: 牡鹿
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2208410':
+  hiragana: あっというま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: あ.っ.と.い.う.ま
+    wanikani_level: null
+  kanji: あっという間
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2209940':
+  hiragana: けんさくじょうけん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けん.さく.じょう.けん
+    wanikani_level: null
+  kanji: 検索条件
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2211850':
+  hiragana: ごえんりょください
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ご.えん.りょ.く.だ.さ.い
+    wanikani_level: null
+  kanji: ご遠慮ください
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2211980':
+  hiragana: ごほうび
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ご.ほう.び
+    wanikani_level: null
+  kanji: ご褒美
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2214880':
+  hiragana: いいようがない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.い.よ.う.が.な.い
+    wanikani_level: null
+  kanji: 言いようがない
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2216900':
+  hiragana: このまえ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こ.の.まえ
+    wanikani_level: '8'
+  kanji: この前
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2216920':
+  hiragana: せいしきめいしょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: せい.しき.めい.しょう
+    wanikani_level: null
+  kanji: 正式名称
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2218830':
+  hiragana: よきせぬ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.き.せ.ぬ
+    wanikani_level: null
+  kanji: 予期せぬ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2219320':
+  hiragana: しぜんこうえん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し.ぜん.こう.えん
+    wanikani_level: null
+  kanji: 自然公園
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2220350':
+  hiragana: まちあわせばしょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ま.ち.あ.わ.せ.ば.しょ
+    wanikani_level: null
+  kanji: 待ち合わせ場所
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2220480':
+  hiragana: にどね
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: に.ど.ね
+    wanikani_level: null
+  kanji: 二度寝
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2220550':
+  hiragana: じょうきょうほうこく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じょう.きょう.ほう.こく
+    wanikani_level: null
+  kanji: 状況報告
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2220580':
+  hiragana: こうしゅうにゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.しゅう.にゅう
+    wanikani_level: null
+  kanji: 高収入
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2221400':
+  hiragana: きょうごうたしゃ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きょう.ごう.た.しゃ
+    wanikani_level: null
+  kanji: 競合他社
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2221510':
+  hiragana: でんちぎれ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: でん.ち.ぎ.れ
+    wanikani_level: null
+  kanji: 電池切れ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2221670':
+  hiragana: ひとあじちがう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ひと.あじ.ちが.う
+    wanikani_level: null
+  kanji: 一味違う
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2222150':
+  hiragana: しかえいせいし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し.か.えい.せい.し
+    wanikani_level: null
+  kanji: 歯科衛生士
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2222180':
+  hiragana: おひさしぶり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.ひさ.し.ぶ.り
+    wanikani_level: null
+  kanji: お久しぶり
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2222720':
+  hiragana: じゅぎょうさんかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じゅ.ぎょう.さん.かん
+    wanikani_level: null
+  kanji: 授業参観
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2227230':
+  hiragana: いどうへいきん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.どう.へい.きん
+    wanikani_level: null
+  kanji: 移動平均
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2227930':
+  hiragana: がい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: がい
+    wanikani_level: null
+  kanji: 外
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2228920':
+  hiragana: あこがれのまと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: あこが.れ.の.まと
+    wanikani_level: null
+  kanji: 憧れの的
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2229020':
+  hiragana: しきんちょうたつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し.きん.ちょう.たつ
+    wanikani_level: null
+  kanji: 資金調達
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2229280':
+  hiragana: しっぱいだん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しっ.ぱい.だん
+    wanikani_level: null
+  kanji: 失敗談
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2231160':
+  hiragana: おたがいに
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.たが.い.に
+    wanikani_level: null
+  kanji: お互いに
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2232360':
+  hiragana: そん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そん
+    wanikani_level: null
+  kanji: 巽
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2232980':
+  hiragana: このうち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こ.の.うち
+    wanikani_level: null
+  kanji: この内
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2234500':
+  hiragana: へんこうとどけ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: へん.こう.とどけ
+    wanikani_level: null
+  kanji: 変更届
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2234880':
+  hiragana: じょきん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じょ.きん
+    wanikani_level: null
+  kanji: 除菌
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2238290':
+  hiragana: よくあるごしつもん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.く.あ.る.ご.しつ.もん
+    wanikani_level: null
+  kanji: よくあるご質問
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2242840':
+  hiragana: み
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: み
+    wanikani_level: null
+  kanji: 未
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2244810':
+  hiragana: てんまんぐう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: てん.まん.ぐう
+    wanikani_level: null
+  kanji: 天満宮
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2247000':
+  hiragana: ていりょうきん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: てい.りょう.きん
+    wanikani_level: null
+  kanji: 低料金
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2248180':
+  hiragana: さいごのぶたい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい.ご.の.ぶ.たい
+    wanikani_level: null
+  kanji: 最後の舞台
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2249810':
+  hiragana: えをかく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: え.を.か.く
+    wanikani_level: null
+  kanji: 絵を描く
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2251760':
+  hiragana: けいけんち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けい.けん.ち
+    wanikani_level: null
+  kanji: 経験値
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2251990':
+  hiragana: しょうちゅうがくせい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょう.ちゅう.がく.せい
+    wanikani_level: null
+  kanji: 小中学生
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2258630':
+  hiragana: こうらい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.らい
+    wanikani_level: null
+  kanji: 高麗
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2260250':
+  hiragana: ようしゃなく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よう.しゃ.な.く
+    wanikani_level: '60'
+  kanji: 容赦なく
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2260370':
+  hiragana: ていきこうどく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: てい.き.こう.どく
+    wanikani_level: null
+  kanji: 定期購読
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2274260':
+  hiragana: なんなのか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なん.な.の.か
+    wanikani_level: null
+  kanji: 何なのか
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2274860':
+  hiragana: ぶっぱん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぶっ.ぱん
+    wanikani_level: null
+  kanji: 物販
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2275890':
+  hiragana: にいちゃん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にい.ち.ゃ.ん
+    wanikani_level: null
+  kanji: 兄ちゃん
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2276200':
+  hiragana: しつれいします
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しつ.れい.し.ま.す
+    wanikani_level: null
+  kanji: 失礼します
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2345340':
+  hiragana: さぎょうかんきょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さ.ぎょう.かん.きょう
+    wanikani_level: null
+  kanji: 作業環境
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2355140':
+  hiragana: こうがくしきもじにんしき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.がく.しき.もじにんしき
+    wanikani_level: null
+  kanji: 光学式文字認識
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2383970':
+  hiragana: ひょうけいさん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ひょう.けい.さん
+    wanikani_level: null
+  kanji: 表計算
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2386360':
+  hiragana: ふんかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ふん.かん
+    wanikani_level: null
+  kanji: 分間
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2393900':
+  hiragana: いいかげんにしろ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: い.い.か.げん.に.し.ろ
+    wanikani_level: '21'
+  kanji: いい加減にしろ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2394230':
+  hiragana: ならびかえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なら.び.か.え.る
+    wanikani_level: null
+  kanji: 並び替える
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2396020':
+  hiragana: かいはつもと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かい.はつ.もと
+    wanikani_level: null
+  kanji: 開発元
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2398050':
+  hiragana: しらないうちに
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し.ら.な.い.う.ち.に
+    wanikani_level: null
+  kanji: 知らないうちに
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2398850':
+  hiragana: はっしょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はっ.しょう
+    wanikani_level: null
+  kanji: 発症
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2406800':
+  hiragana: すいしょうかんきょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: すい.しょう.かん.きょう
+    wanikani_level: null
+  kanji: 推奨環境
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2408840':
+  hiragana: あいす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: あい.す
+    wanikani_level: null
+  kanji: 愛す
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2410410':
+  hiragana: じす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じ.す
+    wanikani_level: null
+  kanji: 辞す
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2420910':
+  hiragana: わかいころ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: わか.い.ころ
+    wanikani_level: '45'
+  kanji: 若い頃
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2420940':
+  hiragana: ちいさいころ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ちい.さ.い.ころ
+    wanikani_level: null
+  kanji: 小さい頃
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2427550':
+  hiragana: あるじ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: あるじ
+    wanikani_level: null
+  kanji: 主
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2427890':
+  hiragana: たい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: たい
+    wanikani_level: null
+  kanji: 態
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2438910':
+  hiragana: ゆうちょぎんこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ゆ.う.ち.ょ.ぎん.こう
+    wanikani_level: null
+  kanji: ゆうちょ銀行
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2514090':
+  hiragana: めんとむかう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: めん.と.む.か.う
+    wanikani_level: null
+  kanji: 面と向かう
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2528530':
+  hiragana: よるごはん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よる.ご.はん
+    wanikani_level: null
+  kanji: 夜ご飯
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2534350':
+  hiragana: おなかのこ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.なかのこ
+    wanikani_level: null
+  kanji: お腹の子
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2581590':
+  hiragana: おはなし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.はなし
+    wanikani_level: null
+  kanji: お話
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2582370':
+  hiragana: くうほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: くう.ほう
+    wanikani_level: null
+  kanji: 空砲
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2600500':
+  hiragana: そのへん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そ.の.へん
+    wanikani_level: null
+  kanji: その辺
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2617070':
+  hiragana: おかいどく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.か.い.どく
+    wanikani_level: null
+  kanji: お買い得
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2620030':
+  hiragana: ろうじんふくし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ろう.じん.ふく.し
+    wanikani_level: null
+  kanji: 老人福祉
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2630530':
+  hiragana: にしたがって
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: に.したが.っ.て
+    wanikani_level: null
+  kanji: に従って
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2632150':
+  hiragana: じゅうてんてき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じゅう.てん.てき
+    wanikani_level: null
+  kanji: 重点的
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2644330':
+  hiragana: にむけて
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: に.む.け.て
+    wanikani_level: null
+  kanji: に向けて
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2646370':
+  hiragana: たん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: たん
+    wanikani_level: null
+  kanji: 単
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2647240':
+  hiragana: しんしょう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しん.しょう
+    wanikani_level: null
+  kanji: 心象
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2654980':
+  hiragana: すうねんまえ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: すう.ねん.まえ
+    wanikani_level: null
+  kanji: 数年前
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2656450':
+  hiragana: てんめい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: てん.めい
+    wanikani_level: null
+  kanji: 店名
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2656720':
+  hiragana: かき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: か.き
+    wanikani_level: null
+  kanji: 夏期
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2659310':
+  hiragana: むかしのまま
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: むかし.の.ま.ま
+    wanikani_level: null
+  kanji: 昔のまま
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2659710':
+  hiragana: はやばや
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はや.ばや
+    wanikani_level: '4'
+  kanji: 早々
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2662230':
+  hiragana: まなこ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: まなこ
+    wanikani_level: '32'
+  kanji: 眼
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2674080':
+  hiragana: きかんげんてい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: き.かん.げん.てい
+    wanikani_level: null
+  kanji: 期間限定
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2727760':
+  hiragana: そくせんりょく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そく.せん.りょく
+    wanikani_level: null
+  kanji: 即戦力
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2727830':
+  hiragana: さんする
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: さん.す.る
+    wanikani_level: null
+  kanji: 参する
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2731460':
+  hiragana: りゅうきゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: りゅう.きゅう
+    wanikani_level: null
+  kanji: 琉球
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2740510':
+  hiragana: かんさいじん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かん.さい.じん
+    wanikani_level: null
+  kanji: 関西人
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2749060':
+  hiragana: ぜんたいてき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぜん.たい.てき
+    wanikani_level: null
+  kanji: 全体的
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2755690':
+  hiragana: そのなか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そ.の.なか
+    wanikani_level: null
+  kanji: その中
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2763630':
+  hiragana: かため
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かた.め
+    wanikani_level: null
+  kanji: 固め
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2768740':
+  hiragana: ひまつ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: ひ.まつ
+    wanikani_level: null
+  kanji: 飛沫
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2770680':
+  hiragana: ながさき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なが.さき
+    wanikani_level: '23'
+  kanji: 長崎
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2773910':
+  hiragana: いまひとつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: いま.ひと.つ
+    wanikani_level: null
+  kanji: 今一つ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2793090':
+  hiragana: しってのとおり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し.っ.て.の.とお.り
+    wanikani_level: null
+  kanji: 知っての通り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2807270':
+  hiragana: にゅうこん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: にゅう.こん
+    wanikani_level: null
+  kanji: 入魂
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2810870':
+  hiragana: おおてきぎょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おお.て.き.ぎょう
+    wanikani_level: null
+  kanji: 大手企業
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2816620':
+  hiragana: しんじ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しん.じ
+    wanikani_level: null
+  kanji: 神事
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2820720':
+  hiragana: じつに
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じつ.に
+    wanikani_level: null
+  kanji: 実に
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2821500':
+  hiragana: ひと
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ひと
+    wanikani_level: null
+  kanji: 一
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2825510':
+  hiragana: きょうこのごろ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きょうこのごろ
+    wanikani_level: null
+  kanji: 今日この頃
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2825920':
+  hiragana: なかにも
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なか.に.も
+    wanikani_level: null
+  kanji: 中にも
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2825927':
+  hiragana: しゃしんさつえい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しゃ.しん.さつ.えい
+    wanikani_level: null
+  kanji: 写真撮影
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2825931':
+  hiragana: ぜんてん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ぜん.てん
+    wanikani_level: null
+  kanji: 全点
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2826021':
+  hiragana: まいにちのように
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: まい.にち.の.よ.う.に
+    wanikani_level: null
+  kanji: 毎日のように
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2826190':
+  hiragana: おのおの
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おのおの
+    wanikani_level: null
+  kanji: 各々
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2826480':
+  hiragana: よげん
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: よ.げん
+    wanikani_level: null
+  kanji: 預言
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2827554':
+  hiragana: こどものころ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こ.ども.の.ころ
+    wanikani_level: null
+  kanji: 子供の頃
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2827571':
+  hiragana: おどろくほど
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おどろ.く.ほ.ど
+    wanikani_level: null
+  kanji: 驚くほど
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2827768':
+  hiragana: なら
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: な.ら
+    wanikani_level: null
+  kanji: 奈良
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2827769':
+  hiragana: かまくら
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かま.くら
+    wanikani_level: null
+  kanji: 鎌倉
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2827870':
+  hiragana: きんこう
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: きん.こう
+    wanikani_level: null
+  kanji: 金鉱
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2829059':
+  hiragana: かのうにする
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: か.のう.に.す.る
+    wanikani_level: null
+  kanji: 可能にする
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2829857':
+  hiragana: きんしじこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きん.し.じ.こう
+    wanikani_level: null
+  kanji: 禁止事項
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2830040':
+  hiragana: あんや
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: あん.や
+    wanikani_level: null
+  kanji: 暗夜
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2830216':
+  hiragana: じっさいは
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じっ.さい.は
+    wanikani_level: null
+  kanji: 実際は
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2830449':
+  hiragana: おてすうですが
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.て.すう.で.す.が
+    wanikani_level: null
+  kanji: お手数ですが
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2830519':
+  hiragana: じぶんで
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じ.ぶん.で
+    wanikani_level: null
+  kanji: 自分で
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2830705':
+  hiragana: しんたい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しん.たい
+    wanikani_level: null
+  kanji: 身体
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2831002':
+  hiragana: しばたたく
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: しばたた.く
+    wanikani_level: null
+  kanji: 瞬く
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2831130':
+  hiragana: おおもと
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: おお.もと
+    wanikani_level: null
+  kanji: 大本
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2831249':
+  hiragana: なんともいえない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なん.と.も.い.え.な.い
+    wanikani_level: null
+  kanji: 何とも言えない
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2833774':
+  hiragana: いっこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: いっ.こう
+    wanikani_level: null
+  kanji: 一行
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2833871':
+  hiragana: くうち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: くう.ち
+    wanikani_level: null
+  kanji: 空地
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2833992':
+  hiragana: むくわれる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: むく.わ.れ.る
+    wanikani_level: null
+  kanji: 報われる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2834138':
+  hiragana: おもいきり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おも.い.き.り
+    wanikani_level: null
+  kanji: 思い切り
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2834601':
+  hiragana: はくし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: はく.し
+    wanikani_level: null
+  kanji: 博士
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2834885':
+  hiragana: ゆう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ゆう
+    wanikani_level: null
+  kanji: 夕
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2834902':
+  hiragana: しえいちかてつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し.えい.ち.か.てつ
+    wanikani_level: null
+  kanji: 市営地下鉄
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2835063':
+  hiragana: さい
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さい
+    wanikani_level: null
+  kanji: 才
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2835808':
+  hiragana: なくす
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: な.く.す
+    wanikani_level: null
+  kanji: 亡くす
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2835826':
+  hiragana: へいこう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: へい.こう
+    wanikani_level: null
+  kanji: 平行
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2836285':
+  hiragana: おさえる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おさ.え.る
+    wanikani_level: null
+  kanji: 抑える
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2836356':
+  hiragana: かえりみる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: かえり.み.る
+    wanikani_level: null
+  kanji: 省みる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2836622':
+  hiragana: かし
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: か.し
+    wanikani_level: null
+  kanji: 河岸
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2836842':
+  hiragana: こうかんど
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.かん.ど
+    wanikani_level: null
+  kanji: 好感度
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2837166':
+  hiragana: てんねんおんせん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: てん.ねん.おん.せん
+    wanikani_level: null
+  kanji: 天然温泉
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2837855':
+  hiragana: よりすぐり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.り.す.ぐ.り
+    wanikani_level: null
+  kanji: 選りすぐり
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2838960':
+  hiragana: りようほうほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: り.よう.ほう.ほう
+    wanikani_level: null
+  kanji: 利用方法
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2838980':
+  hiragana: まことにありがとうございます
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: まこと.に.あ.り.が.と.う.ご.ざ.い.ま.す
+    wanikani_level: null
+  kanji: 誠にありがとうございます
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2838992':
+  hiragana: しはらいほうほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: し.はら.い.ほう.ほう
+    wanikani_level: null
+  kanji: 支払い方法
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2838993':
+  hiragana: おしはらいほうほう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.し.はら.い.ほう.ほう
+    wanikani_level: null
+  kanji: お支払い方法
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2839008':
+  hiragana: ようなきがする
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.う.な.き.が.す.る
+    wanikani_level: null
+  kanji: ような気がする
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2839013':
+  hiragana: れいわ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: れい.わ
+    wanikani_level: null
+  kanji: 令和
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2839304':
+  hiragana: こがね
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こ.がね
+    wanikani_level: null
+  kanji: 黄金
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2840111':
+  hiragana: おとなになる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おとな.に.な.る
+    wanikani_level: null
+  kanji: 大人になる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2840112':
+  hiragana: おおきくなる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: おお.き.く.な.る
+    wanikani_level: null
+  kanji: 大きくなる
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2840123':
+  hiragana: そんななか
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: そ.ん.な.なか
+    wanikani_level: null
+  kanji: そんな中
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2840724':
+  hiragana: しんしょうひん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しん.しょう.ひん
+    wanikani_level: null
+  kanji: 新商品
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2841372':
+  hiragana: のちのち
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: のち.のち
+    wanikani_level: null
+  kanji: 後々
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2841455':
+  hiragana: じゅうきょ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: じゅう.きょ
+    wanikani_level: null
+  kanji: 住居
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2842257':
+  hiragana: づれ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: づ.れ
+    wanikani_level: null
+  kanji: 連れ
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2842263':
+  hiragana: おじかん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.じ.かん
+    wanikani_level: null
+  kanji: お時間
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2842390':
+  hiragana: わたくし
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: わたくし
+    wanikani_level: null
+  kanji: 私
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2842624':
+  hiragana: だいめ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だい.め
+    wanikani_level: null
+  kanji: 代目
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2842661':
+  hiragana: おみせ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.みせ
+    wanikani_level: null
+  kanji: お店
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2842746':
+  hiragana: こうかいちゅう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こう.かい.ちゅう
+    wanikani_level: null
+  kanji: 公開中
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2843441':
+  hiragana: きく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: き.く
+    wanikani_level: null
+  kanji: 訊く
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2844011':
+  hiragana: きんきゅうじたいせんげん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: きん.きゅう.じ.たい.せん.げん
+    wanikani_level: null
+  kanji: 緊急事態宣言
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2844738':
+  hiragana: よやくちゅうもん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: よ.やく.ちゅう.もん
+    wanikani_level: null
+  kanji: 予約注文
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2844997':
+  hiragana: だく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だ.く
+    wanikani_level: null
+  kanji: 抱く
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2845041':
+  hiragana: こうずけ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: こうずけ
+    wanikani_level: null
+  kanji: 上野
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2845662':
+  hiragana: さきだって
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: さき.だ.っ.て
+    wanikani_level: null
+  kanji: 先立って
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2846023':
+  hiragana: かいちゅうどけい
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: かい.ちゅう.どけい
+    wanikani_level: null
+  kanji: 懐中時計
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2846366':
+  hiragana: すなご
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: すな.ご
+    wanikani_level: null
+  kanji: 砂子
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2846390':
+  hiragana: なおる
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なお.る
+    wanikani_level: null
+  kanji: 直る
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2846738':
+  hiragana: なん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なん
+    wanikani_level: null
+  kanji: 何
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2847529':
+  hiragana: だいこうひょう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だい.こう.ひょう
+    wanikani_level: null
+  kanji: 大好評
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2847599':
+  hiragana: にんきのある
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: にん.き.の.あ.る
+    wanikani_level: null
+  kanji: 人気のある
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2847628':
+  hiragana: ひな
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ひな
+    wanikani_level: null
+  kanji: 雛
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2847661':
+  hiragana: とくべつかかく
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: とく.べつ.か.かく
+    wanikani_level: null
+  kanji: 特別価格
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2847790':
+  hiragana: けいだんれん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: けい.だん.れん
+    wanikani_level: null
+  kanji: 経団連
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2848289':
+  hiragana: こんぽん
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こん.ぽん
+    wanikani_level: null
+  kanji: 根本
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2848340':
+  hiragana: つきのうさぎ
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: つき.の.うさぎ
+    wanikani_level: null
+  kanji: 月の兎
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2848637':
+  hiragana: だいしゅうごう
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: だい.しゅう.ごう
+    wanikani_level: null
+  kanji: 大集合
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2848696':
+  hiragana: もんだいない
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: もん.だい.な.い
+    wanikani_level: null
+  kanji: 問題ない
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2848900':
+  hiragana: しょうらいてき
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しょう.らい.てき
+    wanikani_level: null
+  kanji: 将来的
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2849126':
+  hiragana: あとから
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: あと.か.ら
+    wanikani_level: null
+  kanji: 後から
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2849423':
+  hiragana: ちゅうえつ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ちゅう.えつ
+    wanikani_level: null
+  kanji: 中越
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2849579':
+  hiragana: みばえ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: み.ば.え
+    wanikani_level: null
+  kanji: 見栄え
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2849867':
+  hiragana: こむ
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: こ.む
+    wanikani_level: null
+  kanji: 混む
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2850084':
+  hiragana: どける
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: ど.け.る
+    wanikani_level: null
+  kanji: 退ける
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2850327':
+  hiragana: とうか
+  jisho_info:
+    is_common_word: false
+    jlpt_level: null
+    split_hiragana: とう.か
+    wanikani_level: null
+  kanji: 灯火
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2850709':
+  hiragana: しぶや
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: しぶ.や
+    wanikani_level: null
+  kanji: 渋谷
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2850713':
+  hiragana: なかまたち
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: なか.ま.た.ち
+    wanikani_level: null
+  kanji: 仲間たち
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
+'2850928':
+  hiragana: おみつもり
+  jisho_info:
+    is_common_word: true
+    jlpt_level: null
+    split_hiragana: お.み.つ.も.り
+    wanikani_level: null
+  kanji: お見積もり
+  samples:
+    0: null
+    1: null
+    2: null
+  simple_meaning:
+    0: null
+    1: null
+    2: null
