@@ -12232,20 +12232,15 @@
   kanji: 六
   samples:
     0:
-      english: I bought six apples.
-      hiragana: むっつのりんごをかいました
-      kanji: 六つのりんごを買いました。
-      ruby: <ruby>六<rt>ろく</rt></ruby>つのりんごを<ruby>買<rt>か</rt></ruby>いました。
-    1:
       english: My birthday is in June.
       hiragana: わたしのたんじょうびはろくがつです
       kanji: わたしの誕生日は六月です。
-      ruby: わたしの<ruby>誕生日<rt>たんじょうび</rt></ruby>は<ruby>六月<rt>ろくがつ</rt></ruby>です。
-    2:
-      english: He is still six years old.
-      hiragana: かれのねんれいはまだろくさいです
-      kanji: 彼の年齢はまだ六歳です。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>年齢<rt>ねんれい</rt></ruby>はまだ<ruby>六歳<rt>ろくさい</rt></ruby>です。
+      ruby: わたしの<ruby>誕生日<rt>たんじょうび</rt><ruby>六<rt>ろ</rt></ruby><ruby>月<rt>がつ</rt></ruby>です。
+    1:
+      english: Six people are here.
+      hiragana: ろくにんいます。
+      kanji: 六人います。
+      ruby: <ruby>六<rt>ろ</rt></ruby><ruby>人<rt>にん</rt></ruby>います。
   simple_meaning:
     0: six
 '1585315':
