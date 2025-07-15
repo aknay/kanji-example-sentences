@@ -47,10 +47,10 @@ def replace_empty_ruby_tag(
 
 
 if __name__ == "__main__":
-    results = check_empty_ruby_tag(path=Path("assets/kanji_example_sentences.yml"))
+    results = check_empty_ruby_tag(path=Path("assets/generated_all_jlpt_combined.yaml"))
     if len(results) != 0:
         replace_empty_ruby_tag(
-            path=Path("assets/kanji_example_sentences.yml"), missing_ruby_tags=results
+            path=Path("assets/generated_all_jlpt_combined.yaml"), missing_ruby_tags=results
         )
     else:
         print("🥳 there is no empty ruby tag")

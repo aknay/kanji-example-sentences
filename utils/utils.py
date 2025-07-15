@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 from typing import Callable
 
@@ -16,7 +17,7 @@ def has_empty_ruby_rt_tag(path: Path) -> list[RubyTagCheckResult]:
             if "samples" in v:
                 for index, sample in v["samples"].items():
                     if  sample is not None:
-                        assert "ruby" in sample
+                        assert "ruby" in sample, print(sample)
                         if EMPTY_RUBY_RT_TAG in sample["ruby"]:
                             print("found", sample["ruby"])
                             result = RubyTagCheckResult(
@@ -111,3 +112,23 @@ def has_this_issue(path: Path, callable: Callable[[dict], bool]) -> list[RubyTag
                             results.append(result)
 
     return results
+
+def is_valid_ruby(ruby_text):
+    # Regular expression to match individual ruby-rt pairs
+    ruby_tag_pattern = r'<ruby>.*?<rt>.*?</rt>.*?</ruby>'
+
+    # Check if all ruby tags have a corresponding rt tag in the correct order
+    matches = re.findall(ruby_tag_pattern, ruby_text)
+
+    # Check if every <ruby> has a corresponding <rt> inside
+    if matches:
+        # Ensure there is no unmatched <ruby> or <rt> left
+        ruby_open = ruby_text.count('<ruby>')
+        ruby_close = ruby_text.count('</ruby>')
+        rt_open = ruby_text.count('<rt>')
+        rt_close = ruby_text.count('</rt>')
+
+        # Both ruby and rt counts should match in terms of open/close tags
+        if ruby_open == ruby_close and rt_open == rt_close and ruby_open == rt_open:
+            return True
+    return False
