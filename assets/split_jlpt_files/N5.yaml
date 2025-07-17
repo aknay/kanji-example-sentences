@@ -400,22 +400,23 @@
   samples:
     0:
       english: That's wrong.
-      hiragana: それは ちがいます。
-      kanji: それは違います。
-      ruby: それは<ruby>違<rt>ちが</rt></ruby>います。
+      hiragana: それは ちがう
+      kanji: それは違う。
+      ruby: それは<ruby>違<rt>ちが</rt></ruby>う。
     1:
       english: This book is different from that book.
-      hiragana: この ほんは あの ほんと ちがいます。
-      kanji: この本はあの本と違います。
-      ruby: この<ruby>本<rt>ほん</rt></ruby>はあの<ruby>本<rt>ほん</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>います。
+      hiragana: この ほんは あの ほんと ちがう
+      kanji: この本はあの本と違う。
+      ruby: この<ruby>本<rt>ほん</rt></ruby>はあの<ruby>本<rt>ほん</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>う。
     2:
       english: Today's weather is different from yesterday's, isn't it?
-      hiragana: きょうの てんきは きのうと ちがいますね。
-      kanji: 今日の天気は昨日と違いますね。
-      ruby: <ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>昨日<rt>きのう</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>いますね。
+      hiragana: きょうの てんきは きのうと ちがうね
+      kanji: 今日の天気は昨日と違うね。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>昨日<rt>きのう</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>うね。
   simple_meaning:
     0: different
     1: wrong
+
 '1159980':
   hiragana: いしゃ
   jisho_info:
@@ -12246,28 +12247,25 @@
   kanji: 開く
   samples:
     0:
-      english: I opened the door and went outside.
-      hiragana: どあをひらけてそとにでました
+      english: I opened the door and went out.
+      hiragana: ドアをひらけてそとにでました
       kanji: ドアを開けて外に出ました。
-      ruby: ドアを<ruby>開<rt>あ</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ました。
+      ruby: ドアを<ruby>開<rt>ひら</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ました。
     1:
-      english: Let's open the window to let in fresh air.
-      hiragana: まどをひらけてしんせんなくうきをいれましょう
-      kanji: 窓を開けて新鮮な空気を入れましょう。
-      ruby: <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けて<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>空気<rt>くうき</rt></ruby>を<ruby>入<rt>い</rt></ruby>れましょう。
+      english: Please open the window because it's hot.
+      hiragana: あついのでまどをあけてください
+      kanji: 暑いので窓を開けてください。
+      ruby: <ruby>暑<rt>あつ</rt></ruby>いので<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてください。
     2:
-      english: Let's open the book and study.
-      hiragana: ほんをひらいてべんきょうしましょう
-      kanji: 本を開いて勉強しましょう。
-      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて<ruby>勉強<rt>べんきょう</rt></ruby>しましょう。
-
+      english: Let's open the book and read together.
+      hiragana: ほんをひらいていっしょによみましょう
+      kanji: 本を開いて一緒に読みましょう。
+      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>読<rt>よ</rt></ruby>みましょう。
     3:
-      english: The store opens at 10 AM.
-      hiragana: みせはごぜんじゅうじにあく
-      kanji: 店は午前十時に開く。
-      ruby: <ruby>店<rt>みせ</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby><ruby>十時<rt>じゅうじ</rt></ruby>に<ruby>開<rt>あ</rt></ruby>く。
-
-
+      english: The store opens at 9 AM every day.
+      hiragana: みせはまいにちごぜんくじにあく
+      kanji: 店は毎日午前九時に開く。
+      ruby: <ruby>店<rt>みせ</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby><ruby>九時<rt>くじ</rt></ruby>に<ruby>開<rt>あ</rt></ruby>く。
   simple_meaning:
     0: to open
 '1586330':
@@ -12280,20 +12278,20 @@
   kanji: 朝ご飯
   samples:
     0:
-      english: Breakfast is an important meal.
-      hiragana: あさごはんはたいじなしょくじです
-      kanji: 朝ご飯は大事な食事です。
-      ruby: <ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>です。
+      english: I ate breakfast.
+      hiragana: あさごはんをたべました
+      kanji: 朝ご飯を食べました。
+      ruby: <ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。
     1:
-      english: I eat cereal with milk for breakfast.
-      hiragana: あさごはんにしりあるとぎゅうにゅうをたべます
-      kanji: 朝ご飯にシリアルと牛乳を食べます。
-      ruby: <ruby>朝ご飯<rt>あさごはん</rt></ruby>にシリアルと<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。
+      english: What did you eat for breakfast?
+      hiragana: あさごはんになにをたべましたか
+      kanji: 朝ご飯に何を食たべましたか。
+      ruby: <ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましたか。
     2:
-      english: I made egg dishes for breakfast.
-      hiragana: あさごはんにたまごりょうりをつくりました
-      kanji: 朝ご飯に卵料理を作りました。
-      ruby: <ruby>朝ご飯<rt>あさごはん</rt></ruby>に<ruby>卵料理<rt>たまごりょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
+      english: I didn't eat breakfast today.
+      hiragana: きょうはあさごはんをたべませんでした
+      kanji: 今日は朝ご飯を食べませんでした。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べませんでした。
   simple_meaning:
     0: breakfast
 '1586420':
@@ -12306,20 +12304,20 @@
   kanji: 暖かい
   samples:
     0:
-      english: In winter, you need a warm coat.
-      hiragana: ふゆのひには、あたたかいこーとがひつようです
-      kanji: 冬の日には、暖かいコートが必要です。
-      ruby: <ruby>冬<rt>ふゆ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>には、<ruby>暖<rt>あたた</rt></ruby>かいコートが<ruby>必要<rt>ひつよう</rt></ruby>です。
+      english: Today is a warm day.
+      hiragana: きょうはあたたかいひです
+      kanji: 今日は暖かい日です。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>です。
     1:
-      english: After taking a bath, I dry my body with a warm towel.
-      hiragana: おふろからでたら、あたたかいたおるでからだをふきます
-      kanji: お風呂から出たら、暖かいタオルで体を拭きます。
-      ruby: お<ruby>風呂<rt>ふろ</rt></ruby>から<ruby>出<rt>で</rt></ruby>たら、<ruby>暖<rt>あたた</rt></ruby>かいタオルで<ruby>体<rt>からだ</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>きます。
+      english: I want to drink warm tea.
+      hiragana: あたたかいおちゃをのみたいです
+      kanji: 暖かいお茶を飲みたいです。
+      ruby: <ruby>暖<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みたいです。
     2:
-      english: On warm days, it's enjoyable to have a picnic in the park.
-      hiragana: あたたかいひには、こうえんでぴくにっくがたのしいです
-      kanji: 暖かい日には、公園でピクニックが楽しいです。
-      ruby: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>には、<ruby>公園<rt>こうえん</rt></ruby>でピクニックが<ruby>楽<rt>たの</rt></ruby>しいです。
+      english: This room is warm.
+      hiragana: このへやはあたたかいです
+      kanji: この部屋は暖かいです。
+      ruby: この<ruby>部屋<rt>へや</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かいです。
   simple_meaning:
     0: warm
 '1587040':
@@ -12366,20 +12364,15 @@
   kanji: 嫌
   samples:
     0:
-      english: Even when unpleasant things happen, I try to think positively.
-      hiragana: いやなことがあっても、まえむきにかんがえるようにしています
-      kanji: 嫌なことがあっても、前向きに考えるようにしています。
-      ruby: <ruby>嫌<rt>いや</rt></ruby>なことがあっても、<ruby>前向<rt>まえむ</rt></ruby>きに<ruby>考<rt>かんが</rt></ruby>えるようにしています。
+      english: I don't like vegetables.
+      hiragana: やさいはきらいです
+      kanji: 野菜は嫌いです。
+      ruby: <ruby>野菜<rt>やさい</rt></ruby>は<ruby>嫌<rt>きら</rt></ruby>いです。
     1:
-      english: I have a bad feeling.
-      hiragana: いやなよかんがします
-      kanji: 嫌な予感がします。
-      ruby: <ruby>嫌<rt>いや</rt></ruby>な<ruby>予感<rt>よかん</rt></ruby>がします。
-    2:
-      english: If your older brother doesn't want to go, you don't have to.
-      hiragana: おにいさんがいやがるなら、いかなくてもいいよ
-      kanji: お兄さんが嫌がるなら、行かなくてもいいよ。
-      ruby: お<ruby>兄<rt>にい</rt></ruby>さんが<ruby>嫌<rt>いや</rt></ruby>がるなら、<ruby>行<rt>い</rt></ruby>かなくてもいいよ。
+      english: I don't like noisy places.
+      hiragana: うるさいところがきらいです
+      kanji: うるさい所が嫌いです。
+      ruby: うるさい<ruby>所<rt>ところ</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。
   simple_meaning:
     0: dislike
     1: hate
@@ -12413,9 +12406,6 @@
       hiragana: わたしはうたをうたう
       kanji: 私は歌を歌う。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>う。
-
-
-
   simple_meaning:
     0: to sing
 '1588880':
@@ -12455,28 +12445,25 @@
   kanji: 降りる
   samples:
     0:
-      english: The train arrived at the station, and passengers got off.
-      hiragana: でんしゃがえきにとうちゃくし、じょうきゃくがおりました
-      kanji: 電車が駅に到着し、乗客が降りました。
-      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>し、<ruby>乗客<rt>じょうきゃく</rt></ruby>が<ruby>降<rt>お</rt></ruby>りました。
+      english: I will get off the train at the next station.
+      hiragana: つぎのえきででんしゃをおります
+      kanji: 次の駅で電車を降ります。
+      ruby: <ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>降<rt>お</rt></ruby>ります。
     1:
-      english: I want to get off the bus at the next bus stop.
-      hiragana: ばすはつぎのていりゅうじょでおりたいです
-      kanji: バスは次の停留所で降りたいです。
-      ruby: バスは<ruby>次<rt>つぎ</rt></ruby>の<ruby>停留所<rt>ていりゅうじょ</rt></ruby>で<ruby>降<rt>お</rt></ruby>りたいです。
+      english: Please get off here.
+      hiragana: ここでおりてください
+      kanji: ここで降りてください。
+      ruby: ここで<ruby>降<rt>お</rt></ruby>りてください。
     2:
-      english: After going up to the upper floor in the elevator, I descended using
-        the stairs.
-      hiragana: えれべーたーでじょうかいにいったあと、かいだんでおりました
-      kanji: エレベーターで上階に行った後、階段で降りました。
-      ruby: エレベーターで<ruby>上階<rt>うわきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>後<rt>ご</rt></ruby>、<ruby>階段<rt>かいだん</rt></ruby>で<ruby>降<rt>お</rt></ruby>りました。
-
-    3:
       english: I get off the bus here.
-      hiragana: ここでばすをおりる
+      hiragana: ここでバスをおりる
       kanji: ここでバスを降りる。
       ruby: ここでバスを<ruby>降<rt>お</rt></ruby>りる。
-
+    3:
+      english: I came down from the second floor.
+      hiragana: にかいからおりました
+      kanji: 二階から降りました。
+      ruby: <ruby>二階<rt>にかい</rt></ruby>から<ruby>降<rt>お</rt></ruby>りました。
   simple_meaning:
     0: to get off
     1: to descend
@@ -12750,20 +12737,20 @@
   kanji: 茶碗
   samples:
     0:
-      english: I scooped rice into the rice bowl for breakfast.
-      hiragana: ちょうしょくのときに、ちゃわんにごはんをもりました
-      kanji: 朝食の時に、茶碗にご飯を盛りました。
-      ruby: <ruby>朝食<rt>あさごはん</rt></ruby>の<ruby>時<rt>とき</rt></ruby>に、<ruby>茶碗<rt>ちゃわん</rt></ruby>に<ruby>ご飯<rt>ごはん</rt></ruby>を<ruby>盛<rt>も</rt></ruby>りました。
+      english: This is my rice bowl.
+      hiragana: これがわたしのちゃわんです
+      kanji: これが私の茶碗です。
+      ruby: これが<ruby>私<rt>わたし</rt></ruby>の<ruby>茶碗<rt>ちゃわん</rt></ruby>です。
     1:
-      english: I use a beautiful tea bowl when drinking tea.
-      hiragana: おちゃをのむときに、うつくしいちゃわんをつかいます
-      kanji: お茶を飲むときに、美しい茶碗を使います。
-      ruby: お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むときに、<ruby>美<rt>うつく</rt></ruby>しい<ruby>茶碗<rt>ちゃわん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。
+      english: I put rice in the bowl.
+      hiragana: ちゃわんにごはんをいれます
+      kanji: 茶碗にご飯を入れます。
+      ruby: <ruby>茶碗<rt>ちゃわん</rt></ruby>に<ruby>ご飯<rt>ごはん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。
     2:
-      english: This rice bowl is handmade pottery.
-      hiragana: このちゃわんはてづくりのとうきです
-      kanji: この茶碗は手作りの陶器です。
-      ruby: この<ruby>茶碗<rt>ちゃわん</rt></ruby>は<ruby>手作<rt>てづく</rt></ruby>りの<ruby>陶器<rt>とうき</rt></ruby>です。
+      english: Please wash the bowl.
+      hiragana: ちゃわんをあらってください
+      kanji: 茶碗を洗ってください。
+      ruby: <ruby>茶碗<rt>ちゃわん</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ってください。
   simple_meaning:
     0: rice bowl
     1: tea bowl
@@ -12791,14 +12778,16 @@
       hiragana: ともだちといっしょにてづくりのくりすますかーどをつくりました
       kanji: 友達と一緒に手作りのクリスマスカードを作りました。
       ruby: <ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>手作<rt>てづく</rt></ruby>りのクリスマスカードを<ruby>作<rt>つく</rt></ruby>りました。
-
-
-
     3:
       english: I make lunch.
       hiragana: ひるごはんをつくる
       kanji: 昼ごはんを作る。
       ruby: <ruby>昼ごはん<rt>ひるごはん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る。
+    4:
+      english: I make breakfast.
+      hiragana: あさごはんをつくる
+      kanji: 朝ごはんを作る。
+      ruby: <ruby>朝ごはん<rt>あさごはん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る。
 
   simple_meaning:
     0: to make
@@ -12813,23 +12802,24 @@
   kanji: 出かける
   samples:
     0:
-      english: Today, I went to the park with my friends.
-      hiragana: きょうはともだちとこうえんにでかけました
-      kanji: 今日は友達と公園に出かけました。
-      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>公園<rt>こうえん</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけました。
+      english: Today, I go out to the park with my friends.
+      hiragana: きょうはともだちとこうえんにでかける
+      kanji: 今日は友達と公園に出かける。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>公園<rt>こうえん</rt></ruby>に<ruby>出<rt>で</rt></ruby>かける。
     1:
-      english: I plan to go shopping with my family on the weekend.
-      hiragana: しゅうまつにかぞくとかいものにでかけるよていです
-      kanji: 週末に家族と買い物に出かける予定です。
-      ruby: <ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>と<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>出<rt>で</rt></ruby>かける<ruby>予定<rt>よてい</rt></ruby>です。
+      english: I go out to shop with my family on the weekend.
+      hiragana: しゅうまつにかぞくとかいものにでかける
+      kanji: 週末に家族と買い物に出かける。
+      ruby: <ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>と<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>出<rt>で</rt></ruby>かける。
     2:
-      english: Tomorrow, I'll wake up early and leave for a trip.
-      hiragana: あしたははやくおきて、りょこうにでかけます
-      kanji: 明日は早く起きて、旅行に出かけます。
-      ruby: <ruby>明日<rt>あした</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけます。
+      english: Tomorrow, I wake up early and go out for a trip.
+      hiragana: あしたははやくおきて、りょこうにでかける
+      kanji: 明日は早く起きて、旅行に出かける。
+      ruby: <ruby>明日<rt>あした</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>出<rt>で</rt></ruby>かける。
   simple_meaning:
     0: to go out
     1: to leave for a destination
+
 '1598680':
   hiragana: ときどき
   jisho_info:
