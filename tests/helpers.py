@@ -23,8 +23,7 @@ import yaml
 import re
 
 # Load YAML data
-with open(get_n5_part_file_path(), "r", encoding="utf-8") as f:
-    data = yaml.safe_load(f)
+
 
 import yaml
 import re
@@ -65,52 +64,58 @@ def extract_target_kanji_reading(kanji_text, hira_text):
     return kanji_core, hira_core
 
 # Check for expected ruby tag
-def has_valid_ruby(kanji, reading, ruby_text):
+def _has_valid_ruby(kanji, reading, ruby_text):
     pattern = f"<ruby>{re.escape(kanji)}<rt>{re.escape(reading)}</rt></ruby>"
     return re.search(pattern, ruby_text) is not None
 
-# Process the entries
-for entry_id, entry in data.items():
-    kanji_text = entry.get("kanji", "")
-    hira_text = entry.get("hiragana", "")
-    samples = entry.get("samples", {})
+def check_missing_ruby_based_on_kanji(file_path: str):
+    found_missing_top = False
+    with open(file_path, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+        # Process the entries
+        for entry_id, entry in data.items():
+            kanji_text = entry.get("kanji", "")
+            hira_text = entry.get("hiragana", "")
+            samples = entry.get("samples", {})
 
-    if not kanji_text or not hira_text:
-        continue
+            if not kanji_text or not hira_text:
+                continue
 
-    kanji_part, reading_part = extract_target_kanji_reading(kanji_text, hira_text)
+            kanji_part, reading_part = extract_target_kanji_reading(kanji_text, hira_text)
 
-    if not kanji_part or not reading_part:
-        continue
+            if not kanji_part or not reading_part:
+                continue
 
-    # print(f"\n🔍 Checking ID {entry_id}")
-    # print(f"    Kanji: {kanji_text}")
-    # print(f"    Hiragana: {hira_text}")
-    # print(f"    ➤ Looking for <ruby>{kanji_part}<rt>{reading_part}</rt></ruby>")
+            # print(f"\n🔍 Checking ID {entry_id}")
+            # print(f"    Kanji: {kanji_text}")
+            # print(f"    Hiragana: {hira_text}")
+            # print(f"    ➤ Looking for <ruby>{kanji_part}<rt>{reading_part}</rt></ruby>")
 
-    found_missing = False
-    for idx, sample in samples.items():
-        ruby = sample.get("ruby", "")
-        if has_valid_ruby(kanji_part, reading_part, ruby):
-            pass
-            # print(f"  ✅ Sample {idx}: Valid ruby tag found.")
-        else:
-            found_missing = True
-            # print(f"  ❌ Sample {idx}: Missing ruby: <ruby>{kanji_part}<rt>{reading_part}</rt></ruby>")
+            found_missing = False
+            for idx, sample in samples.items():
+                ruby = sample.get("ruby", "")
+                if _has_valid_ruby(kanji_part, reading_part, ruby):
+                    pass
+                    # print(f"  ✅ Sample {idx}: Valid ruby tag found.")
+                else:
+                    found_missing = True
+                    found_missing_top = True
+                    # print(f"  ❌ Sample {idx}: Missing ruby: <ruby>{kanji_part}<rt>{reading_part}</rt></ruby>")
 
-    if found_missing:
-        print(f"\n🔍 Checking ID {entry_id}")
-        print(f"    Kanji: {kanji_text}")
-        print(f"    Hiragana: {hira_text}")
-        print(f"    ➤ Looking for <ruby>{kanji_part}<rt>{reading_part}</rt></ruby>")
-        for idx, sample in samples.items():
-            ruby = sample.get("ruby", "")
-            if has_valid_ruby(kanji_part, reading_part, ruby):
-                pass
-                # print(f"  ✅ Sample {idx}: Valid ruby tag found.")
-            else:
-                found_missing = True
-                print(f"  ❌ Sample {idx}: Missing ruby: <ruby>{kanji_part}<rt>{reading_part}</rt></ruby>")
+            if found_missing:
+                print(f"\n🔍 Checking ID {entry_id}")
+                print(f"    Kanji: {kanji_text}")
+                print(f"    Hiragana: {hira_text}")
+                print(f"    ➤ Looking for <ruby>{kanji_part}<rt>{reading_part}</rt></ruby>")
+                for idx, sample in samples.items():
+                    ruby = sample.get("ruby", "")
+                    if _has_valid_ruby(kanji_part, reading_part, ruby):
+                        pass
+                        # print(f"  ✅ Sample {idx}: Valid ruby tag found.")
+                    else:
+                        print(f"  ❌ Sample {idx}: Missing ruby: <ruby>{kanji_part}<rt>{reading_part}</rt></ruby>")
+
+        return found_missing_top
 
 
 

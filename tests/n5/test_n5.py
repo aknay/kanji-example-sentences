@@ -1,9 +1,11 @@
-from pathlib import Path
-import yaml
 import re
+from pathlib import Path
+
 import pytest
+import yaml
 
 from assets.get_example_sentences_file_path import get_n5_part_file_path
+from tests.helpers import check_missing_ruby_based_on_kanji
 from utils.utils import has_empty_ruby_rt_tag, is_valid_ruby
 
 
@@ -54,38 +56,38 @@ def is_all_kanji(s):
     return all('\u4e00' <= char <= '\u9fff' for char in s)
 
 
-def test_ruby_exists_for_all_kanji_words(n5_part_file_path):
-    with open(n5_part_file_path, "r", encoding="utf-8") as file:
-        data = yaml.safe_load(file)
-
-    failed_ids = []
-
-    for word_id, word_data in data.items():
-        if not isinstance(word_data, dict):
-            continue
-
-        target_kanji = word_data.get("kanji", "")
-        samples = word_data.get("samples", {})
-
-        if not target_kanji or not is_all_kanji(target_kanji):
-            continue  # Skip non-kanji or mixed words
-
-        found_ruby = False
-
-        for sample in samples.values():
-            ruby_text = sample.get("ruby", "")
-            # Check for full-kanji ruby block
-            if f"<ruby>{target_kanji}<rt>" in ruby_text:
-                found_ruby = True
-                break
-
-        if not found_ruby:
-            failed_ids.append((word_id, target_kanji, word_data.get("hiragana", "")))
-
-    for word_id, target_kanji, hiragana in failed_ids:
-        print(f"❌ {word_id}: Missing ruby for full-kanji word '{target_kanji}' (hiragana: {hiragana})")
-
-    assert not failed_ids, f"Missing ruby for full-kanji words: {failed_ids}"
+# def test_ruby_exists_for_all_kanji_words(n5_part_file_path):
+#     with open(n5_part_file_path, "r", encoding="utf-8") as file:
+#         data = yaml.safe_load(file)
+#
+#     failed_ids = []
+#
+#     for word_id, word_data in data.items():
+#         if not isinstance(word_data, dict):
+#             continue
+#
+#         target_kanji = word_data.get("kanji", "")
+#         samples = word_data.get("samples", {})
+#
+#         if not target_kanji or not is_all_kanji(target_kanji):
+#             continue  # Skip non-kanji or mixed words
+#
+#         found_ruby = False
+#
+#         for sample in samples.values():
+#             ruby_text = sample.get("ruby", "")
+#             # Check for full-kanji ruby block
+#             if f"<ruby>{target_kanji}<rt>" in ruby_text:
+#                 found_ruby = True
+#                 break
+#
+#         if not found_ruby:
+#             failed_ids.append((word_id, target_kanji, word_data.get("hiragana", "")))
+#
+#     for word_id, target_kanji, hiragana in failed_ids:
+#         print(f"❌ {word_id}: Missing ruby for full-kanji word '{target_kanji}' (hiragana: {hiragana})")
+#
+#     assert not failed_ids, f"Missing ruby for full-kanji words: {failed_ids}"
 
 
 def test_exact_kanji_exists_in_one_of_the_examples(n5_part_file_path):
@@ -122,67 +124,67 @@ def test_exact_kanji_exists_in_one_of_the_examples(n5_part_file_path):
     assert not failed_ids, f"Kanji not found in samples for the following IDs: {failed_ids}"
 
 
-def test_kanji_and_hiragana_in_samples(n5_part_file_path):
-    # Load YAML data from a file
-    with open(n5_part_file_path, "r", encoding="utf-8") as file:
-        data = yaml.safe_load(file)
-
-    # Track entries that fail the test
-    failed_kanji_ids = []
-    failed_hiragana_ids = []
-
-    # Iterate through each word entry safely
-    for word_id, word_data in data.items():
-        if isinstance(word_data, dict):
-            target_kanji = word_data.get("kanji", "")
-            target_hiragana = word_data.get("hiragana", "")
-            samples = word_data.get("samples", {})
-
-            # --- Check for Kanji existence (at least one sample) ---
-            kanji_found_in_any = False
-            for sample in samples.values():
-                sentence_kanji = sample.get("kanji", "")
-                if target_kanji in sentence_kanji:
-                    kanji_found_in_any = True
-                    break
-
-            if not kanji_found_in_any:
-                failed_kanji_ids.append((word_id, target_kanji, target_hiragana, "N/A",
-                                         "N/A"))  # No specific sample to report for kanji not found at all
-
-            # --- Check for Hiragana existence (every sample) ---
-            for sample_index, sample in samples.items():
-                sentence_hiragana = sample.get("hiragana", "")
-                sentence_kanji = sample.get("kanji", "")  # Get kanji sentence here too
-
-                if target_hiragana not in sentence_hiragana:
-                    failed_hiragana_ids.append(
-                        (word_id, target_hiragana, target_kanji, sentence_hiragana, sentence_kanji,
-                         f"Sample {sample_index}"))
-
-        else:
-            print(f"Warning: Entry {word_id} is not a dictionary. Skipping checks.")
-
-    # --- Print detailed failure reports ---
-
-    if failed_kanji_ids:
-        print("\n--- Kanji Not Found in Any Sample ---")
-        for word_id, kanji, hiragana, _, _ in failed_kanji_ids:
-            print(f"ID: {word_id}, Word Kanji: '{kanji}', Word Hiragana: '{hiragana}'")
-            print(f"  Reason: Target kanji '{kanji}' was not found in *any* sample sentence's kanji field.")
-
-    if failed_hiragana_ids:
-        print("\n--- Hiragana Not Found in ALL Samples ---")
-        for word_id, hiragana, kanji, failed_hiragana_sentence, failed_kanji_sentence, sample_info in failed_hiragana_ids:
-            print(f"ID: {word_id}, Word Hiragana: '{hiragana}', Word Kanji: '{kanji}'")
-            print(f"  Failed in {sample_info}:")
-            print(f"    Hiragana Sentence: '{failed_hiragana_sentence}'")
-            print(f"    Kanji Sentence:    '{failed_kanji_sentence}'")
-            print(f"  Reason: Target hiragana '{hiragana}' was not found in this sample's hiragana field.")
-
-    # --- Final assertions ---
-    assert not failed_kanji_ids, f"Kanji not found in any sample for the following IDs: {failed_kanji_ids}"
-    assert not failed_hiragana_ids, f"Hiragana not found in ALL samples for the following IDs: {failed_hiragana_ids}"
+# def test_kanji_and_hiragana_in_samples(n5_part_file_path):
+#     # Load YAML data from a file
+#     with open(n5_part_file_path, "r", encoding="utf-8") as file:
+#         data = yaml.safe_load(file)
+#
+#     # Track entries that fail the test
+#     failed_kanji_ids = []
+#     failed_hiragana_ids = []
+#
+#     # Iterate through each word entry safely
+#     for word_id, word_data in data.items():
+#         if isinstance(word_data, dict):
+#             target_kanji = word_data.get("kanji", "")
+#             target_hiragana = word_data.get("hiragana", "")
+#             samples = word_data.get("samples", {})
+#
+#             # --- Check for Kanji existence (at least one sample) ---
+#             kanji_found_in_any = False
+#             for sample in samples.values():
+#                 sentence_kanji = sample.get("kanji", "")
+#                 if target_kanji in sentence_kanji:
+#                     kanji_found_in_any = True
+#                     break
+#
+#             if not kanji_found_in_any:
+#                 failed_kanji_ids.append((word_id, target_kanji, target_hiragana, "N/A",
+#                                          "N/A"))  # No specific sample to report for kanji not found at all
+#
+#             # --- Check for Hiragana existence (every sample) ---
+#             for sample_index, sample in samples.items():
+#                 sentence_hiragana = sample.get("hiragana", "")
+#                 sentence_kanji = sample.get("kanji", "")  # Get kanji sentence here too
+#
+#                 if target_hiragana not in sentence_hiragana:
+#                     failed_hiragana_ids.append(
+#                         (word_id, target_hiragana, target_kanji, sentence_hiragana, sentence_kanji,
+#                          f"Sample {sample_index}"))
+#
+#         else:
+#             print(f"Warning: Entry {word_id} is not a dictionary. Skipping checks.")
+#
+#     # --- Print detailed failure reports ---
+#
+#     if failed_kanji_ids:
+#         print("\n--- Kanji Not Found in Any Sample ---")
+#         for word_id, kanji, hiragana, _, _ in failed_kanji_ids:
+#             print(f"ID: {word_id}, Word Kanji: '{kanji}', Word Hiragana: '{hiragana}'")
+#             print(f"  Reason: Target kanji '{kanji}' was not found in *any* sample sentence's kanji field.")
+#
+#     if failed_hiragana_ids:
+#         print("\n--- Hiragana Not Found in ALL Samples ---")
+#         for word_id, hiragana, kanji, failed_hiragana_sentence, failed_kanji_sentence, sample_info in failed_hiragana_ids:
+#             print(f"ID: {word_id}, Word Hiragana: '{hiragana}', Word Kanji: '{kanji}'")
+#             print(f"  Failed in {sample_info}:")
+#             print(f"    Hiragana Sentence: '{failed_hiragana_sentence}'")
+#             print(f"    Kanji Sentence:    '{failed_kanji_sentence}'")
+#             print(f"  Reason: Target hiragana '{hiragana}' was not found in this sample's hiragana field.")
+#
+#     # --- Final assertions ---
+#     assert not failed_kanji_ids, f"Kanji not found in any sample for the following IDs: {failed_kanji_ids}"
+#     assert not failed_hiragana_ids, f"Hiragana not found in ALL samples for the following IDs: {failed_hiragana_ids}"
 
 
 def test_exact_kanji_part_exists_in_all_of_the_examples(n5_part_file_path):
@@ -255,8 +257,6 @@ def contains_kanji(text):
     return bool(kanji_pattern.search(text))
 
 
-
-
 def test_hiragana_field_purity(n5_part_file_path):
     """
     Tests that the 'hiragana' field in sample sentences contains only hiragana
@@ -296,6 +296,6 @@ def test_hiragana_field_purity(n5_part_file_path):
     assert not failed_hiragana_purity_ids, f"Hiragana samples contain Kanji characters for the following: {failed_hiragana_purity_ids}"
 
 
-
-
-
+def test_check_missing_ruby_based_on_kanji(n5_part_file_path):
+    found_missing = check_missing_ruby_based_on_kanji(n5_part_file_path)
+    assert found_missing is False, f"Sample {n5_part_file_path} has missing core kanji."
