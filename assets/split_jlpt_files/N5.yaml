@@ -2058,11 +2058,16 @@
   kanji: 吸う
   samples:
     0:
+      english: I will smoke a cigarette.
+      hiragana: たばこをすう
+      kanji: タバコを吸う。
+      ruby: タバコを<ruby>吸<rt>す</rt></ruby>う。
+    1:
       english: He decided not to smoke cigarettes.
       hiragana: かれは たばこを すわないことを きめました。
       kanji: 彼はタバコを吸わないことを決めました。
       ruby: <ruby>彼<rt>かれ</rt></ruby>はタバコを<ruby>吸<rt>す</rt></ruby>わないことを<ruby>決<rt>き</rt></ruby>めました。
-    1:
+    2:
       english: I used to smoke in the past, but I quit now.
       hiragana: かこには たばこを すっていましたが、いまは やめました。
       kanji: 過去にはたばこを吸っていましたが、今はやめました。
@@ -3702,10 +3707,10 @@
   kanji: 座る
   samples:
     0:
-      english: Please sit in this chair.
-      hiragana: このいすにすわってください
-      kanji: この椅子に座ってください。
-      ruby: この<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ってください。
+      english: I will sit on the chair.
+      hiragana: いすにすわる
+      kanji: 椅子に座る。
+      ruby: <ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>る。
     1:
       english: When the teacher entered the classroom, the students took their seats.
       hiragana: せんせいがきょうしつにはいると、せいとたちはせきにすわりました
@@ -4031,21 +4036,20 @@
   kanji: 使う
   samples:
     0:
-      english: I use my smartphone to send messages.
-      hiragana: すまーとふぉんをつかってめっせーじをおくります
-      kanji: スマートフォンを使ってメッセージを送ります。
-      ruby: スマートフォンを<ruby>使<rt>つか</rt></ruby>ってメッセージを<ruby>送<rt>おく</rt></ruby>ります。
+      english: I will use this pen.
+      hiragana: このぺんをつかう
+      kanji: このペンを使う。
+      ruby: このペンを<ruby>使<rt>つか</rt></ruby>う。
     1:
-      english: I use a computer every day for work.
-      hiragana: まいにち、こんぴゅーたをつかってしごとをしています
-      kanji: 毎日、コンピュータを使って仕事をしています。
-      ruby: <ruby>毎日<rt>まいにち</rt></ruby>、コンピュータを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしています。
+      english: I use a computer every day.
+      hiragana: まいにちこんぴゅーたをつかいます
+      kanji: 毎日コンピューターを使います。
+      ruby: <ruby>毎日<rt>まいにち</rt></ruby>コンピューターを<ruby>使<rt>つか</rt></ruby>います。
     2:
-      english: I use the car to go shopping.
-      hiragana: くるまをつかってかいものにいきます
-      kanji: 車を使って買い物に行きます。
-      ruby: <ruby>車<rt>くるま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
-
+      english: Please don't use this camera.
+      hiragana: このかめらをつかわないでください
+      kanji: このカメラを使わないでください。
+      ruby: このカメラを<ruby>使<rt>つか</rt></ruby>わないでください。
   simple_meaning:
     0: to use
 '1307040':
@@ -9385,7 +9389,7 @@
     jlpt_level: N5
     split_hiragana: へん
     wanikani_level: '7'
-  kanji:
+  kanji: 辺
   samples:
     0:
       english: Is there a convenience store nearby?
@@ -9416,9 +9420,9 @@
   samples:
     0:
       english: I will return the book.
-      hiragana: ほんをかえします
-      kanji: 本を返します。
-      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>します。
+      hiragana: ほんをかえす
+      kanji: 本を返す。
+      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>す。
     1:
       english: Please return the money.
       hiragana: おかねをかえしてください
@@ -11324,7 +11328,7 @@
       english: The bus leaves at 3 PM.
       hiragana: ばすはごごさんじにしゅっぱつします。
       kanji: バスは午後三時に出発します。
-      ruby: バスは<ruby>午後<rt>ごご</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></rt>します。
+      ruby: バスは<ruby>午後<rt>ごご</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>します。
   simple_meaning:
     0: three
 '1579470':
@@ -12030,18 +12034,18 @@
   kanji: 嫌
   samples:
     0:
-        english: "No, I'm okay. (It means I don't want to do something)"
-        hiragana: いや、いいです。
-        kanji: 嫌、いいです。
-        ruby: <ruby>嫌<rt>いや</rt></ruby>、いいです。
+      english: "No, I'm okay. (It means I don't want to do something)"
+      hiragana: いや、いいです。
+      kanji: 嫌、いいです。
+      ruby: <ruby>嫌<rt>いや</rt></ruby>、いいです。
     1:
       english: "I don't want to. (It means no, I won't do it)"
       hiragana: いやだ。
       kanji: 嫌だ。
       ruby: <ruby>嫌<rt>いや</rt></ruby>だ。
-simple_meaning:
-    0: dislike
-    1: hate
+  simple_meaning:
+      0: dislike
+      1: hate
 '1588120':
   hiragana: うたう
   jisho_info:

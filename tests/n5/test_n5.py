@@ -121,6 +121,7 @@ def test_exact_kanji_exists_in_one_of_the_examples(n5_part_file_path):
         print(f"{word_id}: kanji: {target_kanji} hiragana: {hiragana}")
 
     # Final assertion
+    print(f"Exact Kanji not found in samples for the following IDs: {failed_ids}. You should include at least one exact kanji.")
     assert not failed_ids, f"Kanji not found in samples for the following IDs: {failed_ids}"
 
 
@@ -225,6 +226,7 @@ def test_exact_kanji_part_exists_in_all_of_the_examples(n5_part_file_path):
         data = yaml.safe_load(file)
     # Run the check and print results
     for entry_id, entry in data.items():
+        print(f"Entry {entry_id} (Kanji: {entry['kanji']}")
         core_kanji, results = check_core_kanji_presence(entry)
         print(f"Entry {entry_id} (Kanji: {entry['kanji']}, Core: {core_kanji}):")
         for sample_id, has_core in results.items():
