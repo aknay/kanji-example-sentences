@@ -2842,7 +2842,17 @@
     split_hiragana: ひか.る
     wanikani_level: '7'
   kanji: 光る
-  samples: {}
+  samples:
+    0:
+      english: The star is shining in the sky.
+      hiragana: ほしがそらでひかっています。
+      kanji: 星が空で光っています。
+      ruby: <ruby>星<rt>ほし</rt></ruby>が<ruby>空<rt>そら</rt></ruby>で<ruby>光<rt>ひか</rt></ruby>っています。
+    1:
+      english: The ring glitters.
+      hiragana: このゆびわはとてもひかります。
+      kanji: この指輪はとても光ります。
+      ruby: この<ruby>指輪<rt>ゆびわ</rt></ruby>はとても<ruby>光<rt>ひか</rt></ruby>ります。
   simple_meaning:
     0: To shine
     1: To glitter
@@ -3309,20 +3319,20 @@
   kanji: 砂
   samples:
     0:
-      english: There is sand on the beach.
-      hiragana: うみべ に すな が あります。
-      kanji: 海辺に砂があります。
-      ruby: <ruby>海辺<rt>うみべ</rt></ruby>に<ruby>砂<rt>すな</rt></ruby>があります。
+      english: The children are playing with sand on the beach.
+      hiragana: こどもたちがうみべですなあそびをしています。
+      kanji: 子供たちが海辺で砂遊びをしています。
+      ruby: <ruby>子供<rt>こども</rt></ruby>たちが<ruby>海辺<rt>うみべ</rt></ruby>で<ruby>砂<rt>すな</rt></ruby><ruby>遊<rt>あそ</rt></ruby>びをしています。
     1:
-      english: I touched the sand.
-      hiragana: わたし は すな に さわりました。
-      kanji: 私は砂に触りました。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>砂<rt>すな</rt></ruby>に<ruby>触<rt>さわ</rt></ruby>りました。
+      english: I wrote my name in the sand.
+      hiragana: すなにじぶんのなまえをかきました。
+      kanji: 砂に自分の名前を書きました。
+      ruby: <ruby>砂<rt>すな</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。
     2:
-      english: The sand is hot.
-      hiragana: すな は あつい です。
-      kanji: 砂は熱いです。
-      ruby: <ruby>砂<rt>すな</rt></ruby>は<ruby>熱<rt>あつ</rt></ruby>いです。
+      english: There is sand in my shoe.
+      hiragana: くつにすながはいりました。
+      kanji: 靴に砂が入りました。
+      ruby: <ruby>靴<rt>くつ</rt></ruby>に<ruby>砂<rt>すな</rt></ruby>が<ruby>入<rt>はい</rt></ruby>りました。
   simple_meaning:
     0: Sand
 '1293640':
@@ -3333,7 +3343,22 @@
     split_hiragana: さ.らい.げつ
     wanikani_level: '26'
   kanji: 再来月
-  samples: {}
+  samples:
+    0:
+      english: I will go on a business trip the month after next.
+      hiragana: さらいげつしゅっちょうにいきます。
+      kanji: 再来月出張に行きます。
+      ruby: <ruby>再来月<rt>さらいげつ</rt></ruby><ruby>出張<rt>しゅっちょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+    1:
+      english: She will come back the month after next.
+      hiragana: かのじょはさらいげつかえってきます。
+      kanji: 彼女は再来月帰ってきます。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>再来月<rt>さらいげつ</rt></ruby><ruby>帰<rt>かえ</rt></ruby>ってきます。
+    2:
+      english: The new product will be released the month after next.
+      hiragana: しんせいひんはさらいげつはつばいされます。
+      kanji: 新製品は再来月発売されます。
+      ruby: <ruby>新<rt>しん</rt></ruby><ruby>製品<rt>せいひん</rt></ruby>は<ruby>再来月<rt>さらいげつ</rt></ruby><ruby>発売<rt>はつばい</rt></ruby>されます。
   simple_meaning:
     0: Month after next
 '1293650':
@@ -3344,7 +3369,17 @@
     split_hiragana: さ.らい.しゅう
     wanikani_level: '26'
   kanji: 再来週
-  samples: {}
+  samples:
+    0:
+      english: I have a trip the week after next.
+      hiragana: さらいしゅうりょこうがあります。
+      kanji: 再来週旅行があります。
+      ruby: <ruby>再来週<rt>さらいしゅう</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>があります。
+    1:
+      english: The exam is the week after next.
+      hiragana: しけんはさらいしゅうです。
+      kanji: 試験は再来週です。
+      ruby: <ruby>試験<rt>しけん</rt></ruby>は<ruby>再来週<rt>さらいしゅう</rt></ruby>です。
   simple_meaning:
     0: Week after next
 '1293780':
@@ -3355,7 +3390,17 @@
     split_hiragana: さい.きん
     wanikani_level: '10'
   kanji: 最近
-  samples: {}
+  samples:
+    0:
+      english: Have you been busy recently?
+      hiragana: さいきんいそがしいですか。
+      kanji: 最近忙しいですか。
+      ruby: <ruby>最近<rt>さいきん</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しいですか。
+    1:
+      english: Recently, I have been studying Japanese every day.
+      hiragana: さいきんまいにち、にほんごをべんきょうしています。
+      kanji: 最近毎日、日本語を勉強しています。
+      ruby: <ruby>最近<rt>さいきん</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
   simple_meaning:
     0: Recently
     1: Lately
@@ -3367,7 +3412,17 @@
     split_hiragana: さい.ご
     wanikani_level: '10'
   kanji: 最後
-  samples: {}
+  samples:
+    0:
+      english: The last person to arrive was Mr. Tanaka.
+      hiragana: さいごにきたのはたなかさんでした。
+      kanji: 最後に<ruby>来<rt>き</rt></ruby>たのは<ruby>田中<rt>たなか</rt></ruby>さんでした。
+      ruby: <ruby>最後<rt>さいご</rt></ruby>に<ruby>来<rt>き</rt></ruby>たのは<ruby>田中<rt>たなか</rt></ruby>さんでした。
+    1:
+      english: This is the last page.
+      hiragana: これがさいごのページです。
+      kanji: これが最後のページです。
+      ruby: これが<ruby>最後<rt>さいご</rt></ruby>のページです。
   simple_meaning:
     0: Last
     1: End
@@ -3379,7 +3434,17 @@
     split_hiragana: さい.しょ
     wanikani_level: '11'
   kanji: 最初
-  samples: {}
+  samples:
+    0:
+      english: I was nervous at the beginning.
+      hiragana: さいしょはきんちょうしました。
+      kanji: 最初は緊張しました。
+      ruby: <ruby>最初<rt>さいしょ</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>しました。
+    1:
+      english: The first thing I did was check the time.
+      hiragana: さいしょにしたことは、じかんをかくにんすることです。
+      kanji: 最初にしたことは、時間を確認することです。
+      ruby: <ruby>最初<rt>さいしょ</rt></ruby>にしたことは、<ruby>時間<rt>じかん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>することです。
   simple_meaning:
     0: First
     1: Beginning
@@ -3391,7 +3456,17 @@
     split_hiragana: つま
     wanikani_level: '20'
   kanji: 妻
-  samples: {}
+  samples:
+    0:
+      english: This is my wife.
+      hiragana: こちらはわたしのごくまです。
+      kanji: こちらは私の妻です。
+      ruby: こちらは<ruby>私<rt>わたし</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>です。
+    1:
+      english: My wife is a doctor.
+      hiragana: わたしのおくさんはおいしゃさんです。
+      kanji: 私の妻はお医者さんです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>はお<ruby>医者<rt>いしゃ</rt></ruby>さんです。
   simple_meaning:
     0: Wife
 '1295070':
@@ -3402,7 +3477,17 @@
     split_hiragana: す.む
     wanikani_level: '21'
   kanji: 済む
-  samples: {}
+  samples:
+    0:
+      english: The meeting will finish at 5 o'clock.
+      hiragana: かいぎはごじにおわります。
+      kanji: 会議は5時に終わります。
+      ruby: <ruby>会議<rt>かいぎ</rt></ruby>は<ruby>五時<rt>ごじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。
+    1:
+      english: It seems the work has finished.
+      hiragana: しごとがおわったようです。
+      kanji: 仕事が終わったようです。
+      ruby: <ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったようです。
   simple_meaning:
     0: To finish
     1: To end
@@ -3414,7 +3499,17 @@
     split_hiragana: こま.か.い
     wanikani_level: '19'
   kanji: 細かい
-  samples: {}
+  samples:
+    0:
+      english: This machine has many small parts.
+      hiragana: このきかいはこまかいぶひんがたくさんあります。
+      kanji: この機械は細かい部品がたくさんあります。
+      ruby: この<ruby>機械<rt>きかい</rt></ruby>は<ruby>細<rt>こま</rt></ruby>かい<ruby>部品<rt>ぶひん</rt></ruby>がたくさんあります。
+    1:
+      english: I'm sorry, I don't have small change.
+      hiragana: すみません、こまかいおかねがありません。
+      kanji: すみません、細かいお金がありません。
+      ruby: すみません、<ruby>細<rt>こま</rt></ruby>かい<ruby>お金<rt>かね</rt></ruby>がありません。
   simple_meaning:
     0: Small
     1: Fine
@@ -3427,7 +3522,17 @@
     split_hiragana: さか
     wanikani_level: '15'
   kanji: 坂
-  samples: {}
+  samples:
+    0:
+      english: I go down the long slope.
+      hiragana: ながいさかをくだります。
+      kanji: 長い坂を下ります。
+      ruby: <ruby>長<rt>なが</rt></ruby>い<ruby>坂<rt>さか</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>ります。
+    1:
+      english: Let's climb this hill.
+      hiragana: このさかをのぼりましょう。
+      kanji: この坂を登りましょう。
+      ruby: この<ruby>坂<rt>さか</rt></ruby>を<ruby>登<rt>のぼ</rt></ruby>りましょう。
   simple_meaning:
     0: Slope
     1: Hill
@@ -3439,7 +3544,17 @@
     split_hiragana: まい.る
     wanikani_level: '14'
   kanji: 参る
-  samples: {}
+  samples:
+    0:
+      english: I went to Kyoto last week.
+      hiragana: せんしゅう、きょうとにまいりました。
+      kanji: 先週、京都に参りました。
+      ruby: <ruby>先週<rt>せんしゅう</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>に<ruby>参<rt>まい</rt></ruby>りました。
+    1:
+      english: My teacher is coming to the party.
+      hiragana: せんせいがパーティーにまいります。
+      kanji: 先生がパーティーに参ります。
+      ruby: <ruby>先生<rt>せんせい</rt></ruby>がパーティーに<ruby>参<rt>まい</rt></ruby>ります。
   simple_meaning:
     0: To go
     1: To come
@@ -3452,7 +3567,17 @@
     split_hiragana: さん.ぎょう
     wanikani_level: '22'
   kanji: 産業
-  samples: {}
+  samples:
+    0:
+      english: The manufacturing industry is very important.
+      hiragana: せいぞうぎょうはとてもたいせつです。
+      kanji: 製造業はとても大切です。
+      ruby: <ruby>製造業<rt>せいぞうぎょう</rt></ruby>はとても<ruby>大切<rt>たいせつ</rt></ruby>です。
+    1:
+      english: The tourism industry is thriving in this city.
+      hiragana: このしではかんこうさんぎょうがさかんです。
+      kanji: この市では観光産業が盛んです。
+      ruby: この<ruby>市<rt>し</rt></ruby>では<ruby>観光産業<rt>かんこうさんぎょう</rt></ruby>が<ruby>盛<rt>さか</rt></ruby>んです。
   simple_meaning:
     0: Industry
 '1304510':
@@ -3463,7 +3588,17 @@
     split_hiragana: のこ.る
     wanikani_level: '14'
   kanji: 残る
-  samples: {}
+  samples:
+    0:
+      english: There is a little bit of food left.
+      hiragana: たべものがすこしのこりました。
+      kanji: 食べ物が少し残りました。
+      ruby: <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>残<rt>のこ</rt></ruby>りました。
+    1:
+      english: Only three people remain.
+      hiragana: さんにんだけのこりました。
+      kanji: 三人だけ残りました。
+      ruby: <ruby>三人<rt>さんにん</rt></ruby>だけ<ruby>残<rt>のこ</rt></ruby>りました。
   simple_meaning:
     0: To remain
     1: To be left
@@ -3475,7 +3610,17 @@
     split_hiragana: ざん.ねん
     wanikani_level: '14'
   kanji: 残念
-  samples: {}
+  samples:
+    0:
+      english: It's a pity you can't come.
+      hiragana: あなたがこられなくてざんねんです。
+      kanji: あなたが来られなくて残念です。
+      ruby: あなたが<ruby>来<rt>こ</rt></ruby>られなくて<ruby>残念<rt>ざんねん</rt></ruby>です。
+    1:
+      english: It's a shame that the trip was cancelled.
+      hiragana: りょこうがちゅうしになってざんねんです。
+      kanji: 旅行が中止になって残念です。
+      ruby: <ruby>旅行<rt>りょこう</rt></ruby>が<ruby>中止<rt>ちゅうし</rt></ruby>になって<ruby>残念<rt>ざんねん</rt></ruby>です。
   simple_meaning:
     0: Regret
     1: Disappointment
@@ -3487,7 +3632,17 @@
     split_hiragana: はじ.め.る
     wanikani_level: '10'
   kanji: 始める
-  samples: {}
+  samples:
+    0:
+      english: Let's begin the meeting.
+      hiragana: かいぎをそろそろはじめましょう。
+      kanji: 会議をそろそろ始めましょう。
+      ruby: <ruby>会議<rt>かいぎ</rt></ruby>をそろそろ<ruby>始<rt>はじ</rt></ruby>めましょう。
+    1:
+      english: I will start studying Japanese from tomorrow.
+      hiragana: あしたからにほんごのべんきょうをはじめます。
+      kanji: 明日から日本語の勉強を始めます。
+      ruby: <ruby>明日<rt>あした</rt></ruby>から<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます。
   simple_meaning:
     0: To start
     1: To begin
@@ -3499,7 +3654,17 @@
     split_hiragana: こ
     wanikani_level: '2'
   kanji: 子
-  samples: {}
+  samples:
+    0:
+      english: A child is sleeping.
+      hiragana: こどもがねています。
+      kanji: 子どもが寝ています。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもが<ruby>寝<rt>ね</rt></ruby>ています。
+    1:
+      english: A child is crying in the next room.
+      hiragana: となりのへやでこどもがないています。
+      kanji: 隣の部屋で子どもが泣いています。
+      ruby: <ruby>隣<rt>とな</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>で<ruby>子<rt>こ</rt></ruby>どもが<ruby>泣<rt>な</rt></ruby>いています。
   simple_meaning:
     0: Child
 '1308090':
@@ -3510,7 +3675,17 @@
     split_hiragana: し
     wanikani_level: '3'
   kanji: 市
-  samples: {}
+  samples:
+    0:
+      english: I live in this city.
+      hiragana: わたしはこのしにすんでいます。
+      kanji: 私はこの市に住んでいます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>はこの<ruby>市<rt>し</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    1:
+      english: The city hall is over there.
+      hiragana: しやくしょはあそこです。
+      kanji: 市役所はあそこです。
+      ruby: <ruby>市役所<rt>しやくしょ</rt></ruby>はあそこです。
   simple_meaning:
     0: City
 '1308690':
@@ -3521,7 +3696,17 @@
     split_hiragana: し.みん
     wanikani_level: null
   kanji: 市民
-  samples: {}
+  samples:
+    0:
+      english: Many citizens gathered at the park.
+      hiragana: こうえんにたくさんしみんがあつまりました。
+      kanji: 公園にたくさん市民が集まりました。
+      ruby: <ruby>公園<rt>こうえん</rt></ruby>にたくさん<ruby>市民<rt>しみん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。
+    1:
+      english: Citizens have a right to vote.
+      hiragana: しみんはとうひょうするけんりがあります。
+      kanji: 市民は投票する権利があります。
+      ruby: <ruby>市民<rt>しみん</rt></ruby>は<ruby>投票<rt>とうひょう</rt></ruby>する<ruby>権利<rt>けんり</rt></ruby>があります。
   simple_meaning:
     0: Citizen
 '1309260':
@@ -3532,7 +3717,17 @@
     split_hiragana: おも.い.だ.す
     wanikani_level: '8'
   kanji: 思い出す
-  samples: {}
+  samples:
+    0:
+      english: I can't remember his name.
+      hiragana: かれのなまえがおもいだせません。
+      kanji: 彼の名前が思い出せません。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>せません。
+    1:
+      english: I suddenly remembered my friend.
+      hiragana: ともだちのことをきゅうにおもいだしました。
+      kanji: 友達のことを急に思い出しました。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>のことを<ruby>急<rt>きゅう</rt></ruby>に<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しました。
   simple_meaning:
     0: To recall
     1: To remember
@@ -3544,7 +3739,17 @@
     split_hiragana: ゆび
     wanikani_level: '11'
   kanji: 指
-  samples: {}
+  samples:
+    0:
+      english: I cut my finger.
+      hiragana: ゆびをきってしまいました。
+      kanji: 指を切ってしまいました。
+      ruby: <ruby>指<rt>ゆび</rt></ruby>を<ruby>切<rt>き</rt></ruby>ってしまいました。
+    1:
+      english: Please point with your finger.
+      hiragana: ゆびでさしてください。
+      kanji: 指で指してください。
+      ruby: <ruby>指<rt>ゆび</rt></ruby>で<ruby>指<rt>さ</rt></ruby>してください。
   simple_meaning:
     0: Finger
 '1310050':
@@ -3555,7 +3760,17 @@
     split_hiragana: ゆび.わ
     wanikani_level: '15'
   kanji: 指輪
-  samples: {}
+  samples:
+    0:
+      english: I received a ring from my boyfriend.
+      hiragana: かれしからゆびわをもらいました。
+      kanji: 彼氏から指輪をもらいました。
+      ruby: <ruby>彼氏<rt>かれし</rt></ruby>から<ruby>指輪<rt>ゆびわ</rt></ruby>をもらいました。
+    1:
+      english: I lost the ring I received from my mother.
+      hiragana: ははからもらったゆびわをなくしました。
+      kanji: 母からもらった指輪をなくしました。
+      ruby: <ruby>母<rt>はは</rt></ruby>からもらった<ruby>指輪<rt>ゆびわ</rt></ruby>をなくしました。
   simple_meaning:
     0: Ring (jewelry)
 '1310530':
@@ -3566,7 +3781,17 @@
     split_hiragana: えだ
     wanikani_level: '34'
   kanji: 枝
-  samples: {}
+  samples:
+    0:
+      english: The tree branch broke.
+      hiragana: きのえだがおれました。
+      kanji: 木の枝が折れました。
+      ruby: <ruby>木<rt>き</rt></ruby>の<ruby>枝<rt>えだ</rt></ruby>が<ruby>折<rt>お</rt></ruby>れました。
+    1:
+      english: A small bird is resting on the branch.
+      hiragana: こえだがえだでやすんでいます。
+      kanji: 小鳥が枝で休んでいます。
+      ruby: <ruby>小鳥<rt>ことり</rt></ruby>が<ruby>枝<rt>えだ</rt></ruby>で<ruby>休<rt>やす</rt></ruby>んでいます。
   simple_meaning:
     0: Branch
     1: Twig
@@ -3578,7 +3803,17 @@
     split_hiragana: や.む
     wanikani_level: null
   kanji: 止む
-  samples: {}
+  samples:
+    0:
+      english: The rain stopped.
+      hiragana: あめがやみました。
+      kanji: 雨が止みました。
+      ruby: <ruby>雨<rt>あめ</rt></ruby>が<ruby>止<rt>や</rt></ruby>みました。
+    1:
+      english: The wind has ceased.
+      hiragana: かぜがやみました。
+      kanji: 風が止みました。
+      ruby: <ruby>風<rt>かぜ</rt></ruby>が<ruby>止<rt>や</rt></ruby>みました。
   simple_meaning:
     0: To stop
     1: To cease
@@ -3590,7 +3825,17 @@
     split_hiragana: と.め.る
     wanikani_level: '3'
   kanji: 止める
-  samples: {}
+  samples:
+    0:
+      english: I stopped the car at the crosswalk.
+      hiragana: おうだんほどうでくるまをとめました。
+      kanji: 横断歩道で車を止めました。
+      ruby: <ruby>横断歩道<rt>おうだんほどう</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めました。
+    1:
+      english: Please stop here.
+      hiragana: ここでとめてください。
+      kanji: ここで止めてください。
+      ruby: ここで<ruby>止<rt>と</rt></ruby>めてください。
   simple_meaning:
     0: To stop
     1: To halt
@@ -3603,7 +3848,17 @@
     split_hiragana: いと
     wanikani_level: '4'
   kanji: 糸
-  samples: {}
+  samples:
+    0:
+      english: A thread is tangled.
+      hiragana: いとがからまっています。
+      kanji: 糸が絡まっています。
+      ruby: <ruby>糸<rt>いと</rt></ruby>が<ruby>絡<rt>から</rt></ruby>まっています。
+    1:
+      english: I am sewing with a needle and thread.
+      hiragana: はりといとでぬいものをしています。
+      kanji: 針と糸で縫い物をしています。
+      ruby: <ruby>針<rt>はり</rt></ruby>と<ruby>糸<rt>いと</rt></ruby>で<ruby>縫<rt>ぬ</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしています。
   simple_meaning:
     0: Thread
     1: String
@@ -3615,7 +3870,17 @@
     split_hiragana: し.けん
     wanikani_level: '9'
   kanji: 試験
-  samples: {}
+  samples:
+    0:
+      english: There is a test tomorrow.
+      hiragana: あしたしけんがあります。
+      kanji: 明日試験があります。
+      ruby: <ruby>明日<rt>あした</rt></ruby><ruby>試験<rt>しけん</rt></ruby>があります。
+    1:
+      english: The exam was very difficult.
+      hiragana: しけんはとてもむずかしかったです。
+      kanji: 試験はとても難しかったです。
+      ruby: <ruby>試験<rt>しけん</rt></ruby>はとても<ruby>難<rt>むずか</rt></ruby>しかったです。
   simple_meaning:
     0: Exam
     1: Test
@@ -3627,7 +3892,17 @@
     split_hiragana: しあい.
     wanikani_level: '14'
   kanji: 試合
-  samples: {}
+  samples:
+    0:
+      english: I'm watching a soccer game.
+      hiragana: サッカーのしあいをみています。
+      kanji: サッカーの試合を見ています。
+      ruby: サッカーの<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ています。
+    1:
+      english: The match starts at 2 o'clock.
+      hiragana: しあいはにじからはじまります。
+      kanji: 試合は2時から始まります。
+      ruby: <ruby>試合<rt>しあい</rt></ruby>は<ruby>二時<rt>にじ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まります。
   simple_meaning:
     0: Match
     1: Game
@@ -3640,7 +3915,17 @@
     split_hiragana: は.い.しゃ
     wanikani_level: '12'
   kanji: 歯医者
-  samples: {}
+  samples:
+    0:
+      english: I'm going to the dentist today.
+      hiragana: きょうはいしゃにいきます。
+      kanji: 今日歯医者に行きます。
+      ruby: <ruby>今日<rt>きょう</rt></ruby><ruby>歯医者<rt>はいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+    1:
+      english: I made a reservation at the dentist.
+      hiragana: はいしゃをよやくしました。
+      kanji: 歯医者を予約しました。
+      ruby: <ruby>歯医者<rt>はいしゃ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。
   simple_meaning:
     0: Dentist
 '1313850':
@@ -3651,7 +3936,17 @@
     split_hiragana: じ.こ
     wanikani_level: '26'
   kanji: 事故
-  samples: {}
+  samples:
+    0:
+      english: There was a traffic accident.
+      hiragana: こうつうじこがありました。
+      kanji: 交通事故がありました。
+      ruby: <ruby>交通<rt>こうつう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>がありました。
+    1:
+      english: I'm glad there were no casualties in the accident.
+      hiragana: じこでけがにんがいなくてよかった。
+      kanji: 事故でけが人がいなくてよかった。
+      ruby: <ruby>事故<rt>じこ</rt></ruby>でけが<ruby>人<rt>にん</rt></ruby>がなくてよかった。
   simple_meaning:
     0: Accident
 '1314400':
@@ -3662,7 +3957,17 @@
     split_hiragana: じ.む.しょ
     wanikani_level: '21'
   kanji: 事務所
-  samples: {}
+  samples:
+    0:
+      english: The office is on the second floor.
+      hiragana: じむしょはにかいです。
+      kanji: 事務所は2階です。
+      ruby: <ruby>事務所<rt>じむしょ</rt></ruby>は<ruby>二階<rt>にかい</rt></ruby>です。
+    1:
+      english: Please come to the office tomorrow morning.
+      hiragana: あしたのあさじむしょにきてください。
+      kanji: 明日の朝事務所に来てください。
+      ruby: <ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby>に<ruby>来<rt>き</rt></ruby>てください。
   simple_meaning:
     0: Office
 '1314600':
@@ -3673,7 +3978,17 @@
     split_hiragana: に.る
     wanikani_level: '31'
   kanji: 似る
-  samples: {}
+  samples:
+    0:
+      english: That child resembles her mother.
+      hiragana: そのこはははににています。
+      kanji: その子は母に似ています。
+      ruby: その<ruby>子<rt>こ</rt></ruby>は<ruby>母<rt>はは</rt></ruby>に<ruby>似<rt>に</rt></ruby>ています。
+    1:
+      english: I look like my father.
+      hiragana: わたしはちちおやににています。
+      kanji: 私は父親に似ています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>父親<rt>ちちおや</rt></ruby>に<ruby>似<rt>に</rt></ruby>ています。
   simple_meaning:
     0: To resemble
     1: To look like
@@ -3685,7 +4000,17 @@
     split_hiragana: じ
     wanikani_level: '4'
   kanji: 字
-  samples: {}
+  samples:
+    0:
+      english: Please write your name and address in large letters.
+      hiragana: おなまえとじゅうしょをおおきいじでかいてください。
+      kanji: お名前と住所を大きい字で書いてください。
+      ruby: お<ruby>名前<rt>なまえ</rt></ruby>と<ruby>住所<rt>じゅうしょ</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きい<ruby>字<rt>じ</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてください。
+    1:
+      english: Your handwriting is beautiful.
+      hiragana: あなたのじはきれいです。
+      kanji: あなたの字はきれいです。
+      ruby: あなたの<ruby>字<rt>じ</rt></ruby>はきれいです。
   simple_meaning:
     0: Character
     1: Letter
@@ -3697,7 +4022,17 @@
     split_hiragana: てら
     wanikani_level: '15'
   kanji: 寺
-  samples: {}
+  samples:
+    0:
+      english: There is an old temple in this town.
+      hiragana: このまちにはふるいてらがあります。
+      kanji: この町には古い寺があります。
+      ruby: この<ruby>町<rt>まち</rt></ruby>には<ruby>古<rt>ふる</rt></ruby>い<ruby>寺<rt>てら</rt></ruby>があります。
+    1:
+      english: Let's visit the temple this weekend.
+      hiragana: こんしゅうまつにてらにいきましょう。
+      kanji: 今週末に寺に行きましょう。
+      ruby: <ruby>今週末<rt>こんしゅうまつ</rt></ruby>に<ruby>寺<rt>てら</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。
   simple_meaning:
     0: Temple
 '1316300':
@@ -3708,7 +4043,17 @@
     split_hiragana: じ.だい
     wanikani_level: '7'
   kanji: 時代
-  samples: {}
+  samples:
+    0:
+      english: This building was built in the Edo period.
+      hiragana: このたてものはえどじだいにつくられました。
+      kanji: この建物は江戸時代に作られました。
+      ruby: この<ruby>建物<rt>たてもの</rt></ruby>は<ruby>江戸時代<rt>えどじだい</rt></ruby>に<ruby>作<rt>つく</rt></ruby>られました。
+    1:
+      english: This era is called the smartphone era.
+      hiragana: このじだいはスマートフォンじだいとよばれています。
+      kanji: この時代はスマホ時代と呼ばれています。
+      ruby: この<ruby>時代<rt>じだい</rt></ruby>はスマホ<ruby>時代<rt>じだい</rt></ruby>と<ruby>呼<rt>よ</rt></ruby>ばれています。
   simple_meaning:
     0: Era
     1: Period
@@ -3721,7 +4066,17 @@
     split_hiragana: じ.ゆう
     wanikani_level: '7'
   kanji: 自由
-  samples: {}
+  samples:
+    0:
+      english: You are free to do what you want.
+      hiragana: あなたはなにをしてもじゆうです。
+      kanji: あなたは何をしても自由です。
+      ruby: あなたは<ruby>何<rt>なに</rt></ruby>をしても<ruby>自由<rt>じゆう</rt></ruby>です。
+    1:
+      english: Children have the freedom to play.
+      hiragana: こどもにはあそぶじゆうがあります。
+      kanji: 子どもには遊ぶ自由があります。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもには<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>自由<rt>じゆう</rt></ruby>があります。
   simple_meaning:
     0: Freedom
     1: Liberty
@@ -3733,7 +4088,17 @@
     split_hiragana: しっ.ぱい
     wanikani_level: '17'
   kanji: 失敗
-  samples: {}
+  samples:
+    0:
+      english: I failed the test.
+      hiragana: しけんにしっぱいしました。
+      kanji: 試験に失敗しました。
+      ruby: <ruby>試験<rt>しけん</rt></ruby>に<ruby>失敗<rt>しっぱい</rt></ruby>しました。
+    1:
+      english: Don't be afraid of failure.
+      hiragana: しっぱいをこわがらないでください。
+      kanji: 失敗を怖がらないでください。
+      ruby: <ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>怖<rt>こわ</rt></ruby>がらないでください。
   simple_meaning:
     0: Failure
     1: Mistake
@@ -3745,7 +4110,17 @@
     split_hiragana: す.て.る
     wanikani_level: '32'
   kanji: 捨てる
-  samples: {}
+  samples:
+    0:
+      english: Please throw away the trash.
+      hiragana: ごみをすててください。
+      kanji: ごみを捨ててください。
+      ruby: ごみを<ruby>捨<rt>す</rt></ruby>ててください。
+    1:
+      english: Don't throw away food.
+      hiragana: たべものをすてないでください。
+      kanji: 食べ物を捨てないでください。
+      ruby: <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てないでください。
   simple_meaning:
     0: To throw away
     1: To discard
@@ -3757,7 +4132,17 @@
     split_hiragana: しゃ.かい
     wanikani_level: '7'
   kanji: 社会
-  samples: {}
+  samples:
+    0:
+      english: He is studying economics and society.
+      hiragana: かれはけいざいとしゃかいをべんきょうしています。
+      kanji: 彼は経済と社会を勉強しています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>経済<rt>けいざい</rt></ruby>と<ruby>社会<rt>しゃかい</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+    1:
+      english: Society is changing.
+      hiragana: しゃかいがかわっています。
+      kanji: 社会が変わっています。
+      ruby: <ruby>社会<rt>しゃかい</rt></ruby>が<ruby>変<rt>か</rt></ruby>わっています。
   simple_meaning:
     0: Society
 '1322920':
@@ -3768,7 +4153,17 @@
     split_hiragana: しゃ.ちょう
     wanikani_level: '6'
   kanji: 社長
-  samples: {}
+  samples:
+    0:
+      english: The company president will give a speech.
+      hiragana: しゃちょうがスピーチをします。
+      kanji: 社長がスピーチをします。
+      ruby: <ruby>社長<rt>しゃちょう</rt></ruby>がスピーチをします。
+    1:
+      english: My father is the president of a company.
+      hiragana: ちちはかいしゃのしゃちょうです。
+      kanji: 父は会社の社長です。
+      ruby: <ruby>父<rt>ちち</rt></ruby>は<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>です。
   simple_meaning:
     0: Company president
     1: CEO
@@ -3780,7 +4175,17 @@
     split_hiragana: あやま.る
     wanikani_level: '13'
   kanji: 謝る
-  samples: {}
+  samples:
+    0:
+      english: I apologized to my friend.
+      hiragana: ともだちにあやまりました。
+      kanji: 友達に謝りました。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>に<ruby>謝<rt>あやま</rt></ruby>りました。
+    1:
+      english: He apologized for being late.
+      hiragana: かれはおくれたことをあやまりました。
+      kanji: 彼氏は遅れたことを謝りました。
+      ruby: <ruby>彼氏<rt>かれ</rt></ruby>は<ruby>遅<rt>おく</rt></ruby>れたことを<ruby>謝<rt>あやま</rt></ruby>りました。
   simple_meaning:
     0: To apologize
 '1326830':
@@ -3791,7 +4196,17 @@
     split_hiragana: と.り.か.え.る
     wanikani_level: '27'
   kanji: 取り替える
-  samples: {}
+  samples:
+    0:
+      english: Please exchange this ticket for a new one.
+      hiragana: このチケットをあたらしいのととりかえてください。
+      kanji: このチケットを新しいのと取り替えてください。
+      ruby: このチケットを<ruby>新<rt>あたら</rt></ruby>しいのと<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>えてください。
+    1:
+      english: I want to replace the battery.
+      hiragana: でんちをとりかえたいです。
+      kanji: 電池を取り替えたいです。
+      ruby: <ruby>電池<rt>でんち</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>えたいです。
   simple_meaning:
     0: To exchange
     1: To replace
@@ -3803,7 +4218,17 @@
     split_hiragana: て.ぶくろ
     wanikani_level: '44'
   kanji: 手袋
-  samples: {}
+  samples:
+    0:
+      english: It's cold, so I'll wear gloves.
+      hiragana: さむいので、てぶくろをします。
+      kanji: 寒いので、手袋をします。
+      ruby: <ruby>寒<rt>さむ</rt></ruby>いので、<ruby>手袋<rt>てぶくろ</rt></ruby>をします。
+    1:
+      english: I bought a pair of new gloves.
+      hiragana: あたらしいいっそくのてぶくろをかいました。
+      kanji: 新しい一双の手袋を買いました。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>一双<rt>いっそう</rt></ruby>の<ruby>手袋<rt>てぶくろ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
   simple_meaning:
     0: Gloves
 '1328190':
@@ -3814,7 +4239,17 @@
     split_hiragana: て.つだ.う
     wanikani_level: '13'
   kanji: 手伝う
-  samples: {}
+  samples:
+    0:
+      english: Thank you for your help.
+      hiragana: てつだってくれてありがとう。
+      kanji: 手伝ってくれてありがとう。
+      ruby: <ruby>手伝<rt>てつだ</rt></ruby>ってくれてありがとう。
+    1:
+      english: I want to help with the cooking.
+      hiragana: りょうりをてつだいたいです。
+      kanji: 料理を手伝いたいです。
+      ruby: <ruby>料理<rt>りょうり</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>いたいです。
   simple_meaning:
     0: To help
     1: To assist
@@ -3826,7 +4261,17 @@
     split_hiragana: しゅ.み
     wanikani_level: '43'
   kanji: 趣味
-  samples: {}
+  samples:
+    0:
+      english: What is your hobby?
+      hiragana: しゅみはなんですか。
+      kanji: 趣味は何ですか。
+      ruby: <ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。
+    1:
+      english: My hobby is watching movies.
+      hiragana: わたしのしゅみはえいがをみることです。
+      kanji: 私の趣味は映画を見ることです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることです。
   simple_meaning:
     0: Hobby
     1: Interest
@@ -3838,7 +4283,17 @@
     split_hiragana: う.け.る
     wanikani_level: '9'
   kanji: 受ける
-  samples: {}
+  samples:
+    0:
+      english: I will take the exam tomorrow.
+      hiragana: あしたしけんをうけます。
+      kanji: 明日試験を受けます。
+      ruby: <ruby>明日<rt>あした</rt></ruby><ruby>試験<rt>しけん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。
+    1:
+      english: I received a gift from my friend.
+      hiragana: ともだちからプレゼントをうけました。
+      kanji: 友達からプレゼントを受けました。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>からプレゼントを<ruby>受<rt>う</rt></ruby>けました。
   simple_meaning:
     0: To receive
     1: To take (a test)
@@ -3850,7 +4305,17 @@
     split_hiragana: ひろ.う
     wanikani_level: '11'
   kanji: 拾う
-  samples: {}
+  samples:
+    0:
+      english: I picked up trash on the beach.
+      hiragana: うみべにごみをひろいました。
+      kanji: 海辺にゴミを拾いました。
+      ruby: <ruby>海辺<rt>うみべ</rt></ruby>にゴミを<ruby>拾<rt>ひろ</rt></ruby>いました。
+    1:
+      english: Please pick up the money on the floor.
+      hiragana: ゆかのおかねをひろってください。
+      kanji: 床のお金を拾ってください。
+      ruby: <ruby>床<rt>ゆか</rt></ruby>の<ruby>お金<rt>おかね</rt></ruby>を<ruby>拾<rt>ひろ</rt></ruby>ってください。
   simple_meaning:
     0: To pick up
 '1333090':
@@ -3861,7 +4326,17 @@
     split_hiragana: しゅう.かん
     wanikani_level: '25'
   kanji: 習慣
-  samples: {}
+  samples:
+    0:
+      english: I have a habit of reading before bed.
+      hiragana: ねるまえによむしゅうかんがあります。
+      kanji: 寝る前に読む習慣があります。
+      ruby: <ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>読<rt>よ</rt></ruby>む<ruby>習慣<rt>しゅうかん</rt></ruby>があります。
+    1:
+      english: This is a Japanese custom.
+      hiragana: これはにほんのしゅうかんです。
+      kanji: これは日本の習慣です。
+      ruby: これは<ruby>日本<rt>にほん</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>です。
   simple_meaning:
     0: Habit
     1: Custom
@@ -3873,7 +4348,17 @@
     split_hiragana: あつ.ま.る
     wanikani_level: '12'
   kanji: 集まる
-  samples: {}
+  samples:
+    0:
+      english: Many people gathered at the station.
+      hiragana: えきにたくさんのひとがあつまりました。
+      kanji: 駅にたくさんの人が集まりました。
+      ruby: <ruby>駅<rt>えき</rt></ruby>にたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。
+    1:
+      english: Let's gather at my house.
+      hiragana: わたしのいえにあつまりましょう。
+      kanji: 私の家に集まりましょう。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まりましょう。
   simple_meaning:
     0: To gather
     1: To assemble
@@ -3885,7 +4370,17 @@
     split_hiragana: あつ.め.る
     wanikani_level: '10'
   kanji: 集める
-  samples: {}
+  samples:
+    0:
+      english: I collect stamps as a hobby.
+      hiragana: しゅみでてがみをあつめています。
+      kanji: 趣味で切手を集めています。
+      ruby: <ruby>趣味<rt>しゅみ</rt></ruby>で<ruby>切手<rt>きって</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めています。
+    1:
+      english: Please collect everyone's opinions.
+      hiragana: みんなのいけんをあつめてください。
+      kanji: みんなの意見を集めてください。
+      ruby: みんなの<ruby>意見<rt>いけん</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めてください。
   simple_meaning:
     0: To collect
     1: To gather
@@ -3897,7 +4392,17 @@
     split_hiragana: じゅう.しょ
     wanikani_level: '8'
   kanji: 住所
-  samples: {}
+  samples:
+    0:
+      english: Please write your name and address here.
+      hiragana: ここになまえとじゅうしょをかいてください。
+      kanji: ここに名前と住所を書いてください。
+      ruby: ここに<ruby>名前<rt>なまえ</rt></ruby>と<ruby>住所<rt>じゅうしょ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。
+    1:
+      english: I don't know my friend's address.
+      hiragana: ともだちのじゅうしょがわかりません。
+      kanji: 友達の住所がわかりません。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>の<ruby>住所<rt>じゅうしょ</rt></ruby>がわかりません。
   simple_meaning:
     0: Address
 '1335080':
@@ -3908,7 +4413,17 @@
     split_hiragana: じゅう.ぶん
     wanikani_level: null
   kanji: 十分
-  samples: {}
+  samples:
+    0:
+      english: There is enough time.
+      hiragana: じゅうぶんじかんがあります。
+      kanji: 十分時間があります。
+      ruby: <ruby>十分<rt>じゅうぶん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>があります。
+    1:
+      english: I have a sufficient amount of money.
+      hiragana: おかねはじゅうぶんあります。
+      kanji: お金は十分あります。
+      ruby: お<ruby>金<rt>かね</rt></ruby>は<ruby>十分<rt>じゅうぶん</rt></ruby>あります。
   simple_meaning:
     0: Enough
     1: Sufficient
@@ -3920,7 +4435,17 @@
     split_hiragana: じゅう.どう
     wanikani_level: '43'
   kanji: 柔道
-  samples: {}
+  samples:
+    0:
+      english: I have been doing judo since I was a child.
+      hiragana: こどものときからじゅうどうをしています。
+      kanji: 子どもの時から柔道をしています。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもの<ruby>時<rt>とき</rt></ruby>から<ruby>柔道<rt>じゅうどう</rt></ruby>をしています。
+    1:
+      english: My father is a judo teacher.
+      hiragana: ちちはじゅうどうのせんせいです。
+      kanji: 父は柔道の先生です。
+      ruby: <ruby>父<rt>ちち</rt></ruby>は<ruby>柔道<rt>じゅうどう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>です。
   simple_meaning:
     0: Judo
 '1345250':
@@ -3931,7 +4456,17 @@
     split_hiragana: じょ.せい
     wanikani_level: '14'
   kanji: 女性
-  samples: {}
+  samples:
+    0:
+      english: This seat is for women only.
+      hiragana: このせきはじょせいせんです。
+      kanji: この席は女性専用です。
+      ruby: この<ruby>席<rt>せき</rt></ruby>は<ruby>女性<rt>じょせい</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>です。
+    1:
+      english: Many women work at this company.
+      hiragana: このかいしゃにはおおくのじょせいがはたらいています。
+      kanji: この会社には多くの女性が働いています。
+      ruby: この<ruby>会社<rt>かいしゃ</rt></ruby>には<ruby>多<rt>おお</rt></ruby>くの<ruby>女性<rt>じょせい</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>いています。
   simple_meaning:
     0: Woman
     1: Female
@@ -3943,7 +4478,17 @@
     split_hiragana: か.つ
     wanikani_level: '9'
   kanji: 勝つ
-  samples: {}
+  samples:
+    0:
+      english: Our team won the game.
+      hiragana: わたしたちのチームがしあいにかちました。
+      kanji: 私たちのチームが試合に勝ちました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちのチームが<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝<rt>か</rt></ruby>ちました。
+    1:
+      english: I will win the next game.
+      hiragana: つぎのしあいにかちます。
+      kanji: 次の試合に勝ちます。
+      ruby: <ruby>次<rt>つぎ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝<rt>か</rt></ruby>ちます。
   simple_meaning:
     0: To win
 '1346370':
@@ -3954,7 +4499,17 @@
     split_hiragana: め.し.あ.が.る
     wanikani_level: '53'
   kanji: 召し上がる
-  samples: {}
+  samples:
+    0:
+      english: What would you like to eat?
+      hiragana: なにをめしあがりますか。
+      kanji: 何を召し上がりますか。
+      ruby: <ruby>何<rt>なに</rt></ruby>を<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりますか。
+    1:
+      english: Please have a cup of tea.
+      hiragana: おちゃをめしあがってください。
+      kanji: お茶を召し上がってください。
+      ruby: お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がってください。
   simple_meaning:
     0: To eat (honorific)
     1: To drink (honorific)
@@ -3966,7 +4521,17 @@
     split_hiragana: しょう.らい
     wanikani_level: '36'
   kanji: 将来
-  samples: {}
+  samples:
+    0:
+      english: I want to be a teacher in the future.
+      hiragana: しょうらいきょうしになりたいです。
+      kanji: 将来教師になりたいです。
+      ruby: <ruby>将来<rt>しょうらい</rt></ruby><ruby>教師<rt>きょうし</rt></ruby>になりたいです。
+    1:
+      english: I am worried about my future.
+      hiragana: しょうらいのことがしんぱいです。
+      kanji: 将来のことが心配です。
+      ruby: <ruby>将来<rt>しょうらい</rt></ruby>のことが<ruby>心配<rt>しんぱい</rt></ruby>です。
   simple_meaning:
     0: Future
 '1347870':
@@ -3977,7 +4542,17 @@
     split_hiragana: しょう.がっこう
     wanikani_level: '9'
   kanji: 小学校
-  samples: {}
+  samples:
+    0:
+      english: My younger brother is in elementary school.
+      hiragana: おとうとはしょうがっこうにかよっています。
+      kanji: 弟は小学校に通っています。
+      ruby: <ruby>弟<rt>おとうと</rt></ruby>は<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。
+    1:
+      english: I am an elementary school teacher.
+      hiragana: わたしはしょうがっこうのせんせいです。
+      kanji: 私は小学校の先生です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>です。
   simple_meaning:
     0: Elementary school
 '1348430':
@@ -3988,7 +4563,17 @@
     split_hiragana: しょう.せつ
     wanikani_level: '17'
   kanji: 小説
-  samples: {}
+  samples:
+    0:
+      english: I read a novel yesterday.
+      hiragana: きのう、しょうせつをよみました。
+      kanji: 昨日、小説を読みました。
+      ruby: <ruby>昨日<rt>きのう</rt></ruby>、<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みました。
+    1:
+      english: My hobby is reading novels.
+      hiragana: わたしのしゅみはしょうせつをよむことです。
+      kanji: 私の趣味は小説を読むことです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むことです。
   simple_meaning:
     0: Novel
     1: Story
@@ -4000,7 +4585,17 @@
     split_hiragana: こ.とり
     wanikani_level: null
   kanji: 小鳥
-  samples: {}
+  samples:
+    0:
+      english: A small bird is singing on the tree.
+      hiragana: きのうえでことりがうたっています。
+      kanji: 木の上で小鳥が歌っています。
+      ruby: <ruby>木<rt>き</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<ruby>小鳥<rt>ことり</rt></ruby>が<ruby>歌<rt>うた</rt></ruby>っています。
+    1:
+      english: My brother raised a little bird.
+      hiragana: おとうとがことりをそだてています。
+      kanji: 弟が小鳥を育てています。
+      ruby: <ruby>弟<rt>おとうと</rt></ruby>が<ruby>小鳥<rt>ことり</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てています。
   simple_meaning:
     0: Small bird
     1: Little bird
@@ -4012,7 +4607,17 @@
     split_hiragana: とこ.や
     wanikani_level: null
   kanji: 床屋
-  samples: {}
+  samples:
+    0:
+      english: I went to the barber to get my hair cut.
+      hiragana: かみをきりに、とこやにいきました。
+      kanji: 髪を切りに、床屋に行きました。
+      ruby: <ruby>髪<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>りに、<ruby>床屋<rt>とこや</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+    1:
+      english: The barbershop is open until 7 PM.
+      hiragana: とこやはごごななじまであいています。
+      kanji: 床屋は午後7時まで開いています。
+      ruby: <ruby>床屋<rt>とこや</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby><ruby>七時<rt>しちじ</rt></ruby>まで<ruby>開<rt>あ</rt></ruby>いています。
   simple_meaning:
     0: Barber
     1: Barbershop
@@ -4024,7 +4629,17 @@
     split_hiragana: や.く
     wanikani_level: '18'
   kanji: 焼く
-  samples: {}
+  samples:
+    0:
+      english: I will bake a cake tomorrow.
+      hiragana: あしたケーキをやきます。
+      kanji: 明日ケーキを焼きます。
+      ruby: <ruby>明日<rt>あした</rt></ruby>ケーキを<ruby>焼<rt>や</rt></ruby>きます。
+    1:
+      english: The fish is being grilled.
+      hiragana: さかなをいまやいています。
+      kanji: 魚を今焼いています。
+      ruby: <ruby>魚<rt>さかな</rt></ruby>を<ruby>今<rt>いま</rt></ruby><ruby>焼<rt>や</rt></ruby>いています。
   simple_meaning:
     0: To bake
     1: To grill
@@ -4037,7 +4652,17 @@
     split_hiragana: や.け.る
     wanikani_level: '20'
   kanji: 焼ける
-  samples: {}
+  samples:
+    0:
+      english: The bread is baked.
+      hiragana: パンがやけました。
+      kanji: パンが焼けました。
+      ruby: パンが<ruby>焼<rt>や</rt></ruby>けました。
+    1:
+      english: The meat is getting roasted.
+      hiragana: にくがやけています。
+      kanji: 肉が焼けています。
+      ruby: <ruby>肉<rt>にく</rt></ruby>が<ruby>焼<rt>や</rt></ruby>けています。
   simple_meaning:
     0: To be burned
     1: To be roasted
@@ -4049,7 +4674,17 @@
     split_hiragana: わら.う
     wanikani_level: '16'
   kanji: 笑う
-  samples: {}
+  samples:
+    0:
+      english: The baby is smiling.
+      hiragana: あかちゃんがわらっています。
+      kanji: 赤ちゃんが笑っています。
+      ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>笑<rt>わら</rt></ruby>っています。
+    1:
+      english: Don't laugh at people.
+      hiragana: ひとをわらってはいけません。
+      kanji: 人を笑ってはいけません。
+      ruby: <ruby>人<rt>ひと</rt></ruby>を<ruby>笑<rt>わら</rt></ruby>ってはいけません。
   simple_meaning:
     0: To laugh
     1: To smile
@@ -4061,7 +4696,17 @@
     split_hiragana: しょう.かい
     wanikani_level: '37'
   kanji: 紹介
-  samples: {}
+  samples:
+    0:
+      english: Please introduce yourself.
+      hiragana: じこしょうかいをしてください。
+      kanji: 自己紹介をしてください。
+      ruby: <ruby>自己紹介<rt>じこしょうかい</rt></ruby>をしてください。
+    1:
+      english: My friend introduced me to a good restaurant.
+      hiragana: ともだちがよいレストランをしょうかいしてくれました。
+      kanji: 友達が良いレストランを紹介してくれました。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いレストランを<ruby>紹介<rt>しょうかい</rt></ruby>してくれました。
   simple_meaning:
     0: Introduction
 '1352290':
@@ -4072,7 +4717,17 @@
     split_hiragana: あ.が.る
     wanikani_level: '21'
   kanji: 上がる
-  samples: {}
+  samples:
+    0:
+      english: The temperature has gone up.
+      hiragana: きおんがあがりました。
+      kanji: 気温が上がりました。
+      ruby: <ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。
+    1:
+      english: Please come up to the second floor.
+      hiragana: にかいにあがってください。
+      kanji: 2階に上がってください。
+      ruby: <ruby>二階<rt>にかい</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がってください。
   simple_meaning:
     0: To rise
     1: To go up
@@ -4084,7 +4739,17 @@
     split_hiragana: ば.あい
     wanikani_level: '14'
   kanji: 場合
-  samples: {}
+  samples:
+    0:
+      english: In case of fire, use the stairs.
+      hiragana: かじのばあいはかいだんをつかってください。
+      kanji: 火事の場合は階段を使ってください。
+      ruby: <ruby>火事<rt>かじ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>階段<rt>かいだん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってください。
+    1:
+      english: In that case, I will call you.
+      hiragana: そのばあいは、でんわします。
+      kanji: その場合は、電話します。
+      ruby: その<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>電話<rt>でんわ</rt></ruby>します。
   simple_meaning:
     0: Case
     1: Situation
@@ -4096,7 +4761,17 @@
     split_hiragana: ば.しょ
     wanikani_level: '8'
   kanji: 場所
-  samples: {}
+  samples:
+    0:
+      english: Please tell me the place.
+      hiragana: ばしょをおしえてください。
+      kanji: 場所を教えてください。
+      ruby: <ruby>場所<rt>ばしょ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。
+    1:
+      english: Let's choose a quiet place.
+      hiragana: しずかなばしょをえらびましょう。
+      kanji: 静かな場所を選びましょう。
+      ruby: <ruby>静<rt>しず</rt></ruby>かな<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びましょう。
   simple_meaning:
     0: Place
     1: Location
@@ -4108,7 +4783,17 @@
     split_hiragana: たたみ
     wanikani_level: '47'
   kanji: 畳
-  samples: {}
+  samples:
+    0:
+      english: There is a tatami room in the house.
+      hiragana: いえにたたみのあるへやがあります。
+      kanji: 家に畳のある部屋があります。
+      ruby: <ruby>家<rt>いえ</rt></ruby>に<ruby>畳<rt>たたみ</rt></ruby>のある<ruby>部屋<rt>へや</rt></ruby>があります。
+    1:
+      english: Let's sit on the tatami mat.
+      hiragana: たたみにすわりましょう。
+      kanji: 畳に座りましょう。
+      ruby: <ruby>畳<rt>たたみ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>りましょう。
   simple_meaning:
     0: Tatami mat
 '1357210':
@@ -4119,7 +4804,17 @@
     split_hiragana: かざ.る
     wanikani_level: '30'
   kanji: 飾る
-  samples: {}
+  samples:
+    0:
+      english: I decorated my room with flowers.
+      hiragana: へやをはなでかざりました。
+      kanji: 部屋を花で飾りました。
+      ruby: <ruby>部屋<rt>へや</rt></ruby>を<ruby>花<rt>はな</rt></ruby>で<ruby>飾<rt>かざ</rt></ruby>りました。
+    1:
+      english: The Christmas tree is decorated.
+      hiragana: クリスマスツリーをかざります。
+      kanji: クリスマスツリーを飾ります。
+      ruby: クリスマスツリーを<ruby>飾<rt>かざ</rt></ruby>ります。
   simple_meaning:
     0: To decorate
 '1357250':
@@ -4130,7 +4825,17 @@
     split_hiragana: う.え.る
     wanikani_level: '12'
   kanji: 植える
-  samples: {}
+  samples:
+    0:
+      english: I planted a tree in the garden.
+      hiragana: にわにきをうえました。
+      kanji: 庭に木を植えました。
+      ruby: <ruby>庭<rt>にわ</rt></ruby>に<ruby>木<rt>き</rt></ruby>を<ruby>植<rt>う</rt></ruby>えました。
+    1:
+      english: We planted flowers in the school.
+      hiragana: がっこうにはなをうえました。
+      kanji: 学校に花を植えました。
+      ruby: <ruby>学校<rt>がっこう</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<ruby>植<rt>う</rt></ruby>えました。
   simple_meaning:
     0: To plant
 '1357980':
@@ -4141,7 +4846,17 @@
     split_hiragana: さわ.る
     wanikani_level: '24'
   kanji: 触る
-  samples: {}
+  samples:
+    0:
+      english: Please don't touch the exhibits.
+      hiragana: てんじひんにさわらないでください。
+      kanji: 展示品に触らないでください。
+      ruby: <ruby>展示品<rt>てんじひん</rt></ruby>に<ruby>触<rt>さわ</rt></ruby>らないでください。
+    1:
+      english: The cat is soft to the touch.
+      hiragana: ねこにさわるとやわらかいです。
+      kanji: 猫に触ると柔らかいです。
+      ruby: <ruby>猫<rt>ねこ</rt></ruby>に<ruby>触<rt>さわ</rt></ruby>ると<ruby>柔<rt>やわ</rt></ruby>らかいです。
   simple_meaning:
     0: To touch
 '1358680':
@@ -4152,7 +4867,17 @@
     split_hiragana: しょく.りょう.ひん
     wanikani_level: '16'
   kanji: 食料品
-  samples: {}
+  samples:
+    0:
+      english: I'm going to buy groceries.
+      hiragana: しょくりょうひんをかいにいきます。
+      kanji: 食料品を買いに行きます。
+      ruby: <ruby>食料品<rt>しょくりょうひん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。
+    1:
+      english: The food store is over there.
+      hiragana: しょくりょうひんてんはあそこです。
+      kanji: 食料品店はあそこです。
+      ruby: <ruby>食料品店<rt>しょくりょうひんてん</rt></ruby>はあそこです。
   simple_meaning:
     0: Groceries
     1: Food items
@@ -4164,7 +4889,17 @@
     split_hiragana: ね.ぼう
     wanikani_level: '24'
   kanji: 寝坊
-  samples: {}
+  samples:
+    0:
+      english: I overslept and was late for school.
+      hiragana: ねぼうしてがっこうにおくれました。
+      kanji: 寝坊して学校に遅れました。
+      ruby: <ruby>寝坊<rt>ねぼう</rt></ruby>して<ruby>学校<rt>がっこう</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れました。
+    1:
+      english: I don't want to oversleep tomorrow.
+      hiragana: あしたねぼうしたくないです。
+      kanji: 明日寝坊したくないです。
+      ruby: <ruby>明日<rt>あした</rt></ruby><ruby>寝坊<rt>ねぼう</rt></ruby>したくないです。
   simple_meaning:
     0: Oversleeping
 '1360480':
@@ -4175,7 +4910,17 @@
     split_hiragana: こころ
     wanikani_level: '3'
   kanji: 心
-  samples: {}
+  samples:
+    0:
+      english: I am relieved from the bottom of my heart.
+      hiragana: こころからあんしんしました。
+      kanji: 心から安心しました。
+      ruby: <ruby>心<rt>こころ</rt></ruby>から<ruby>安心<rt>あんしん</rt></ruby>しました。
+    1:
+      english: My heart is pounding.
+      hiragana: こころがどきどきしています。
+      kanji: 心がドキドキしています。
+      ruby: <ruby>心<rt>こころ</rt></ruby>がドキドキしています。
   simple_meaning:
     0: Heart
     1: Mind
@@ -4188,7 +4933,17 @@
     split_hiragana: しん.ぶん.しゃ
     wanikani_level: null
   kanji: 新聞社
-  samples: {}
+  samples:
+    0:
+      english: He works at a newspaper company.
+      hiragana: かれはしんぶんしゃではたらいています。
+      kanji: 彼は新聞社で働いています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>新聞社<rt>しんぶんしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。
+    1:
+      english: I want to be a journalist at a newspaper company.
+      hiragana: わたしはしんぶんしゃのきしゃになりたいです。
+      kanji: 私は新聞社の記者になりたいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>新聞社<rt>しんぶんしゃ</rt></ruby>の<ruby>記者<rt>きしゃ</rt></ruby>になりたいです。
   simple_meaning:
     0: Newspaper company
 '1362490':
@@ -4199,7 +4954,17 @@
     split_hiragana: もり
     wanikani_level: '8'
   kanji: 森
-  samples: {}
+  samples:
+    0:
+      english: Let's go for a walk in the forest.
+      hiragana: もりへさんぽにいきましょう。
+      kanji: 森へ散歩に行きましょう。
+      ruby: <ruby>森<rt>もり</rt></ruby>へ<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。
+    1:
+      english: There are many animals in that forest.
+      hiragana: あのもりにはたくさんのどうぶつがいます。
+      kanji: あの森にはたくさんの動物がいます。
+      ruby: あの<ruby>森<rt>もり</rt></ruby>にはたくさんの<ruby>動物<rt>どうぶつ</rt></ruby>がいます。
   simple_meaning:
     0: Forest
 '1362640':
@@ -4210,7 +4975,17 @@
     split_hiragana: ふか.い
     wanikani_level: '12'
   kanji: 深い
-  samples: {}
+  samples:
+    0:
+      english: The lake is very deep.
+      hiragana: そのみずうみはとてもふかいです。
+      kanji: その湖はとても深いです。
+      ruby: その<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。
+    1:
+      english: Please think about it deeply.
+      hiragana: ふかくかんがえてください。
+      kanji: 深く考えてください。
+      ruby: <ruby>深<rt>ふか</rt></ruby>く<ruby>考<rt>かんが</rt></ruby>えてください。
   simple_meaning:
     0: Deep
 '1362950':
@@ -4221,7 +4996,17 @@
     split_hiragana: もう.し.あ.げ.る
     wanikani_level: null
   kanji: 申し上げる
-  samples: {}
+  samples:
+    0:
+      english: I apologize from the bottom of my heart.
+      hiragana: こころからおわびもうしあげます。
+      kanji: 心からお詫び申し上げます。
+      ruby: <ruby>心<rt>こころ</rt></ruby>からお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
+    1:
+      english: I will tell the teacher about the matter.
+      hiragana: そのけんについて、せんせいにこくちもうしあげます。
+      kanji: その件について、先生に告知申し上げます。
+      ruby: その<ruby>件<rt>けん</rt></ruby>について、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>告知<rt>こくち</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
   simple_meaning:
     0: To say (humble)
     1: To tell
@@ -4233,7 +5018,17 @@
     split_hiragana: もう.す
     wanikani_level: '4'
   kanji: 申す
-  samples: {}
+  samples:
+    0:
+      english: My name is Yamada.
+      hiragana: わたしはしんいちろうと申します。
+      kanji: 私は真一郎と申します。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>真一郎<rt>しんいちろう</rt></ruby>と<ruby>申<rt>もう</rt></ruby>します。
+    1:
+      english: What is your name?
+      hiragana: おなまえはなんともうしますか。
+      kanji: お名前は何と申しますか。
+      ruby: お<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>と<ruby>申<rt>もう</rt></ruby>しますか。
   simple_meaning:
     0: To say (humble)
 '1364670':
@@ -4244,7 +5039,17 @@
     split_hiragana: じん.じゃ
     wanikani_level: '11'
   kanji: 神社
-  samples: {}
+  samples:
+    0:
+      english: Let's go to the shrine.
+      hiragana: じんじゃへいきましょう。
+      kanji: 神社へ行きましょう。
+      ruby: <ruby>神社<rt>じんじゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましょう。
+    1:
+      english: I pray at the shrine every New Year's Day.
+      hiragana: まいとしおしょうがつにじんじゃにおまいりします。
+      kanji: 毎年お正月に神社にお参りします。
+      ruby: <ruby>毎年<rt>まいとし</rt></ruby>お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>神社<rt>じんじゃ</rt></ruby>にお<ruby>参<rt>まい</rt></ruby>りします。
   simple_meaning:
     0: Shrine (Shinto)
 '1365040':
@@ -4255,7 +5060,17 @@
     split_hiragana: おや
     wanikani_level: '10'
   kanji: 親
-  samples: {}
+  samples:
+    0:
+      english: I will meet with my parents this weekend.
+      hiragana: こんしゅうまつおやにあいます。
+      kanji: 今週末親に会います。
+      ruby: <ruby>今週末<rt>こんしゅうまつ</rt></ruby><ruby>親<rt>おや</rt></ruby>に<ruby>会<rt>あ</rt></ruby>います。
+    1:
+      english: My parents are kind people.
+      hiragana: わたしのりょうしんはしんせつなひとです。
+      kanji: 私の親は親切な人です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>親<rt>おや</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>です。
   simple_meaning:
     0: Parent
 '1365250':
@@ -4266,7 +5081,17 @@
     split_hiragana: しん.せつ
     wanikani_level: '10'
   kanji: 親切
-  samples: {}
+  samples:
+    0:
+      english: That person is very kind.
+      hiragana: あのひとはとてもしんせつです。
+      kanji: あの人はとても親切です。
+      ruby: あの<ruby>人<rt>ひと</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>です。
+    1:
+      english: Thank you for your kindness.
+      hiragana: ごしんせつにありがとう。
+      kanji: ご親切にありがとう。
+      ruby: ご<ruby>親切<rt>しんせつ</rt></ruby>にありがとう。
   simple_meaning:
     0: Kind
     1: Helpful
@@ -4278,7 +5103,17 @@
     split_hiragana: すす.む
     wanikani_level: '10'
   kanji: 進む
-  samples: {}
+  samples:
+    0:
+      english: Let's proceed with the work.
+      hiragana: しごとをすすめましょう。
+      kanji: 仕事を進めましょう。
+      ruby: <ruby>仕事<rt>しごと</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めましょう。
+    1:
+      english: The hands of the clock are ticking.
+      hiragana: とけいのはりがすすんでいます。
+      kanji: 時計の針が進んでいます。
+      ruby: <ruby>時計<rt>とけい</rt></ruby>の<ruby>針<rt>はり</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいます。
   simple_meaning:
     0: To advance
     1: To proceed
@@ -4290,7 +5125,17 @@
     split_hiragana: にん.ぎょう
     wanikani_level: '7'
   kanji: 人形
-  samples: {}
+  samples:
+    0:
+      english: The child is playing with a doll.
+      hiragana: こどもがにんぎょうであそんでいます。
+      kanji: 子どもが人形で遊んでいます。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもが<ruby>人形<rt>にんぎょう</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>んでいます。
+    1:
+      english: I received a doll as a present.
+      hiragana: プレゼントでとてもかわいいにんぎょうをもらいました。
+      kanji: プレゼントでとても可愛い人形をもらいました。
+      ruby: プレゼントでとても<ruby>可愛<rt>かわい</rt></ruby>い<ruby>人形<rt>にんぎょう</rt></ruby>をもらいました。
   simple_meaning:
     0: Doll
     1: Puppet
@@ -4302,7 +5147,17 @@
     split_hiragana: じん.こう
     wanikani_level: '1'
   kanji: 人口
-  samples: {}
+  samples:
+    0:
+      english: The population of the city is 3 million.
+      hiragana: このしのじんこうはさんびゃくまにんです。
+      kanji: この市の人口は300万人です。
+      ruby: この<ruby>市<rt>し</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>三百万人<rt>さんびゃくまんにん</rt></ruby>です。
+    1:
+      english: The population of Japan is decreasing.
+      hiragana: にほんのじんこうはへっています。
+      kanji: 日本の人口は減っています。
+      ruby: <ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。
   simple_meaning:
     0: Population
 '1369940':
@@ -4313,7 +5168,17 @@
     split_hiragana: たず.ね.る
     wanikani_level: '31'
   kanji: 尋ねる
-  samples: {}
+  samples:
+    0:
+      english: I asked a question to the teacher.
+      hiragana: せんせいにしつもんをたずねました。
+      kanji: 先生に質問を尋ねました。
+      ruby: <ruby>先生<rt>せんせい</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>を<ruby>尋<rt>たず</rt></ruby>ねました。
+    1:
+      english: I am inquiring about the destination.
+      hiragana: もくてきちをたずねています。
+      kanji: 目的地を尋ねています。
+      ruby: <ruby>目的地<rt>もくてきち</rt></ruby>を<ruby>尋<rt>たず</rt></ruby>ねています。
   simple_meaning:
     0: To ask
     1: To inquire
@@ -4325,7 +5190,17 @@
     split_hiragana: すい.えい
     wanikani_level: null
   kanji: 水泳
-  samples: {}
+  samples:
+    0:
+      english: I learned how to swim at a swimming school.
+      hiragana: すいえいきょうしつですいえいをならいました。
+      kanji: 水泳教室で水泳を習いました。
+      ruby: <ruby>水泳教室<rt>すいえいきょうしつ</rt></ruby>で<ruby>水泳<rt>すいえい</rt></ruby>を<ruby>習<rt>なら</rt></ruby>いました。
+    1:
+      english: The school has a swimming pool.
+      hiragana: がっこうにすいえいようのプールがあります。
+      kanji: 学校に水泳用のプールがあります。
+      ruby: <ruby>学校<rt>がっこう</rt></ruby>に<ruby>水泳<rt>すいえい</rt></ruby><ruby>用<rt>よう</rt></ruby>のプールがあります。
   simple_meaning:
     0: Swimming
 '1371920':
@@ -4336,7 +5211,17 @@
     split_hiragana: すい.どう
     wanikani_level: '8'
   kanji: 水道
-  samples: {}
+  samples:
+    0:
+      english: The water bill is expensive.
+      hiragana: すいどうだいがたかいです。
+      kanji: 水道代が高いです。
+      ruby: <ruby>水道代<rt>すいどうだい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。
+    1:
+      english: Please turn off the water.
+      hiragana: すいどうのじゃぐちをしめてください。
+      kanji: 水道の蛇口を閉めてください。
+      ruby: <ruby>水道<rt>すいどう</rt></ruby>の<ruby>蛇口<rt>じゃぐち</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めてください。
   simple_meaning:
     0: Water supply
     1: Water service
@@ -4348,7 +5233,17 @@
     split_hiragana: すう.がく
     wanikani_level: '8'
   kanji: 数学
-  samples: {}
+  samples:
+    0:
+      english: Mathematics is a difficult subject for me.
+      hiragana: すうがくはわたしにとってむずかしいかもくです。
+      kanji: 数学は私にとって難しい科目です。
+      ruby: <ruby>数学<rt>すうがく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>にとって<ruby>難<rt>むずか</rt></ruby>しい<ruby>科目<rt>かもく</rt></ruby>です。
+    1:
+      english: I like math more than science.
+      hiragana: わたしはかがくよりすうがくがすきです。
+      kanji: 私は科学より数学が好きです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>科学<rt>かがく</rt></ruby>より<ruby>数学<rt>すうがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。
   simple_meaning:
     0: Mathematics
 '1373860':
@@ -4359,7 +5254,17 @@
     split_hiragana: せ.かい
     wanikani_level: '9'
   kanji: 世界
-  samples: {}
+  samples:
+    0:
+      english: The world is big.
+      hiragana: せかいはひろいです。
+      kanji: 世界は広いです。
+      ruby: <ruby>世界<rt>せかい</rt></ruby>は<ruby>広<rt>ひろ</rt></ruby>いです。
+    1:
+      english: I want to travel around the world someday.
+      hiragana: いつかせかいをりょこうしたいです。
+      kanji: いつか世界を旅行したいです。
+      ruby: いつか<ruby>世界<rt>せかい</rt></ruby>を<ruby>旅行<rt>りょこう</rt></ruby>したいです。
   simple_meaning:
     0: World
 '1375970':
@@ -4370,7 +5275,17 @@
     split_hiragana: せい.じ
     wanikani_level: '16'
   kanji: 政治
-  samples: {}
+  samples:
+    0:
+      english: I am not interested in politics.
+      hiragana: わたしはせいじにきょうみがありません。
+      kanji: 私は政治に興味がありません。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>政治<rt>せいじ</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>がありません。
+    1:
+      english: The country's politics are in a mess.
+      hiragana: そのくにのせいじはこんらんです。
+      kanji: その国の政治は混乱です。
+      ruby: その<ruby>国<rt>くに</rt></ruby>の<ruby>政治<rt>せいじ</rt></ruby>は<ruby>混乱<rt>こんらん</rt></ruby>です。
   simple_meaning:
     0: Politics
     1: Government
@@ -4382,7 +5297,17 @@
     split_hiragana: ほし
     wanikani_level: '6'
   kanji: 星
-  samples: {}
+  samples:
+    0:
+      english: I can see a lot of stars tonight.
+      hiragana: こんばん、たくさんのほしがみえます。
+      kanji: 今夜、たくさんの星が見えます。
+      ruby: <ruby>今夜<rt>こんや</rt></ruby>、たくさんの<ruby>星<rt>ほし</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。
+    1:
+      english: I like looking at the stars.
+      hiragana: ほしをみるのがすきです。
+      kanji: 星を見るのが好きです。
+      ruby: <ruby>星<rt>ほし</rt></ruby>を<ruby>見<rt>み</rt></ruby>るのが<ruby>好<rt>す</rt></ruby>きです。
   simple_meaning:
     0: Star
 '1376600':
@@ -4393,7 +5318,17 @@
     split_hiragana: ただ.し.い
     wanikani_level: '2'
   kanji: 正しい
-  samples: {}
+  samples:
+    0:
+      english: Your answer is correct.
+      hiragana: あなたのこたえはただしいです。
+      kanji: あなたの答えは正しいです。
+      ruby: あなたの<ruby>答<rt>こた</rt></ruby>えは<ruby>正<rt>ただ</rt></ruby>しいです。
+    1:
+      english: That's the correct way to do it.
+      hiragana: それがただしいやりかたです。
+      kanji: それが正しいやり方です。
+      ruby: それが<ruby>正<rt>ただ</rt></ruby>しいやり<ruby>方<rt>かた</rt></ruby>です。
   simple_meaning:
     0: Correct
     1: Right
@@ -4405,7 +5340,17 @@
     split_hiragana: い.き.る
     wanikani_level: '3'
   kanji: 生きる
-  samples: {}
+  samples:
+    0:
+      english: I want to live a long life.
+      hiragana: ながくいきたいです。
+      kanji: 長く生きたいです。
+      ruby: <ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きたいです。
+    1:
+      english: We live on Earth.
+      hiragana: わたしたちはちきゅうにいきています。
+      kanji: 私たちは地球に生きています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>生<rt>い</rt></ruby>きています。
   simple_meaning:
     0: To live
 '1378860':
@@ -4416,7 +5361,17 @@
     split_hiragana: せい.かつ
     wanikani_level: '6'
   kanji: 生活
-  samples: {}
+  samples:
+    0:
+      english: I want to live a comfortable life.
+      hiragana: らくなくらしがしたいです。
+      kanji: 楽な生活がしたいです。
+      ruby: <ruby>楽<rt>らく</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>がしたいです。
+    1:
+      english: My life in Japan is very enjoyable.
+      hiragana: にほんでのせいかつはとてもたのしいです。
+      kanji: 日本での生活はとても楽しいです。
+      ruby: <ruby>日本<rt>にほん</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>はとても<ruby>楽<rt>たの</rt></ruby>しいです。
   simple_meaning:
     0: Life
     1: Living
@@ -4429,7 +5384,17 @@
     split_hiragana: せい.さん
     wanikani_level: null
   kanji: 生産
-  samples: {}
+  samples:
+    0:
+      english: The production of cars has increased.
+      hiragana: じどうしゃのせいさんがふえました。
+      kanji: 自動車の生産が増えました。
+      ruby: <ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>生産<rt>せいさん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。
+    1:
+      english: This factory is dedicated to rice production.
+      hiragana: このこうじょうはこめのせいさんをしています。
+      kanji: この工場は米の生産をしています。
+      ruby: この<ruby>工場<rt>こうじょう</rt></ruby>は<ruby>米<rt>こめ</rt></ruby>の<ruby>生産<rt>せいさん</rt></ruby>をしています。
   simple_meaning:
     0: Production
 '1379750':
@@ -4440,7 +5405,17 @@
     split_hiragana: さか.ん
     wanikani_level: null
   kanji: 盛ん
-  samples: {}
+  samples:
+    0:
+      english: The festival is very popular.
+      hiragana: そのまつりはとてもさかんです。
+      kanji: その祭りはとても盛んです。
+      ruby: その<ruby>祭<rt>まつ</rt></ruby>りはとても<ruby>盛<rt>さか</rt></ruby>んです。
+    1:
+      english: Sports activities are thriving at this school.
+      hiragana: このがっこうではスポーツかつどうがさかんです。
+      kanji: この学校ではスポーツ活動が盛んです。
+      ruby: この<ruby>学校<rt>がっこう</rt></ruby>ではスポーツ<ruby>活動<rt>かつどう</rt></ruby>が<ruby>盛<rt>さか</rt></ruby>んです。
   simple_meaning:
     0: Prosperous
     1: Popular
@@ -4453,7 +5428,17 @@
     split_hiragana: せい.よう
     wanikani_level: '11'
   kanji: 西洋
-  samples: {}
+  samples:
+    0:
+      english: I like Western music.
+      hiragana: わたしはせいようのおんがくがすきです。
+      kanji: 私は西洋の音楽が好きです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>西洋<rt>せいよう</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。
+    1:
+      english: Western culture is very different from Japanese culture.
+      hiragana: せいようのぶんかとにほんのぶんかはかなりちがいます。
+      kanji: 西洋の文化と日本の文化はかなり違います。
+      ruby: <ruby>西洋<rt>せいよう</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>はかなり<ruby>違<rt>ちが</rt></ruby>います。
   simple_meaning:
     0: The West
     1: Western countries
@@ -4465,7 +5450,17 @@
     split_hiragana: せき
     wanikani_level: '17'
   kanji: 席
-  samples: {}
+  samples:
+    0:
+      english: Is this seat empty?
+      hiragana: このせきはあいていますか。
+      kanji: この席は空いていますか。
+      ruby: この<ruby>席<rt>せき</rt></ruby>は<ruby>空<rt>あ</rt></ruby>いていますか。
+    1:
+      english: Please take a seat.
+      hiragana: せきについてください。
+      kanji: 席に着いてください。
+      ruby: <ruby>席<rt>せき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いてください。
   simple_meaning:
     0: Seat
 '1382370':
@@ -4476,7 +5471,17 @@
     split_hiragana: むかし
     wanikani_level: '11'
   kanji: 昔
-  samples: {}
+  samples:
+    0:
+      english: Once upon a time, there was a princess.
+      hiragana: むかしむかし、おひめさまがいました。
+      kanji: 昔々、お姫様がいました。
+      ruby: <ruby>昔々<rt>むかしむかし</rt></ruby>、お<ruby>姫様<rt>ひめさま</rt></ruby>がいました。
+    1:
+      english: In the old days, there were no cell phones.
+      hiragana: むかしはけいたいでんわがありませんでした。
+      kanji: 昔は携帯電話がありませんでした。
+      ruby: <ruby>昔<rt>むかし</rt></ruby>は<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>がありませんでした。
   simple_meaning:
     0: Long ago
     1: Old times
@@ -4488,7 +5493,17 @@
     split_hiragana: いし
     wanikani_level: '4'
   kanji: 石
-  samples: {}
+  samples:
+    0:
+      english: I found a beautiful stone.
+      hiragana: きれいなをいしをひろいました。
+      kanji: 綺麗な石を拾いました。
+      ruby: <ruby>綺麗<rt>きれい</rt></ruby>な<ruby>石<rt>いし</rt></ruby>を<ruby>拾<rt>ひろ</rt></ruby>いました。
+    1:
+      english: The stone fell from the mountain.
+      hiragana: やまからいしがおちました。
+      kanji: 山から石が落ちました。
+      ruby: <ruby>山<rt>やま</rt></ruby>から<ruby>石<rt>いし</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちました。
   simple_meaning:
     0: Stone
     1: Rock
@@ -4500,7 +5515,17 @@
     split_hiragana: あか.ち.ゃ.ん
     wanikani_level: '4'
   kanji: 赤ちゃん
-  samples: {}
+  samples:
+    0:
+      english: My baby is sleeping now.
+      hiragana: わたしのあかちゃんはねています。
+      kanji: 私の赤ちゃんは寝ています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>寝<rt>ね</rt></ruby>ています。
+    1:
+      english: The baby is crying.
+      hiragana: あかちゃんがないています。
+      kanji: 赤ちゃんが泣いています。
+      ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>泣<rt>な</rt></ruby>いています。
   simple_meaning:
     0: Baby
 '1383310':
@@ -4511,7 +5536,17 @@
     split_hiragana: あか.ん.ぼう
     wanikani_level: '22'
   kanji: 赤ん坊
-  samples: {}
+  samples:
+    0:
+      english: The infant is sleeping in the cradle.
+      hiragana: あかんぼうがゆりかごでねています。
+      kanji: 赤ん坊がゆりかごで寝ています。
+      ruby: <ruby>赤<rt>あか</rt></ruby>ん<ruby>坊<rt>ぼう</rt></ruby>がゆりかごで<ruby>寝<rt>ね</rt></ruby>ています。
+    1:
+      english: There is a baby in that stroller.
+      hiragana: そのベビーカーにはあかんぼうがいます。
+      kanji: そのベビーカーには赤ん坊がいます。
+      ruby: そのベビーカーには<ruby>赤<rt>あか</rt></ruby>ん<ruby>坊<rt>ぼう</rt></ruby>がいます。
   simple_meaning:
     0: Infant
     1: Baby
@@ -4523,7 +5558,17 @@
     split_hiragana: お.る
     wanikani_level: '14'
   kanji: 折る
-  samples: {}
+  samples:
+    0:
+      english: I folded the paper.
+      hiragana: かみをおりました。
+      kanji: 紙を折りました。
+      ruby: <ruby>紙<rt>かみ</rt></ruby>を<ruby>折<rt>お</rt></ruby>りました。
+    1:
+      english: I broke the branch.
+      hiragana: えだをおってしまいました。
+      kanji: 枝を折ってしまいました。
+      ruby: <ruby>枝<rt>えだ</rt></ruby>を<ruby>折<rt>お</rt></ruby>ってしまいました。
   simple_meaning:
     0: To break
     1: To fold
@@ -4535,7 +5580,17 @@
     split_hiragana: お.れ.る
     wanikani_level: '16'
   kanji: 折れる
-  samples: {}
+  samples:
+    0:
+      english: The branch broke.
+      hiragana: えだがおれました。
+      kanji: 枝が折れました。
+      ruby: <ruby>枝<rt>えだ</rt></ruby>が<ruby>折<rt>お</rt></ruby>れました。
+    1:
+      english: My pencil snapped.
+      hiragana: えんぴつがおれました。
+      kanji: 鉛筆が折れました。
+      ruby: <ruby>鉛筆<rt>えんぴつ</rt></ruby>が<ruby>折<rt>お</rt></ruby>れました。
   simple_meaning:
     0: To be broken
     1: To snap
@@ -4547,7 +5602,17 @@
     split_hiragana: せつ.めい
     wanikani_level: '17'
   kanji: 説明
-  samples: {}
+  samples:
+    0:
+      english: I didn't understand the explanation.
+      hiragana: せつめいがわかりませんでした。
+      kanji: 説明が分かりませんでした。
+      ruby: <ruby>説明<rt>せつめい</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりませんでした。
+    1:
+      english: Could you please explain it again?
+      hiragana: もういちどせつめいしていただけませんか。
+      kanji: もう一度説明していただけませんか。
+      ruby: もう<ruby>一度<rt>いちど</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>していただけませんか。
   simple_meaning:
     0: Explanation
 '1388410':
@@ -4558,7 +5623,17 @@
     split_hiragana: せん.ぱい
     wanikani_level: '25'
   kanji: 先輩
-  samples: {}
+  samples:
+    0:
+      english: My senior is very kind.
+      hiragana: わたしのせんぱいはとてもしんせつです。
+      kanji: 私の先輩はとても親切です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>です。
+    1:
+      english: I learned a lot from my upperclassman.
+      hiragana: せんぱいからたくさんのことをまなびました。
+      kanji: 先輩からたくさんのことを学びました。
+      ruby: <ruby>先輩<rt>せんぱい</rt></ruby>からたくさんのことを<ruby>学<rt>まな</rt></ruby>びました。
   simple_meaning:
     0: Senior
     1: Upperclassman
@@ -4570,7 +5645,17 @@
     split_hiragana: せん.そう
     wanikani_level: '11'
   kanji: 戦争
-  samples: {}
+  samples:
+    0:
+      english: I hope there will be no more war.
+      hiragana: もうせんそうがおきないことをねがいます。
+      kanji: もう戦争が起きないことを願います。
+      ruby: もう<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>起<rt>お</rt></ruby>きないことを<ruby>願<rt>ねが</rt></ruby>います。
+    1:
+      english: The war ended 10 years ago.
+      hiragana: せんそうはじゅうねんまえにおわりました。
+      kanji: 戦争は10年前に終わりました。
+      ruby: <ruby>戦争<rt>せんそう</rt></ruby>は<ruby>十年<rt>じゅうねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わりました。
   simple_meaning:
     0: War
 '1390800':
@@ -4581,7 +5666,17 @@
     split_hiragana: あさ.い
     wanikani_level: '15'
   kanji: 浅い
-  samples: {}
+  samples:
+    0:
+      english: The water in the pool is shallow.
+      hiragana: プールのこはあさいです。
+      kanji: プールの水は浅いです。
+      ruby: プールの<ruby>水<rt>みず</rt></ruby>は<ruby>浅<rt>あさ</rt></ruby>いです。
+    1:
+      english: My knowledge is shallow.
+      hiragana: わたしのちしきはあさいです。
+      kanji: 私の知識は浅いです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>は<ruby>浅<rt>あさ</rt></ruby>いです。
   simple_meaning:
     0: Shallow
 '1391780':
@@ -4592,7 +5687,17 @@
     split_hiragana: せん
     wanikani_level: '10'
   kanji: 線
-  samples: {}
+  samples:
+    0:
+      english: Draw a line with a ruler.
+      hiragana: ものさしでせんをかいてください。
+      kanji: 物差しで線を書いてください。
+      ruby: <ruby>物差<rt>ものさし</rt></ruby>で<ruby>線<rt>せん</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。
+    1:
+      english: Please stand behind the white line.
+      hiragana: しろいせんのうしろにさがってください。
+      kanji: 白い線の後ろに下がってください。
+      ruby: <ruby>白<rt>しろ</rt></ruby>い<ruby>線<rt>せん</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろに<ruby>下<rt>さ</rt></ruby>がってください。
   simple_meaning:
     0: Line
     1: Track
@@ -4604,7 +5709,17 @@
     split_hiragana: そ.ふ
     wanikani_level: '32'
   kanji: 祖父
-  samples: {}
+  samples:
+    0:
+      english: My grandfather is a kind person.
+      hiragana: わたしのそふはしんせつなひとです。
+      kanji: 私の祖父は親切な人です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>祖父<rt>そふ</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>です。
+    1:
+      english: My grandfather is 80 years old.
+      hiragana: わたしのそふははちじゅっさいです。
+      kanji: 私の祖父は80歳です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>祖父<rt>そふ</rt></ruby>は<ruby>八十歳<rt>はちじゅっさい</rt></ruby>です。
   simple_meaning:
     0: Grandfather
 '1396860':
@@ -4615,7 +5730,17 @@
     split_hiragana: そ.ぼ
     wanikani_level: '32'
   kanji: 祖母
-  samples: {}
+  samples:
+    0:
+      english: I went to visit my grandmother.
+      hiragana: そぼにあいにいきました。
+      kanji: 祖母に会いに行きました。
+      ruby: <ruby>祖母<rt>そぼ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きました。
+    1:
+      english: My grandmother is good at cooking.
+      hiragana: わたしのそぼはりょうりがじょうずです。
+      kanji: 私の祖母は料理が上手です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>祖母<rt>そぼ</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。
   simple_meaning:
     0: Grandmother
 '1401910':
@@ -4626,7 +5751,17 @@
     split_hiragana: くさ
     wanikani_level: '5'
   kanji: 草
-  samples: {}
+  samples:
+    0:
+      english: The grass is green.
+      hiragana: くさがみどりです。
+      kanji: 草が緑です。
+      ruby: <ruby>草<rt>くさ</rt></ruby>が<ruby>緑<rt>みどり</rt></ruby>です。
+    1:
+      english: I cut the grass in the garden.
+      hiragana: にわのくさをかみました。
+      kanji: 庭の草を刈りました。
+      ruby: <ruby>庭<rt>にわ</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>を<ruby>刈<rt>か</rt></ruby>りました。
   simple_meaning:
     0: Grass
 '1402730':
@@ -4637,7 +5772,17 @@
     split_hiragana: おく.る
     wanikani_level: '9'
   kanji: 送る
-  samples: {}
+  samples:
+    0:
+      english: I will send a letter to my friend.
+      hiragana: ともだちにてもをおくります。
+      kanji: 友達に手紙を送ります。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。
+    1:
+      english: I will see you off to the station.
+      hiragana: えきまでおくります。
+      kanji: 駅まで送ります。
+      ruby: <ruby>駅<rt>えき</rt></ruby>まで<ruby>送<rt>おく</rt></ruby>ります。
   simple_meaning:
     0: To send
     1: To escort
@@ -4649,7 +5794,17 @@
     split_hiragana: さわ.ぐ
     wanikani_level: '30'
   kanji: 騒ぐ
-  samples: {}
+  samples:
+    0:
+      english: Please don't make so much noise.
+      hiragana: あまりさわがないでください。
+      kanji: あまり騒がないでください。
+      ruby: あまり<ruby>騒<rt>さわ</rt></ruby>がないでください。
+    1:
+      english: The students are being noisy in the classroom.
+      hiragana: きょうしつでせいとがさわいでいます。
+      kanji: 教室で生徒が騒いでいます。
+      ruby: <ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>生徒<rt>せいと</rt></ruby>が<ruby>騒<rt>さわ</rt></ruby>いでいます。
   simple_meaning:
     0: To make noise
     1: To be noisy
@@ -4661,7 +5816,17 @@
     split_hiragana: むすこ
     wanikani_level: '12'
   kanji: 息子
-  samples: {}
+  samples:
+    0:
+      english: My son is in the third grade of elementary school.
+      hiragana: わたしのむすこはしょうがっこうさんねんせいです。
+      kanji: 私の息子は小学校3年生です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>は<ruby>小学校<rt>しょうがっこう</rt></ruby><ruby>三年生<rt>さんねんせい</rt></ruby>です。
+    1:
+      english: My son has grown big.
+      hiragana: むすこがおおきくなりました。
+      kanji: 息子が大きくなりました。
+      ruby: <ruby>息子<rt>むすこ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくなりました。
   simple_meaning:
     0: Son
 '1404700':
@@ -4672,7 +5837,17 @@
     split_hiragana: た.す
     wanikani_level: '6'
   kanji: 足す
-  samples: {}
+  samples:
+    0:
+      english: Please add a little more sugar.
+      hiragana: もうすこしさとうをたしてください。
+      kanji: もう少し砂糖を足してください。
+      ruby: もう<ruby>少<rt>すこ</rt></ruby>し<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>足<rt>た</rt></ruby>してください。
+    1:
+      english: What is 5 plus 3?
+      hiragana: ごにさんをたすといくつですか。
+      kanji: 5に3を足すといくつですか。
+      ruby: ごにさんを<ruby>足<rt>た</rt></ruby>すといくつですか。
   simple_meaning:
     0: To add
 '1404740':
@@ -4683,7 +5858,17 @@
     split_hiragana: た.り.る
     wanikani_level: '4'
   kanji: 足りる
-  samples: {}
+  samples:
+    0:
+      english: The money is enough.
+      hiragana: おかねがたりる。
+      kanji: お金が足りる。
+      ruby: お<ruby>金<rt>かね</rt></ruby>が<ruby>足<rt>た</rt></ruby>りる。
+    1:
+      english: Is there enough time?
+      hiragana: じかんはたりましたか。
+      kanji: 時間は足りましたか。
+      ruby: <ruby>時間<rt>じかん</rt></ruby>は<ruby>足<rt>た</rt></ruby>りましたか。
   simple_meaning:
     0: To be enough
     1: To suffice
@@ -4695,7 +5880,17 @@
     split_hiragana: つづ.く
     wanikani_level: '19'
   kanji: 続く
-  samples: {}
+  samples:
+    0:
+      english: The rain continued all day.
+      hiragana: いちにちじゅうあめがつづきました。
+      kanji: 一日中雨が続きました。
+      ruby: <ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きました。
+    1:
+      english: The road continues for a long way.
+      hiragana: このみちはとおくまでつづきます。
+      kanji: この道は遠くまで続きます。
+      ruby: この<ruby>道<rt>みち</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>くまで<ruby>続<rt>つづ</rt></ruby>きます。
   simple_meaning:
     0: To continue
 '1405800':
@@ -4706,7 +5901,17 @@
     split_hiragana: つづ.け.る
     wanikani_level: '21'
   kanji: 続ける
-  samples: {}
+  samples:
+    0:
+      english: I will continue studying Japanese.
+      hiragana: にほんごのべんきょうをつづけます。
+      kanji: 日本語の勉強を続けます。
+      ruby: <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。
+    1:
+      english: He continued to run.
+      hiragana: かれははしりつづけました。
+      kanji: 彼は走り続けました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>走<rt>はし</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けました。
   simple_meaning:
     0: To keep doing
     1: To continue
@@ -4718,7 +5923,17 @@
     split_hiragana: そつ.ぎょう
     wanikani_level: '16'
   kanji: 卒業
-  samples: {}
+  samples:
+    0:
+      english: When will you graduate?
+      hiragana: いつそつぎょうしますか。
+      kanji: いつ卒業しますか。
+      ruby: いつ<ruby>卒業<rt>そつぎょう</rt></ruby>しますか。
+    1:
+      english: I will graduate from university next year.
+      hiragana: らいねんだいがくをそつぎょうします。
+      kanji: 来年大学を卒業します。
+      ruby: <ruby>来年<rt>らいねん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>します。
   simple_meaning:
     0: Graduation
 '1408220':
@@ -4729,7 +5944,17 @@
     split_hiragana: ふと.る
     wanikani_level: '3'
   kanji: 太る
-  samples: {}
+  samples:
+    0:
+      english: I gained weight during the holidays.
+      hiragana: やすみのあいだにふとりました。
+      kanji: 休みの間に太りました。
+      ruby: <ruby>休<rt>やす</rt></ruby>みの<ruby>間<rt>あいだ</rt></ruby>に<ruby>太<rt>ふと</rt></ruby>りました。
+    1:
+      english: My cat has gained a lot of weight.
+      hiragana: うちのねこがとてもふとりました。
+      kanji: うちの猫がとても太りました。
+      ruby: うちの<ruby>猫<rt>ねこ</rt></ruby>がとても<ruby>太<rt>ふと</rt></ruby>りました。
   simple_meaning:
     0: To gain weight
 '1408810':
@@ -4740,7 +5965,17 @@
     split_hiragana: う.つ
     wanikani_level: '4'
   kanji: 打つ
-  samples: {}
+  samples:
+    0:
+      english: He hit the ball.
+      hiragana: かれはボールをうちました。
+      kanji: 彼はボールを打ちました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はボールを<ruby>打<rt>う</rt></ruby>ちました。
+    1:
+      english: The carpenter is hammering a nail.
+      hiragana: だいくはくぎをうっています。
+      kanji: 大工は釘を打っています。
+      ruby: <ruby>大工<rt>だいく</rt></ruby>は<ruby>釘<rt>くぎ</rt></ruby>を<ruby>打<rt>う</rt></ruby>っています。
   simple_meaning:
     0: To hit
     1: To strike
@@ -4752,7 +5987,17 @@
     split_hiragana: たい.いん
     wanikani_level: '27'
   kanji: 退院
-  samples: {}
+  samples:
+    0:
+      english: I was discharged from the hospital yesterday.
+      hiragana: きのう、たいいんしました。
+      kanji: 昨日、退院しました。
+      ruby: <ruby>昨日<rt>きのう</rt></ruby>、<ruby>退院<rt>たいいん</rt></ruby>しました。
+    1:
+      english: My father will be discharged from the hospital next week.
+      hiragana: ちちはらいしゅうたいいんします。
+      kanji: 父は来週退院します。
+      ruby: <ruby>父<rt>ちち</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby><ruby>退院<rt>たいいん</rt></ruby>します。
   simple_meaning:
     0: Discharge from hospital
 '1413260':
@@ -4763,7 +6008,17 @@
     split_hiragana: だい.がく.せい
     wanikani_level: '7'
   kanji: 大学生
-  samples: {}
+  samples:
+    0:
+      english: I am a university student.
+      hiragana: わたしはだいがくせいです。
+      kanji: 私は大学生です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>です。
+    1:
+      english: He is studying to become a university student.
+      hiragana: かれはだいがくせいになるためにべんきょうしています。
+      kanji: 彼は大学生になるために勉強しています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>になるために<ruby>勉強<rt>べんきょう</rt></ruby>しています。
   simple_meaning:
     0: University student
 '1413940':
@@ -4774,7 +6029,17 @@
     split_hiragana: だい.じ
     wanikani_level: '9'
   kanji: 大事
-  samples: {}
+  samples:
+    0:
+      english: This is a very important matter.
+      hiragana: これはとてもだいじなことです。
+      kanji: これはとても大事なことです。
+      ruby: これはとても<ruby>大事<rt>だいじ</rt></ruby>なことです。
+    1:
+      english: Please take care of your body.
+      hiragana: からだをだいじにしてください。
+      kanji: 体を大事にしてください。
+      ruby: <ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>にしてください。
   simple_meaning:
     0: Important
     1: Serious
@@ -4786,7 +6051,17 @@
     split_hiragana: たい.てい
     wanikani_level: '37'
   kanji: 大抵
-  samples: {}
+  samples:
+    0:
+      english: I usually have breakfast at 7 o'clock.
+      hiragana: わたしはたいていしちじにあさごはんをたべます。
+      kanji: 私は大抵7時に朝ご飯を食べます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>大抵<rt>たいてい</rt></ruby><ruby>七時<rt>しちじ</rt></ruby>に<ruby>朝<rt>あさ</rt></ruby><ruby>ご飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。
+    1:
+      english: He usually goes to bed early.
+      hiragana: かれはたいていはやくねます。
+      kanji: 彼は大抵早く寝ます。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>大抵<rt>たいてい</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ます。
   simple_meaning:
     0: Usually
     1: Generally
@@ -4798,7 +6073,17 @@
     split_hiragana: たな
     wanikani_level: '44'
   kanji: 棚
-  samples: {}
+  samples:
+    0:
+      english: Please put the book on the shelf.
+      hiragana: ほんをたなにしまってください。
+      kanji: 本を棚にしまってください。
+      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>にしまってください。
+    1:
+      english: The shelf is full of books.
+      hiragana: たなはほんでいっぱいです。
+      kanji: 棚は本でいっぱいです。
+      ruby: <ruby>棚<rt>たな</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>でいっぱいです。
   simple_meaning:
     0: Shelf
 '1419860':
@@ -4809,7 +6094,17 @@
     split_hiragana: だん.ぼう
     wanikani_level: '38'
   kanji: 暖房
-  samples: {}
+  samples:
+    0:
+      english: Please turn on the heater.
+      hiragana: だんぼうをつけてください。
+      kanji: 暖房をつけてください。
+      ruby: <ruby>暖房<rt>だんぼう</rt></ruby>をつけてください。
+    1:
+      english: The heater is not working.
+      hiragana: だんぼうがききません。
+      kanji: 暖房が効きません。
+      ruby: <ruby>暖房<rt>だんぼう</rt></ruby>が<ruby>効<rt>き</rt></ruby>きません。
   simple_meaning:
     0: Heating
 '1420160':
@@ -4820,7 +6115,17 @@
     split_hiragana: だん.せい
     wanikani_level: '14'
   kanji: 男性
-  samples: {}
+  samples:
+    0:
+      english: A handsome man is standing over there.
+      hiragana: あそこにハンサムなだんせいがたっています。
+      kanji: あそこにハンサムな男性が立っています。
+      ruby: あそこにハンサムな<ruby>男性<rt>だんせい</rt></ruby>が<ruby>立<rt>た</rt></ruby>っています。
+    1:
+      english: The male teacher is from America.
+      hiragana: そのだんせいのせんせいはアメリカしゅっしんです。
+      kanji: その男性の先生はアメリカ出身です。
+      ruby: その<ruby>男性<rt>だんせい</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>はアメリカ<ruby>出身<rt>しゅっしん</rt></ruby>です。
   simple_meaning:
     0: Man
     1: Male
@@ -4832,7 +6137,17 @@
     split_hiragana: し.ら.せ.る
     wanikani_level: null
   kanji: 知らせる
-  samples: {}
+  samples:
+    0:
+      english: I will let my friend know the good news.
+      hiragana: ともだちによいおしらせをします。
+      kanji: 友達に良い知らせをします。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>に<ruby>良<rt>よ</rt></ruby>い<ruby>知<rt>し</rt></ruby>らせをします。
+    1:
+      english: I will notify you of the results later.
+      hiragana: あとでけっかをおしらせします。
+      kanji: 後で結果をお知らせします。
+      ruby: <ruby>後<rt>あと</rt></ruby>で<ruby>結果<rt>けっか</rt></ruby>をお<ruby>知<rt>し</rt></ruby>らせします。
   simple_meaning:
     0: To inform
     1: To notify
@@ -4844,7 +6159,17 @@
     split_hiragana: じ.しん
     wanikani_level: '20'
   kanji: 地震
-  samples: {}
+  samples:
+    0:
+      english: An earthquake occurred last night.
+      hiragana: ゆうべ、おおきなじしんがありました。
+      kanji: 昨夜、大きな地震がありました。
+      ruby: <ruby>昨夜<rt>ゆうべ</rt></ruby>、<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。
+    1:
+      english: The earthquake caused a lot of damage.
+      hiragana: じしんでおおきなひがいがでました。
+      kanji: 地震で大きな被害が出ました。
+      ruby: <ruby>地震<rt>じしん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。
   simple_meaning:
     0: Earthquake
 '1421540':
@@ -4855,7 +6180,17 @@
     split_hiragana: ち.り
     wanikani_level: '7'
   kanji: 地理
-  samples: {}
+  samples:
+    0:
+      english: I'm not good at geography.
+      hiragana: わたしはちりがにがてです。
+      kanji: 私は地理が苦手です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>地理<rt>ちり</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>です。
+    1:
+      english: I am studying the geography of the world.
+      hiragana: せかいのちりをべんきょうしています。
+      kanji: 世界の地理を勉強しています。
+      ruby: <ruby>世界<rt>せかい</rt></ruby>の<ruby>地理<rt>ちり</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
   simple_meaning:
     0: Geography
 '1421630':
@@ -4866,7 +6201,17 @@
     split_hiragana: は.ず.か.し.い
     wanikani_level: '35'
   kanji: 恥ずかしい
-  samples: {}
+  samples:
+    0:
+      english: I am embarrassed to speak in front of many people.
+      hiragana: おおぜいのひとのまえではなすのははずかしいです。
+      kanji: 大勢の人の前で話すのは恥ずかしいです。
+      ruby: <ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すのは<ruby>恥<rt>は</rt></ruby>ずかしいです。
+    1:
+      english: I made an embarrassing mistake.
+      hiragana: はずかしいまちがいをしてしまいました。
+      kanji: 恥ずかしい間違いをしてしまいました。
+      ruby: <ruby>恥<rt>は</rt></ruby>ずかしい<ruby>間違<rt>まちが</rt></ruby>いをしてしまいました。
   simple_meaning:
     0: Embarrassed
     1: Shy
@@ -4878,7 +6223,17 @@
     split_hiragana: き.もの
     wanikani_level: '14'
   kanji: 着物
-  samples: {}
+  samples:
+    0:
+      english: I wore a kimono to a party.
+      hiragana: パーティーできものをきました。
+      kanji: パーティーで着物を着ました。
+      ruby: パーティーで<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>ました。
+    1:
+      english: Kimonos are traditional Japanese clothing.
+      hiragana: きものはにほんのでんとうてきないしょうです。
+      kanji: 着物は日本の伝統的な衣装です。
+      ruby: <ruby>着物<rt>きもの</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>衣装<rt>いしょう</rt></ruby>です。
   simple_meaning:
     0: Kimono
     1: Traditional clothing
@@ -4890,7 +6245,17 @@
     split_hiragana: ちゅう.がっこう
     wanikani_level: '9'
   kanji: 中学校
-  samples: {}
+  samples:
+    0:
+      english: My daughter is a junior high school student.
+      hiragana: むすめはちゅうがっこうにかよっています。
+      kanji: 娘は中学校に通っています。
+      ruby: <ruby>娘<rt>むすめ</rt></ruby>は<ruby>中学校<rt>ちゅうがっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。
+    1:
+      english: I graduated from a junior high school.
+      hiragana: わたしはちゅうがっこうをそつぎょうしました。
+      kanji: 私は中学校を卒業しました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>中学校<rt>ちゅうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>しました。
   simple_meaning:
     0: Junior high school
 '1426290':
@@ -4901,7 +6266,17 @@
     split_hiragana: ひる.やす.み
     wanikani_level: '15'
   kanji: 昼休み
-  samples: {}
+  samples:
+    0:
+      english: What are you going to do during the lunch break?
+      hiragana: ひるやすみになにをしますか。
+      kanji: 昼休みに何をしますか。
+      ruby: <ruby>昼休<rt>ひるやす</rt></ruby>みに<ruby>何<rt>なに</rt></ruby>をしますか。
+    1:
+      english: We eat lunch in the classroom during lunchtime.
+      hiragana: ひるやすみには、きょうしつでひるごはんをたべます。
+      kanji: 昼休みには、教室で昼ご飯を食べます。
+      ruby: <ruby>昼休<rt>ひるやす</rt></ruby>みには、<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>昼ご飯<rt>ひるごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。
   simple_meaning:
     0: Lunch break
     1: Noon recess
@@ -4913,7 +6288,17 @@
     split_hiragana: ちゅう.い
     wanikani_level: '11'
   kanji: 注意
-  samples: {}
+  samples:
+    0:
+      english: Please pay attention to the warning.
+      hiragana: ちゅういにきをつけてください。
+      kanji: 注意に気を付けてください。
+      ruby: <ruby>注意<rt>ちゅうい</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてください。
+    1:
+      english: Please be careful of the car.
+      hiragana: くるまにちゅういしてください。
+      kanji: 車に注意してください。
+      ruby: <ruby>車<rt>くるま</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>してください。
   simple_meaning:
     0: Caution
     1: Attention
@@ -4925,7 +6310,17 @@
     split_hiragana: ちゅう.しゃ
     wanikani_level: '34'
   kanji: 注射
-  samples: {}
+  samples:
+    0:
+      english: I received a flu shot.
+      hiragana: インフルエンザのちゅうしゃをうけました。
+      kanji: インフルエンザの注射を受けました。
+      ruby: インフルエンザの<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けました。
+    1:
+      english: The nurse gave me an injection.
+      hiragana: かんごしさんにちゅうしゃをしてもらいました。
+      kanji: 看護師さんに注射をしてもらいました。
+      ruby: <ruby>看護師<rt>かんごし</rt></ruby>さんに<ruby>注射<rt>ちゅうしゃ</rt></ruby>をしてもらいました。
   simple_meaning:
     0: Injection
     1: Shot
@@ -4937,7 +6332,17 @@
     split_hiragana: むし
     wanikani_level: '4'
   kanji: 虫
-  samples: {}
+  samples:
+    0:
+      english: I found a strange bug.
+      hiragana: へんなむしをみつけました。
+      kanji: 変な虫を見つけました。
+      ruby: <ruby>変<rt>へん</rt></ruby>な<ruby>虫<rt>むし</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
+    1:
+      english: There are a lot of insects in the summer.
+      hiragana: なつはむしがたくさんいます。
+      kanji: 夏は虫がたくさんいます。
+      ruby: <ruby>夏<rt>なつ</rt></ruby>は<ruby>虫<rt>むし</rt></ruby>がたくさんいます。
   simple_meaning:
     0: Insect
     1: Bug
@@ -4949,7 +6354,17 @@
     split_hiragana: ちゅう.しゃ.じょう
     wanikani_level: '40'
   kanji: 駐車場
-  samples: {}
+  samples:
+    0:
+      english: There is a parking lot in front of the station.
+      hiragana: えきのまえにちゅうしゃじょうがあります。
+      kanji: 駅の前に駐車場があります。
+      ruby: <ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>があります。
+    1:
+      english: There is no space in the parking lot.
+      hiragana: ちゅうしゃじょうがまんしゃです。
+      kanji: 駐車場が満車です。
+      ruby: <ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>が<ruby>満車<rt>まんしゃ</rt></ruby>です。
   simple_meaning:
     0: Parking lot
 '1427360':
@@ -4960,7 +6375,17 @@
     split_hiragana: てい.ねい
     wanikani_level: '46'
   kanji: 丁寧
-  samples: {}
+  samples:
+    0:
+      english: He speaks Japanese politely.
+      hiragana: かれはていねいににほんごをはなします。
+      kanji: 彼は丁寧に日本語を話します。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>します。
+    1:
+      english: Please handle this carefully.
+      hiragana: このしごとをていねいにしてください。
+      kanji: この仕事を丁寧にしてください。
+      ruby: この<ruby>仕事<rt>しごと</rt></ruby>を<ruby>丁寧<rt>ていねい</rt></ruby>にしてください。
   simple_meaning:
     0: Polite
     1: Careful
@@ -4972,7 +6397,17 @@
     split_hiragana: しら.べ.る
     wanikani_level: '10'
   kanji: 調べる
-  samples: {}
+  samples:
+    0:
+      english: I will look up the word in the dictionary.
+      hiragana: じしょでことばをしらべます。
+      kanji: 辞書で言葉を調べます。
+      ruby: <ruby>辞書<rt>じしょ</rt></ruby>で<ruby>言葉<rt>ことば</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べます。
+    1:
+      english: I want to investigate the cause of the problem.
+      hiragana: もんだいのげんいんをしらべたいです。
+      kanji: 問題の原因を調べたいです。
+      ruby: <ruby>問題<rt>もんだい</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べたいです。
   simple_meaning:
     0: To investigate
     1: To check
@@ -4984,7 +6419,17 @@
     split_hiragana: めずら.し.い
     wanikani_level: '43'
   kanji: 珍しい
-  samples: {}
+  samples:
+    0:
+      english: That's a rare kind of fish.
+      hiragana: それはめずらしいさかなです。
+      kanji: それは珍しい魚です。
+      ruby: それは<ruby>珍<rt>めずら</rt></ruby>しい<ruby>魚<rt>さかな</rt></ruby>です。
+    1:
+      english: It's rare for him to be late.
+      hiragana: かれがちこくするのはめずらしいです。
+      kanji: 彼が遅刻するのは珍しいです。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>が<ruby>遅刻<rt>ちこく</rt></ruby>するのは<ruby>珍<rt>めずら</rt></ruby>しいです。
   simple_meaning:
     0: Rare
     1: Unusual
@@ -4996,7 +6441,17 @@
     split_hiragana: かよ.う
     wanikani_level: '11'
   kanji: 通う
-  samples: {}
+  samples:
+    0:
+      english: I commute to school by bicycle.
+      hiragana: じてんしゃでがっこうにかよっています。
+      kanji: 自転車で学校に通っています。
+      ruby: <ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。
+    1:
+      english: I attend a Japanese language school.
+      hiragana: にほんごがっこうにかよっています。
+      kanji: 日本語学校に通っています。
+      ruby: <ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。
   simple_meaning:
     0: To commute
     1: To attend
@@ -5008,7 +6463,17 @@
     split_hiragana: とお.る
     wanikani_level: '7'
   kanji: 通る
-  samples: {}
+  samples:
+    0:
+      english: Please pass through the front door.
+      hiragana: まえのドアをとおってください。
+      kanji: 前のドアを通ってください。
+      ruby: <ruby>前<rt>まえ</rt></ruby>のドアを<ruby>通<rt>とお</rt></ruby>ってください。
+    1:
+      english: The car is passing through the tunnel.
+      hiragana: くるまがトンネルをとおります。
+      kanji: 車がトンネルを通ります。
+      ruby: <ruby>車<rt>くるま</rt></ruby>がトンネルを<ruby>通<rt>とお</rt></ruby>ります。
   simple_meaning:
     0: To pass through
 '1433680':
@@ -5019,7 +6484,17 @@
     split_hiragana: つ.け.る
     wanikani_level: '57'
   kanji: 漬ける
-  samples: {}
+  samples:
+    0:
+      english: I'm pickling some vegetables.
+      hiragana: やさいをつけます。
+      kanji: 野菜を漬けます。
+      ruby: <ruby>野菜<rt>やさい</rt></ruby>を<ruby>漬<rt>つ</rt></ruby>けます。
+    1:
+      english: Please soak the clothes in water.
+      hiragana: ふくをみずにひたしてください。
+      kanji: 服を水に漬けてください。
+      ruby: <ruby>服<rt>ふく</rt></ruby>を<ruby>水<rt>みず</rt></ruby>に<ruby>漬<rt>つ</rt></ruby>けてください。
   simple_meaning:
     0: To pickle
     1: To soak
@@ -5031,7 +6506,17 @@
     split_hiragana: つ.る
     wanikani_level: '44'
   kanji: 釣る
-  samples: {}
+  samples:
+    0:
+      english: I am going fishing tomorrow.
+      hiragana: あしたさかなをつりに行きます。
+      kanji: 明日魚を釣りに行きます。
+      ruby: <ruby>明日<rt>あした</rt></ruby><ruby>魚<rt>さかな</rt></ruby>を<ruby>釣<rt>つ</rt></ruby>りに行きます。
+    1:
+      english: He caught a big fish.
+      hiragana: かれはおおきなさかなをつりました。
+      kanji: 彼は大きな魚を釣りました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>魚<rt>さかな</rt></ruby>を<ruby>釣<rt>つ</rt></ruby>りました。
   simple_meaning:
     0: To fish
 '1437450':
@@ -5042,7 +6527,17 @@
     split_hiragana: てき.とう
     wanikani_level: '30'
   kanji: 適当
-  samples: {}
+  samples:
+    0:
+      english: Please choose a suitable person.
+      hiragana: てきとうなひとをえらんでください。
+      kanji: 適当な人を選んでください。
+      ruby: <ruby>適当<rt>てきとう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んでください。
+    1:
+      english: It's important to give an appropriate answer.
+      hiragana: てきとうなこたえをすることがだいじです。
+      kanji: 適当な答えをすることが大事です。
+      ruby: <ruby>適当<rt>てきとう</rt></ruby>な<ruby>答<rt>こた</rt></ruby>えをすることが<ruby>大事<rt>だいじ</rt></ruby>です。
   simple_meaning:
     0: Suitable
     1: Appropriate
@@ -5054,7 +6549,17 @@
     split_hiragana: てん.き.よ.ほう
     wanikani_level: '20'
   kanji: 天気予報
-  samples: {}
+  samples:
+    0:
+      english: The weather forecast says it will rain tomorrow.
+      hiragana: てんきよほうによると、あしたはあめがふるそうです。
+      kanji: 天気予報によると、明日は雨が降るそうです。
+      ruby: <ruby>天気予報<rt>てんきよほう</rt></ruby>によると、<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るそうです。
+    1:
+      english: I check the weather forecast every morning.
+      hiragana: まいあさてんきよほうをみます。
+      kanji: 毎朝天気予報を見ます。
+      ruby: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。
   simple_meaning:
     0: Weather forecast
 '1440660':
@@ -5065,7 +6570,17 @@
     split_hiragana: てん.らん.かい
     wanikani_level: null
   kanji: 展覧会
-  samples: {}
+  samples:
+    0:
+      english: I went to an art exhibition yesterday.
+      hiragana: きのうびじゅつのてんらんかいにいきました。
+      kanji: 昨日美術の展覧会に行きました。
+      ruby: <ruby>昨日<rt>きのう</rt></ruby><ruby>美術<rt>びじゅつ</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+    1:
+      english: A flower exhibition is being held.
+      hiragana: はなのてんらんかいがひらかれています。
+      kanji: 花の展覧会が開かれています。
+      ruby: <ruby>花<rt>はな</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>かれています。
   simple_meaning:
     0: Exhibition
 '1440670':
@@ -5076,7 +6591,17 @@
     split_hiragana: てん.いん
     wanikani_level: '12'
   kanji: 店員
-  samples: {}
+  samples:
+    0:
+      english: The store clerk is very polite.
+      hiragana: そのてんいんはとてもていねいです。
+      kanji: その店員はとても丁寧です。
+      ruby: その<ruby>店員<rt>てんいん</rt></ruby>はとても<ruby>丁寧<rt>ていねい</rt></ruby>です。
+    1:
+      english: I work as a shop assistant.
+      hiragana: わたしはてんいんとしてはたらいています。
+      kanji: 私は店員として働いています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>店員<rt>てんいん</rt></ruby>として<ruby>働<rt>はたら</rt></ruby>いています。
   simple_meaning:
     0: Store clerk
     1: Shop assistant
@@ -5088,7 +6613,17 @@
     split_hiragana: てん
     wanikani_level: '6'
   kanji: 点
-  samples: {}
+  samples:
+    0:
+      english: You got 90 points on the test.
+      hiragana: テストで90てんをとりました。
+      kanji: テストで90点を取ました。
+      ruby: テストで90<ruby>点<rt>てん</rt></ruby>を<ruby>取<rt>と</rt></ruby>ました。
+    1:
+      english: There is a dot in the center of the circle.
+      hiragana: えんのまんなかにてんがあります。
+      kanji: 円の真ん中に点があります。
+      ruby: <ruby>円<rt>えん</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>に<ruby>点<rt>てん</rt></ruby>があります。
   simple_meaning:
     0: Point
     1: Dot
@@ -5101,7 +6636,17 @@
     split_hiragana: つた.え.る
     wanikani_level: '11'
   kanji: 伝える
-  samples: {}
+  samples:
+    0:
+      english: Please convey my greetings to him.
+      hiragana: かれによろしくおつたえください。
+      kanji: 彼によろしくお伝えください。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>によろしくお<ruby>伝<rt>つた</rt></ruby>えください。
+    1:
+      english: I will report the news to everyone.
+      hiragana: みんなにそのニュースをつたえます。
+      kanji: みんなにそのニュースを伝えます。
+      ruby: みんなにそのニュースを<ruby>伝<rt>つた</rt></ruby>えます。
   simple_meaning:
     0: To convey
     1: To report
@@ -5113,7 +6658,17 @@
     split_hiragana: いなか
     wanikani_level: '35'
   kanji: 田舎
-  samples: {}
+  samples:
+    0:
+      english: I want to live in the countryside.
+      hiragana: いなかにすみたいです。
+      kanji: 田舎に住みたいです。
+      ruby: <ruby>田舎<rt>いなか</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたいです。
+    1:
+      english: My hometown is in the countryside.
+      hiragana: わたしのふるさとはいなかです。
+      kanji: 私の故郷は田舎です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>故郷<rt>ふるさと</rt></ruby>は<ruby>田舎<rt>いなか</rt></ruby>です。
   simple_meaning:
     0: Countryside
     1: Rural area
@@ -5125,7 +6680,17 @@
     split_hiragana: でん.とう
     wanikani_level: '48'
   kanji: 電灯
-  samples: {}
+  samples:
+    0:
+      english: The light is on.
+      hiragana: でんとうがついています。
+      kanji: 電灯がついています。
+      ruby: <ruby>電灯<rt>でんとう</rt></ruby>がついています。
+    1:
+      english: The electric light went out.
+      hiragana: でんとうがきえました。
+      kanji: 電灯が消えました。
+      ruby: <ruby>電灯<rt>でんとう</rt></ruby>が<ruby>消<rt>き</rt></ruby>えました。
   simple_meaning:
     0: Electric light
 '1443760':
@@ -5136,7 +6701,17 @@
     split_hiragana: でん.ぽう
     wanikani_level: null
   kanji: 電報
-  samples: {}
+  samples:
+    0:
+      english: I sent a telegram to my mother.
+      hiragana: ははにでんぽうをおくりました。
+      kanji: 母に電報を送りました。
+      ruby: <ruby>母<rt>はは</rt></ruby>に<ruby>電報<rt>でんぽう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>りました。
+    1:
+      english: I received a telegram.
+      hiragana: でんぽうがとどきました。
+      kanji: 電報が届きました。
+      ruby: <ruby>電報<rt>でんぽう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>きました。
   simple_meaning:
     0: Telegram
 '1444270':
@@ -5147,7 +6722,17 @@
     split_hiragana: ぬ.る
     wanikani_level: '48'
   kanji: 塗る
-  samples: {}
+  samples:
+    0:
+      english: I will paint the wall white.
+      hiragana: かべをしろくぬります。
+      kanji: 壁を白く塗ります。
+      ruby: <ruby>壁<rt>かべ</rt></ruby>を<ruby>白<rt>しろ</rt></ruby>く<ruby>塗<rt>ぬ</rt></ruby>ります。
+    1:
+      english: Please spread butter on the bread.
+      hiragana: パンにバターをぬってください。
+      kanji: パンにバターを塗ってください。
+      ruby: パンにバターを<ruby>塗<rt>ぬ</rt></ruby>ってください。
   simple_meaning:
     0: To paint
     1: To spread
@@ -5159,7 +6744,17 @@
     split_hiragana: つ.ごう
     wanikani_level: '12'
   kanji: 都合
-  samples: {}
+  samples:
+    0:
+      english: Is it convenient for you on Tuesday?
+      hiragana: かようびはごつごうはいかがですか。
+      kanji: 火曜日はご都合はいかがですか。
+      ruby: <ruby>火曜日<rt>かようび</rt></ruby>はご<ruby>都合<rt>つごう</rt></ruby>はいかがですか。
+    1:
+      english: I can't come to the party due to personal reasons.
+      hiragana: しごとのつごうでパーティーにいけません。
+      kanji: 仕事の都合でパーティーに行けません。
+      ruby: <ruby>仕事<rt>しごと</rt></ruby>の<ruby>都合<rt>つごう</rt></ruby>でパーティーに<ruby>行<rt>い</rt></ruby>けません。
   simple_meaning:
     0: Convenience
     1: Circumstances
@@ -5171,7 +6766,17 @@
     split_hiragana: おこ.る
     wanikani_level: '27'
   kanji: 怒る
-  samples: {}
+  samples:
+    0:
+      english: My mother got angry at me.
+      hiragana: ははがわたしにおこりました。
+      kanji: 母が私に怒りました。
+      ruby: <ruby>母<rt>はは</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>に<ruby>怒<rt>おこ</rt></ruby>りました。
+    1:
+      english: Don't get angry over small things.
+      hiragana: ちいさなことでおこらないでください。
+      kanji: 小さなことで怒らないでください。
+      ruby: <ruby>小<rt>ちい</rt></ruby>さなことで<ruby>怒<rt>おこ</rt></ruby>らないでください。
   simple_meaning:
     0: To get angry
 '1445790':
@@ -5182,7 +6787,17 @@
     split_hiragana: たお.れ.る
     wanikani_level: '22'
   kanji: 倒れる
-  samples: {}
+  samples:
+    0:
+      english: The tree fell down.
+      hiragana: きがたおれました。
+      kanji: 木が倒れました。
+      ruby: <ruby>木<rt>き</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れました。
+    1:
+      english: The person collapsed on the street.
+      hiragana: みちでひとがたおれました。
+      kanji: 道で人が倒れました。
+      ruby: <ruby>道<rt>みち</rt></ruby>で<ruby>人<rt>ひと</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れました。
   simple_meaning:
     0: To fall down
     1: To collapse
@@ -5194,7 +6809,17 @@
     split_hiragana: しま
     wanikani_level: '12'
   kanji: 島
-  samples: {}
+  samples:
+    0:
+      english: I want to live on a tropical island.
+      hiragana: ねったいのしまにすみたいです。
+      kanji: 熱帯の島に住みたいです。
+      ruby: <ruby>熱帯<rt>ねったい</rt></ruby>の<ruby>島<rt>しま</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたいです。
+    1:
+      english: Japan is a country made up of many islands.
+      hiragana: にほんはたくさんのしまでできています。
+      kanji: 日本はたくさんの島でできています。
+      ruby: <ruby>日本<rt>にほん</rt></ruby>はたくさんの<ruby>島<rt>しま</rt></ruby>でできています。
   simple_meaning:
     0: Island
 '1447000':
@@ -5205,7 +6830,17 @@
     split_hiragana: な.げ.る
     wanikani_level: '8'
   kanji: 投げる
-  samples: {}
+  samples:
+    0:
+      english: Please throw the ball here.
+      hiragana: ボールをここにげてください。
+      kanji: ボールをここに投てください。
+      ruby: ボールをここに<ruby>投<rt>な</rt></ruby>げてください。
+    1:
+      english: He threw the garbage away.
+      hiragana: かれはごみをなげました。
+      kanji: 彼はゴミを投げました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はゴミを<ruby>投<rt>な</rt></ruby>げました。
   simple_meaning:
     0: To throw
 '1448440':
@@ -5216,7 +6851,17 @@
     split_hiragana: ぬす.む
     wanikani_level: '30'
   kanji: 盗む
-  samples: {}
+  samples:
+    0:
+      english: Someone stole my wallet.
+      hiragana: だれかがわたしのさいふをぬすみました。
+      kanji: 誰かが私の財布を盗みました。
+      ruby: <ruby>誰<rt>だれ</rt></ruby>かが<ruby>私<rt>わたし</rt></ruby>の<ruby>財布<rt>さいふ</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>みました。
+    1:
+      english: I will not steal money.
+      hiragana: おかねはぬすみません。
+      kanji: お金は盗みません。
+      ruby: お<ruby>金<rt>かね</rt></ruby>は<ruby>盗<rt>ぬす</rt></ruby>みません。
   simple_meaning:
     0: To steal
 '1448580':
@@ -5227,7 +6872,17 @@
     split_hiragana: ゆ
     wanikani_level: '12'
   kanji: 湯
-  samples: {}
+  samples:
+    0:
+      english: The hot water is very hot.
+      hiragana: ゆがとてもあついです。
+      kanji: 湯がとても熱いです。
+      ruby: <ruby>湯<rt>ゆ</rt></ruby>がとても<ruby>熱<rt>あつ</rt></ruby>いです。
+    1:
+      english: Please pour hot water into the cup.
+      hiragana: カップにゆをいれてください。
+      kanji: カップに湯を入れてください。
+      ruby: カップに<ruby>湯<rt>ゆ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてください。
   simple_meaning:
     0: Hot water
 '1449530':
@@ -5238,7 +6893,17 @@
     split_hiragana: こた.え
     wanikani_level: '8'
   kanji: 答え
-  samples: {}
+  samples:
+    0:
+      english: Please write your answer on the paper.
+      hiragana: こたえをかみに書いてください。
+      kanji: 答えを紙に書いてください。
+      ruby: <ruby>答<rt>こた</rt></ruby>えを<ruby>紙<rt>かみ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いてください。
+    1:
+      english: The teacher checked the answers.
+      hiragana: せんせいがこたえをチェックしました。
+      kanji: 先生が答えをチェックしました。
+      ruby: <ruby>先生<rt>せんせい</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えをチェックしました。
   simple_meaning:
     0: Answer
     1: Response
@@ -5250,7 +6915,17 @@
     split_hiragana: ふ.む
     wanikani_level: '36'
   kanji: 踏む
-  samples: {}
+  samples:
+    0:
+      english: I stepped on a bug.
+      hiragana: むしをふんでしまいました。
+      kanji: 虫を踏んでしまいました。
+      ruby: <ruby>虫<rt>むし</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>んでしまいました。
+    1:
+      english: The car is stepping on the brake.
+      hiragana: くるまがブレーキをふみました。
+      kanji: 車がブレーキを踏みました。
+      ruby: <ruby>車<rt>くるま</rt></ruby>がブレーキを<ruby>踏<rt>ふ</rt></ruby>みました。
   simple_meaning:
     0: To step on
 '1450330':
@@ -5261,7 +6936,17 @@
     split_hiragana: に.げ.る
     wanikani_level: '38'
   kanji: 逃げる
-  samples: {}
+  samples:
+    0:
+      english: He ran away from the police.
+      hiragana: かれはけいさつからにげました。
+      kanji: 彼は警察から逃げました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>警察<rt>けいさつ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げました。
+    1:
+      english: Let's escape from this place.
+      hiragana: ここからにげましょう。
+      kanji: ここから逃げましょう。
+      ruby: ここから<ruby>逃<rt>に</rt></ruby>げましょう。
   simple_meaning:
     0: To escape
     1: To run away
@@ -5273,7 +6958,17 @@
     split_hiragana: うご.く
     wanikani_level: '12'
   kanji: 動く
-  samples: {}
+  samples:
+    0:
+      english: The car is moving.
+      hiragana: くるまがうごいています。
+      kanji: 車が動いています。
+      ruby: <ruby>車<rt>くるま</rt></ruby>が<ruby>動<rt>うご</rt></ruby>いています。
+    1:
+      english: My body won't move.
+      hiragana: からだがうごきません。
+      kanji: 体が動きません。
+      ruby: <ruby>体<rt>からだ</rt></ruby>が<ruby>動<rt>うご</rt></ruby>きません。
   simple_meaning:
     0: To move
 '1451490':
@@ -5284,7 +6979,17 @@
     split_hiragana: どう.ぶつ.えん
     wanikani_level: '16'
   kanji: 動物園
-  samples: {}
+  samples:
+    0:
+      english: Let's go to the zoo.
+      hiragana: どうぶつえんにいきましょう。
+      kanji: 動物園に行きましょう。
+      ruby: <ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。
+    1:
+      english: There are many animals in the zoo.
+      hiragana: どうぶつえんにはたくさんのどうぶつがいます。
+      kanji: 動物園にはたくさんの動物がいます。
+      ruby: <ruby>動物園<rt>どうぶつえん</rt></ruby>にはたくさんの<ruby>動物<rt>どうぶつ</rt></ruby>がいます。
   simple_meaning:
     0: Zoo
 '1454180':
@@ -5295,7 +7000,17 @@
     split_hiragana: どう.ぐ
     wanikani_level: '9'
   kanji: 道具
-  samples: {}
+  samples:
+    0:
+      english: I need a tool to fix this.
+      hiragana: これをなおすためのどうぐがひつようです。
+      kanji: これを直すための道具が必要です。
+      ruby: これを<ruby>直<rt>なお</rt></ruby>すための<ruby>道具<rt>どうぐ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
+    1:
+      english: Please put away the tools after using them.
+      hiragana: どうぐはつかったあとにしまってください。
+      kanji: 道具は使った後にしまってください。
+      ruby: <ruby>道具<rt>どうぐ</rt></ruby>は<ruby>使<rt>つか</rt></ruby>った<ruby>後<rt>あと</rt></ruby>にしまってください。
   simple_meaning:
     0: Tool
     1: Equipment
@@ -5307,7 +7022,17 @@
     split_hiragana: とく.に
     wanikani_level: '11'
   kanji: 特に
-  samples: {}
+  samples:
+    0:
+      english: I especially like Japanese food.
+      hiragana: とくににほんしょくがすきです。
+      kanji: 特に日本食が好きです。
+      ruby: <ruby>特<rt>とく</rt></ruby>に<ruby>日本食<rt>にほんしょく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。
+    1:
+      english: Is there anything in particular you want to buy?
+      hiragana: とくにほしいものがありますか。
+      kanji: 特に欲しいものがありますか。
+      ruby: <ruby>特<rt>とく</rt></ruby>に<ruby>欲<rt>ほ</rt></ruby>しいものがありますか。
   simple_meaning:
     0: Especially
     1: Particularly
@@ -5319,7 +7044,17 @@
     split_hiragana: とっきゅう
     wanikani_level: '16'
   kanji: 特急
-  samples: {}
+  samples:
+    0:
+      english: The limited express train is fast.
+      hiragana: とっきゅうははやいです。
+      kanji: 特急は速いです。
+      ruby: <ruby>特急<rt>とっきゅう</rt></ruby>は<ruby>速<rt>はや</rt></ruby>いです。
+    1:
+      english: I will take the limited express to the station.
+      hiragana: とっきゅうでえきまでいきます。
+      kanji: 特急で駅まで行きます。
+      ruby: <ruby>特急<rt>とっきゅう</rt></ruby>で<ruby>駅<rt>えき</rt></ruby>まで<ruby>行<rt>い</rt></ruby>きます。
   simple_meaning:
     0: Limited express (train)
 '1455280':
@@ -5330,7 +7065,17 @@
     split_hiragana: とく.べつ
     wanikani_level: '11'
   kanji: 特別
-  samples: {}
+  samples:
+    0:
+      english: This is a special dish.
+      hiragana: これはとくべつなりょうりです。
+      kanji: これは特別な料理です。
+      ruby: これは<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>料理<rt>りょうり</rt></ruby>です。
+    1:
+      english: I'm not doing anything special today.
+      hiragana: きょうはとくべつなことはしません。
+      kanji: 今日は特別なことはしません。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>特別<rt>とくべつ</rt></ruby>なことはしません。
   simple_meaning:
     0: Special
 '1457210':
@@ -5341,7 +7086,17 @@
     split_hiragana: とど.け.る
     wanikani_level: '26'
   kanji: 届ける
-  samples: {}
+  samples:
+    0:
+      english: I will deliver the package.
+      hiragana: にもつをとどけます。
+      kanji: 荷物を届けます。
+      ruby: <ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けます。
+    1:
+      english: Please deliver this document to the office.
+      hiragana: このしょるいをじむしょにとどけてください。
+      kanji: この書類を事務所に届けてください。
+      ruby: この<ruby>書類<rt>しょるい</rt></ruby>を<ruby>事務所<rt>じむしょ</rt></ruby>に<ruby>届<rt>とど</rt></ruby>けてください。
   simple_meaning:
     0: To deliver
     1: To send
@@ -5353,7 +7108,17 @@
     split_hiragana: うち
     wanikani_level: '3'
   kanji: 内
-  samples: {}
+  samples:
+    0:
+      english: There is a cat inside the house.
+      hiragana: いえのなかにねこがいます。
+      kanji: 家の中に猫がいます。
+      ruby: <ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>がいます。
+    1:
+      english: Please read this document within 3 days.
+      hiragana: このしょるいをさんかかんのうちによんでください。
+      kanji: この書類を3日間の内に読んでください。
+      ruby: この<ruby>書類<rt>しょるい</rt></ruby>を3<ruby>日間<rt>かかん</rt></ruby>の<ruby>内<rt>うち</rt></ruby>に<ruby>読<rt>よ</rt></ruby>んでください。
   simple_meaning:
     0: Inside
     1: Within
@@ -5365,7 +7130,17 @@
     split_hiragana: ひ
     wanikani_level: '2'
   kanji: 日
-  samples: {}
+  samples:
+    0:
+      english: The sun is bright today.
+      hiragana: きょうはひざしがつよいです。
+      kanji: 今日は日差しが強いです。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>日<rt>ひ</rt></ruby>ざしが<ruby>強<rt>つよ</rt></ruby>いです。
+    1:
+      english: I'm not busy today.
+      hiragana: きょうはひまです。
+      kanji: 今日は暇です。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>です。
   simple_meaning:
     0: Day
     1: Sun
@@ -5377,7 +7152,17 @@
     split_hiragana: にっき
     wanikani_level: '7'
   kanji: 日記
-  samples: {}
+  samples:
+    0:
+      english: I write in my diary every day.
+      hiragana: まいにちのにっきをかきます。
+      kanji: 毎日の日記を書きます。
+      ruby: <ruby>毎日<rt>まいにち</rt></ruby>の<ruby>日記<rt>にっき</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。
+    1:
+      english: I started a new journal.
+      hiragana: あたらしいにっきをつけはじめました。
+      kanji: 新しい日記をつけ始めました。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>日記<rt>にっき</rt></ruby>をつけ<ruby>始<rt>はじ</rt></ruby>めました。
   simple_meaning:
     0: Diary
     1: Journal
@@ -5389,7 +7174,17 @@
     split_hiragana: にゅう.いん
     wanikani_level: '10'
   kanji: 入院
-  samples: {}
+  samples:
+    0:
+      english: My father was hospitalized for a week.
+      hiragana: ちちはいっしゅうかんにゅういんしました。
+      kanji: 父は一週間入院しました。
+      ruby: <ruby>父<rt>ちち</rt></ruby>は<ruby>一週間<rt>いっしゅうかん</rt></ruby><ruby>入院<rt>にゅういん</rt></ruby>しました。
+    1:
+      english: I was hospitalized due to illness.
+      hiragana: びょうきでにゅういんしました。
+      kanji: 病気で入院しました。
+      ruby: <ruby>病気<rt>びょうき</rt></ruby>で<ruby>入院<rt>にゅういん</rt></ruby>しました。
   simple_meaning:
     0: Hospitalization
 '1465850':
@@ -5400,7 +7195,17 @@
     split_hiragana: にゅう.がく
     wanikani_level: '5'
   kanji: 入学
-  samples: {}
+  samples:
+    0:
+      english: I will enter university next year.
+      hiragana: らいねんだいがくににゅうがくします。
+      kanji: 来年大学に入学します。
+      ruby: <ruby>来年<rt>らいねん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>します。
+    1:
+      english: My son's school admission ceremony is tomorrow.
+      hiragana: むすこのにゅうがくしきはあしたです。
+      kanji: 息子の入学式は明日です。
+      ruby: <ruby>息子<rt>むすこ</rt></ruby>の<ruby>入学式<rt>にゅうがくしき</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>です。
   simple_meaning:
     0: School admission
 '1467620':
@@ -5411,7 +7216,17 @@
     split_hiragana: ぬ.れ.る
     wanikani_level: null
   kanji: 濡れる
-  samples: {}
+  samples:
+    0:
+      english: I got wet from the rain.
+      hiragana: あめでぬれました。
+      kanji: 雨で濡れました。
+      ruby: <ruby>雨<rt>あめ</rt></ruby>で<ruby>濡<rt>ぬ</rt></ruby>れました。
+    1:
+      english: Please don't get the clothes wet.
+      hiragana: ふくをぬらさないでください。
+      kanji: 服を濡らさないでください。
+      ruby: <ruby>服<rt>ふく</rt></ruby>を<ruby>濡<rt>ぬ</rt></ruby>らさないでください。
   simple_meaning:
     0: To get wet
 '1467710':
@@ -5422,7 +7237,17 @@
     split_hiragana: ねつ
     wanikani_level: '13'
   kanji: 熱
-  samples: {}
+  samples:
+    0:
+      english: I have a fever.
+      hiragana: ねつがあります。
+      kanji: 熱があります。
+      ruby: <ruby>熱<rt>ねつ</rt></ruby>があります。
+    1:
+      english: The heat of the stove is strong.
+      hiragana: ストーブのねつがつよいです。
+      kanji: ストーブの熱が強いです。
+      ruby: ストーブの<ruby>熱<rt>ねつ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いです。
   simple_meaning:
     0: Fever
     1: Heat
@@ -5434,7 +7259,17 @@
     split_hiragana: はい.けん
     wanikani_level: '34'
   kanji: 拝見
-  samples: {}
+  samples:
+    0:
+      english: May I see your passport?
+      hiragana: パスポートをはいけんしてもよろしいですか。
+      kanji: パスポートを拝見してもよろしいですか。
+      ruby: パスポートを<ruby>拝見<rt>はいけん</rt></ruby>してもよろしいですか。
+    1:
+      english: I saw the picture you drew.
+      hiragana: あなたがかいかいたえをはいけんしました。
+      kanji: あなたが描いた絵を拝見しました。
+      ruby: あなたが<ruby>描<rt>か</rt></ruby>いた<ruby>絵<rt>え</rt></ruby>を<ruby>拝見<rt>はいけん</rt></ruby>しました。
   simple_meaning:
     0: To see (humble)
 '1472800':
@@ -5445,7 +7280,17 @@
     split_hiragana: せ.なか
     wanikani_level: '32'
   kanji: 背中
-  samples: {}
+  samples:
+    0:
+      english: My back hurts.
+      hiragana: せなかがいたいです。
+      kanji: 背中が痛いです。
+      ruby: <ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。
+    1:
+      english: There is a big backpack on his back.
+      hiragana: かれのせなかにとてもおおきなリュックサックがあります。
+      kanji: 彼の背中にとても大きなリュックサックがあります。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>背中<rt>せなか</rt></ruby>にとても<ruby>大<rt>おお</rt></ruby>きなリュックサックがあります。
   simple_meaning:
     0: Back (body)
 '1473230':
@@ -5456,7 +7301,17 @@
     split_hiragana: ばい
     wanikani_level: '12'
   kanji: 倍
-  samples: {}
+  samples:
+    0:
+      english: The price has doubled.
+      hiragana: ねだんがにばいになりました。
+      kanji: 値段が2倍になりました。
+      ruby: <ruby>値段<rt>ねだん</rt></ruby>が2<ruby>倍<rt>ばい</rt></ruby>になりました。
+    1:
+      english: I will work twice as hard.
+      hiragana: にばいがんばります。
+      kanji: 2倍頑張ります。
+      ruby: 2<ruby>倍<rt>ばい</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>ります。
   simple_meaning:
     0: Double
     1: Times
@@ -5468,7 +7323,17 @@
     split_hiragana: と.ま.る
     wanikani_level: '42'
   kanji: 泊まる
-  samples: {}
+  samples:
+    0:
+      english: I will stay overnight at a friend's house.
+      hiragana: ともだちのいえにとまります。
+      kanji: 友達の家に泊まります。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まります。
+    1:
+      english: Where are you staying tonight?
+      hiragana: こんばん、どこにとまりますか。
+      kanji: 今晩、どこに泊まりますか。
+      ruby: <ruby>今晩<rt>こんばん</rt></ruby>、どこに<ruby>泊<rt>と</rt></ruby>まりますか。
   simple_meaning:
     0: To stay overnight
 '1476430':
@@ -5479,7 +7344,17 @@
     split_hiragana: はず
     wanikani_level: null
   kanji: 筈
-  samples: {}
+  samples:
+    0:
+      english: He should be here by now.
+      hiragana: かれはもうここに来るはずです。
+      kanji: 彼はもうここに来る筈です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はもうここに<ruby>来<rt>く</rt></ruby>る<ruby>筈<rt>はず</rt></ruby>です。
+    1:
+      english: The exam should be easy.
+      hiragana: しけんはかんたんなはずです。
+      kanji: 試験は簡単な筈です。
+      ruby: <ruby>試験<rt>しけん</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>筈<rt>はず</rt></ruby>です。
   simple_meaning:
     0: Should be
     1: Expected to
@@ -5491,7 +7366,17 @@
     split_hiragana: はつ.おん
     wanikani_level: '9'
   kanji: 発音
-  samples: {}
+  samples:
+    0:
+      english: Your pronunciation is very good.
+      hiragana: あなたのはつおんはとてもいいです。
+      kanji: あなたの発音はとてもいいです。
+      ruby: あなたの<ruby>発音<rt>はつおん</rt></ruby>はとてもいいです。
+    1:
+      english: I want to practice my pronunciation.
+      hiragana: はつおんをれんしゅうしたいです。
+      kanji: 発音を練習したいです。
+      ruby: <ruby>発音<rt>はつおん</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>したいです。
   simple_meaning:
     0: Pronunciation
 '1477950':
@@ -5502,7 +7387,17 @@
     split_hiragana: かみ
     wanikani_level: '44'
   kanji: 髪
-  samples: {}
+  samples:
+    0:
+      english: I got my hair cut.
+      hiragana: かみをきりました。
+      kanji: 髪を切りました。
+      ruby: <ruby>髪<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>りました。
+    1:
+      english: She has long hair.
+      hiragana: かのじょはかみがながいです。
+      kanji: 彼女は髪が長いです。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>髪<rt>かみ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。
   simple_meaning:
     0: Hair
 '1480670':
@@ -5513,7 +7408,17 @@
     split_hiragana: はん.たい
     wanikani_level: '8'
   kanji: 反対
-  samples: {}
+  samples:
+    0:
+      english: I am against this plan.
+      hiragana: わたしはこのけいかくにはんたいです。
+      kanji: 私はこの計画に反対です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>はこの<ruby>計画<rt>けいかく</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>です。
+    1:
+      english: The opposite of "big" is "small."
+      hiragana: おおきいのはんたいはちいさいです。
+      kanji: 「大きい」の反対は「小さい」です。
+      ruby: 「<ruby>大<rt>おお</rt></ruby>きい」の<ruby>反対<rt>はんたい</rt></ruby>は「<ruby>小<rt>ちい</rt></ruby>さい」です。
   simple_meaning:
     0: Opposition
     1: Opposite
@@ -5525,7 +7430,17 @@
     split_hiragana: ばん.ぐみ
     wanikani_level: '8'
   kanji: 番組
-  samples: {}
+  samples:
+    0:
+      english: This TV program is interesting.
+      hiragana: このばんぐみはおもしろいです。
+      kanji: この番組は面白いです。
+      ruby: この<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>いです。
+    1:
+      english: What kind of program is this?
+      hiragana: これはなんのばんぐみですか。
+      kanji: これは何の番組ですか。
+      ruby: これは<ruby>何<rt>なん</rt></ruby>の<ruby>番組<rt>ばんぐみ</rt></ruby>ですか。
   simple_meaning:
     0: TV program
     1: Show
@@ -5537,7 +7452,17 @@
     split_hiragana: かれ
     wanikani_level: '35'
   kanji: 彼
-  samples: {}
+  samples:
+    0:
+      english: He is a teacher.
+      hiragana: かれはせんせいです。
+      kanji: 彼は先生です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>です。
+    1:
+      english: This is my boyfriend.
+      hiragana: こちらはわたしのかれです。
+      kanji: こちらは私の彼です。
+      ruby: こちらは<ruby>私<rt>わたし</rt></ruby>の<ruby>彼<rt>かれ</rt></ruby>です。
   simple_meaning:
     0: He
     1: Boyfriend
@@ -5549,7 +7474,17 @@
     split_hiragana: かの.じょ
     wanikani_level: '37'
   kanji: 彼女
-  samples: {}
+  samples:
+    0:
+      english: She is a student.
+      hiragana: かのじょはがくせいです。
+      kanji: 彼女は学生です。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。
+    1:
+      english: I went on a date with my girlfriend.
+      hiragana: かのじょとデートにいきました。
+      kanji: 彼女とデートに行きました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>とデートに<ruby>行<rt>い</rt></ruby>きました。
   simple_meaning:
     0: She
     1: Girlfriend
@@ -5561,7 +7496,17 @@
     split_hiragana: かな.し.い
     wanikani_level: '19'
   kanji: 悲しい
-  samples: {}
+  samples:
+    0:
+      english: I am sad because I lost the game.
+      hiragana: ゲームにまけてかなしいです。
+      kanji: ゲームに負けて悲しいです。
+      ruby: ゲームに<ruby>負<rt>ま</rt></ruby>けて<ruby>悲<rt>かな</rt></ruby>しいです。
+    1:
+      english: It was a sad story.
+      hiragana: かなしいはなしでした。
+      kanji: 悲しい話でした。
+      ruby: <ruby>悲<rt>かな</rt></ruby>しい<ruby>話<rt>はなし</rt></ruby>でした。
   simple_meaning:
     0: Sad
 '1483540':
@@ -5572,7 +7517,17 @@
     split_hiragana: くら.べ.る
     wanikani_level: '19'
   kanji: 比べる
-  samples: {}
+  samples:
+    0:
+      english: Let's compare the two things.
+      hiragana: ふたつのものをくらべましょう。
+      kanji: 二つの物を比べましょう。
+      ruby: <ruby>二<rt>ふた</rt></ruby>つの<ruby>物<rt>もの</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べましょう。
+    1:
+      english: Compared to last year, the sales have increased.
+      hiragana: きょねんにくらべてうりあげがふえました。
+      kanji: 去年と比べて売り上げが増えました。
+      ruby: <ruby>去年<rt>きょねん</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べて<ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げが<ruby>増<rt>ふ</rt></ruby>えました。
   simple_meaning:
     0: To compare
 '1484930':
@@ -5583,7 +7538,17 @@
     split_hiragana: ひ.じょう.に
     wanikani_level: '19'
   kanji: 非常に
-  samples: {}
+  samples:
+    0:
+      english: This is a very difficult problem.
+      hiragana: これはひじょうにむずかしいもんだいです。
+      kanji: これは非常に難しい問題です。
+      ruby: これは<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>です。
+    1:
+      english: It's extremely cold today.
+      hiragana: きょうはひじょうにさむいです。
+      kanji: 今日は非常に寒いです。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>寒<rt>さむ</rt></ruby>いです。
   simple_meaning:
     0: Very
     1: Extremely
@@ -5595,7 +7560,17 @@
     split_hiragana: ひ.こう.じょう
     wanikani_level: null
   kanji: 飛行場
-  samples: {}
+  samples:
+    0:
+      english: We arrived at the airport.
+      hiragana: ひこうじょうにつきました。
+      kanji: 飛行場に着きました。
+      ruby: <ruby>飛行場<rt>ひこうじょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。
+    1:
+      english: The plane took off from the airport.
+      hiragana: ひこうきがひこうじょうからとびたちました。
+      kanji: 飛行機が飛行場から飛び立ちました。
+      ruby: <ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>飛行場<rt>ひこうじょう</rt></ruby>から<ruby>飛<rt>と</rt></ruby>び<ruby>立<rt>た</rt></ruby>ちました。
   simple_meaning:
     0: Airport
     1: Airfield
@@ -5607,7 +7582,17 @@
     split_hiragana: うつく.し.い
     wanikani_level: '9'
   kanji: 美しい
-  samples: {}
+  samples:
+    0:
+      english: The scenery is beautiful.
+      hiragana: うつくしいけしきですね。
+      kanji: 美しい景色ですね。
+      ruby: <ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>ですね。
+    1:
+      english: She has a beautiful voice.
+      hiragana: かのじょはうつくしいこえをもっています。
+      kanji: 彼女は美しい声を持っています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい<ruby>声<rt>こえ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。
   simple_meaning:
     0: Beautiful
 '1486460':
@@ -5618,7 +7603,17 @@
     split_hiragana: び.じゅつ.かん
     wanikani_level: '16'
   kanji: 美術館
-  samples: {}
+  samples:
+    0:
+      english: I went to an art museum.
+      hiragana: びじゅつかんにいきました。
+      kanji: 美術館に行きました。
+      ruby: <ruby>美術館<rt>びじゅつかん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+    1:
+      english: There are many paintings in the art museum.
+      hiragana: びじゅつかんにはたくさんのえがあります。
+      kanji: 美術館にはたくさんの絵があります。
+      ruby: <ruby>美術館<rt>びじゅつかん</rt></ruby>にはたくさんの<ruby>絵<rt>え</rt></ruby>があります。
   simple_meaning:
     0: Art museum
 '1487400':
@@ -5629,7 +7624,17 @@
     split_hiragana: かなら.ず
     wanikani_level: '7'
   kanji: 必ず
-  samples: {}
+  samples:
+    0:
+      english: You must do your homework.
+      hiragana: しゅくだいをかならずしてください。
+      kanji: 宿題を必ずしてください。
+      ruby: <ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>必<rt>かなら</rt></ruby>ずしてください。
+    1:
+      english: I will certainly be there.
+      hiragana: わたしはかならずそこにいきます。
+      kanji: 私は必ずそこに行きます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ずそこに<ruby>行<rt>い</rt></ruby>きます。
   simple_meaning:
     0: Surely
     1: Certainly
@@ -5641,7 +7646,17 @@
     split_hiragana: ひつ.よう
     wanikani_level: '9'
   kanji: 必要
-  samples: {}
+  samples:
+    0:
+      english: You need to have a passport.
+      hiragana: パスポートがひつようです。
+      kanji: パスポートが必要です。
+      ruby: パスポートが<ruby>必要<rt>ひつよう</rt></ruby>です。
+    1:
+      english: Is it necessary to go there now?
+      hiragana: いまそこに行くことがひつようですか。
+      kanji: 今そこに行くことが必要ですか。
+      ruby: <ruby>今<rt>いま</rt></ruby>そこに<ruby>行<rt>い</rt></ruby>くことが<ruby>必要<rt>ひつよう</rt></ruby>ですか。
   simple_meaning:
     0: Necessary
     1: Essential
@@ -5653,7 +7668,17 @@
     split_hiragana: おもて
     wanikani_level: '9'
   kanji: 表
-  samples: {}
+  samples:
+    0:
+      english: The front of the building is beautiful.
+      hiragana: ビルのおもてがうつくしいです。
+      kanji: ビルの表が美しいです。
+      ruby: ビルの<ruby>表<rt>おもて</rt></ruby>が<ruby>美<rt>うつく</rt></ruby>しいです。
+    1:
+      english: Please turn the paper over.
+      hiragana: かみをおもてにしてください。
+      kanji: 紙を表にしてください。
+      ruby: <ruby>紙<rt>かみ</rt></ruby>を<ruby>表<rt>おもて</rt></ruby>にしてください。
   simple_meaning:
     0: Surface
     1: Front
@@ -5665,7 +7690,17 @@
     split_hiragana: しな.もの
     wanikani_level: '18'
   kanji: 品物
-  samples: {}
+  samples:
+    0:
+      english: This item is of good quality.
+      hiragana: このしなものはひんしつがいいです。
+      kanji: この品物は品質が良いです。
+      ruby: この<ruby>品物<rt>しなもの</rt></ruby>は<ruby>品質<rt>ひんしつ</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いです。
+    1:
+      english: I bought various goods at the store.
+      hiragana: おみせでいろいろなしなものをかいました。
+      kanji: お店で色々な品物を買いました。
+      ruby: お<ruby>店<rt>みせ</rt></ruby>で<ruby>色<rt>いろ</rt></ruby>々な<ruby>品物<rt>しなもの</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
   simple_meaning:
     0: Goods
     1: Item
@@ -5678,7 +7713,17 @@
     split_hiragana: ふ.べん
     wanikani_level: '11'
   kanji: 不便
-  samples: {}
+  samples:
+    0:
+      english: It's inconvenient to live here without a car.
+      hiragana: くるまがないので、ここにすむのはふべんです。
+      kanji: 車がないので、ここに住むのは不便です。
+      ruby: <ruby>車<rt>くるま</rt></ruby>がないので、ここに<ruby>住<rt>す</rt></ruby>むのは<ruby>不便<rt>ふべん</rt></ruby>です。
+    1:
+      english: The bus service is very inconvenient.
+      hiragana: バスのサービスはとてもふべんです。
+      kanji: バスのサービスはとても不便です。
+      ruby: バスのサービスはとても<ruby>不便<rt>ふべん</rt></ruby>です。
   simple_meaning:
     0: Inconvenient
 '1495740':
@@ -5689,7 +7734,17 @@
     split_hiragana: つ.く
     wanikani_level: '9'
   kanji: 付く
-  samples: {}
+  samples:
+    0:
+      english: The dust is sticking to the window.
+      hiragana: まどにほこりがついています。
+      kanji: 窓に埃が付いています。
+      ruby: <ruby>窓<rt>まど</rt></ruby>に<ruby>埃<rt>ほこり</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いています。
+    1:
+      english: The price tag is attached to the product.
+      hiragana: しなものにねふだがついています。
+      kanji: 品物に値札が付いています。
+      ruby: <ruby>品物<rt>しなもの</rt></ruby>に<ruby>値札<rt>ねふだ</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いています。
   simple_meaning:
     0: To attach
     1: To stick
@@ -5701,7 +7756,17 @@
     split_hiragana: おっと
     wanikani_level: '15'
   kanji: 夫
-  samples: {}
+  samples:
+    0:
+      english: My husband is a doctor.
+      hiragana: わたしのおっとはいしゃです。
+      kanji: 私の夫は医者です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>夫<rt>おっと</rt></ruby>は<ruby>医者<rt>いしゃ</rt></ruby>です。
+    1:
+      english: My husband's name is Ken.
+      hiragana: おっとのなまえはケンです。
+      kanji: 夫の名前はケンです。
+      ruby: <ruby>夫<rt>おっと</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>はケンです。
   simple_meaning:
     0: Husband
 '1496890':
@@ -5712,7 +7777,17 @@
     split_hiragana: ふとん.
     wanikani_level: '19'
   kanji: 布団
-  samples: {}
+  samples:
+    0:
+      english: I sleep on a futon.
+      hiragana: ふとんでねます。
+      kanji: 布団で寝ます。
+      ruby: <ruby>布団<rt>ふとん</rt></ruby>で<ruby>寝<rt>ね</rt></ruby>ます。
+    1:
+      english: I put the futon in the closet.
+      hiragana: ふとんをおしいれにしまいました。
+      kanji: 布団を押し入れにしまいました。
+      ruby: <ruby>布団<rt>ふとん</rt></ruby>を<ruby>押<rt>お</rt></ruby>し<ruby>入<rt>い</rt></ruby>れにしまいました。
   simple_meaning:
     0: Futon
     1: Bedding
@@ -5724,7 +7799,17 @@
     split_hiragana: ふ.つう
     wanikani_level: '31'
   kanji: 普通
-  samples: {}
+  samples:
+    0:
+      english: I usually take the normal train.
+      hiragana: ふつうでんしゃにのります。
+      kanji: 普通電車に乗ります。
+      ruby: <ruby>普通<rt>ふつう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。
+    1:
+      english: This is a normal day.
+      hiragana: きょうはふつうのひです。
+      kanji: 今日は普通の日です。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>です。
   simple_meaning:
     0: Normal
     1: Usual
@@ -5737,7 +7822,17 @@
     split_hiragana: ま.け.る
     wanikani_level: '9'
   kanji: 負ける
-  samples: {}
+  samples:
+    0:
+      english: I lost the game.
+      hiragana: ゲームにまけました。
+      kanji: ゲームに負けました。
+      ruby: ゲームに<ruby>負<rt>ま</rt></ruby>けました。
+    1:
+      english: I can't be defeated by him.
+      hiragana: かれにはまけられません。
+      kanji: 彼には負けられません。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>には<ruby>負<rt>ま</rt></ruby>けられません。
   simple_meaning:
     0: To lose
     1: To be defeated
@@ -5749,7 +7844,17 @@
     split_hiragana: ぶ.ちょう
     wanikani_level: null
   kanji: 部長
-  samples: {}
+  samples:
+    0:
+      english: The department head came to work.
+      hiragana: ぶちょうがかいしゃにきました。
+      kanji: 部長が会社に来ました。
+      ruby: <ruby>部長<rt>ぶちょう</rt></ruby>が<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ました。
+    1:
+      english: My father is a department manager.
+      hiragana: ちちのしごとはぶちょうです。
+      kanji: 父の仕事は部長です。
+      ruby: <ruby>父<rt>ちち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>は<ruby>部長<rt>ぶちょう</rt></ruby>です。
   simple_meaning:
     0: Department head
     1: Manager
@@ -5761,7 +7866,17 @@
     split_hiragana: ふく.しゅう
     wanikani_level: '26'
   kanji: 復習
-  samples: {}
+  samples:
+    0:
+      english: I will review the content of the class.
+      hiragana: じゅぎょうのないようをふくしゅうします。
+      kanji: 授業の内容を復習します。
+      ruby: <ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>を<ruby>復習<rt>ふくしゅう</rt></ruby>します。
+    1:
+      english: Reviewing is important for studying.
+      hiragana: ふくしゅうはべんきょうにだいじです。
+      kanji: 復習は勉強に大事です。
+      ruby: <ruby>復習<rt>ふくしゅう</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>大事<rt>だいじ</rt></ruby>です。
   simple_meaning:
     0: Review
     1: Revision
@@ -5773,7 +7888,17 @@
     split_hiragana: ふく.ざつ
     wanikani_level: '32'
   kanji: 複雑
-  samples: {}
+  samples:
+    0:
+      english: This machine is too complicated.
+      hiragana: このきかいはふくざつすぎます。
+      kanji: この機械は複雑すぎます。
+      ruby: この<ruby>機械<rt>きかい</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>すぎます。
+    1:
+      english: The train system in Tokyo is very complex.
+      hiragana: とうきょうのでんしゃはふくざつです。
+      kanji: 東京の電車は複雑です。
+      ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>です。
   simple_meaning:
     0: Complicated
     1: Complex
@@ -5785,7 +7910,17 @@
     split_hiragana: はら.う
     wanikani_level: '35'
   kanji: 払う
-  samples: {}
+  samples:
+    0:
+      english: I will pay the bill.
+      hiragana: おかねをはらいます。
+      kanji: お金を払います。
+      ruby: お<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>います。
+    1:
+      english: Please pay at the counter.
+      hiragana: レジではらってください。
+      kanji: レジで払ってください。
+      ruby: レジで<ruby>払<rt>はら</rt></ruby>ってください。
   simple_meaning:
     0: To pay
 '1501660':
@@ -5796,7 +7931,17 @@
     split_hiragana: わ.か.す
     wanikani_level: '53'
   kanji: 沸かす
-  samples: {}
+  samples:
+    0:
+      english: I will boil water for coffee.
+      hiragana: コーヒーのためにみずをわかします。
+      kanji: コーヒーのために水を沸かします。
+      ruby: コーヒーのために<ruby>水<rt>みず</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。
+    1:
+      english: I boiled the hot water.
+      hiragana: おゆをわかしました。
+      kanji: お湯を沸かしました。
+      ruby: お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かしました。
   simple_meaning:
     0: To boil
     1: To heat
@@ -5808,7 +7953,17 @@
     split_hiragana: ぶん.か
     wanikani_level: '6'
   kanji: 文化
-  samples: {}
+  samples:
+    0:
+      english: I want to learn about Japanese culture.
+      hiragana: にほんのぶんかをまなびたいです。
+      kanji: 日本の文化を学びたいです。
+      ruby: <ruby>日本<rt>にほん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>学<rt>まな</rt></ruby>びたいです。
+    1:
+      english: He is a specialist in Japanese culture.
+      hiragana: かれはにほんぶんかのせんもんかです。
+      kanji: 彼は日本文化の専門家です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>です。
   simple_meaning:
     0: Culture
 '1505190':
@@ -5819,7 +7974,17 @@
     split_hiragana: ぶん.がく
     wanikani_level: '5'
   kanji: 文学
-  samples: {}
+  samples:
+    0:
+      english: I am studying Japanese literature.
+      hiragana: にほんぶんがくをべんきょうしています。
+      kanji: 日本文学を勉強しています。
+      ruby: <ruby>日本<rt>にほん</rt></ruby><ruby>文学<rt>ぶんがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+    1:
+      english: I majored in literature at university.
+      hiragana: だいがくでぶんがくをせんこうしました。
+      kanji: 大学で文学を専攻しました。
+      ruby: <ruby>大学<rt>だいがく</rt></ruby>で<ruby>文学<rt>ぶんがく</rt></ruby>を<ruby>専攻<rt>せんこう</rt></ruby>しました。
   simple_meaning:
     0: Literature
 '1505600':
@@ -5830,7 +7995,17 @@
     split_hiragana: ぶん.ぽう
     wanikani_level: '15'
   kanji: 文法
-  samples: {}
+  samples:
+    0:
+      english: The grammar of this sentence is wrong.
+      hiragana: このぶんのぶんぽうはまちがっています。
+      kanji: この文の文法は間違っています。
+      ruby: この<ruby>文<rt>ぶん</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>は<ruby>間違<rt>まちが</rt></ruby>っています。
+    1:
+      english: I'm not good at grammar.
+      hiragana: ぶんぽうがにがてです。
+      kanji: 文法が苦手です。
+      ruby: <ruby>文法<rt>ぶんぽう</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>です。
   simple_meaning:
     0: Grammar
 '1508750':
@@ -5841,7 +8016,17 @@
     split_hiragana: こめ
     wanikani_level: '5'
   kanji: 米
-  samples: {}
+  samples:
+    0:
+      english: I bought 5kg of rice.
+      hiragana: こめを5キロかいました。
+      kanji: 米を5キロ買いました。
+      ruby: <ruby>米<rt>こめ</rt></ruby>を5キロ<ruby>買<rt>か</rt></ruby>いました。
+    1:
+      english: I will make rice balls with this rice.
+      hiragana: このこめでおにぎりをつくります。
+      kanji: この米でおにぎりを作ります。
+      ruby: この<ruby>米<rt>こめ</rt></ruby>でおにぎりを<ruby>作<rt>つく</rt></ruby>ります。
   simple_meaning:
     0: Rice (uncooked)
 '1509290':
@@ -5852,7 +8037,17 @@
     split_hiragana: かべ
     wanikani_level: '39'
   kanji: 壁
-  samples: {}
+  samples:
+    0:
+      english: I will put a picture on the wall.
+      hiragana: かべにえをかけます。
+      kanji: 壁に絵を掛けます。
+      ruby: <ruby>壁<rt>かべ</rt></ruby>に<ruby>絵<rt>え</rt></ruby>を<ruby>掛<rt>か</rt></ruby>けます。
+    1:
+      english: The wall is white.
+      hiragana: かべがしろいです。
+      kanji: 壁が白いです。
+      ruby: <ruby>壁<rt>かべ</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>いです。
   simple_meaning:
     0: Wall
 '1509430':
@@ -5863,7 +8058,17 @@
     split_hiragana: べつ
     wanikani_level: '11'
   kanji: 別
-  samples: {}
+  samples:
+    0:
+      english: This is a different story.
+      hiragana: これはべつのはなしです。
+      kanji: これは別の話です。
+      ruby: これは<ruby>別<rt>べつ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>です。
+    1:
+      english: Let's pay separately.
+      hiragana: おかねはべつべつにはらいましょう。
+      kanji: お金は別々に払いましょう。
+      ruby: お<ruby>金<rt>かね</rt></ruby>は<ruby>別々<rt>べつべつ</rt></ruby>に<ruby>払<rt>はら</rt></ruby>いましょう。
   simple_meaning:
     0: Separate
     1: Different
@@ -5875,7 +8080,17 @@
     split_hiragana: へん
     wanikani_level: '15'
   kanji: 変
-  samples: {}
+  samples:
+    0:
+      english: The weather is strange today.
+      hiragana: きょうはへんなてんきです。
+      kanji: 今日は変な天気です。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>変<rt>へん</rt></ruby>な<ruby>天気<rt>てんき</rt></ruby>です。
+    1:
+      english: That sound is weird.
+      hiragana: そのおとはへんです。
+      kanji: その音は変です。
+      ruby: その<ruby>音<rt>おと</rt></ruby>は<ruby>変<rt>へん</rt></ruby>です。
   simple_meaning:
     0: Strange
     1: Unusual
@@ -5887,7 +8102,17 @@
     split_hiragana: か.え.る
     wanikani_level: '15'
   kanji: 変える
-  samples: {}
+  samples:
+    0:
+      english: I will change my plans.
+      hiragana: よていをかえます。
+      kanji: 予定を変えます。
+      ruby: <ruby>予定<rt>よてい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えます。
+    1:
+      english: Please change the time of the meeting.
+      hiragana: かいぎのじかんをかえてください。
+      kanji: 会議の時間を変えてください。
+      ruby: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>変<rt>か</rt></ruby>えてください。
   simple_meaning:
     0: To change
     1: To alter
@@ -5899,7 +8124,17 @@
     split_hiragana: か.わ.る
     wanikani_level: '17'
   kanji: 変わる
-  samples: {}
+  samples:
+    0:
+      english: The season has changed.
+      hiragana: きせつがかわりました。
+      kanji: 季節が変わりました。
+      ruby: <ruby>季節<rt>きせつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりました。
+    1:
+      english: His opinion has changed.
+      hiragana: かれのかんがえがかわりました。
+      kanji: 彼の考えが変わりました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えが<ruby>変<rt>か</rt></ruby>わりました。
   simple_meaning:
     0: To change
     1: To be transformed
@@ -5911,7 +8146,17 @@
     split_hiragana: かた.づ.け.る
     wanikani_level: null
   kanji: 片付ける
-  samples: {}
+  samples:
+    0:
+      english: I will tidy up my room.
+      hiragana: へやをかたづけます。
+      kanji: 部屋を片付けます。
+      ruby: <ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けます。
+    1:
+      english: Please put away the dishes.
+      hiragana: おさらをかたづけてください。
+      kanji: お皿を片付けてください。
+      ruby: お<ruby>皿<rt>さら</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。
   simple_meaning:
     0: To tidy up
     1: To put away
@@ -5923,7 +8168,17 @@
     split_hiragana: へん.じ
     wanikani_level: '9'
   kanji: 返事
-  samples: {}
+  samples:
+    0:
+      english: I will reply to the email.
+      hiragana: メールにへんじします。
+      kanji: メールに返事します。
+      ruby: メールに<ruby>返事<rt>へんじ</rt></ruby>します。
+    1:
+      english: I received a response from him.
+      hiragana: かれからへんじがきました。
+      kanji: 彼から返事が来ました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>から<ruby>返事<rt>へんじ</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。
   simple_meaning:
     0: Reply
     1: Response
@@ -5935,7 +8190,17 @@
     split_hiragana: く.れ.る
     wanikani_level: '35'
   kanji: 暮れる
-  samples: {}
+  samples:
+    0:
+      english: The sky is getting dark.
+      hiragana: そらがくれてきました。
+      kanji: 空が暮れてきました。
+      ruby: <ruby>空<rt>そら</rt></ruby>が<ruby>暮<rt>く</rt></ruby>れてきました。
+    1:
+      english: The year is coming to an end.
+      hiragana: としがくれていきます。
+      kanji: 年が暮れていきます。
+      ruby: <ruby>年<rt>とし</rt></ruby>が<ruby>暮<rt>く</rt></ruby>れていきます。
   simple_meaning:
     0: To get dark
     1: To end (a day)
@@ -5947,7 +8212,17 @@
     split_hiragana: ほう.りつ
     wanikani_level: '23'
   kanji: 法律
-  samples: {}
+  samples:
+    0:
+      english: There is a new law.
+      hiragana: あたらしいほうりつができました。
+      kanji: 新しい法律ができました。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>ができました。
+    1:
+      english: We must obey the law.
+      hiragana: ほうりつにしたがわなければなりません。
+      kanji: 法律に従わなければなりません。
+      ruby: <ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>従<rt>したが</rt></ruby>わなければなりません。
   simple_meaning:
     0: Law
 '1518070':
@@ -5958,7 +8233,17 @@
     split_hiragana: たず.ね.る
     wanikani_level: '27'
   kanji: 訪ねる
-  samples: {}
+  samples:
+    0:
+      english: I will visit my friend's house.
+      hiragana: ともだちのいえをたずねます。
+      kanji: 友達の家を訪ねます。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねます。
+    1:
+      english: We visited Kyoto last month.
+      hiragana: せんげつきょうとをたずねました。
+      kanji: 先月京都を訪ねました。
+      ruby: <ruby>先月<rt>せんげつ</rt></ruby><ruby>京都<rt>きょうと</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねました。
   simple_meaning:
     0: To visit
 '1518540':
@@ -5969,7 +8254,17 @@
     split_hiragana: な.く.な.る
     wanikani_level: '6'
   kanji: 亡くなる
-  samples: {}
+  samples:
+    0:
+      english: My grandfather passed away last year.
+      hiragana: そふはきょねんなくなりました。
+      kanji: 祖父は去年亡くなりました。
+      ruby: <ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。
+    1:
+      english: The famous artist passed away.
+      hiragana: ゆうめいなげいじゅつかがなくなりました。
+      kanji: 有名な芸術家が亡くなりました。
+      ruby: <ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>芸術家<rt>げいじゅつか</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。
   simple_meaning:
     0: To pass away
 '1519230':
@@ -5980,7 +8275,17 @@
     split_hiragana: わす.れ.もの
     wanikani_level: '20'
   kanji: 忘れ物
-  samples: {}
+  samples:
+    0:
+      english: Did you forget something?
+      hiragana: なにかわすれものはありませんか。
+      kanji: 何か忘れ物はありませんか。
+      ruby: <ruby>何<rt>なに</rt></ruby>か<ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>はありませんか。
+    1:
+      english: I left my wallet at the station.
+      hiragana: えきにさいふをわすれものしました。
+      kanji: 駅に財布を忘れ物しました。
+      ruby: <ruby>駅<rt>えき</rt></ruby>に<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>しました。
   simple_meaning:
     0: Lost item
     1: Forgotten item
@@ -5992,7 +8297,17 @@
     split_hiragana: ぼう.えき
     wanikani_level: '36'
   kanji: 貿易
-  samples: {}
+  samples:
+    0:
+      english: I am working in the trade industry.
+      hiragana: ぼうえきのしごとをしています。
+      kanji: 貿易の仕事をしています。
+      ruby: <ruby>貿易<rt>ぼうえき</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしています。
+    1:
+      english: The country's trade is thriving.
+      hiragana: そのくにのぼうえきはさかんです。
+      kanji: その国の貿易は盛んです。
+      ruby: その<ruby>国<rt>くに</rt></ruby>の<ruby>貿易<rt>ぼうえき</rt></ruby>は<ruby>盛<rt>さかん</rt></ruby>です。
   simple_meaning:
     0: Trade
     1: Commerce
@@ -6004,7 +8319,17 @@
     split_hiragana: ぼく
     wanikani_level: '12'
   kanji: 僕
-  samples: {}
+  samples:
+    0:
+      english: I am a student.
+      hiragana: ぼくはがくせいです。
+      kanji: 僕と彼は学生です。
+      ruby: <ruby>僕<rt>ぼく</rt></ruby>と<ruby>彼<rt>かれ</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。
+    1:
+      english: I will do my best.
+      hiragana: ぼくがんばります。
+      kanji: 僕がんばります。
+      ruby: <ruby>僕<rt>ぼく</rt></ruby>がんばります。
   simple_meaning:
     0: I (used by males)
 '1523400':
@@ -6015,7 +8340,17 @@
     split_hiragana: ほん.やく
     wanikani_level: '50'
   kanji: 翻訳
-  samples: {}
+  samples:
+    0:
+      english: Please translate this document into English.
+      hiragana: このしょるいをえいごにほんやくしてください。
+      kanji: この書類を英語に翻訳してください。
+      ruby: この<ruby>書類<rt>しょるい</rt></ruby>を<ruby>英語<rt>えいご</rt></ruby>に<ruby>翻訳<rt>ほんやく</rt></ruby>してください。
+    1:
+      english: He does translation work.
+      hiragana: かれはほんやくのしごとをしています。
+      kanji: 彼は翻訳の仕事をしています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>翻訳<rt>ほんやく</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしています。
   simple_meaning:
     0: Translation
 '1526920':
@@ -6026,7 +8361,17 @@
     split_hiragana: まん.が
     wanikani_level: '50'
   kanji: 漫画
-  samples: {}
+  samples:
+    0:
+      english: I often read manga.
+      hiragana: よくまんがをよみます。
+      kanji: よく漫画を読みます。
+      ruby: よく<ruby>漫画<rt>まんが</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。
+    1:
+      english: This manga is very popular.
+      hiragana: このまんがはとてもにんきがあります。
+      kanji: この漫画はとても人気があります。
+      ruby: この<ruby>漫画<rt>まんが</rt></ruby>はとても<ruby>人気<rt>にんき</rt></ruby>があります。
   simple_meaning:
     0: Manga
     1: Comic
@@ -6038,7 +8383,17 @@
     split_hiragana: あじ
     wanikani_level: '11'
   kanji: 味
-  samples: {}
+  samples:
+    0:
+      english: What kind of taste does this have?
+      hiragana: これはどんなあじがしますか。
+      kanji: これはどんな味がしますか。
+      ruby: これはどんな<ruby>味<rt>あじ</rt></ruby>がしますか。
+    1:
+      english: The taste of the cake is sweet.
+      hiragana: ケーキのあじはあまいです。
+      kanji: ケーキの味は甘いです。
+      ruby: ケーキの<ruby>味<rt>あじ</rt></ruby>は<ruby>甘<rt>あま</rt></ruby>いです。
   simple_meaning:
     0: Taste
     1: Flavor
@@ -6050,7 +8405,17 @@
     split_hiragana: み.そ
     wanikani_level: '35'
   kanji: 味噌
-  samples: {}
+  samples:
+    0:
+      english: I eat miso soup every morning.
+      hiragana: まいあさみそしるをたべます。
+      kanji: 毎朝味噌汁を食べます。
+      ruby: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>味噌汁<rt>みそしる</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。
+    1:
+      english: Miso is made from soybeans.
+      hiragana: みそはだいずからつくられます。
+      kanji: 味噌は大豆から作られます。
+      ruby: <ruby>味噌<rt>みそ</rt></ruby>は<ruby>大豆<rt>だいず</rt></ruby>から<ruby>作<rt>つく</rt></ruby>られます。
   simple_meaning:
     0: Miso (fermented soybean paste)
 '1529330':
@@ -6061,7 +8426,17 @@
     split_hiragana: ねむ.い
     wanikani_level: '27'
   kanji: 眠い
-  samples: {}
+  samples:
+    0:
+      english: I am sleepy.
+      hiragana: ねむいです。
+      kanji: 眠いです。
+      ruby: <ruby>眠<rt>ねむ</rt></ruby>いです。
+    1:
+      english: I'm sleepy so I will go to bed.
+      hiragana: ねむいのでねます。
+      kanji: 眠いので寝ます。
+      ruby: <ruby>眠<rt>ねむ</rt></ruby>いので<ruby>寝<rt>ね</rt></ruby>ます。
   simple_meaning:
     0: Sleepy
 '1529390':
@@ -6072,7 +8447,17 @@
     split_hiragana: ねむ.る
     wanikani_level: '29'
   kanji: 眠る
-  samples: {}
+  samples:
+    0:
+      english: The baby is sleeping quietly.
+      hiragana: あかちゃんはしずかにねむっています。
+      kanji: 赤ちゃんは静かに眠っています。
+      ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>静<rt>しず</rt></ruby>かに<ruby>眠<rt>ねむ</rt></ruby>っています。
+    1:
+      english: I couldn't sleep at all last night.
+      hiragana: ゆうべはぜんぜんねむれませんでした。
+      kanji: 昨夜は全然眠れませんでした。
+      ruby: <ruby>昨夜<rt>ゆうべ</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>眠<rt>ねむ</rt></ruby>れませんでした。
   simple_meaning:
     0: To sleep
 '1529410':
@@ -6083,7 +8468,17 @@
     split_hiragana: ゆめ
     wanikani_level: '20'
   kanji: 夢
-  samples: {}
+  samples:
+    0:
+      english: I had a strange dream last night.
+      hiragana: ゆうべへんなゆめをみました。
+      kanji: 昨夜変な夢を見ました。
+      ruby: <ruby>昨夜<rt>ゆうべ</rt></ruby><ruby>変<rt>へん</rt></ruby>な<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
+    1:
+      english: My dream is to become a doctor.
+      hiragana: わたしのゆめはいしゃになることです。
+      kanji: 私の夢は医者になることです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>医者<rt>いしゃ</rt></ruby>になることです。
   simple_meaning:
     0: Dream
 '1530970':
@@ -6094,7 +8489,17 @@
     split_hiragana: む.り
     wanikani_level: '17'
   kanji: 無理
-  samples: {}
+  samples:
+    0:
+      english: That's impossible.
+      hiragana: それはむりです。
+      kanji: それは無理です。
+      ruby: それは<ruby>無理<rt>むり</rt></ruby>です。
+    1:
+      english: Don't overdo it.
+      hiragana: むりをしないでください。
+      kanji: 無理をしないでください。
+      ruby: <ruby>無理<rt>むり</rt></ruby>をしないでください。
   simple_meaning:
     0: Impossible
     1: Unreasonable
@@ -6106,7 +8511,17 @@
     split_hiragana: むすめ
     wanikani_level: '29'
   kanji: 娘
-  samples: {}
+  samples:
+    0:
+      english: I have one daughter.
+      hiragana: わたしにはむすめがひとりいます。
+      kanji: 私には娘が一人います。
+      ruby: <ruby>私<rt>わたし</rt></ruby>には<ruby>娘<rt>むすめ</rt></ruby>が<ruby>一人<rt>ひとり</rt></ruby>います。
+    1:
+      english: My daughter is 5 years old.
+      hiragana: わたしのむすめはごさいです。
+      kanji: 私の娘は5歳です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>娘<rt>むすめ</rt></ruby>は5<ruby>歳<rt>さい</rt></ruby>です。
   simple_meaning:
     0: Daughter
 '1532910':
@@ -6117,7 +8532,17 @@
     split_hiragana: な.る
     wanikani_level: '12'
   kanji: 鳴る
-  samples: {}
+  samples:
+    0:
+      english: The phone is ringing.
+      hiragana: でんわがなっています。
+      kanji: 電話が鳴っています。
+      ruby: <ruby>電話<rt>でんわ</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>っています。
+    1:
+      english: The bell rang.
+      hiragana: ベルがなりました。
+      kanji: ベルが鳴りました。
+      ruby: ベルが<ruby>鳴<rt>な</rt></ruby>りました。
   simple_meaning:
     0: To ring
     1: To sound
@@ -6129,7 +8554,17 @@
     split_hiragana: け
     wanikani_level: '3'
   kanji: 毛
-  samples: {}
+  samples:
+    0:
+      english: The dog has soft fur.
+      hiragana: いぬのけはとてもやわらかいです。
+      kanji: 犬の毛はとても柔らかいです。
+      ruby: <ruby>犬<rt>いぬ</rt></ruby>の<ruby>毛<rt>け</rt></ruby>はとても<ruby>柔<rt>やわ</rt></ruby>らかいです。
+    1:
+      english: There is a hair on my clothes.
+      hiragana: ふくにけがついています。
+      kanji: 服に毛が付いています。
+      ruby: <ruby>服<rt>ふく</rt></ruby>に<ruby>毛<rt>け</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いています。
   simple_meaning:
     0: Hair
     1: Fur
@@ -6141,7 +8576,17 @@
     split_hiragana: もめん
     wanikani_level: '46'
   kanji: 木綿
-  samples: {}
+  samples:
+    0:
+      english: This shirt is made of cotton.
+      hiragana: このシャツはもめんでできています。
+      kanji: このシャツは木綿でできています。
+      ruby: このシャツは<ruby>木綿<rt>もめん</rt></ruby>でできています。
+    1:
+      english: I like the texture of cotton.
+      hiragana: もめんのてざわりがすきです。
+      kanji: 木綿の手触りが好きです。
+      ruby: <ruby>木綿<rt>もめん</rt></ruby>の<ruby>手<rt>て</rt></ruby><ruby>触<rt>ざわ</rt></ruby>りが<ruby>好<rt>す</rt></ruby>きです。
   simple_meaning:
     0: Cotton
 '1535880':
@@ -6152,7 +8597,17 @@
     split_hiragana: もど.る
     wanikani_level: '37'
   kanji: 戻る
-  samples: {}
+  samples:
+    0:
+      english: I will return home at 5 PM.
+      hiragana: ごご5じにいにもどります。
+      kanji: 午後5時に家ににに戻ります。
+      ruby: <ruby>午後<rt>ごご</rt></ruby>5<ruby>時<rt>じ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>にに<ruby>戻<rt>もど</rt></ruby>ります。
+    1:
+      english: Please go back to the previous page.
+      hiragana: まえのページにもどってください。
+      kanji: 前のページに戻ってください。
+      ruby: <ruby>前<rt>まえ</rt></ruby>のページに<ruby>戻<rt>もど</rt></ruby>ってください。
   simple_meaning:
     0: To return
     1: To go back
@@ -6164,7 +8619,17 @@
     split_hiragana: やく.に.た.つ
     wanikani_level: '8'
   kanji: 役に立つ
-  samples: {}
+  samples:
+    0:
+      english: This book is very useful.
+      hiragana: このほんはとてもやくにたちます。
+      kanji: この本はとても役に立ちます。
+      ruby: この<ruby>本<rt>ほん</rt></ruby>はとても<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちます。
+    1:
+      english: I want to be helpful to people.
+      hiragana: ひとびとのやくにたちたいです。
+      kanji: 人々の役に立ちたいです。
+      ruby: <ruby>人々<rt>ひとびと</rt></ruby>の<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちたいです。
   simple_meaning:
     0: To be useful
     1: To be helpful
@@ -6176,7 +8641,17 @@
     split_hiragana: やく.そく
     wanikani_level: '16'
   kanji: 約束
-  samples: {}
+  samples:
+    0:
+      english: Please keep your promise.
+      hiragana: やくそくをまもってください。
+      kanji: 約束を守ってください。
+      ruby: <ruby>約束<rt>やくそく</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ってください。
+    1:
+      english: I have an appointment with a friend.
+      hiragana: ともだちとやくそくがあります。
+      kanji: 友達と約束があります。
+      ruby: <ruby>友達<rt>ともだち</rt></ruby>と<ruby>約束<rt>やくそく</rt></ruby>があります。
   simple_meaning:
     0: Promise
     1: Appointment
@@ -6188,7 +8663,17 @@
     split_hiragana: おど.る
     wanikani_level: '48'
   kanji: 踊る
-  samples: {}
+  samples:
+    0:
+      english: Let's dance together.
+      hiragana: いっしょにおどりましょう。
+      kanji: 一緒に踊りましょう。
+      ruby: <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>踊<rt>おど</rt></ruby>りましょう。
+    1:
+      english: She is good at dancing.
+      hiragana: かのじょはおどるのがじょうずです。
+      kanji: 彼女は踊るのが上手です。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>踊<rt>おど</rt></ruby>るのが<ruby>上手<rt>じょうず</rt></ruby>です。
   simple_meaning:
     0: To dance
 '1539040':
@@ -6199,7 +8684,17 @@
     split_hiragana: やさ.し.い
     wanikani_level: '23'
   kanji: 優しい
-  samples: {}
+  samples:
+    0:
+      english: My mother is kind.
+      hiragana: はははやさしいです。
+      kanji: 母は優しいです。
+      ruby: <ruby>母<rt>はは</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しいです。
+    1:
+      english: He is a gentle person.
+      hiragana: かれはやさしいひとです。
+      kanji: 彼は優しい人です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。
   simple_meaning:
     0: Kind
     1: Gentle
@@ -6211,7 +8706,17 @@
     split_hiragana: あそ.び
     wanikani_level: '32'
   kanji: 遊び
-  samples: {}
+  samples:
+    0:
+      english: Let's go out and play.
+      hiragana: あそびにいきましょう。
+      kanji: 遊びに行きましょう。
+      ruby: <ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きましょう。
+    1:
+      english: What kind of game do you like?
+      hiragana: どんなあそびがすきですか。
+      kanji: どんな遊びが好きですか。
+      ruby: どんな<ruby>遊<rt>あそ</rt></ruby>びが<ruby>好<rt>す</rt></ruby>きですか。
   simple_meaning:
     0: Play
     1: Game
@@ -6223,7 +8728,17 @@
     split_hiragana: よ.しゅう
     wanikani_level: null
   kanji: 予習
-  samples: {}
+  samples:
+    0:
+      english: I will prepare for tomorrow's class.
+      hiragana: あしたのじゅぎょうをよしゅうします。
+      kanji: 明日の授業を予習します。
+      ruby: <ruby>明日<rt>あした</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>予習<rt>よしゅう</rt></ruby>します。
+    1:
+      english: It's important to prepare for lessons.
+      hiragana: よしゅうはたいせつです。
+      kanji: 予習は大切です。
+      ruby: <ruby>予習<rt>よしゅう</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>です。
   simple_meaning:
     0: Preparation (for lessons)
 '1543240':
@@ -6234,7 +8749,17 @@
     split_hiragana: よ.てい
     wanikani_level: '9'
   kanji: 予定
-  samples: {}
+  samples:
+    0:
+      english: I plan to travel next week.
+      hiragana: らいしゅうりょこうにいくよていです。
+      kanji: 来週旅行に行く予定です。
+      ruby: <ruby>来週<rt>らいしゅう</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。
+    1:
+      english: What is your schedule for today?
+      hiragana: きょうのよていはなんですか。
+      kanji: 今日の予定は何ですか。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。
   simple_meaning:
     0: Schedule
     1: Plan
@@ -6246,7 +8771,17 @@
     split_hiragana: よ.やく
     wanikani_level: '14'
   kanji: 予約
-  samples: {}
+  samples:
+    0:
+      english: I made a reservation for the restaurant.
+      hiragana: レストランをよやくしました。
+      kanji: レストランを予約しました。
+      ruby: レストランを<ruby>予約<rt>よやく</rt></ruby>しました。
+    1:
+      english: You need to make a reservation in advance.
+      hiragana: まえもってよやくするひつようがあります。
+      kanji: 前もって予約する必要があります。
+      ruby: <ruby>前<rt>まえ</rt></ruby>もって<ruby>予約<rt>よやく</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>があります。
   simple_meaning:
     0: Reservation
     1: Booking
@@ -6258,7 +8793,17 @@
     split_hiragana: ゆ.れ.る
     wanikani_level: '44'
   kanji: 揺れる
-  samples: {}
+  samples:
+    0:
+      english: The train is shaking.
+      hiragana: でんしゃがゆれています。
+      kanji: 電車が揺れています。
+      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>揺<rt>ゆ</rt></ruby>れています。
+    1:
+      english: The leaves of the tree are swaying in the wind.
+      hiragana: きのはっぱがゆれています。
+      kanji: 木の葉っぱが揺れています。
+      ruby: <ruby>木<rt>き</rt></ruby>の<ruby>葉<rt>は</rt></ruby>っぱが<ruby>揺<rt>ゆ</rt></ruby>れています。
   simple_meaning:
     0: To shake
     1: To sway
@@ -6270,7 +8815,17 @@
     split_hiragana: よう
     wanikani_level: '3'
   kanji: 用
-  samples: {}
+  samples:
+    0:
+      english: This is for children's use.
+      hiragana: これはこどもようのです。
+      kanji: これは子供用のです。
+      ruby: これは<ruby>子供<rt>こども</rt></ruby><ruby>用<rt>よう</rt></ruby>のです。
+    1:
+      english: I have some business to take care of.
+      hiragana: ちょっとようがあります。
+      kanji: ちょっと用があります。
+      ruby: ちょっと<ruby>用<rt>よう</rt></ruby>があります。
   simple_meaning:
     0: Use
     1: Business
@@ -6282,7 +8837,17 @@
     split_hiragana: よう.い
     wanikani_level: '11'
   kanji: 用意
-  samples: {}
+  samples:
+    0:
+      english: The preparation is complete.
+      hiragana: よういができました。
+      kanji: 用意ができました。
+      ruby: <ruby>用意<rt>ようい</rt></ruby>ができました。
+    1:
+      english: Please make preparations for the party.
+      hiragana: パーティーのよういをしてください。
+      kanji: パーティーの用意をしてください。
+      ruby: パーティーの<ruby>用意<rt>ようい</rt></ruby>をしてください。
   simple_meaning:
     0: Preparation
     1: Arrangements
@@ -6294,7 +8859,17 @@
     split_hiragana: よう.じ
     wanikani_level: '9'
   kanji: 用事
-  samples: {}
+  samples:
+    0:
+      english: I have some errands to run.
+      hiragana: ようじがあります。
+      kanji: 用事があります。
+      ruby: <ruby>用事<rt>ようじ</rt></ruby>があります。
+    1:
+      english: I have some business to attend to.
+      hiragana: しごとのようじがあります。
+      kanji: 仕事の用事があります。
+      ruby: <ruby>仕事<rt>しごと</rt></ruby>の<ruby>用事<rt>ようじ</rt></ruby>があります。
   simple_meaning:
     0: Errand
     1: Business
@@ -6306,7 +8881,17 @@
     split_hiragana: は
     wanikani_level: '10'
   kanji: 葉
-  samples: {}
+  samples:
+    0:
+      english: The leaves of the tree are beautiful.
+      hiragana: きのはがきれいです。
+      kanji: 木の葉が綺麗です。
+      ruby: <ruby>木<rt>き</rt></ruby>の<ruby>葉<rt>は</rt></ruby>が<ruby>綺麗<rt>きれい</rt></ruby>です。
+    1:
+      english: The autumn leaves are red.
+      hiragana: あきのははあかいです。
+      kanji: 秋の葉は赤いです。
+      ruby: <ruby>秋<rt>あき</rt></ruby>の<ruby>葉<rt>は</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>いです。
   simple_meaning:
     0: Leaf
 '1546880':
@@ -6317,7 +8902,17 @@
     split_hiragana: おど.り
     wanikani_level: '48'
   kanji: 踊り
-  samples: {}
+  samples:
+    0:
+      english: I am learning Japanese dance.
+      hiragana: にほんのおどりをならっています。
+      kanji: 日本の踊りを習っています。
+      ruby: <ruby>日本<rt>にほん</rt></ruby>の<ruby>踊<rt>おど</rt></ruby>りを<ruby>習<rt>なら</rt></ruby>っています。
+    1:
+      english: The dance performance was wonderful.
+      hiragana: おどりのパフォーマンスはすばらしかったです。
+      kanji: 踊りのパフォーマンスは素晴らしかったです。
+      ruby: <ruby>踊<rt>おど</rt></ruby>りのパフォーマンスは<ruby>素晴<rt>すば</rt></ruby>らしかったです。
   simple_meaning:
     0: Dance
 '1548550':
@@ -6328,7 +8923,17 @@
     split_hiragana: お.ち.る
     wanikani_level: '10'
   kanji: 落ちる
-  samples: {}
+  samples:
+    0:
+      english: The apple fell from the tree.
+      hiragana: りんごがきからおちました。
+      kanji: リンゴが木から落ちました。
+      ruby: リンゴが<ruby>木<rt>き</rt></ruby>から<ruby>落<rt>お</rt></ruby>ちました。
+    1:
+      english: The pen dropped from the desk.
+      hiragana: ペンがつくえからおちました。
+      kanji: ペンが机から落ちました。
+      ruby: ペンが<ruby>机<rt>つくえ</rt></ruby>から<ruby>落<rt>お</rt></ruby>ちました。
   simple_meaning:
     0: To fall
     1: To drop
@@ -6340,7 +8945,17 @@
     split_hiragana: り.よう
     wanikani_level: null
   kanji: 利用
-  samples: {}
+  samples:
+    0:
+      english: Please use this.
+      hiragana: これをりようしてください。
+      kanji: これを利用してください。
+      ruby: これを<ruby>利用<rt>りよう</rt></ruby>してください。
+    1:
+      english: This park is used by many people.
+      hiragana: このこうえんはたくさんのひとにりようされています。
+      kanji: この公園はたくさんの人に利用されています。
+      ruby: この<ruby>公園<rt>こうえん</rt></ruby>はたくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>されています。
   simple_meaning:
     0: Use
     1: Utilization
@@ -6352,7 +8967,17 @@
     split_hiragana: り.ゆう
     wanikani_level: '7'
   kanji: 理由
-  samples: {}
+  samples:
+    0:
+      english: What is the reason?
+      hiragana: りゆうはなんですか。
+      kanji: 理由は何ですか。
+      ruby: <ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。
+    1:
+      english: I can't tell you the reason.
+      hiragana: りゆうはいえません。
+      kanji: 理由を言えません。
+      ruby: <ruby>理由<rt>りゆう</rt></ruby>を<ruby>言<rt>い</rt></ruby>えません。
   simple_meaning:
     0: Reason
 '1550190':
@@ -6363,7 +8988,17 @@
     split_hiragana: うら
     wanikani_level: '33'
   kanji: 裏
-  samples: {}
+  samples:
+    0:
+      english: Please write your name on the back of the paper.
+      hiragana: かみのうらになまえをかいてください。
+      kanji: 紙の裏に名前を書いてください。
+      ruby: <ruby>紙<rt>かみ</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>に<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。
+    1:
+      english: The back side of the coin is different.
+      hiragana: コインのうらはちがいます。
+      kanji: コインの裏は違います。
+      ruby: コインの<ruby>裏<rt>うら</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>います。
   simple_meaning:
     0: Back
     1: Reverse side
@@ -6375,7 +9010,17 @@
     split_hiragana: た.て.る
     wanikani_level: '2'
   kanji: 立てる
-  samples: {}
+  samples:
+    0:
+      english: Please stand up the umbrella.
+      hiragana: かさをたててください。
+      kanji: 傘を立ててください。
+      ruby: <ruby>傘<rt>かさ</rt></ruby>を<ruby>立<rt>た</rt></ruby>ててください。
+    1:
+      english: They are building a new house.
+      hiragana: あたらしいいえをたてています。
+      kanji: 新しい家を立てています。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>を<ruby>立<rt>た</rt></ruby>てています。
   simple_meaning:
     0: To stand up
     1: To build
@@ -6387,7 +9032,17 @@
     split_hiragana: る.す
     wanikani_level: '16'
   kanji: 留守
-  samples: {}
+  samples:
+    0:
+      english: He is not at home.
+      hiragana: かれはるすです。
+      kanji: 彼は留守です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>留守<rt>るす</rt></ruby>です。
+    1:
+      english: I will be away from home tomorrow.
+      hiragana: あしたはるすにします。
+      kanji: 明日は留守にします。
+      ruby: <ruby>明日<rt>あした</rt></ruby>は<ruby>留守<rt>るす</rt></ruby>にします。
   simple_meaning:
     0: Absence
     1: Not at home
@@ -6399,7 +9054,17 @@
     split_hiragana: りょ.かん
     wanikani_level: '13'
   kanji: 旅館
-  samples: {}
+  samples:
+    0:
+      english: I stayed at a traditional Japanese inn.
+      hiragana: にほんのりょかんにとまりました。
+      kanji: 日本の旅館に泊まりました。
+      ruby: <ruby>日本<rt>にほん</rt></ruby>の<ruby>旅館<rt>りょかん</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まりました。
+    1:
+      english: The ryokan is very old.
+      hiragana: そのりょかんはとてもふるいです。
+      kanji: その旅館はとても古いです。
+      ruby: その<ruby>旅館<rt>りょかん</rt></ruby>はとても<ruby>古<rt>ふる</rt></ruby>いです。
   simple_meaning:
     0: Japanese inn
 '1554010':
@@ -6410,7 +9075,17 @@
     split_hiragana: りょう.ほう
     wanikani_level: '6'
   kanji: 両方
-  samples: {}
+  samples:
+    0:
+      english: I like both.
+      hiragana: りょうほうがすきです。
+      kanji: 両方が好きです。
+      ruby: <ruby>両方<rt>りょうほう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。
+    1:
+      english: Both of us are students.
+      hiragana: わたしたちはりょうほうがくせいです。
+      kanji: 私たちは両方学生です。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>両方<rt>りょうほう</rt></ruby><ruby>学生<rt>がくせい</rt></ruby>です。
   simple_meaning:
     0: Both sides
     1: Both
@@ -6422,7 +9097,17 @@
     split_hiragana: ちから
     wanikani_level: '1'
   kanji: 力
-  samples: {}
+  samples:
+    0:
+      english: I have no strength.
+      hiragana: ちからがありません。
+      kanji: 力がありません。
+      ruby: <ruby>力<rt>ちから</rt></ruby>がありません。
+    1:
+      english: I can't open this bottle with my own strength.
+      hiragana: わたしひとりではこのびんをあけるちからがありません。
+      kanji: 私一人ではこの瓶を開ける力がありません。
+      ruby: <ruby>私<rt>わたし</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>ではこの<ruby>瓶<rt>びん</rt></ruby>を<ruby>開<rt>あ</rt></ruby>ける<ruby>力<rt>ちから</rt></ruby>がありません。
   simple_meaning:
     0: Power
     1: Strength
@@ -6434,7 +9119,17 @@
     split_hiragana: はやし
     wanikani_level: '5'
   kanji: 林
-  samples: {}
+  samples:
+    0:
+      english: I am walking in the woods.
+      hiragana: はやしのなかをあるいています。
+      kanji: 林の中を歩いています。
+      ruby: <ruby>林<rt>はやし</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いています。
+    1:
+      english: The town is surrounded by woods.
+      hiragana: まちははやしにかこまれています。
+      kanji: 町は林に囲まれています。
+      ruby: <ruby>町<rt>まち</rt></ruby>は<ruby>林<rt>はやし</rt></ruby>に<ruby>囲<rt>かこ</rt></ruby>まれています。
   simple_meaning:
     0: Woods
     1: Grove
@@ -6446,7 +9141,17 @@
     split_hiragana: たと.え.ば
     wanikani_level: '14'
   kanji: 例えば
-  samples: {}
+  samples:
+    0:
+      english: For example, what would you like to eat?
+      hiragana: たとえばなにをたべたいですか。
+      kanji: 例えば何を食べたいですか。
+      ruby: <ruby>例<rt>たと</rt></ruby>えば<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたいですか。
+    1:
+      english: For example, let's consider this case.
+      hiragana: たとえばこのケースをかんがえましょう。
+      kanji: 例えばこのケースを考えましょう。
+      ruby: <ruby>例<rt>たと</rt></ruby>えばこのケースを<ruby>考<rt>かんが</rt></ruby>えましょう。
   simple_meaning:
     0: For example
 '1556630':
@@ -6457,7 +9162,17 @@
     split_hiragana: ひ.え.る
     wanikani_level: '32'
   kanji: 冷える
-  samples: {}
+  samples:
+    0:
+      english: The room is getting cold.
+      hiragana: へやがひえてきました。
+      kanji: 部屋が冷えてきました。
+      ruby: <ruby>部屋<rt>へや</rt></ruby>が<ruby>冷<rt>ひ</rt></ruby>えてきました。
+    1:
+      english: The beer is cooled.
+      hiragana: ビールがひえています。
+      kanji: ビールが冷えています。
+      ruby: ビールが<ruby>冷<rt>ひ</rt></ruby>えています。
   simple_meaning:
     0: To get cold
     1: To cool down
@@ -6469,7 +9184,17 @@
     split_hiragana: れい.ぼう
     wanikani_level: '38'
   kanji: 冷房
-  samples: {}
+  samples:
+    0:
+      english: The air conditioning is on.
+      hiragana: れいぼうがついています。
+      kanji: 冷房がついています。
+      ruby: <ruby>冷房<rt>れいぼう</rt></ruby>がついています。
+    1:
+      english: I feel cold, so I turned off the air conditioning.
+      hiragana: さむいので、れいぼうをけしました。
+      kanji: 寒いので、冷房を消しました。
+      ruby: <ruby>寒<rt>さむ</rt></ruby>いので、<ruby>冷房<rt>れいぼう</rt></ruby>を<ruby>消<rt>け</rt></ruby>しました。
   simple_meaning:
     0: Air conditioning
 '1558050':
@@ -6480,7 +9205,17 @@
     split_hiragana: れき.し
     wanikani_level: '19'
   kanji: 歴史
-  samples: {}
+  samples:
+    0:
+      english: I am interested in history.
+      hiragana: れきしにきょうみがあります。
+      kanji: 歴史に興味があります。
+      ruby: <ruby>歴史<rt>れきし</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>があります。
+    1:
+      english: I studied Japanese history.
+      hiragana: にほんのれきしをべんきょうしました。
+      kanji: 日本の歴史を勉強しました。
+      ruby: <ruby>日本<rt>にほん</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しました。
   simple_meaning:
     0: History
 '1559900':
@@ -6491,7 +9226,17 @@
     split_hiragana: れん.らく
     wanikani_level: '19'
   kanji: 連絡
-  samples: {}
+  samples:
+    0:
+      english: Please contact me if anything happens.
+      hiragana: なにかあったられんらくしてください。
+      kanji: 何かあったら連絡してください。
+      ruby: <ruby>何<rt>なに</rt></ruby>かあったら<ruby>連絡<rt>れんらく</rt></ruby>してください。
+    1:
+      english: I received a message from him.
+      hiragana: かれかられんらくがありました。
+      kanji: 彼から連絡がありました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>から<ruby>連絡<rt>れんらく</rt></ruby>がありました。
   simple_meaning:
     0: Contact
     1: Communication
@@ -6503,7 +9248,17 @@
     split_hiragana: うで
     wanikani_level: '24'
   kanji: 腕
-  samples: {}
+  samples:
+    0:
+      english: My arm is long.
+      hiragana: うでがながいです。
+      kanji: 腕が長いです。
+      ruby: <ruby>腕<rt>うで</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。
+    1:
+      english: I have a watch on my arm.
+      hiragana: うでにうでどけいをしています。
+      kanji: 腕に腕時計をしています。
+      ruby: <ruby>腕<rt>うで</rt></ruby>に<ruby>腕時計<rt>うでどけい</rt></ruby>をしています。
   simple_meaning:
     0: Arm
 '1576250':
@@ -6514,7 +9269,17 @@
     split_hiragana: いち.ど
     wanikani_level: null
   kanji: 一度
-  samples: {}
+  samples:
+    0:
+      english: I want to go to Japan once.
+      hiragana: いちどにほんにいきたいです。
+      kanji: 一度日本に行きたいです。
+      ruby: <ruby>一度<rt>いちど</rt></ruby><ruby>日本<rt>にほん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。
+    1:
+      english: Please read it one more time.
+      hiragana: もういちどよんでください。
+      kanji: もう一度読んでください。
+      ruby: もう<ruby>一度<rt>いちど</rt></ruby><ruby>読<rt>よ</rt></ruby>んでください。
   simple_meaning:
     0: Once
     1: One time
@@ -6526,7 +9291,17 @@
     split_hiragana: おと
     wanikani_level: '5'
   kanji: 音
-  samples: {}
+  samples:
+    0:
+      english: I heard a strange sound.
+      hiragana: へんなおとがきこえました。
+      kanji: 変な音が聞こえました。
+      ruby: <ruby>変<rt>へん</rt></ruby>な<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえました。
+    1:
+      english: The music sound is loud.
+      hiragana: おんがくのおとがおおきいです。
+      kanji: 音楽の音が大きいです。
+      ruby: <ruby>音楽<rt>おんがく</rt></ruby>の<ruby>音<rt>おと</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。
   simple_meaning:
     0: Sound
     1: Noise
@@ -6538,7 +9313,17 @@
     split_hiragana: こう.じょう
     wanikani_level: '8'
   kanji: 工場
-  samples: {}
+  samples:
+    0:
+      english: My father works at a factory.
+      hiragana: ちちはこうじょうではたらいています。
+      kanji: 父は工場で働いています。
+      ruby: <ruby>父<rt>ちち</rt></ruby>は<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。
+    1:
+      english: This factory makes cars.
+      hiragana: このこうじょうはくるまをつくっています。
+      kanji: この工場は車を作っています。
+      ruby: この<ruby>工場<rt>こうじょう</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。
   simple_meaning:
     0: Factory
 '1579720':
@@ -6549,7 +9334,17 @@
     split_hiragana: さび.し.い
     wanikani_level: '56'
   kanji: 寂しい
-  samples: {}
+  samples:
+    0:
+      english: I am lonely.
+      hiragana: さびしいです。
+      kanji: 寂しいです。
+      ruby: <ruby>寂<rt>さび</rt></ruby>しいです。
+    1:
+      english: I feel sad because I can't see you.
+      hiragana: あなたにあえなくてさびしいです。
+      kanji: あなたに会えなくて寂しいです。
+      ruby: あなたに<ruby>会<rt>あ</rt></ruby>えなくて<ruby>寂<rt>さび</rt></ruby>しいです。
   simple_meaning:
     0: Lonely
     1: Sad
@@ -6561,7 +9356,17 @@
     split_hiragana: ひる.ま
     wanikani_level: null
   kanji: 昼間
-  samples: {}
+  samples:
+    0:
+      english: The daytime is long in summer.
+      hiragana: なつはひるまがながいです。
+      kanji: 夏は昼間が長いです。
+      ruby: <ruby>夏<rt>なつ</rt></ruby>は<ruby>昼間<rt>ひるま</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。
+    1:
+      english: I work during the day.
+      hiragana: わたしはひるまはたらいています。
+      kanji: 私は昼間働いています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>昼間<rt>ひるま</rt></ruby><ruby>働<rt>はたら</rt></ruby>いています。
   simple_meaning:
     0: Daytime
 '1582200':
@@ -6572,7 +9377,17 @@
     split_hiragana: と.ちゅう
     wanikani_level: '27'
   kanji: 途中
-  samples: {}
+  samples:
+    0:
+      english: We took a break on the way.
+      hiragana: とちゅうできゅうけいをしました。
+      kanji: 途中で休憩をしました。
+      ruby: <ruby>途中<rt>とちゅう</rt></ruby>で<ruby>休憩<rt>きゅうけい</rt></ruby>をしました。
+    1:
+      english: I got a phone call in the middle of the meeting.
+      hiragana: かいぎのとちゅうででんわがありました。
+      kanji: 会議の途中で電話がありました。
+      ruby: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>電話<rt>でんわ</rt></ruby>がありました。
   simple_meaning:
     0: On the way
     1: In the middle
@@ -6584,7 +9399,17 @@
     split_hiragana: つつ.む
     wanikani_level: '41'
   kanji: 包む
-  samples: {}
+  samples:
+    0:
+      english: Please wrap the present.
+      hiragana: プレゼントをつつんでください。
+      kanji: プレゼントを包んでください。
+      ruby: プレゼントを<ruby>包<rt>つつ</rt></ruby>んでください。
+    1:
+      english: She wrapped the gift in a cloth.
+      hiragana: かのじょはプレゼントをぬのでつつみました。
+      kanji: 彼女はプレゼントを布で包みました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>はプレゼントを<ruby>布<rt>ぬの</rt></ruby>で<ruby>包<rt>つつ</rt></ruby>みました。
   simple_meaning:
     0: To wrap
     1: To cover
@@ -6596,7 +9421,17 @@
     split_hiragana: うけ.つけ
     wanikani_level: '11'
   kanji: 受付
-  samples: {}
+  samples:
+    0:
+      english: Please go to the reception desk.
+      hiragana: うけつけにいってください。
+      kanji: 受付に行ってください。
+      ruby: <ruby>受付<rt>うけつけ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってください。
+    1:
+      english: The receptionist is very kind.
+      hiragana: うけつけのひとはとてもしんせつです。
+      kanji: 受付の人はとても親切です。
+      ruby: <ruby>受付<rt>うけつけ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>です。
   simple_meaning:
     0: Reception
     1: Front desk
@@ -6608,7 +9443,17 @@
     split_hiragana: うつ.す
     wanikani_level: '4'
   kanji: 写す
-  samples: {}
+  samples:
+    0:
+      english: Please copy the notes.
+      hiragana: ノートをうつしてください。
+      kanji: ノートを写してください。
+      ruby: ノートを<ruby>写<rt>うつ</rt></ruby>してください。
+    1:
+      english: He photographed the scenery with his camera.
+      hiragana: かれはカメラでけしきをうつしました。
+      kanji: 彼はカメラで景色を写しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はカメラで<ruby>景色<rt>けしき</rt></ruby>を<ruby>写<rt>うつ</rt></ruby>しました。
   simple_meaning:
     0: To copy
     1: To photograph
@@ -6620,7 +9465,17 @@
     split_hiragana: う.り.ば
     wanikani_level: null
   kanji: 売り場
-  samples: {}
+  samples:
+    0:
+      english: The book department is on the second floor.
+      hiragana: ほんのうりばは2かいです。
+      kanji: 本の売り場は2階です。
+      ruby: <ruby>本<rt>ほん</rt></ruby>の<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>は2<ruby>階<rt>かい</rt></ruby>です。
+    1:
+      english: I bought this at the seafood counter.
+      hiragana: このさかなはぎょかいうりばでかいました。
+      kanji: この魚は魚介売り場で買いました。
+      ruby: この<ruby>魚<rt>さかな</rt></ruby>は<ruby>魚介<rt>ぎょかい</rt></ruby><ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>で<ruby>買<rt>か</rt></ruby>いました。
   simple_meaning:
     0: Sales counter
     1: Department
@@ -6632,7 +9487,17 @@
     split_hiragana: えら.ぶ
     wanikani_level: '13'
   kanji: 選ぶ
-  samples: {}
+  samples:
+    0:
+      english: Please choose your favorite color.
+      hiragana: すきないろをえらんでください。
+      kanji: 好きな色を選んでください。
+      ruby: <ruby>好<rt>す</rt></ruby>きな<ruby>色<rt>いろ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んでください。
+    1:
+      english: I chose a book to read.
+      hiragana: よむほんをえらびました。
+      kanji: 読む本を選びました。
+      ruby: <ruby>読<rt>よ</rt></ruby>む<ruby>本<rt>ほん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びました。
   simple_meaning:
     0: To choose
     1: To select
@@ -6644,7 +9509,17 @@
     split_hiragana: おく.り.もの
     wanikani_level: '40'
   kanji: 贈り物
-  samples: {}
+  samples:
+    0:
+      english: I gave him a gift.
+      hiragana: かれにおくりものをあげました。
+      kanji: 彼に贈り物をあげました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>に<ruby>贈り物<rt>おくりもの</rt></ruby>をあげました。
+    1:
+      english: What a wonderful present!
+      hiragana: なんてすてきなおくりものでしょう。
+      kanji: なんて素敵な贈り物でしょう。
+      ruby: なんて<ruby>素敵<rt>すてき</rt></ruby>な<ruby>贈り物<rt>おくりもの</rt></ruby>でしょう。
   simple_meaning:
     0: Gift
     1: Present
@@ -6656,7 +9531,17 @@
     split_hiragana: おく.れ.る
     wanikani_level: '35'
   kanji: 遅れる
-  samples: {}
+  samples:
+    0:
+      english: I was late for the meeting.
+      hiragana: かいぎにおくれました。
+      kanji: 会議に遅れました。
+      ruby: <ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れました。
+    1:
+      english: The train is late.
+      hiragana: でんしゃがおくれています。
+      kanji: 電車が遅れています。
+      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れています。
   simple_meaning:
     0: To be late
 '1589060':
@@ -6667,7 +9552,17 @@
     split_hiragana: おこな.う
     wanikani_level: '5'
   kanji: 行う
-  samples: {}
+  samples:
+    0:
+      english: We will carry out a survey.
+      hiragana: アンケートをおこないます。
+      kanji: アンケートを行います。
+      ruby: アンケートを<ruby>行<rt>おこな</rt></ruby>います。
+    1:
+      english: A ceremony will be held tomorrow.
+      hiragana: あしたしきてんがおこなわれます。
+      kanji: 明日式典が行われます。
+      ruby: <ruby>明日<rt>あした</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われます。
   simple_meaning:
     0: To carry out
     1: To perform
@@ -6679,7 +9574,17 @@
     split_hiragana: お.と.す
     wanikani_level: '12'
   kanji: 落とす
-  samples: {}
+  samples:
+    0:
+      english: I dropped my pen.
+      hiragana: ペンをおとしました。
+      kanji: ペンを落としました。
+      ruby: ペンを<ruby>落<rt>お</rt></ruby>としました。
+    1:
+      english: I lost my wallet.
+      hiragana: さいふをおとしました。
+      kanji: 財布を落としました。
+      ruby: <ruby>財布<rt>さいふ</rt></ruby>を<ruby>落<rt>お</rt></ruby>としました。
   simple_meaning:
     0: To drop
     1: To lose
@@ -6691,7 +9596,17 @@
     split_hiragana: おも.う
     wanikani_level: '6'
   kanji: 思う
-  samples: {}
+  samples:
+    0:
+      english: I think so too.
+      hiragana: わたしもそうおもいます。
+      kanji: 私もそう思います。
+      ruby: <ruby>私<rt>わたし</rt></ruby>もそう<ruby>思<rt>おも</rt></ruby>います。
+    1:
+      english: I feel that this is important.
+      hiragana: これはじゅうようだとおもいます。
+      kanji: これは重要だと思います。
+      ruby: これは<ruby>重要<rt>じゅうよう</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。
   simple_meaning:
     0: To think
     1: To feel
@@ -6703,7 +9618,17 @@
     split_hiragana: お.わ.り
     wanikani_level: '12'
   kanji: 終わり
-  samples: {}
+  samples:
+    0:
+      english: The class is over.
+      hiragana: じゅぎょうのおわりです。
+      kanji: 授業の終わりです。
+      ruby: <ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりです。
+    1:
+      english: The end of the movie was impressive.
+      hiragana: えいがのおわりがとてもいんしょうてきでした。
+      kanji: 映画の終わりがとても印象的でした。
+      ruby: <ruby>映画<rt>えいが</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりがとても<ruby>印象的<rt>いんしょうてき</rt></ruby>でした。
   simple_meaning:
     0: End
     1: Conclusion
@@ -6715,7 +9640,17 @@
     split_hiragana: か.わ.り
     wanikani_level: '6'
   kanji: 代わり
-  samples: {}
+  samples:
+    0:
+      english: He is a substitute for the teacher.
+      hiragana: かれはせんせいのかわりです。
+      kanji: 彼は先生の代わりです。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりです。
+    1:
+      english: I will go in your place.
+      hiragana: あなたのかわりにわたしがいきます。
+      kanji: あなたの代わりに私が行きます。
+      ruby: あなたの<ruby>代<rt>か</rt></ruby>わりに<ruby>私<rt>わたし</rt></ruby>が<ruby>行<rt>い</rt></ruby>きます。
   simple_meaning:
     0: Substitute
     1: Replacement
@@ -6727,7 +9662,17 @@
     split_hiragana: き.こ.え.る
     wanikani_level: '12'
   kanji: 聞こえる
-  samples: {}
+  samples:
+    0:
+      english: I can hear a strange sound.
+      hiragana: へんなおとがきこえます。
+      kanji: 変な音が聞こえます。
+      ruby: <ruby>変<rt>へん</rt></ruby>な<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえます。
+    1:
+      english: The voice is not audible.
+      hiragana: こえがきこえません。
+      kanji: 声が聞こえません。
+      ruby: <ruby>声<rt>こえ</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえません。
   simple_meaning:
     0: To be heard
     1: To be audible
@@ -6739,7 +9684,17 @@
     split_hiragana: き.ま.る
     wanikani_level: '10'
   kanji: 決まる
-  samples: {}
+  samples:
+    0:
+      english: The plan has been decided.
+      hiragana: よていがきまりました。
+      kanji: 予定が決まりました。
+      ruby: <ruby>予定<rt>よてい</rt></ruby>が<ruby>決<rt>き</rt></ruby>まりました。
+    1:
+      english: The date of the meeting has been decided.
+      hiragana: かいぎのひがきまりました。
+      kanji: 会議の日が決まりました。
+      ruby: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>決<rt>き</rt></ruby>まりました。
   simple_meaning:
     0: To be decided
 '1591430':
@@ -6750,7 +9705,17 @@
     split_hiragana: き.も.ち
     wanikani_level: '11'
   kanji: 気持ち
-  samples: {}
+  samples:
+    0:
+      english: I have a good feeling.
+      hiragana: いいきもちです。
+      kanji: いい気持ちです。
+      ruby: いい<ruby>気持<rt>きも</rt></ruby>ちです。
+    1:
+      english: How do you feel?
+      hiragana: どんなきもちですか。
+      kanji: どんな気持ちですか。
+      ruby: どんな<ruby>気持<rt>きも</rt></ruby>ちですか。
   simple_meaning:
     0: Feeling
     1: Mood
@@ -6762,7 +9727,17 @@
     split_hiragana: くび
     wanikani_level: '6'
   kanji: 首
-  samples: {}
+  samples:
+    0:
+      english: My neck hurts.
+      hiragana: くびがいたいです。
+      kanji: 首が痛いです。
+      ruby: <ruby>首<rt>くび</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。
+    1:
+      english: He has a long neck.
+      hiragana: かれはくびがながいです。
+      kanji: 彼は首が長いです。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>首<rt>くび</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。
   simple_meaning:
     0: Neck
 '1592500':
@@ -6773,7 +9748,17 @@
     split_hiragana: ぐ.あい
     wanikani_level: '14'
   kanji: 具合
-  samples: {}
+  samples:
+    0:
+      english: How is your health?
+      hiragana: おげんきですか、ぐあいはいかがですか。
+      kanji: お元気ですか、具合はいかがですか。
+      ruby: お<ruby>元気<rt>げんき</rt></ruby>ですか、<ruby>具合<rt>ぐあい</rt></ruby>はいかがですか。
+    1:
+      english: The machine's condition is bad.
+      hiragana: きかいのぐあいがわるいです。
+      kanji: 機械の具合が悪いです。
+      ruby: <ruby>機械<rt>きかい</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。
   simple_meaning:
     0: Condition
     1: Health
@@ -6786,7 +9771,17 @@
     split_hiragana: こ.む
     wanikani_level: '32'
   kanji: 込む
-  samples: {}
+  samples:
+    0:
+      english: The train is crowded.
+      hiragana: でんしゃがこんでいます。
+      kanji: 電車が込んでいます。
+      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>込<rt>こ</rt></ruby>んでいます。
+    1:
+      english: The store is packed with people.
+      hiragana: みせはひとでこんでいました。
+      kanji: 店は人で混んでいました。
+      ruby: <ruby>店<rt>みせ</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>で<ruby>込<rt>こ</rt></ruby>んでいました。
   simple_meaning:
     0: To be crowded
     1: To be packed
@@ -6798,7 +9793,17 @@
     split_hiragana: こわ.い
     wanikani_level: '31'
   kanji: 怖い
-  samples: {}
+  samples:
+    0:
+      english: That movie was scary.
+      hiragana: あのえいがはこわかったです。
+      kanji: あの映画は怖かったです。
+      ruby: あの<ruby>映画<rt>えいが</rt></ruby>は<ruby>怖<rt>こわ</rt></ruby>かったです。
+    1:
+      english: I'm scared of ghosts.
+      hiragana: わたしはおばけがこわいです。
+      kanji: 私はお化けが怖いです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>お化<rt>ば</rt></ruby>けが<ruby>怖<rt>こわ</rt></ruby>いです。
   simple_meaning:
     0: Scary
     1: Frightening
@@ -6810,7 +9815,17 @@
     split_hiragana: ご.ぞん.じ
     wanikani_level: null
   kanji: ご存じ
-  samples: {}
+  samples:
+    0:
+      english: Do you know him?
+      hiragana: かれをごぞんじですか。
+      kanji: 彼をご存じですか。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby>じですか。
+    1:
+      english: He is a well-known person.
+      hiragana: かれはごぞんじのとおりゆうめいなひとです。
+      kanji: 彼はご存じのとおり有名な人です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はご<ruby>存<rt>ぞん</rt></ruby>じのとおり<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>です。
   simple_meaning:
     0: To know (honorific)
 '1593590':
@@ -6821,7 +9836,17 @@
     split_hiragana: ご.ち.そう
     wanikani_level: null
   kanji: ご馳走
-  samples: {}
+  samples:
+    0:
+      english: I had a great feast.
+      hiragana: ごちそうさまでした。
+      kanji: ご馳走様でした。
+      ruby: ご<ruby>馳走<rt>ちそう</rt></ruby><ruby>様<rt>さま</rt></ruby>でした。
+    1:
+      english: Thank you for the meal. (Before eating)
+      hiragana: ごちそうになります。
+      kanji: ご馳走になります。
+      ruby: ご<ruby>馳走<rt>ちそう</rt></ruby>になります。
   simple_meaning:
     0: Feast
     1: Treat
@@ -6833,7 +9858,17 @@
     split_hiragana: さが.す
     wanikani_level: '31'
   kanji: 探す
-  samples: {}
+  samples:
+    0:
+      english: I am looking for my keys.
+      hiragana: かぎをさがしています。
+      kanji: 鍵を探しています。
+      ruby: <ruby>鍵<rt>かぎ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。
+    1:
+      english: I'm searching for a job.
+      hiragana: しごとをさがしています。
+      kanji: 仕事を探しています。
+      ruby: <ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。
   simple_meaning:
     0: To search
     1: To look for
@@ -6845,7 +9880,17 @@
     split_hiragana: し.かた
     wanikani_level: '4'
   kanji: 仕方
-  samples: {}
+  samples:
+    0:
+      english: Is there any other way?
+      hiragana: ほかにしかたはありませんか。
+      kanji: 他に仕方はありませんか。
+      ruby: <ruby>他<rt>ほか</rt></ruby>に<ruby>仕方<rt>しかた</rt></ruby>はありませんか。
+    1:
+      english: I don't know how to do it.
+      hiragana: やりかたがわかりません。
+      kanji: やり方が分かりません。
+      ruby: やり<ruby>方<rt>かた</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりません。
   simple_meaning:
     0: Way
     1: Method
@@ -6857,7 +9902,17 @@
     split_hiragana: じ.てん
     wanikani_level: '16'
   kanji: 辞典
-  samples: {}
+  samples:
+    0:
+      english: I bought a new dictionary.
+      hiragana: あたらしいじてんをかいました。
+      kanji: 新しい辞典を買いました。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>辞典<rt>じてん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
+    1:
+      english: I look up words in a dictionary.
+      hiragana: じてんでことばをしらべます。
+      kanji: 辞典で言葉を調べます。
+      ruby: <ruby>辞典<rt>じてん</rt></ruby>で<ruby>言葉<rt>ことば</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べます。
   simple_meaning:
     0: Dictionary
 '1596780':
@@ -6868,7 +9923,17 @@
     split_hiragana: たい.ふう
     wanikani_level: '7'
   kanji: 台風
-  samples: {}
+  samples:
+    0:
+      english: A typhoon is coming.
+      hiragana: たいふうがちかづいています。
+      kanji: 台風が近づいています。
+      ruby: <ruby>台風<rt>たいふう</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいています。
+    1:
+      english: The typhoon caused a lot of damage.
+      hiragana: たいふうでたくさんのひがいがでました。
+      kanji: 台風でたくさんの被害が出ました。
+      ruby: <ruby>台風<rt>たいふう</rt></ruby>でたくさんの<ruby>被害<rt>ひがい</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。
   simple_meaning:
     0: Typhoon
 '1596930':
@@ -6879,7 +9944,17 @@
     split_hiragana: たし.か
     wanikani_level: null
   kanji: 確か
-  samples: {}
+  samples:
+    0:
+      english: I'm pretty sure he is a student.
+      hiragana: たしかかれはがくせいだとおもいます。
+      kanji: 確か彼は学生だと思います。
+      ruby: <ruby>確<rt>たし</rt></ruby>か<ruby>彼<rt>かれ</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。
+    1:
+      english: Are you sure about this?
+      hiragana: これはたしかですか。
+      kanji: これは確かですか。
+      ruby: これは<ruby>確<rt>たし</rt></ruby>かですか。
   simple_meaning:
     0: Certain
     1: Sure
@@ -6891,7 +9966,17 @@
     split_hiragana: つか.ま.え.る
     wanikani_level: null
   kanji: 捕まえる
-  samples: {}
+  samples:
+    0:
+      english: I caught a bug.
+      hiragana: むしをつかまえました。
+      kanji: 虫を捕まえました。
+      ruby: <ruby>虫<rt>むし</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえました。
+    1:
+      english: The police caught the thief.
+      hiragana: けいさつがどろぼうをつかまえました。
+      kanji: 警察が泥棒を捕まえました。
+      ruby: <ruby>警察<rt>けいさつ</rt></ruby>が<ruby>泥棒<rt>どろぼう</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえました。
   simple_meaning:
     0: To catch
     1: To capture
@@ -6903,7 +9988,17 @@
     split_hiragana: どろ.ぼう
     wanikani_level: '33'
   kanji: 泥棒
-  samples: {}
+  samples:
+    0:
+      english: A thief entered the house.
+      hiragana: どろぼうがはいりました。
+      kanji: 泥棒が入りました。
+      ruby: <ruby>泥棒<rt>どろぼう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>りました。
+    1:
+      english: The thief was caught by the police.
+      hiragana: どろぼうはけいさつにつかまりました。
+      kanji: 泥棒は警察に捕まりました。
+      ruby: <ruby>泥棒<rt>どろぼう</rt></ruby>は<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まりました。
   simple_meaning:
     0: Thief
     1: Burglar
@@ -6915,7 +10010,17 @@
     split_hiragana: なお.す
     wanikani_level: '6'
   kanji: 治す
-  samples: {}
+  samples:
+    0:
+      english: I will fix the broken watch.
+      hiragana: こわれたとけいをなおします。
+      kanji: 壊れた時計を治します。
+      ruby: <ruby>壊<rt>こわ</rt></ruby>れた<ruby>時計<rt>とけい</rt></ruby>を<ruby>治<rt>なお</rt></ruby>します。
+    1:
+      english: The doctor cured my illness.
+      hiragana: いしゃがびょうきをなおしてくれました。
+      kanji: 医者が病気を治してくれました。
+      ruby: <ruby>医者<rt>いしゃ</rt></ruby>が<ruby>病気<rt>びょうき</rt></ruby>を<ruby>治<rt>なお</rt></ruby>してくれました。
   simple_meaning:
     0: To heal
     1: To cure
@@ -6928,7 +10033,17 @@
     split_hiragana: なお.る
     wanikani_level: '6'
   kanji: 治る
-  samples: {}
+  samples:
+    0:
+      english: My illness was cured.
+      hiragana: びょうきがなおりました。
+      kanji: 病気が治りました。
+      ruby: <ruby>病気<rt>びょうき</rt></ruby>が<ruby>治<rt>なお</rt></ruby>りました。
+    1:
+      english: The broken clock is fixed.
+      hiragana: こわれたとけいがなおりました。
+      kanji: 壊れた時計が治りました。
+      ruby: <ruby>壊<rt>こわ</rt></ruby>れた<ruby>時計<rt>とけい</rt></ruby>が<ruby>治<rt>なお</rt></ruby>りました。
   simple_meaning:
     0: To be healed
     1: To recover
@@ -6940,7 +10055,17 @@
     split_hiragana: に.かい.だ.て
     wanikani_level: null
   kanji: 二階建て
-  samples: {}
+  samples:
+    0:
+      english: We live in a two-story house.
+      hiragana: わたしたちはにかいだてのいえにすんでいます。
+      kanji: 私たちは二階建ての家に住んでいます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>二階建<rt>にかいだ</rt></ruby>ての<ruby>家<rt>いえ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    1:
+      english: That's a two-story building.
+      hiragana: あれはにかいだてのたてものです。
+      kanji: あれは二階建ての建物です。
+      ruby: あれは<ruby>二階建<rt>にかいだ</rt></ruby>ての<ruby>建物<rt>たてもの</rt></ruby>です。
   simple_meaning:
     0: Two-story building
 '1600160':
@@ -6951,7 +10076,17 @@
     split_hiragana: ね.だん
     wanikani_level: '27'
   kanji: 値段
-  samples: {}
+  samples:
+    0:
+      english: The price is expensive.
+      hiragana: このねだんはたかいです。
+      kanji: この値段は高いです。
+      ruby: この<ruby>値段<rt>ねだん</rt></ruby>は<ruby>高<rt>たか</rt></ruby>いです。
+    1:
+      english: What is the price of this bag?
+      hiragana: このかばんのねだんはいくらですか。
+      kanji: この鞄の値段はいくらですか。
+      ruby: この<ruby>鞄<rt>かばん</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>はいくらですか。
   simple_meaning:
     0: Price
     1: Cost
@@ -6963,7 +10098,17 @@
     split_hiragana: の.り.か.え.る
     wanikani_level: '38'
   kanji: 乗り換える
-  samples: {}
+  samples:
+    0:
+      english: I will transfer at the next station.
+      hiragana: つぎのえきでのりかえます。
+      kanji: 次の駅で乗り換えます。
+      ruby: <ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>えます。
+    1:
+      english: You have to change trains at Shinjuku station.
+      hiragana: しんじゅくえきでのりかえるひつようがあります。
+      kanji: 新宿駅で乗り換える必要があります。
+      ruby: <ruby>新宿駅<rt>しんじゅくえき</rt></ruby>で<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>える<ruby>必要<rt>ひつよう</rt></ruby>があります。
   simple_meaning:
     0: To transfer (transport)
     1: To change
@@ -6975,7 +10120,17 @@
     split_hiragana: の.り.もの
     wanikani_level: '11'
   kanji: 乗り物
-  samples: {}
+  samples:
+    0:
+      english: What kind of transportation do you like?
+      hiragana: どんなのりものがすきですか。
+      kanji: どんな乗り物が好きですか。
+      ruby: どんな<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きですか。
+    1:
+      english: It's a convenient vehicle.
+      hiragana: べんりなのりものです。
+      kanji: 便利な乗り物です。
+      ruby: <ruby>便利<rt>べんり</rt></ruby>な<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>です。
   simple_meaning:
     0: Vehicle
     1: Transportation
@@ -6987,7 +10142,17 @@
     split_hiragana: ひ.き.だ.し
     wanikani_level: null
   kanji: 引き出し
-  samples: {}
+  samples:
+    0:
+      english: Please open the drawer.
+      hiragana: ひきだしをあけてください。
+      kanji: 引き出しを開けてください。
+      ruby: <ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しを<ruby>開<rt>あ</rt></ruby>けてください。
+    1:
+      english: I put the book in the drawer.
+      hiragana: ほんをひきだしにいれました。
+      kanji: 本を引き出しに入れました。
+      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しに<ruby>入<rt>い</rt></ruby>れました。
   simple_meaning:
     0: Drawer
 '1601660':
@@ -6998,7 +10163,17 @@
     split_hiragana: ひ.き.だ.す
     wanikani_level: null
   kanji: 引き出す
-  samples: {}
+  samples:
+    0:
+      english: I withdrew money from the bank.
+      hiragana: ぎんこうからおかねをひきだしました。
+      kanji: 銀行からお金を引き出しました。
+      ruby: <ruby>銀行<rt>ぎんこう</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しました。
+    1:
+      english: Please pull out the drawer.
+      hiragana: ひきだしをひきだしてください。
+      kanji: 引き出しを引き出してください。
+      ruby: <ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しを<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>してください。
   simple_meaning:
     0: To withdraw
     1: To pull out
@@ -7010,7 +10185,17 @@
     split_hiragana: ひげ
     wanikani_level: null
   kanji: 髭
-  samples: {}
+  samples:
+    0:
+      english: He has a beard.
+      hiragana: かれはひげをはやしています。
+      kanji: 彼は髭を生やしています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>髭<rt>ひげ</rt></ruby>を<ruby>生<rt>は</rt></ruby>やしています。
+    1:
+      english: He has a mustache.
+      hiragana: くちひげをそりました。
+      kanji: 口髭を剃りました。
+      ruby: <ruby>口髭<rt>くちひげ</rt></ruby>を<ruby>剃<rt>そ</rt></ruby>りました。
   simple_meaning:
     0: Beard
     1: Mustache
@@ -7022,7 +10207,17 @@
     split_hiragana: ふ.え.る
     wanikani_level: '40'
   kanji: 増える
-  samples: {}
+  samples:
+    0:
+      english: The number of students has increased.
+      hiragana: がくせいのすうがふえました。
+      kanji: 学生の数が増えました。
+      ruby: <ruby>学生<rt>がくせい</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。
+    1:
+      english: My weight has increased.
+      hiragana: たいじゅうがふえました。
+      kanji: 体重が増えました。
+      ruby: <ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。
   simple_meaning:
     0: To increase
     1: To grow
@@ -7034,7 +10229,17 @@
     split_hiragana: ふね
     wanikani_level: '7'
   kanji: 船
-  samples: {}
+  samples:
+    0:
+      english: I went on a trip by ship.
+      hiragana: ふねでりょこうしました。
+      kanji: 船で旅行しました。
+      ruby: <ruby>船<rt>ふね</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>しました。
+    1:
+      english: The ship is sailing.
+      hiragana: ふねがすすんでいます。
+      kanji: 船が進んでいます。
+      ruby: <ruby>船<rt>ふね</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいます。
   simple_meaning:
     0: Ship
     1: Boat
@@ -7046,7 +10251,17 @@
     split_hiragana: ほ.め.る
     wanikani_level: '40'
   kanji: 褒める
-  samples: {}
+  samples:
+    0:
+      english: The teacher praised me.
+      hiragana: せんせいがわたしをほめてくれました。
+      kanji: 先生が私を褒めてくれました。
+      ruby: <ruby>先生<rt>せんせい</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>めてくれました。
+    1:
+      english: He was praised for his efforts.
+      hiragana: かれはどりょくをほめられました。
+      kanji: 彼は努力を褒められました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>努力<rt>どりょく</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>められました。
   simple_meaning:
     0: To praise
     1: To compliment
@@ -7058,7 +10273,17 @@
     split_hiragana: まわ.り
     wanikani_level: '14'
   kanji: 周り
-  samples: {}
+  samples:
+    0:
+      english: There is a park around the school.
+      hiragana: がっこうのまわりにこうえんがあります。
+      kanji: 学校の周りに公園があります。
+      ruby: <ruby>学校<rt>がっこう</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りに<ruby>公園<rt>こうえん</rt></ruby>があります。
+    1:
+      english: Please look around.
+      hiragana: まわりをみてください。
+      kanji: 周りを見てください。
+      ruby: <ruby>周<rt>まわ</rt></ruby>りを<ruby>見<rt>み</rt></ruby>てください。
   simple_meaning:
     0: Surroundings
     1: Around
@@ -7070,7 +10295,17 @@
     split_hiragana: まわ.る
     wanikani_level: '5'
   kanji: 回る
-  samples: {}
+  samples:
+    0:
+      english: The earth revolves around the sun.
+      hiragana: ちきゅうはたいようのまわりをまわります。
+      kanji: 地球は太陽の周りを回ります。
+      ruby: <ruby>地球<rt>ちきゅう</rt></ruby>は<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>回<rt>まわ</rt></ruby>ります。
+    1:
+      english: Please turn the key.
+      hiragana: かぎをまわしてください。
+      kanji: 鍵を回してください。
+      ruby: <ruby>鍵<rt>かぎ</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>してください。
   simple_meaning:
     0: To turn
     1: To go around
@@ -7082,7 +10317,17 @@
     split_hiragana: ま.ん.なか
     wanikani_level: null
   kanji: 真ん中
-  samples: {}
+  samples:
+    0:
+      english: The station is in the middle of the town.
+      hiragana: えきはまちのまんなかにあります。
+      kanji: 駅は町の真ん中にあります。
+      ruby: <ruby>駅<rt>えき</rt></ruby>は<ruby>町<rt>まち</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>にあります。
+    1:
+      english: Please stand in the center.
+      hiragana: まんなかにたってください。
+      kanji: 真ん中に立ってください。
+      ruby: <ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>に<ruby>立<rt>た</rt></ruby>ってください。
   simple_meaning:
     0: Center
     1: Middle
@@ -7094,7 +10339,17 @@
     split_hiragana: み.つ.か.る
     wanikani_level: null
   kanji: 見つかる
-  samples: {}
+  samples:
+    0:
+      english: The lost wallet was found.
+      hiragana: なくなったさいふがみつかりました。
+      kanji: 無くなった財布が見つかりました。
+      ruby: <ruby>無<rt>な</rt></ruby>くなった<ruby>財布<rt>さいふ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。
+    1:
+      english: The key was found under the chair.
+      hiragana: かぎがいすのしたからみつかりました。
+      kanji: 鍵が椅子の下から見つかりました。
+      ruby: <ruby>鍵<rt>かぎ</rt></ruby>が<ruby>椅子<rt>いす</rt></ruby>の<ruby>下<rt>した</rt></ruby>から<ruby>見<rt>み</rt></ruby>つかりました。
   simple_meaning:
     0: To be found
 '1604570':
@@ -7105,7 +10360,17 @@
     split_hiragana: み.つ.け.る
     wanikani_level: '9'
   kanji: 見つける
-  samples: {}
+  samples:
+    0:
+      english: I found my lost key.
+      hiragana: なくなったかぎをみつけました。
+      kanji: 無くなった鍵を見つけました。
+      ruby: <ruby>無<rt>な</rt></ruby>くなった<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
+    1:
+      english: I found a new hobby.
+      hiragana: あたらしいしゅみをみつけました。
+      kanji: 新しい趣味を見つけました。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
   simple_meaning:
     0: To find
 '1604800':
@@ -7116,7 +10381,17 @@
     split_hiragana: む.か.う
     wanikani_level: null
   kanji: 向かう
-  samples: {}
+  samples:
+    0:
+      english: I'm heading towards the station.
+      hiragana: えきにむかっています。
+      kanji: 駅に向かっています。
+      ruby: <ruby>駅<rt>えき</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっています。
+    1:
+      english: The ship is heading for the south.
+      hiragana: ふねはみなみにむかっています。
+      kanji: 船は南に向かっています。
+      ruby: <ruby>船<rt>ふね</rt></ruby>は<ruby>南<rt>みなみ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっています。
   simple_meaning:
     0: To head toward
 '1605510':
@@ -7127,7 +10402,17 @@
     split_hiragana: や.せ.る
     wanikani_level: null
   kanji: 痩せる
-  samples: {}
+  samples:
+    0:
+      english: I want to lose weight.
+      hiragana: やせたいです。
+      kanji: 痩せたいです。
+      ruby: <ruby>痩<rt>や</rt></ruby>せたいです。
+    1:
+      english: She has become thin.
+      hiragana: かのじょはやせました。
+      kanji: 彼女は痩せました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>痩<rt>や</rt></ruby>せました。
   simple_meaning:
     0: To lose weight
     1: To become thin
@@ -7139,7 +10424,17 @@
     split_hiragana: やわ.ら.か.い
     wanikani_level: '43'
   kanji: 柔らかい
-  samples: {}
+  samples:
+    0:
+      english: The bread is soft.
+      hiragana: パンがやわらかいです。
+      kanji: パンが柔らかいです。
+      ruby: パンが<ruby>柔<rt>やわ</rt></ruby>らかいです。
+    1:
+      english: The meat is tender.
+      hiragana: このにくはやわらかいです。
+      kanji: この肉は柔らかいです。
+      ruby: この<ruby>肉<rt>にく</rt></ruby>は<ruby>柔<rt>やわ</rt></ruby>らかいです。
   simple_meaning:
     0: Soft
     1: Tender
@@ -7151,7 +10446,17 @@
     split_hiragana: わか.れ.る
     wanikani_level: '13'
   kanji: 別れる
-  samples: {}
+  samples:
+    0:
+      english: We parted ways at the station.
+      hiragana: えきでわかれました。
+      kanji: 駅で別れました。
+      ruby: <ruby>駅<rt>えき</rt></ruby>で<ruby>別<rt>わか</rt></ruby>れました。
+    1:
+      english: I have to separate from my family.
+      hiragana: かぞくからわかれなければなりません。
+      kanji: 家族から別れなければなりません。
+      ruby: <ruby>家族<rt>かぞく</rt></ruby>から<ruby>別<rt>わか</rt></ruby>れなければなりません。
   simple_meaning:
     0: To part
     1: To separate
@@ -7163,7 +10468,17 @@
     split_hiragana: わ.く
     wanikani_level: '51'
   kanji: 沸く
-  samples: {}
+  samples:
+    0:
+      english: The water is boiling.
+      hiragana: おゆがわいています。
+      kanji: お湯が沸いています。
+      ruby: お<ruby>湯<rt>ゆ</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>いています。
+    1:
+      english: The crowd was excited.
+      hiragana: かいじょうがわきました。
+      kanji: 会場が沸きました。
+      ruby: <ruby>会場<rt>かいじょう</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>きました。
   simple_meaning:
     0: To boil
     1: To be excited
@@ -7175,7 +10490,17 @@
     split_hiragana: わり.あい
     wanikani_level: '23'
   kanji: 割合
-  samples: {}
+  samples:
+    0:
+      english: What is the ratio of men to women?
+      hiragana: だんせいとじょせいのわりあいはどうですか。
+      kanji: 男性と女性の割合はどうですか。
+      ruby: <ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>はどうですか。
+    1:
+      english: A high percentage of students passed the exam.
+      hiragana: たかいわりあいのせいとがしけんにごうかくしました。
+      kanji: 高い割合の生徒が試験に合格しました。
+      ruby: <ruby>高<rt>たか</rt></ruby>い<ruby>割合<rt>わりあい</rt></ruby>の<ruby>生徒<rt>せいと</rt></ruby>が<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>しました。
   simple_meaning:
     0: Ratio
     1: Percentage
@@ -7187,7 +10512,17 @@
     split_hiragana: お.いわ.い
     wanikani_level: '26'
   kanji: お祝い
-  samples: {}
+  samples:
+    0:
+      english: This is a celebration of your success.
+      hiragana: これはあなたのせいこうのおいわいです。
+      kanji: これわあなたの成功のお祝いです。
+      ruby: これはあなたの<ruby>成功<rt>せいこう</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いです。
+    1:
+      english: Congratulations on your marriage.
+      hiragana: ごけっこんおいわいもうしあげます。
+      kanji: ご結婚お祝い申し上げます。
+      ruby: ご<ruby>結婚<rt>けっこん</rt></ruby>お<ruby>祝<rt>いわ</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
   simple_meaning:
     0: Celebration
     1: Congratulation
@@ -7199,7 +10534,17 @@
     split_hiragana: かん.ご.し
     wanikani_level: '23'
   kanji: 看護師
-  samples: {}
+  samples:
+    0:
+      english: I want to become a nurse.
+      hiragana: かんごしになりたいです。
+      kanji: 看護師になりたいです。
+      ruby: <ruby>看護師<rt>かんごし</rt></ruby>になりたいです。
+    1:
+      english: The nurse is taking care of the patient.
+      hiragana: かんごしはかんじゃのせわをしています。
+      kanji: 看護師は患者の世話をしています。
+      ruby: <ruby>看護師<rt>かんごし</rt></ruby>は<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしています。
   simple_meaning:
     0: Nurse
 '2217040':
@@ -7210,6 +10555,16 @@
     split_hiragana: ご.らん.に.な.る
     wanikani_level: '39'
   kanji: ご覧になる
-  samples: {}
+  samples:
+    0:
+      english: Please see this document (honorific).
+      hiragana: このしょるいをごらんになってください。
+      kanji: この書類をご覧になってください。
+      ruby: この<ruby>書類<rt>しょるい</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>になってください。
+    1:
+      english: Did you see the cherry blossoms? (honorific)
+      hiragana: さくらをごらんにになりましたか。
+      kanji: 桜をご覧になりましたか。
+      ruby: <ruby>桜<rt>さくら</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>になりましたか。
   simple_meaning:
     0: To see (honorific)
