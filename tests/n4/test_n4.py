@@ -43,3 +43,37 @@ def test_check_at_least_one_sample(n4_part_file_path):
             #     print(f"Word with ID '{word_id}' has {len(samples)} sample(s).")
 
         assert has_empty_sample is False
+
+def test_exact_kanji_exists_in_one_of_the_examples(n4_part_file_path):
+    # Load YAML data from a file
+    with open(n4_part_file_path, "r", encoding="utf-8") as file:
+        data = yaml.safe_load(file)
+
+    # Track entries that fail the test
+    failed_ids = []
+
+    # Iterate through each word entry safely
+    for word_id, word_data in data.items():
+        if isinstance(word_data, dict):
+            target_kanji = word_data.get("kanji", "")
+            samples = word_data.get("samples", {})
+
+            found_in_any = False
+            for sample in samples.values():
+                sentence_kanji = sample.get("kanji", "")
+                if target_kanji in sentence_kanji:
+                    found_in_any = True
+                    break  # No need to check further samples
+
+            if not found_in_any:
+                failed_ids.append((word_id, target_kanji, word_data.get("hiragana", "")))
+
+        else:
+            failed_ids.append((word_id, target_kanji, word_data.get("hiragana", "")))
+
+    for word_id, target_kanji, hiragana in failed_ids:
+        print(f"{word_id}: kanji: {target_kanji} hiragana: {hiragana}")
+
+    # Final assertion
+    print(f"Exact Kanji not found in samples for the following IDs: {failed_ids}. You should include at least one exact kanji.")
+    assert not failed_ids, f"Kanji not found in samples for the following IDs: {failed_ids}"

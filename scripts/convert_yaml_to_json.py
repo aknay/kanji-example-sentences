@@ -1,10 +1,8 @@
 import json
+
 import yaml
 
 from assets.char.get_path import get_kanji_dic_generated_json_saving_file, get_kanji_dic_yaml_saving_file
-
-# You'll need to update your get_path functions to point to the correct files
-# from assets.char.get_path import get_kanji_dic_json_saving_file, get_kanji_dic_yaml_file
 
 try:
     # 1. Read the YAML file

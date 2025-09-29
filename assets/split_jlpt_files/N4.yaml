@@ -312,10 +312,10 @@
   kanji: 移る
   samples:
     0:
-      english: The company relocated to a new office.
-      hiragana: かいしゃ は あたらし びる に うつり ました。
-      kanji: 会社は新しいビルに移りました。
-      ruby: <ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby> しいビル に<ruby>移<rt>うつ</rt></ruby>りました。
+      english: The company intends to relocate to a new office next month.
+      hiragana: かいしゃ は らいげつ、あたらしい ビル に うつる つもり です。
+      kanji: 会社は来月、新しいビルに移るつもりです。
+      ruby: <ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいビルに<ruby>移<rt>うつ</rt></ruby>るつもりです。
     1:
       english: He transferred to a new school.
       hiragana: かれ は あたらしい がっこう に うつりました。
@@ -327,9 +327,9 @@
       kanji: 痛みは背中から足に移りました。
       ruby: <ruby>痛<rt>いた</rt></ruby>みは<ruby>背中<rt>せなか</rt></ruby>から<ruby>足<rt>あし</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>りました。
   simple_meaning:
-    1: to move
-    2: to transfer
-    3: to shift
+    1: to move (intransitive)
+    2: to transfer (intransitive)
+    3: to shift (intransitive)
 '1159810':
   hiragana: いがく
   jisho_info:
@@ -368,10 +368,15 @@
   samples:
     0:
       english: She's raising three children on her own.
-      hiragana: かのじょ は ひと り で こども さん に そだてて います。
-      kanji: 彼女は一人で子供三人に育てています。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>一人<rt>ひとり</rt></ruby>で<ruby>子供<rt>こども</rt></ruby><ruby>三人<rt>さんにん</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>てています。
+      hiragana: かのじょ は ひと り で こども を さん にん そだてて います。
+      kanji: 彼女は一人で子供を三人育てています。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>一人<rt>ひとり</rt></ruby>で<ruby>子供<rt>こども</rt></ruby>を<ruby>三人<rt>さんにん</rt></ruby><ruby>育<rt>そだ</rt></ruby>てています。
     1:
+      english: Raising a pet is difficult.
+      hiragana: ペット を そだてる こと は むずかしい です。
+      kanji: ペットを育てることは難しいです。
+      ruby: ペットを<ruby>育<rt>そだ</rt></ruby>てることは<ruby>難<rt>むずか</rt></ruby>しいです。
+    2:
       english: They nurture their plants in the garden.
       hiragana: かれら は にわ で しょくぶつ を そだてて います。
       kanji: 彼らは庭で植物を育てています。
@@ -477,13 +482,13 @@
       kanji: これらのかばんを運んでください。
       ruby: これらのかばんを<ruby>運<rt>はこ</rt></ruby>んでください。
     1:
-      english: The workers are transporting goods to the warehouse.
-      hiragana: しごといん たち は しょうひん を そうこ に はこんで います。
-      kanji: 仕事員たちは商品を倉庫に運んでいます。
-      ruby: <ruby>仕事<rt>しごと</rt></ruby><ruby>員<rt>いん</rt></ruby>たちは<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>んでいます。
+      english: I can't carry this luggage alone, so please help.
+      hiragana: この にもつ を ひと り で はこぶ こと が でき ません から、てつだ って ください。
+      kanji: この荷物を一人で運ぶことができませんから、手伝ってください。
+      ruby: この<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>一人<rt>ひとり</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>ぶことができませんから、<ruby>手伝<rt>てつだ</rt></ruby>ってください。
     2:
       english: He carried the heavy box up the stairs.
-      hiragana: かれ は おもい はこ を かいだん に のぼりました。
+      hiragana: かれ は おもい はこ を かいだん に はこび ました。
       kanji: 彼は重い箱を階段に運びました。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>重<rt>おも</rt></ruby>い<ruby>箱<rt>はこ</rt></ruby>を<ruby>階段<rt>かいだん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>びました。
   simple_meaning:
@@ -602,11 +607,19 @@
   samples:
     0:
       english: The white shirt got stained with coffee.
+      # Solid N4 example using V-mashita
       hiragana: しろい しゃつ が こーひ で よごれ ました。
       kanji: 白いシャツがコーヒーで汚れました。
       ruby: <ruby>白<rt>しろ</rt></ruby>いシャツがコーヒーで<ruby>汚<rt>よご</rt></ruby>れました。
     1:
+      english: Let's wash our hands before they get dirty.
+      # NEW: Uses the dictionary form (汚れる) + N4 grammar (~前に).
+      hiragana: て が よごれる まえ に あらいましょう。
+      kanji: 手が汚れる前に洗いましょう。
+      ruby: <ruby>手<rt>て</rt></ruby>が<ruby>汚<rt>よご</rt></ruby>れる<ruby>前<rt>まえ</rt></ruby>に<ruby>洗<rt>あら</rt></ruby>いましょう。
+    2:
       english: The kitchen floor is easy to get stained.
+      # Original Sample 1, kept as a good example of V-yasui.
       hiragana: キッチン の ゆか は すぐ に よごれやすい です。
       kanji: キッチンの床はすぐに汚れやすいです。
       ruby: キッチンの<ruby>床<rt>ゆか</rt></ruby>はすぐに<ruby>汚<rt>よご</rt></ruby>れやすいです。
@@ -678,17 +691,26 @@
   samples:
     0:
       english: The temperature is starting to drop.
+      # Solid N4 example using V-masu stem + 始める.
       hiragana: おんど が さがり はじめました。
       kanji: 温度が下がり始めました。
       ruby: <ruby>温度<rt>おんど</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり<ruby>始<rt>はじ</rt></ruby>めました。
+    1:
+      english: If the flag hangs down, please raise it.
+      # NEW: Uses the dictionary form (下がる) + N4 grammar (~と, conditional).
+      hiragana: はた が さがる と、あ げて ください。
+      kanji: 旗が下がると、上げてください。
+      ruby: <ruby>旗<rt>はた</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がると、<ruby>上<rt>あ</rt></ruby>げてください。
     2:
-      english: The price of the stock went down today.
-      hiragana: きょう は かぶ この ねだん が さがりました。
-      kanji: 今日は株価が下がりました。
-      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>株価<rt>かぶか</rt></ruby>が<ruby>下がりました<rt>さがりました</rt></ruby>。
+      english: The price of the camera went down today.
+      # FIX: Replaced N2/N3 vocabulary (株価) with simpler N4 vocabulary (カメラの値段).
+      hiragana: きょう は かめら の ねだん が さがりました。
+      kanji: 今日はカメラの値段が下がりました。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>はカメラの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がりました。
   simple_meaning:
     1: to drop
     2: to go down
+    3: to hang down
 '1184170':
   hiragana: さげる
   jisho_info:
@@ -700,17 +722,26 @@
   samples:
     0:
       english: Please lower your voice.
+      # Solid N4 request using V-te kudasai.
       hiragana: こえ を さげて ください。
       kanji: 声を下げてください。
       ruby: <ruby>声<rt>こえ</rt></ruby>を<ruby>下げて<rt>さげて</rt></ruby>ください。
     1:
-      english: The price of the product was lowered during the sale.
-      hiragana: うりもの の ねだん は うりだし で さげられました。
-      kanji: 売り物の値段は売り出しで下げられました。
-      ruby: <ruby>売り物<rt>うりもの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は<ruby>売り出し<rt>うりだし</rt></ruby>で<ruby>下げられました<rt>さげられました</rt></ruby>。
+      english: I plan to lower the picture a little more.
+      # NEW: Uses the dictionary form (下げる) + N4 grammar (~つもりです, intention).
+      hiragana: しゃしん を もう すこし さげる つもり です。
+      kanji: 写真をもう少し下げるつもりです。
+      ruby: <ruby>写真<rt>しゃしん</rt></ruby>をもう<ruby>少<rt>すこ</rt></ruby>し<ruby>下<rt>さ</rt></ruby>げるつもりです。
+    2:
+      english: The product's price was lowered during the sale.
+      # FIX: Simplified '売り物' (urimono) to '商品' (shōhin), which is more standard N4 vocabulary.
+      hiragana: しょうひん の ねだん は うりだし で さげられました。
+      kanji: 商品の値段は売り出しで下げられました。
+      ruby: <ruby>商品<rt>しょうひん</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は<ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>しで<ruby>下<rt>さ</rt></ruby>げられました。
   simple_meaning:
     1: to lower
     2: to put down
+    3: to reduce (e.g., price, volume)
 '1185290':
   hiragana: げしゅく
   jisho_info:
@@ -800,19 +831,22 @@
   samples:
     0:
       english: I enjoy studying science.
-      hiragana: わたし は かがく を べんきょう する の が す き です。
+      # Solid N4 example using the nominalizer の が 好き.
+      hiragana: わたし は かがく を べんきょう する の が すき です。
       kanji: 私は科学を勉強するのが好きです。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>科学<rt>かがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>科学<rt>かがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。
     1:
-      english: Scientists explore the mysteries of the universe.
-      hiragana: かがく か は うちゅう の なぞ に た げ い る。
-      kanji: 科学家は宇宙の謎に立ち向かう。
-      ruby: <ruby>科学家<rt>かがくか</rt></ruby>は<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち<ruby>向<rt>む</rt></ruby>かう。
+      english: I think science is interesting.
+      # NEW: Uses the dictionary form (思う) with N4 grammar (~と 思う).
+      hiragana: わたし は かがく が おもしろい と おもう。
+      kanji: 私は科学が面白いと思う。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>科学<rt>かがく</rt></ruby>が<ruby>面白<rt>おもしろ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>う。
     2:
-      english: In school, we learn about various branches of science.
-      hiragana: がっこう で は いろいろ な かがく の しじゅ く を べんきょう します。
-      kanji: 学校では色々な科学の支柱を学習します。
-      ruby: <ruby>学校<rt>がっこう</rt></ruby>では<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>科学<rt>かがく</rt></ruby>の<ruby>支柱<rt>しじゅく</rt></ruby>を<ruby>学習<rt>べんきょう</rt></ruby>します。
+      english: In school, we learn many things about science.
+      # FIX: Simplified complex vocabulary (科学家, 支柱, 謎) and replaced with N4-appropriate words and the common verb 勉強します.
+      hiragana: がっこう で は、かがく の いろんな こと を べんきょう します。
+      kanji: 学校では、科学の色んなことを勉強します。
+      ruby: <ruby>学校<rt>がっこう</rt></ruby>では、<ruby>科学<rt>かがく</rt></ruby>のいろんなことを<ruby>勉強<rt>べんきょう</rt></ruby>します。
   simple_meaning:
     1: science
 '1193610':
@@ -847,23 +881,22 @@
   samples:
     0:
       english: There was a fire in the building last night.
-      hiragana: きのう の よる びる の なか で かじ が ありました。
-      kanji: 昨日の夜ビルの中で火事がありました。
-      ruby: <ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>ビルの<ruby>中<rt>なか</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>がありました。
+      hiragana: きのう の よる、ビル で かじ が ありました。
+      kanji: 昨日の夜、ビルで火事がありました。
+      ruby: <ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、ビルで<ruby>火事<rt>かじ</rt></ruby>がありました。
     1:
-      english: The firefighters quickly responded to the fire emergency.
-      hiragana: しょうぼう しゃ は すばやく かじ じょうきゅう に たいおう しました。
-      kanji: 消防車は速やかに火事状況に対応しました。
-      ruby: <ruby>消防<rt>しょうぼう</rt></ruby><ruby>車<rt>しゃ</rt></ruby>は<ruby>速<rt>すみ</rt></ruby>やかに<ruby>火事<rt>かじ</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しました。
+      english: The fire was caused by a cigarette.
+      hiragana: かじ は タバコ が げんいん でした。
+      kanji: 火事はタバコが原因でした。
+      ruby: <ruby>火事<rt>かじ</rt></ruby>はタバコが<ruby>原因<rt>げんいん</rt></ruby>でした。
     2:
-      english: Everyone evacuated the building when the fire alarm sounded.
-      hiragana: かじ そうしき が なった とき だれ も びる を ひとっ しゃ しました。
-      kanji: 火事装置が鳴った時誰もビルを一人者しました。
-      ruby: <ruby>火事装置<rt>かじそうしき</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>った<ruby>時<rt>とき</rt></ruby><ruby>誰<rt>だれ</rt></ruby>もビルを<ruby>一人者<rt>ひとっしゃ</rt></ruby>しました。
+      english: Everyone ran away when the fire started.
+      hiragana: かじ が はじまった とき、みんな にげました。
+      kanji: 火事が始まったとき、みんな逃げました。
+      ruby: <ruby>火事<rt>かじ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まったとき、みんな<ruby>逃<rt>に</rt></ruby>げました。
   simple_meaning:
     1: fire
-    2: fire emergency
-    3: fire alarm
+    2: conflagration
 '1194660':
   hiragana: はなみ
   jisho_info:
@@ -924,17 +957,25 @@
   samples:
     0:
       english: Time passes quickly when you're having fun.
+      # Intransitive 'to pass' (time) using V-masu form.
       hiragana: たのしい とき は じかん が はやく すぎ ます。
       kanji: 楽しい時は時間が早く過ぎます。
       ruby: <ruby>楽<rt>たの</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>過<rt>す</rt></ruby>ぎます。
+    1:
+      english: If you pass that big building, the station is right there.
+      # Dictionary form (過ぎる) used with the N4 grammar '〜と' (if/when).
+      hiragana: あの おおきい ビル を すぎる と、すぐ えき です。
+      kanji: あの大きいビルを過ぎると、すぐ駅です。
+      ruby: あの<ruby>大<rt>おお</rt></ruby>きいビルを<ruby>過<rt>す</rt></ruby>ぎると、すぐ<ruby>駅<rt>えき</rt></ruby>です。
     2:
-      english: The train has already passed the station.
-      hiragana: れっしゃ は もう えき を すぎました。
-      kanji: 列車はもう駅を過ぎました。
-      ruby: <ruby>列車<rt>れっしゃ</rt></ruby>はもう<ruby>駅<rt>えき</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎました。
+      english: This coffee is too hot, so I can't drink it.
+      # N4 grammar meaning 'too much' (i-Adjective stem + 過ぎる).
+      hiragana: この こーひー は あつ すぎ ます から、のめません。
+      kanji: このコーヒーは熱すぎますから、飲めません。
+      ruby: このコーヒーは<ruby>熱<rt>あつ</rt></ruby>すぎますから、<ruby>飲<rt>の</rt></ruby>めません。
   simple_meaning:
-    1: to pass
-    2: to exceed
+    1: to pass (time/place)
+    2: to exceed (grammatical V/Adj + すぎる)
 '1198360':
   hiragana: かいぎ
   jisho_info:
@@ -1049,22 +1090,24 @@
   samples:
     0:
       english: I broke the vase.
+      # Solid N4 example using V-mashita.
       hiragana: わたし は かびん を こわしました。
       kanji: 私は花瓶を壊しました。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>花瓶<rt>かびん</rt></ruby>を<ruby>壊しました<rt>こわしました</rt></ruby>。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>花瓶<rt>かびん</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>しました。
     1:
       english: Don't break the toy.
+      # Solid N4 example using V-nai de kudasai (negative request).
       hiragana: おもちゃ を こわさない で ください。
       kanji: おもちゃを壊さないでください。
-      ruby: おもちゃを<ruby>壊さない<rt>こわさない</rt></ruby>でください。
+      ruby: おもちゃを<ruby>壊<rt>こわ</rt></ruby>さないでください。
     2:
-      english: He accidentally broke the computer.
-      hiragana: かれ は まちがって コンピューター を こわしました。
-      kanji: 彼は間違ってコンピューターを壊しました。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>間<rt>ま</rt></ruby><ruby>違<rt>ち</rt></ruby>ってコンピューターを<ruby>壊<rt>こわ</rt></ruby>しました。
+      english: Don't touch it, because you might break it.
+      # NEW: Uses the dictionary form (壊す) + N4 grammar (~かもしれない).
+      hiragana: こわす かも しれ ない から、さわらない で ください。
+      kanji: 壊すかもしれないから、触らないでください。
+      ruby: <ruby>壊<rt>こわ</rt></ruby>すかもしれないから、<ruby>触<rt>さわ</rt></ruby>らないでください。
   simple_meaning:
     1: to break (something)
-    2: to destroy
 '1199900':
   hiragana: こわれる
   jisho_info:
@@ -1076,19 +1119,22 @@
   samples:
     0:
       english: The vase broke.
+      # Solid N4 example using V-mashita (past tense).
       hiragana: かびん が こわれました。
       kanji: 花瓶が壊れました。
-      ruby: <ruby>花瓶<rt>かびん</rt></ruby>が<ruby>壊れました<rt>こわれました</rt></ruby>。
+      ruby: <ruby>花瓶<rt>かびん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。
     1:
       english: The toy is broken.
+      # Solid N4 example using V-te iru (resultant state).
       hiragana: おもちゃ が こわれています。
       kanji: おもちゃが壊れています。
       ruby: おもちゃが<ruby>壊<rt>こわ</rt></ruby>れています。
     2:
-      english: The computer broke down yesterday.
-      hiragana: きのう、コンピューター が こわれました。
-      kanji: 昨日、コンピューターが壊れました。
-      ruby: <ruby>昨日<rt>きのう</rt></ruby>、コンピューターが<ruby>壊れました<rt>こわれました</rt></ruby>。
+      english: When the machine breaks, please call me immediately.
+      # NEW: Uses the dictionary form (壊れる) + N4 grammar (~時).
+      hiragana: きかい が こわれる とき は、すぐ に でんわ して ください。
+      kanji: 機械が壊れる時は、すぐに電話してください。
+      ruby: <ruby>機械<rt>きかい</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れる<ruby>時<rt>とき</rt></ruby>は、すぐに<ruby>電話<rt>でんわ</rt></ruby>してください。
   simple_meaning:
     1: to break (intransitive)
     2: to be broken
@@ -1124,18 +1170,26 @@
   kanji: 開く
   samples:
     0:
-      english: Please open the door for me.
-      hiragana: どうぞ わたし の ため に トビラ を ひらいて ください。
-      kanji: どうぞ私のために扉を開けてください。
-      ruby: どうぞ<ruby>私<rt>わたし</rt></ruby>のために<ruby>扉<rt>とびら</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けてください。
+      english: Please open the door.
+      # FIX: Corrected the sentence to use the V-te form of the entry word 開く (ひらく), and used the simpler ドア (doa) for N4.
+      hiragana: ドア を ひらいて ください。
+      kanji: ドアを開いてください。
+      ruby: ドアを<ruby>開<rt>ひら</rt></ruby>いてください。
     1:
       english: The store opens at 9 AM every day.
-      hiragana: まい ひ あさ ９ じ に みせ が ひらきます。
+      # Solid example of the intransitive (store opening) meaning.
+      hiragana: まい にち あさ ９ じ に みせ が ひらきます。
       kanji: 毎日朝9時に店が開きます。
-      ruby: <ruby>毎日朝9時<rt>まいにちあさ9じ</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>きます。
+      ruby: <ruby>毎日<rt>まいにち</rt></ruby><ruby>朝<rt>あさ</rt></ruby>9<ruby>時<rt>じ</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>きます。
+    2:
+      english: It is necessary to open the box first.
+      # NEW: Uses the dictionary form (開く) + N4 grammar (~必要 (ひつよう) があります).
+      hiragana: まず、はこ を ひらく ひつよう が あります。
+      kanji: まず、箱を開く必要があります。
+      ruby: まず、<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く<ruby>必要<rt>ひつよう</rt></ruby>があります。
   simple_meaning:
-    1: to open
-    2: to bloom
+    1: to open (transitive)
+    2: to be opened/to start (intransitive)
 '1207250':
   hiragana: たのしみ
   jisho_info:
@@ -1169,19 +1223,22 @@
   samples:
     0:
       english: I enjoy reading books.
+      # Solid N4 example using V-dictionary + の + を 楽しむ.
       hiragana: わたし は ほん を よむ の を たのしんで います。
       kanji: 私は本を読むのを楽しんでいます。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むのを<ruby>楽<rt>たの</rt></ruby>しんでいます。
     1:
       english: She enjoys playing the piano.
+      # Solid N4 example using V-dictionary + こと + を 楽しむ.
       hiragana: かのじょ は ピアノ を ひく こと を たのしんで います。
       kanji: 彼女はピアノを弾くことを楽しんでいます。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>はピアノを<ruby>弾<rt>ひ</rt></ruby>くことを<ruby>楽<rt>たの</rt></ruby>しんでいます。
     2:
-      english: They enjoyed the party last night.
-      hiragana: かれら は ゆうべ の パーティー を たのしみました。
-      kanji: 彼らは昨夜のパーティーを楽しみました。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>昨夜<rt>さくや</rt></ruby>のパーティーを<ruby>楽<rt>たの</rt></ruby>しみました。
+      english: I plan to enjoy the concert next week.
+      # NEW: Uses the dictionary form (楽しむ) + N4 grammar (~つもりです).
+      hiragana: わたし は らいしゅう の こんさーと を たのしむ つもり です。
+      kanji: 私は来週のコンサートを楽しむつもりです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>のコンサートを<ruby>楽<rt>たの</rt></ruby>しむつもりです。
   simple_meaning:
     1: to enjoy
     2: to have fun
@@ -1218,22 +1275,26 @@
   samples:
     0:
       english: Be careful not to slip on the wet floor.
-      hiragana: しずか な ゆ に すべらない よう に き を つけて ください。
-      kanji: 静かな床に滑らないように気をつけてください。
-      ruby: <ruby>静<rt>しず</rt></ruby>かな<ruby>床<rt>ゆ</rt></ruby>に<ruby>滑<rt>すべ</rt></ruby>らないように<ruby>気<rt>き</rt></ruby>をつけてください。
+      # FIX: Corrected "静かな床" (quiet floor) to "濡れた床" (wet floor) and fixed hiragana. Uses the dictionary V-nai form.
+      hiragana: ぬれた ゆか で すべらない よう に き を つけて ください。
+      kanji: 濡れた床で滑らないように気をつけてください。
+      ruby: <ruby>濡<rt>ぬ</rt></ruby>れた<ruby>床<rt>ゆか</rt></ruby>で<ruby>滑<rt>すべ</rt></ruby>らないように<ruby>気<rt>き</rt></ruby>をつけてください。
     1:
-      english: She slipped on the ice and fell while walking.
-      hiragana: かのじょ は こおり に のる と き 、 すべり て ころびました。
-      kanji: 彼女は氷に乗るとき、滑りて転びました。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>氷<rt>こおり</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るとき、<ruby>滑<rt>すべ</rt></ruby>りて<ruby>転<rt>ころ</rt></ruby>びました。
+      english: She slipped on the ice and fell.
+      # FIX: Corrected the awkward "氷に乗るとき" and the grammatically incorrect V-te form "滑りて" to "滑って."
+      hiragana: かのじょ は こおり で すべって ころびました。
+      kanji: 彼女は氷で滑って転びました。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>氷<rt>こおり</rt></ruby>で<ruby>滑<rt>すべ</rt></ruby>って<ruby>転<rt>ころ</rt></ruby>びました。
     2:
-      english: The car skidded on the slippery road due to the rain.
-      hiragana: あめ に よる つるつる の みち で くるま は すべり ました。
-      kanji: 雨によるつるつるの道で車は滑りました。
-      ruby: <ruby>雨<rt>あめ</rt></ruby>によるつるつるの<ruby>道<rt>みち</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>は<ruby>滑<rt>すべ</rt></ruby>りました。
+      english: We slid down the big slope on a sled.
+      # NEW: Example focusing on the "slide/glide" meaning using V-mashita.
+      hiragana: おおきな さか を そり で すべりました。
+      kanji: 大きな坂をソリで滑りました。
+      ruby: <ruby>大<rt>おお</rt></ruby>きな<ruby>坂<rt>さか</rt></ruby>をソリで<ruby>滑<rt>すべ</rt></ruby>りました。
   simple_meaning:
     1: to slide
     2: to slip
+    3: to glide
 '1209240':
   hiragana: かむ
   jisho_info:
@@ -1245,19 +1306,22 @@
   samples:
     0:
       english: The dog bit my hand.
+      # Solid N4 example for the "to bite" meaning.
       hiragana: いぬ が わたし の て を かみました。
       kanji: 犬が私の手を噛みました。
       ruby: <ruby>犬<rt>いぬ</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>噛<rt>か</rt></ruby>みました。
     1:
       english: Please chew your food well.
+      # Solid N4 example for the "to chew" meaning, using V-te kudasai.
       hiragana: たべもの を よく かんで ください。
       kanji: 食べ物をよく噛んでください。
       ruby: <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をよく<ruby>噛<rt>か</rt></ruby>んでください。
     2:
-      english: He chewed gum.
-      hiragana: かれ は ガム を かみました。
-      kanji: 彼はガムを噛みました。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>はガムを<ruby>噛<rt>か</rt></ruby>みました。
+      english: It's important to chew food well before swallowing.
+      # NEW: Uses the dictionary form (噛む) + N4 grammar (~ことが大切です, nominalizer).
+      hiragana: のみこむ まえ に、よく かむ こと が たいせつ です。
+      kanji: 飲み込む前に、よく噛むことが大切です。
+      ruby: <ruby>飲<rt>の</rt></ruby>み<ruby>込<rt>こ</rt></ruby>む<ruby>前<rt>まえ</rt></ruby>に、よく<ruby>噛<rt>か</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>です。
   simple_meaning:
     1: to bite
     2: to chew
@@ -1271,22 +1335,25 @@
   kanji: 乾く
   samples:
     0:
-      english: The laundry will dry quickly in the warm sun.
-      hiragana: あたたかい たいよう の なか で せんたく は はやく かわき ます。
-      kanji: 暖かい太陽の中で洗濯は早く乾きます。
-      ruby: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>洗濯<rt>せんたく</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>乾<rt>かわ</rt></ruby>きます。
+      english: Laundry dries quickly on a warm day.
+      # FIX: Simplified the subject to 洗濯物 (laundry item) and the context to 日 (day) for clearer N4 grammar.
+      hiragana: あたたかい ひ に せんたくもの は はやく かわきます。
+      kanji: 暖かい日に洗濯物は早く乾きます。
+      ruby: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>に<ruby>洗濯物<rt>せんたくもの</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>乾<rt>かわ</rt></ruby>きます。
     1:
-      english: Please hang the wet towels outside to dry.
-      hiragana: しめられ ない ふきん を そと に つるし て かわかす おねがい します。
-      kanji: 湿れない布巾を外に吊るして乾かすお願いします。
-      ruby: <ruby>湿<rt>しめ</rt></ruby>れない<ruby>布巾<rt>ふきん</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>吊<rt>つ</rt></ruby>るして<ruby>乾<rt>かわ</rt></ruby>かすお<ruby>願<rt>ねが</rt></ruby>いします。
+      english: When the paint dries, it will turn white.
+      # NEW: Uses the dictionary form (乾く) + N4 grammar (~と, conditional/if).
+      hiragana: ぺんき が かわく と、しろく なります。
+      kanji: ペンキが乾くと、白くなります。
+      ruby: ペンキが<ruby>乾<rt>かわ</rt></ruby>くと、<ruby>白<rt>しろ</rt></ruby>くなります。
     2:
-      english: The riverbed dried up during the summer..
+      english: The riverbed dried up during the summer.
+      # Original Sample 2 (acceptable N4/N3 vocabulary).
       hiragana: なつ に かわ の かわら が かわきました。
       kanji: 夏に川の河原が乾きました。
       ruby: <ruby>夏<rt>なつ</rt></ruby>に<ruby>川<rt>かわ</rt></ruby>の<ruby>河原<rt>かわら</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>きました。
   simple_meaning:
-    1: to dry
+    1: to dry (intransitive)
     2: to become dry
 '1212670':
   hiragana: なれる
@@ -1402,19 +1469,22 @@
   samples:
     0:
       english: I made a mistake on the test.
+      # Solid N4 example using V-mashita.
       hiragana: テスト で まちがえました。
       kanji: テストで間違えました。
       ruby: テストで<ruby>間違<rt>まちが</rt></ruby>えました。
     1:
       english: He often makes mistakes when speaking Japanese.
+      # Solid N4 example using V-masu + とき.
       hiragana: かれ は にほんご を はなす とき に よく まちがえます。
       kanji: 彼は日本語を話す時によく間違えます。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>す<ruby>時<rt>とき</rt></ruby>によく<ruby>間違<rt>まちが</rt></ruby>えます。
     2:
-      english: Please correct me if I make a mistake.
-      hiragana: もし わたし が まちがえた ら、 なおして ください。
-      kanji: もし私が間違えたら、直してください。
-      ruby: もし<ruby>私<rt>わたし</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>えたら、<ruby>直<rt>なお</rt></ruby>してください。
+      english: People often mistake this kanji.
+      # NEW: Uses the dictionary form (間違える) + N4 grammar (~ことがある, nominalization/frequency).
+      hiragana: この かんじ は まちがえる こと が よく あります。
+      kanji: この漢字は間違えることがよくあります。
+      ruby: この<ruby>漢字<rt>かんじ</rt></ruby>は<ruby>間違<rt>まちが</rt></ruby>えることがよくあります。
   simple_meaning:
     1: to make a mistake
     2: to be incorrect
@@ -1473,17 +1543,26 @@
   samples:
     0:
       english: I am glad to help you.
+      # Solid N4 example using V-masu and V-ru koto ga dekite.
       hiragana: たすける こと が できて よろこびます。
       kanji: 助けることができて喜びます。
-      ruby: <ruby>助<rt>たす</rt></ruby>けることができて<ruby>喜びます<rt>よろこびます</rt></ruby>。
+      ruby: <ruby>助<rt>たす</rt></ruby>けることができて<ruby>喜<rt>よろこ</rt></ruby>びます。
+    1:
+      english: Grandma always rejoices when her grandchild comes.
+      # NEW: Uses the dictionary form (喜ぶ) + N4 grammar (~と, general truth/conditional).
+      hiragana: まご が くる と、おばあさん は いつ も よろこぶ。
+      kanji: 孫が来ると、おばあさんはいつも喜ぶ。
+      ruby: <ruby>孫<rt>まご</rt></ruby>が<ruby>来<rt>く</rt></ruby>ると、おばあさんはいつも<ruby>喜<rt>よろこ</rt></ruby>ぶ。
     2:
       english: The children rejoiced when they saw the fireworks.
+      # Solid N4 example using V-te and V-mashita.
       hiragana: こどもたち は はなび を みて よろこびました。
       kanji: 子供たちは花火を見て喜びました。
-      ruby: <ruby>子供<rt>こども</rt></ruby>たちは<ruby>花火<rt>はなび</rt></ruby>を見て<ruby>喜びました<rt>よろこびました</rt></ruby>。
+      ruby: <ruby>子供<rt>こども</rt></ruby>たちは<ruby>花火<rt>はなび</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>喜<rt>よろこ</rt></ruby>びました。
   simple_meaning:
     1: to be delighted
     2: to be happy
+    3: to rejoice
 '1219680':
   hiragana: よる
   jisho_info:
@@ -1495,22 +1574,26 @@
   samples:
     0:
       english: Please drop by my house when you have time.
+      # Solid N4 example using V-te kudasai and V-ru toki.
       hiragana: じかん が ある とき 、 いえ に よって ください。
       kanji: 時間がある時、家に寄ってください。
       ruby: <ruby>時間<rt>じかん</rt></ruby>がある<ruby>時<rt>とき</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>ってください。
     1:
-      english: The birds often gather around the bird feeder.
-      hiragana: とり たちは とりえ に しばしば よります。
-      kanji: 鳥たちは鳥えにしばしば寄ります。
-      ruby: <ruby>鳥<rt>とり</rt></ruby>たちは<ruby>鳥<rt>とり</rt></ruby>えにしばしば<ruby>寄<rt>よ</rt></ruby>ります。
+      english: I try not to go near dangerous places.
+      # NEW: Uses the dictionary V-nai form (寄らない) + N4 grammar (~ようにしている, trying not to V).
+      hiragana: あぶない ばしょ に は よらない よう に して います。
+      kanji: 危ない場所には寄らないようにしています。
+      ruby: <ruby>危<rt>あぶ</rt></ruby>ない<ruby>場所<rt>ばしょ</rt></ruby>には<ruby>寄<rt>よ</rt></ruby>らないようにしています。
     2:
       english: Can you stop by the store on your way home?
-      hiragana: かえり みち で てん ぷく に よって くれ ます か？
-      kanji: 帰り道で店ふくに寄ってくれますか？
-      ruby: <ruby>帰<rt>かえ</rt></ruby>り<ruby>道<rt>みち</rt></ruby>で<ruby>店<rt>てん</rt></ruby>ふくに<ruby>寄<rt>よ</rt></ruby>ってくれますか？
+      # FIX: Corrected the typo "店ふくに" to "店に" and uses V-te kuremasu ka.
+      hiragana: かえり みち で みせ に よって くれ ます か？
+      kanji: 帰り道で店に寄ってくれますか。
+      ruby: <ruby>帰<rt>かえ</rt></ruby>り<ruby>道<rt>みち</rt></ruby>で<ruby>店<rt>みせ</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>ってくれますか。
   simple_meaning:
     1: to drop by
-    2: to visit briefly
+    2: to stop by
+    3: to approach
 '1220800':
   hiragana: きかい
   jisho_info:
@@ -1642,19 +1725,22 @@
   samples:
     0:
       english: She prayed for her family's well-being.
+      # Solid N4 example using V-mashita.
       hiragana: かぞく の けんこう を いのり ました。
       kanji: 家族の健康を祈りました。
       ruby: <ruby>家族<rt>かぞく</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>りました。
     1:
       english: People often pray at the temple for good fortune.
-      hiragana: ひと たちは しばしば てら で こううん を いのり ます。
+      # Solid N4 example using V-masu.
+      hiragana: ひと たちは しばしば てら で こううん を いのり ます。
       kanji: 人たちはしばしば寺で幸運を祈ります。
       ruby: <ruby>人<rt>ひと</rt></ruby>たちはしばしば<ruby>寺<rt>てら</rt></ruby>で<ruby>幸運<rt>こううん</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>ります。
     2:
-      english: He prayed silently in his heart.
-      hiragana: かれ は ひそか に こころ で いのり ました。
-      kanji: 彼はひそかに心で祈りました。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>はひそかに<ruby>心<rt>こころ</rt></ruby>で<ruby>祈<rt>いの</rt></ruby>りました。
+      english: He prays before going to bed.
+      # NEW: Uses the dictionary form (祈る) + N4 grammar (~前に, before V-ing).
+      hiragana: かれ は ねる まえ に いのる。
+      kanji: 彼は寝る前に祈る。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>祈<rt>いの</rt></ruby>る。
   simple_meaning:
     1: to pray
     2: to wish
@@ -1718,22 +1804,26 @@
   samples:
     0:
       english: Please wake me up at 7 AM.
-      hiragana: あさ しち じ に おこして ください。
+      # Solid N4 example using V-te kudasai for the 'wake up someone' meaning.
+      hiragana: あさ しち じ に おこして ください。
       kanji: 朝7時に起こしてください。
       ruby: <ruby>朝<rt>あさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>こしてください。
     1:
-      english: The loud noise startled the cat.
-      hiragana: おおきな おと が ねこ を おこしました。
-      kanji: 大きな音が猫を起こしました。
-      ruby: <ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>が<ruby>猫<rt>ねこ</rt></ruby>を<ruby>起<rt>お</rt></ruby>こしました。
+      english: We can start a new business in this town.
+      # NEW: Uses the dictionary form (起こす) + N4 grammar (~ことができる, can do) for the 'start/cause' meaning.
+      hiragana: この まち で あたらしい しごと を おこす こと が でき ます。
+      kanji: この町で新しい仕事を起こすことができます。
+      ruby: この<ruby>町<rt>まち</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>起<rt>お</rt></ruby>こすことができます。
     2:
       english: His actions caused a commotion.
-      hiragana: かれ の こうどう が さわぎ を おこしました。
-      kanji: 彼の行動が騒ぎを起こしました。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>が<ruby>騒<rt>さわ</rt></ruby>ぎを<ruby>起<rt>お</rt></ruby>こしました。
+      # Original Sample 2, for the 'cause' meaning.
+      hiragana: かれ の こうどう が さわぎ を おこしました。
+      kanji: 彼の行動が騒ぎを起こしました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>が<ruby>騒<rt>さわ</rt></ruby>ぎを<ruby>起<rt>お</rt></ruby>こしました。
   simple_meaning:
-    1: to wake up
+    1: to wake up (someone)
     2: to cause
+    3: to start (a fire, a business)
 '1225130':
   hiragana: ぎじゅつ
   jisho_info:
@@ -1848,19 +1938,22 @@
   samples:
     0:
       english: I need to hurry to catch the train.
+      # Solid N4 example using V-ru tame ni + V-nakereba narimasen.
       hiragana: でんしゃ に のる ために いそがなければ なりません。
       kanji: 電車に乗るために急がなければなりません。
       ruby: <ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るために<ruby>急<rt>いそ</rt></ruby>がなければなりません。
     1:
       english: Please hurry, we are late.
+      # Solid N4 example using V-te kudasai.
       hiragana: いそいで ください、 わたしたち は おくれています。
       kanji: 急いでください、私たちは遅れています。
-      ruby: <ruby>急<rt></rt></ruby>い<ruby><rt>そい</rt></ruby>でください、<ruby>私<rt>わたし</rt></ruby>たちは<ruby>遅<rt>おく</rt></ruby>れています。
+      ruby: <ruby>急<rt>いそ</rt></ruby>いでください、<ruby>私<rt>わたし</rt></ruby>たちは<ruby>遅<rt>おく</rt></ruby>れています。
     2:
-      english: He ran quickly to the station.
-      hiragana: かれ は えき まで いそいで はしりました。
-      kanji: 彼は駅まで急いで走りました。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>駅<rt>えき</rt></ruby>まで<ruby>急<rt>いそ</rt></ruby>いで<ruby>走<rt>はし</rt></ruby>りました。
+      english: It is not good to rush too much.
+      # NEW: Uses the dictionary form (急ぐ) + N4 nominalization (~のは).
+      hiragana: あまり いそぐ の は よく ありません。
+      kanji: あまり急ぐのはよくありません。
+      ruby: あまり<ruby>急<rt>いそ</rt></ruby>ぐのはよくありません。
   simple_meaning:
     1: to hurry
     2: to rush
@@ -9774,14 +9867,22 @@
   samples:
     0:
       english: The train is crowded.
+      # Solid N4 example using V-te iru (current state).
       hiragana: でんしゃがこんでいます。
       kanji: 電車が込んでいます。
       ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>込<rt>こ</rt></ruby>んでいます。
     1:
-      english: The store is packed with people.
+      english: The store was packed with people.
+      # Solid N4 example using V-te imashita (past state).
       hiragana: みせはひとでこんでいました。
       kanji: 店は人で混んでいました。
       ruby: <ruby>店<rt>みせ</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>で<ruby>込<rt>こ</rt></ruby>んでいました。
+    2:
+      english: Let's leave before the roads get crowded.
+      # NEW: Uses the dictionary form (込む) + N4 grammar (~前に, before).
+      hiragana: みち が こむ まえ に、でかけましょう。
+      kanji: 道が込む前に、出かけましょう。
+      ruby: <ruby>道<rt>みち</rt></ruby>が<ruby>込<rt>こ</rt></ruby>む<ruby>前<rt>まえ</rt></ruby>に、<ruby>出<rt>で</rt></ruby>かけましょう。
   simple_meaning:
     0: To be crowded
     1: To be packed
@@ -9861,14 +9962,22 @@
   samples:
     0:
       english: I am looking for my keys.
+      # Solid N4 example using V-te iru (ongoing search).
       hiragana: かぎをさがしています。
       kanji: 鍵を探しています。
       ruby: <ruby>鍵<rt>かぎ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。
     1:
       english: I'm searching for a job.
+      # Solid N4 example using V-te iru (searching for an abstract object).
       hiragana: しごとをさがしています。
       kanji: 仕事を探しています。
       ruby: <ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。
+    2:
+      english: In order to find a good restaurant, I checked the internet.
+      # NEW: Uses the dictionary form (探す) + N4 grammar (~ために, in order to).
+      hiragana: いい れすとらん を さがす ため に、いんたーねっと で しらべました。
+      kanji: いいレストランを探すために、インターネットで調べました。
+      ruby: いいレストランを<ruby>探<rt>さが</rt></ruby>すために、インターネットで<ruby>調<rt>しら</rt></ruby>べました。
   simple_meaning:
     0: To search
     1: To look for
@@ -9969,17 +10078,26 @@
   samples:
     0:
       english: I caught a bug.
+      # Solid N4 example of catching a small object.
       hiragana: むしをつかまえました。
       kanji: 虫を捕まえました。
       ruby: <ruby>虫<rt>むし</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえました。
     1:
       english: The police caught the thief.
+      # Solid N4 example of arresting/capturing a person.
       hiragana: けいさつがどろぼうをつかまえました。
       kanji: 警察が泥棒を捕まえました。
       ruby: <ruby>警察<rt>けいさつ</rt></ruby>が<ruby>泥棒<rt>どろぼう</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえました。
+    2:
+      english: It is difficult to catch a rabbit.
+      # NEW: Uses the dictionary form (捕まえる) + N4 grammar (~のは難しい, nominalizer).
+      hiragana: うさぎ を つかまえる の は むずかしい です。
+      kanji: 兎を捕まえるのは難しいです。
+      ruby: <ruby>兎<rt>うさぎ</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえるのは<ruby>難<rt>むずか</rt></ruby>しいです。
   simple_meaning:
     0: To catch
     1: To capture
+    2: To arrest
 '1599340':
   hiragana: どろぼう
   jisho_info:
@@ -10012,19 +10130,26 @@
   kanji: 治す
   samples:
     0:
-      english: I will fix the broken watch.
-      hiragana: こわれたとけいをなおします。
-      kanji: 壊れた時計を治します。
-      ruby: <ruby>壊<rt>こわ</rt></ruby>れた<ruby>時計<rt>とけい</rt></ruby>を<ruby>治<rt>なお</rt></ruby>します。
+      english: I will try to cure my cold as quickly as possible.
+      # FIX: Changed object and English to align with the kanji 治す (to cure).
+      hiragana: わたし は かぜ を できる だけ はやく なおします。
+      kanji: 私は風邪をできるだけ早く治します。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>風邪<rt>かぜ</rt></ruby>をできるだけ<ruby>早<rt>はや</rt></ruby>く<ruby>治<rt>なお</rt></ruby>します。
     1:
       english: The doctor cured my illness.
+      # Solid N4 example using V-te kureru.
       hiragana: いしゃがびょうきをなおしてくれました。
       kanji: 医者が病気を治してくれました。
       ruby: <ruby>医者<rt>いしゃ</rt></ruby>が<ruby>病気<rt>びょうき</rt></ruby>を<ruby>治<rt>なお</rt></ruby>してくれました。
+    2:
+      english: What should I do to cure this allergy?
+      # NEW: Uses the dictionary form (治す) + N4 grammar (~には, in order to).
+      hiragana: この あれるぎー を なおす に は、どう したら いい です か。
+      kanji: このアレルギーを治すには、どうしたらいいですか。
+      ruby: このアレルギーを<ruby>治<rt>なお</rt></ruby>すには、どうしたらいいですか。
   simple_meaning:
-    0: To heal
-    1: To cure
-    2: To fix
+    0: To cure
+    1: To heal
 '1599400':
   hiragana: なおる
   jisho_info:
@@ -10036,17 +10161,26 @@
   samples:
     0:
       english: My illness was cured.
+      # Solid N4 example using V-mashita (intransitive).
       hiragana: びょうきがなおりました。
       kanji: 病気が治りました。
       ruby: <ruby>病気<rt>びょうき</rt></ruby>が<ruby>治<rt>なお</rt></ruby>りました。
     1:
-      english: The broken clock is fixed.
-      hiragana: こわれたとけいがなおりました。
-      kanji: 壊れた時計が治りました。
-      ruby: <ruby>壊<rt>こわ</rt></ruby>れた<ruby>時計<rt>とけい</rt></ruby>が<ruby>治<rt>なお</rt></ruby>りました。
+      english: I hope this wound heals soon.
+      # NEW: Uses the dictionary form (治る) + N4 grammar (~といいです, expressing hope).
+      hiragana: この きず が はやく なおる と いい です。
+      kanji: この傷が早く治るといいです。
+      ruby: この<ruby>傷<rt>きず</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>治<rt>なお</rt></ruby>るといいです。
+    2:
+      english: My fever has started to go down/recover.
+      # FIX: Replaced the 'fixed clock' example with a healing example using N4 grammar (V-masu stem + 始める).
+      hiragana: ねつ が なおり はじめました。
+      kanji: 熱が治り始めました。
+      ruby: <ruby>熱<rt>ねつ</rt></ruby>が<ruby>治<rt>なお</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。
   simple_meaning:
     0: To be healed
     1: To recover
+    2: To be cured (intransitive)
 '1599800':
   hiragana: にかいだて
   jisho_info:
@@ -10166,14 +10300,22 @@
   samples:
     0:
       english: I withdrew money from the bank.
+      # Solid N4 example using V-mashita.
       hiragana: ぎんこうからおかねをひきだしました。
       kanji: 銀行からお金を引き出しました。
       ruby: <ruby>銀行<rt>ぎんこう</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しました。
     1:
-      english: Please pull out the drawer.
-      hiragana: ひきだしをひきだしてください。
-      kanji: 引き出しを引き出してください。
-      ruby: <ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しを<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>してください。
+      english: It is easy to withdraw money from this ATM.
+      # NEW: Uses the dictionary form (引き出す) + N4 grammar (~のは簡単, nominalizer).
+      hiragana: この えーてぃーえむ で おかね を ひきだす の は かんたん です。
+      kanji: このATMでお金を引き出すのは簡単です。
+      ruby: このATMでお<ruby>金<rt>かね</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>すのは<ruby>簡単<rt>かんたん</rt></ruby>です。
+    2:
+      english: Please pull out the chair.
+      # FIX: Changed the awkward object to a simpler one (いす - chair) while keeping the 'pull out' meaning and V-te kudasai form.
+      hiragana: いす を ひきだして ください。
+      kanji: 椅子を引き出してください。
+      ruby: <ruby>椅子<rt>いす</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>してください。
   simple_meaning:
     0: To withdraw
     1: To pull out
@@ -10210,14 +10352,22 @@
   samples:
     0:
       english: The number of students has increased.
+      # Solid N4 example using V-mashita (intransitive).
       hiragana: がくせいのすうがふえました。
       kanji: 学生の数が増えました。
       ruby: <ruby>学生<rt>がくせい</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。
     1:
       english: My weight has increased.
+      # Solid N4 example using V-mashita (intransitive).
       hiragana: たいじゅうがふえました。
       kanji: 体重が増えました。
       ruby: <ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。
+    2:
+      english: If the population increases, we need more schools.
+      # NEW: Uses the dictionary form (増える) + N4 grammar (~と, conditional).
+      hiragana: じんこう が ふえる と、もっと がっこう が ひつよう です。
+      kanji: 人口が増えるともっと学校が必要です。
+      ruby: <ruby>人口<rt>じんこう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるともっと<ruby>学校<rt>がっこう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
   simple_meaning:
     0: To increase
     1: To grow
@@ -10254,14 +10404,22 @@
   samples:
     0:
       english: The teacher praised me.
+      # Solid N4 example using V-te kureru (action done for the speaker).
       hiragana: せんせいがわたしをほめてくれました。
       kanji: 先生が私を褒めてくれました。
       ruby: <ruby>先生<rt>せんせい</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>めてくれました。
     1:
       english: He was praised for his efforts.
+      # Solid N4/N3 example using the passive form (V-rareru).
       hiragana: かれはどりょくをほめられました。
       kanji: 彼は努力を褒められました。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>努力<rt>どりょく</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>められました。
+    2:
+      english: We should praise children when they do something well.
+      # NEW: Uses the dictionary form (褒める) + N4 grammar (~べきです, should).
+      hiragana: こども が いい こと を した とき は、ほめる べき です。
+      kanji: 子供がいいことをした時は、褒めるべきです。
+      ruby: <ruby>子供<rt>こども</rt></ruby>が<ruby>良<rt>い</rt></ruby>いことをした<ruby>時<rt>とき</rt></ruby>は、<ruby>褒<rt>ほ</rt></ruby>めるべきです。
   simple_meaning:
     0: To praise
     1: To compliment
@@ -10298,17 +10456,26 @@
   samples:
     0:
       english: The earth revolves around the sun.
+      # Solid N4 example using the intransitive verb with particle を indicating path of movement.
       hiragana: ちきゅうはたいようのまわりをまわります。
       kanji: 地球は太陽の周りを回ります。
       ruby: <ruby>地球<rt>ちきゅう</rt></ruby>は<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>回<rt>まわ</rt></ruby>ります。
     1:
-      english: Please turn the key.
-      hiragana: かぎをまわしてください。
-      kanji: 鍵を回してください。
-      ruby: <ruby>鍵<rt>かぎ</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>してください。
+      english: It is difficult to go around this area in one day.
+      # NEW: Uses the dictionary form (回る) + N4 grammar (~のは難しい, nominalizer).
+      hiragana: いち にち で この へん を まわる の は むずかしい です。
+      kanji: 一日でこの辺を回るのは難しいです。
+      ruby: <ruby>一日<rt>いちにち</rt></ruby>でこの<ruby>辺<rt>へん</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>るのは<ruby>難<rt>むずか</rt></ruby>しいです。
+    2:
+      english: The propeller is turning.
+      # FIX: Changed the original sentence to an intransitive structure to fit the entry word (回る).
+      hiragana: プロペラ が まわって います。
+      kanji: プロペラが回っています。
+      ruby: プロペラが<ruby>回<rt>まわ</rt></ruby>っています。
   simple_meaning:
-    0: To turn
-    1: To go around
+    0: To revolve
+    1: To go around (a place)
+    2: To turn (intransitive)
 '1604350':
   hiragana: まんなか
   jisho_info:
@@ -10342,16 +10509,25 @@
   samples:
     0:
       english: The lost wallet was found.
+      # Solid N4 example using V-mashita (intransitive).
       hiragana: なくなったさいふがみつかりました。
       kanji: 無くなった財布が見つかりました。
       ruby: <ruby>無<rt>な</rt></ruby>くなった<ruby>財布<rt>さいふ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。
     1:
       english: The key was found under the chair.
+      # Solid N4 example indicating the location it was found from (から).
       hiragana: かぎがいすのしたからみつかりました。
       kanji: 鍵が椅子の下から見つかりました。
       ruby: <ruby>鍵<rt>かぎ</rt></ruby>が<ruby>椅子<rt>いす</rt></ruby>の<ruby>下<rt>した</rt></ruby>から<ruby>見<rt>み</rt></ruby>つかりました。
+    2:
+      english: It would be good if lost money is found quickly.
+      # NEW: Uses the dictionary form (見つかる) + N4 grammar (~といいですね, hope/wish).
+      hiragana: なくなった おかね が はやく みつかる と いい です ね。
+      kanji: 無くなったお金が早く見つかるといいですね。
+      ruby: <ruby>無<rt>な</rt></ruby>くなったお<ruby>金<rt>かね</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>見<rt>み</rt></ruby>つかるといいですね。
   simple_meaning:
     0: To be found
+    1: To be discovered
 '1604570':
   hiragana: みつける
   jisho_info:
@@ -10363,16 +10539,25 @@
   samples:
     0:
       english: I found my lost key.
+      # Solid N4 example using modified noun + V-mashita.
       hiragana: なくなったかぎをみつけました。
       kanji: 無くなった鍵を見つけました。
       ruby: <ruby>無<rt>な</rt></ruby>くなった<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
     1:
       english: I found a new hobby.
+      # Solid N4 example using simple noun + V-mashita.
       hiragana: あたらしいしゅみをみつけました。
       kanji: 新しい趣味を見つけました。
       ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
+    2:
+      english: It's difficult to find a cheap and good apartment.
+      # NEW: Uses the dictionary form (見つける) + N4 grammar (~のは難しい, nominalizer).
+      hiragana: やすくて いい あぱーと を みつける の は むずかしい です。
+      kanji: 安くていいアパートを見つけるのは難しいです。
+      ruby: <ruby>安<rt>やす</rt></ruby>くていいアパートを<ruby>見<rt>み</rt></ruby>つけるのは<ruby>難<rt>むずか</rt></ruby>しいです。
   simple_meaning:
     0: To find
+    1: To discover
 '1604800':
   hiragana: むかう
   jisho_info:
@@ -10384,16 +10569,25 @@
   samples:
     0:
       english: I'm heading towards the station.
+      # Solid N4 example using V-te iru (ongoing action).
       hiragana: えきにむかっています。
       kanji: 駅に向かっています。
       ruby: <ruby>駅<rt>えき</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっています。
     1:
       english: The ship is heading for the south.
+      # Solid N4 example using V-te iru (direction).
       hiragana: ふねはみなみにむかっています。
       kanji: 船は南に向かっています。
       ruby: <ruby>船<rt>ふね</rt></ruby>は<ruby>南<rt>みなみ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっています。
+    2:
+      english: The bus heading toward Tokyo will leave soon.
+      # NEW: Uses the dictionary form (向かう) to modify the noun バス (bus).
+      hiragana: とうきょう に むかう ばす は まもなく しゅっぱつ します。
+      kanji: 東京に向かうバスはまもなく出発します。
+      ruby: <ruby>東京<rt>とうきょう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かうバスはまもなく<ruby>出発<rt>しゅっぱつ</rt></ruby>します。
   simple_meaning:
     0: To head toward
+    1: To face
 '1605510':
   hiragana: やせる
   jisho_info:
@@ -10405,14 +10599,22 @@
   samples:
     0:
       english: I want to lose weight.
+      # Solid N4 example using V-masu stem + たい (want to).
       hiragana: やせたいです。
       kanji: 痩せたいです。
       ruby: <ruby>痩<rt>や</rt></ruby>せたいです。
     1:
       english: She has become thin.
+      # Solid N4 example using V-mashita (past tense).
       hiragana: かのじょはやせました。
       kanji: 彼女は痩せました。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>痩<rt>や</rt></ruby>せました。
+    2:
+      english: I try to walk every day in order to lose weight.
+      # NEW: Uses the dictionary form (痩せる) + N4 grammar (~ために, in order to).
+      hiragana: やせる ため に、まい にち あるく よう に して います。
+      kanji: 痩せるために、毎日歩くようにしています。
+      ruby: <ruby>痩<rt>や</rt></ruby>せるために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>歩<rt>ある</rt></ruby>くようにしています。
   simple_meaning:
     0: To lose weight
     1: To become thin
@@ -10449,17 +10651,26 @@
   samples:
     0:
       english: We parted ways at the station.
+      # Solid N4 example using V-mashita (past tense).
       hiragana: えきでわかれました。
       kanji: 駅で別れました。
       ruby: <ruby>駅<rt>えき</rt></ruby>で<ruby>別<rt>わか</rt></ruby>れました。
     1:
       english: I have to separate from my family.
+      # Solid N4 example using V-nakereba narimasen (obligation).
       hiragana: かぞくからわかれなければなりません。
       kanji: 家族から別れなければなりません。
       ruby: <ruby>家族<rt>かぞく</rt></ruby>から<ruby>別<rt>わか</rt></ruby>れなければなりません。
+    2:
+      english: We decided to break up.
+      # NEW: Uses the dictionary form (別れる) + N4 grammar (~ことにしました, decided to).
+      hiragana: わたしたち は わかれる こと に しました。
+      kanji: 私たちは別れることにしました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>別<rt>わか</rt></ruby>れることにしました。
   simple_meaning:
     0: To part
     1: To separate
+    2: To break up (romantically)
 '1606680':
   hiragana: わく
   jisho_info:
@@ -10471,17 +10682,25 @@
   samples:
     0:
       english: The water is boiling.
+      # Solid N4 example using V-te iru (ongoing state/action).
       hiragana: おゆがわいています。
       kanji: お湯が沸いています。
       ruby: お<ruby>湯<rt>ゆ</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>いています。
     1:
       english: The crowd was excited.
+      # Solid N4 example using the figurative V-mashita.
       hiragana: かいじょうがわきました。
       kanji: 会場が沸きました。
       ruby: <ruby>会場<rt>かいじょう</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>きました。
+    2:
+      english: Turn off the heat before the water boils.
+      # NEW: Uses the dictionary form (沸く) + N4 grammar (~前に).
+      hiragana: おゆ が わく まえ に、ひ を とめ て ください。
+      kanji: お湯が沸く前に、火を止めてください。
+      ruby: お<ruby>湯<rt>ゆ</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に、<ruby>火<rt>ひ</rt></ruby>を<ruby>止<rt>と</rt></ruby>めてください。
   simple_meaning:
-    0: To boil
-    1: To be excited
+    0: To boil (intransitive)
+    1: To be excited/to become lively (intransitive)
 '1606810':
   hiragana: わりあい
   jisho_info:
@@ -10558,13 +10777,21 @@
   samples:
     0:
       english: Please see this document (honorific).
+      # Solid N4 request using honorific V-te kudasai.
       hiragana: このしょるいをごらんになってください。
       kanji: この書類をご覧になってください。
       ruby: この<ruby>書類<rt>しょるい</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>になってください。
     1:
       english: Did you see the cherry blossoms? (honorific)
-      hiragana: さくらをごらんにになりましたか。
+      # FIX: Corrected the hiragana typo 'ごらんにになりましたか' to 'ごらんになりましたか'.
+      hiragana: さくらをごらんになりましたか。
       kanji: 桜をご覧になりましたか。
       ruby: <ruby>桜<rt>さくら</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>になりましたか。
+    2:
+      english: The customer will see the catalog later. (Honorific)
+      # NEW: Uses the dictionary form (ご覧になる) + N4 grammar (~と思います, expressing opinion/expectation).
+      hiragana: おきゃくさま は あと で かたろぐ を ごらん に なる と おもいます。
+      kanji: お客様は後でカタログをご覧になると思います。
+      ruby: お<ruby>客様<rt>きゃくさま</rt></ruby>は<ruby>後<rt>あと</rt></ruby>でカタログをご<ruby>覧<rt>らん</rt></ruby>になる<ruby>と<rt>と</rt></ruby><ruby>思<rt>おも</rt></ruby>います。
   simple_meaning:
     0: To see (honorific)
