@@ -12,3 +12,9 @@ def get_n5_part_file_path() -> Path:
 
 def get_n4_part_file_path() -> Path:
     return Path(f'{dirPath}/split_jlpt_files/N4.yaml')
+
+def get_n3_part_one_file_path() -> Path:
+    return Path(f'{dirPath}/split_jlpt_files/N3_part1.yaml')
+
+def get_n3_part_two_file_path() -> Path:
+    return Path(f'{dirPath}/split_jlpt_files/N3_part2.yaml')
