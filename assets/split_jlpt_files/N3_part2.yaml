@@ -283,15 +283,20 @@
   kanji: 抜ける
   samples:
     0:
-      english: If you catch a cold, it's hard to get rid of it (to get out of your system).
-      hiragana: かぜをひくと、なかなか かぜが ぬけない。
-      kanji: 風邪を引くと、なかなか風邪が抜けない。
-      ruby: <ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>くと、なかなか<ruby>風邪<rt>かぜ</rt></ruby>が<ruby>抜<rt>ぬ</rt></ruby>けない。
+      english: If the screw comes out, the machine will break.
+      hiragana: ねじが ぬけると、きかいが こわれるでしょう。
+      kanji: ねじが抜けると、機械が壊れるでしょう。
+      ruby: ねじが<ruby>抜<rt>ぬ</rt></ruby>けると、<ruby>機械<rt>きかい</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れるでしょう。
     1:
-      english: The key came out of the lock (key is removable).
-      hiragana: かぎがロックから ぬけた。
-      kanji: 鍵がロックから抜けた。
-      ruby: <ruby>鍵<rt>かぎ</rt></ruby>がロックから<ruby>抜<rt>ぬ</rt></ruby>けた。
+      english: One member is missing from the group.
+      hiragana: グループに ひとり ぬけています。
+      kanji: グループに一人抜けています。
+      ruby: グループに<ruby>一人<rt>ひとり</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けています。
+    2:
+      english: The fatigue finally went away (got rid of the fatigue) after a long rest.
+      hiragana: ながいやすみで やっと つかれが ぬけました。
+      kanji: 長い休みでやっと疲れが抜けました。
+      ruby: <ruby>長<rt>なが</rt></ruby>い<ruby>休<rt>やす</rt></ruby>みでやっと<ruby>疲<rt>つか</rt></ruby>れが<ruby>抜<rt>ぬ</rt></ruby>けました。
   simple_meaning:
     0: To come out/fall out
     1: To be missing/left out
@@ -683,15 +688,20 @@
   kanji: 皮
   samples:
     0:
-      english: Please peel the skin off the apple.
-      hiragana: りんごの かわを むいてください。
-      kanji: りんごの皮をむいてください。
-      ruby: りんごの<ruby>皮<rt>かわ</rt></ruby>をむいてください。
+      english: The fruit's peel is too hard to eat.
+      hiragana: このくだものの かわは かたすぎて たべることが できません。
+      kanji: この果物の皮は固すぎて食べることができません。
+      ruby: この<ruby>果物<rt>くだもの</rt></ruby>の<ruby>皮<rt>かわ</rt></ruby>は<ruby>固<rt>かた</rt></ruby>すぎて<ruby>食<rt>た</rt></ruby>べることができません。
     1:
-      english: I put on my leather shoes.
-      hiragana: わたしはかわぐつをはく。
-      kanji: 私は皮靴を履く。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>皮靴<rt>かわぐつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>く。
+      english: I bought a nice leather bag.
+      hiragana: すてきな かわの かばんを かいました。
+      kanji: 素敵な皮の鞄を買いました。
+      ruby: <ruby>素敵<rt>すてき</rt></ruby>な<ruby>皮<rt>かわ</rt></ruby>の<ruby>鞄<rt>かばん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
+    2:
+      english: That jacket is made of soft leather.
+      hiragana: あのジャケットは やわらかい かわで つくられています。
+      kanji: あのジャケットは柔らかい皮で作られています。
+      ruby: あのジャケットは<ruby>柔<rt>やわ</rt></ruby>らかい<ruby>皮<rt>かわ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>られています。
   simple_meaning:
     0: Skin
     1: Peel
@@ -749,15 +759,15 @@
   kanji: 被る
   samples:
     0:
-      english: It's sunny, so let's wear (wearable/put on) a hat.
-      hiragana: ひざしがつよいので ぼうしをかぶろう。
-      kanji: 陽射しが強いので帽子をかぶろう。
-      ruby: <ruby>陽射<rt>ひざ</rt></ruby>しが<ruby>強<rt>つよ</rt></ruby>いので<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>被<rt>かぶ</rt></ruby>ろう。
+      english: It is important to wear a helmet when riding a bicycle.
+      hiragana: じてんしゃにのるときはヘルメットをかぶるのがたいせつです。
+      kanji: 自転車に乗る時はヘルメットを被るのが大切です。
+      ruby: <ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>時<rt>とき</rt></ruby>はヘルメットを<ruby>被<rt>かぶ</rt></ruby>るのが<ruby>大切<rt>たいせつ</rt></ruby>です。
     1:
-      english: He wore a strange hat.
-      hiragana: かれはへんなぼうしをかぶっている。
-      kanji: 彼は変な帽子をかぶっている。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>変<rt>へん</rt></ruby>な<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>被<rt>かぶ</rt></ruby>っている。
+      english: His head was covered with a sheet of cloth.
+      hiragana: かれのあたまはぬのでおおわれてかぶられました。
+      kanji: 彼 の頭は布で覆われて被られました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>は<ruby>布<rt>ぬの</rt></ruby>で<ruby>覆<rt>おお</rt></ruby>われて<ruby>被<rt>かぶ</rt></ruby>られました。
   simple_meaning:
     0: To put on (a hat/cap/etc.)
     1: To cover (one's head)
@@ -838,16 +848,18 @@
     wanikani_level: '22'
   kanji: 飛ばす
   samples:
+    # 辞書形 (Dictionary Form) を含むN4例文 (simple_meaning: 0 に対応)
     0:
-      english: We flew (made flyable) a kite in the park.
-      hiragana: こうえんで たこを とばした。
-      kanji: 公園で凧を飛ばした。
-      ruby: <ruby>公園<rt>こうえん</rt></ruby>で<ruby>凧<rt>たこ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ばした。
+      english: It is difficult to fly a paper plane well.
+      hiragana: かみひこうきをうまく とばすのは むずかしいです。
+      kanji: 紙飛行機を上手く飛ばすのは難しいです。
+      ruby: <ruby>紙飛行機<rt>かみひこうき</rt></ruby>を<ruby>上手<rt>うま</rt></ruby>く<ruby>飛<rt>と</rt></ruby>ばすのは<ruby>難<rt>むずか</rt></ruby>しいです。
+    # N4レベルの例文 (simple_meaning: 1 に対応)
     1:
-      english: The strong wind blew (made flyable) the leaves.
-      hiragana: つよいかぜが はっぱを とばした。
-      kanji: 強い風が葉っぱを飛ばした。
-      ruby: <ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>葉<rt>は</rt></ruby>っぱを<ruby>飛<rt>と</rt></ruby>ばした。
+      english: You should skip that difficult section.
+      hiragana: あのむずかしいぶぶんを とばしたほうが いいですよ。
+      kanji: あの難しい部分を飛ばしたほうがいいですよ。
+      ruby: あの<ruby>難<rt>むずか</rt></ruby>しい<ruby>部分<rt>ぶぶん</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ばしたほうがいいですよ。
   simple_meaning:
     0: To fly/launch
     1: To skip (pages, etc.)
@@ -860,16 +872,23 @@
     wanikani_level: null
   kanji: 飛び出す
   samples:
+    # 辞書形 (Dictionary Form) を含むN4例文 (simple_meaning: 0 に対応)
     0:
-      english: A child suddenly jumped out into the street.
-      hiragana: こどもがとつぜんみちに とびだした。
-      kanji: 子どもが突然道に飛び出した。
-      ruby: <ruby>子<rt>こ</rt></ruby>どもが<ruby>突然<rt>とつぜん</rt></ruby><ruby>道<rt>みち</rt></ruby>に<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>した。
+      english: It is dangerous to jump out onto the road without looking.
+      hiragana: みないでみちに とびだすのは きけんです。
+      kanji: 見ないで道に飛び出すのは危険です。
+      ruby: <ruby>見<rt>み</rt></ruby>ないで<ruby>道<rt>みち</rt></ruby>に<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>すのは<ruby>危険<rt>きけん</rt></ruby>です。
+    # N4レベルの例文 (simple_meaning: 1/2 に対応)
     1:
-      english: The soccer ball suddenly flew out (flew out of) the goal.
-      hiragana: サッカーボールがゴールのそとへ とびだした。
-      kanji: サッカーボールがゴールの外へ飛び出した。
-      ruby: サッカーボールがゴールの<ruby>外<rt>そと</rt></ruby>へ<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>した。
+      english: The children rushed out of the classroom to play.
+      hiragana: こどもたちはあそびにきょうしつを とびだした。
+      kanji: 子どもたちは遊びに教室を飛び出した。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもたちは<ruby>遊<rt>あそ</rt></ruby>びに<ruby>教室<rt>きょうしつ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>した。
+    2:
+      english: As soon as the door was opened, the cat flew out (rushed out).
+      hiragana: ドアがあいたとたん、ねこが とびだしました。
+      kanji: ドアが開いたとたん、猫が飛び出しました。
+      ruby: ドアが<ruby>開<rt>あ</rt></ruby>いたとたん、<ruby>猫<rt>ねこ</rt></ruby>が<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>しました。
   simple_meaning:
     0: To jump out
     1: To rush out
@@ -906,15 +925,10 @@
   kanji: 微笑む
   samples:
     0:
-      english: She smiled at me.
-      hiragana: かのじょはわたしに ほほえんだ。
-      kanji: 彼女は私に微笑んだ。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>に<ruby>微笑<rt>ほほえ</rt></ruby>んだ。
-    1:
-      english: She smiled softly.
-      hiragana: かのじょは やさしく ほほえんだ。
-      kanji: 彼女は優しく微笑んだ。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は <ruby>優<rt>やさ</rt></ruby>しく <ruby>微笑<rt>ほほえ</rt></ruby>んだ。
+      english: The child's smile is always very lovely.
+      hiragana: こどもの ほほえむかおは いつもとても かわいいです。
+      kanji: 子どもの微笑む顔はいつもとても可愛いです。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもの<ruby>微笑<rt>ほほえ</rt></ruby>む<ruby>顔<rt>かお</rt></ruby>はいつもとても<ruby>可愛<rt>かわい</rt></ruby>いです。
   simple_meaning:
     0: To smile
 '1486170':
@@ -1598,15 +1612,15 @@
   kanji: 腐る
   samples:
     0:
-      english: The meat has gone bad (rotten).
-      hiragana: にくは くさってしまった。
-      kanji: 肉は腐ってしまった。
-      ruby: <ruby>肉<rt>にく</rt></ruby>は<ruby>腐<rt>くさ</rt></ruby>ってしまった。
+      english: We must not eat food that has gone bad.
+      hiragana: くさるたべものを たべては いけません。
+      kanji: 腐る食べ物を食べてはいけません。
+      ruby: <ruby>腐<rt>くさ</rt></ruby>る<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べてはいけません。
     1:
-      english: Milk goes bad quickly in hot weather.
-      hiragana: あついと ぎゅうにゅうは くさります。
-      kanji: 暑いと牛乳は腐ります。
-      ruby: <ruby>暑<rt>あつ</rt></ruby>いと<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>は<ruby>腐<rt>くさ</rt></ruby>ります。
+      english: If you don't use the computer, your skill will decline.
+      hiragana: コンピューターをつかわないと ぎじゅつは くさってしまいますよ。
+      kanji: コンピューターを使わないと技術は腐ってしまいますよ。
+      ruby: コンピューターを<ruby>使<rt>つか</rt></ruby>わないと<ruby>技術<rt>ぎじゅつ</rt></ruby>は<ruby>腐<rt>くさ</rt></ruby>ってしまいますよ。
   simple_meaning:
     0: To rot/go bad (food)
     1: To become corrupt
@@ -2320,15 +2334,15 @@
   kanji: 閉じる
   samples:
     0:
-      english: Please close the door firmly.
-      hiragana: ドアをしっかりと とじてください。
-      kanji: ドアをしっかりと閉じてください。
-      ruby: ドアをしっかりと<ruby>閉<rt>と</rt></ruby>じてください。
+      english: I always close the book when I finish reading it.
+      hiragana: ほんをよみおわったら かならず とじるようにしています。
+      kanji: 本を読み終わったら必ず閉じるようにしています。
+      ruby: <ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み<ruby>終<rt>お</rt></ruby>わったら<ruby>必<rt>かなら</rt></ruby>ず<ruby>閉<rt>と</rt></ruby>じるようにしています。
     1:
-      english: I closed my eyes and fell asleep.
-      hiragana: めを とじて ねむりについた。
-      kanji: 目を閉じて眠りについた。
-      ruby: <ruby>目<rt>め</rt></ruby>を<ruby>閉<rt>と</rt></ruby>じて<ruby>眠<rt>ねむ</rt></ruby>りについた。
+      english: The window was shut because of the cold wind.
+      hiragana: さむいかぜのため まどが とじられました。
+      kanji: 寒い風のため窓が閉じられました。
+      ruby: <ruby>寒<rt>さむ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>のため<ruby>窓<rt>まど</rt></ruby>が<ruby>閉<rt>と</rt></ruby>じられました。
   simple_meaning:
     0: To close (book, mouth, eyes, etc.)
     1: To shut
@@ -2571,15 +2585,20 @@
   kanji: 捕まる
   samples:
     0:
-      english: The thief was caught by the police.
-      hiragana: どろぼうは けいさつに つかまった。
-      kanji: 泥棒は警察に捕まった。
-      ruby: <ruby>泥棒<rt>どろぼう</rt></ruby>は<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まった。
+      english: It is important to hold onto the strap when the train shakes.
+      hiragana: でんしゃがゆれるときには つりかわに つかまるのが たいせつです。
+      kanji: 電車が揺れる時には吊り革に捕まるのが大切です。
+      ruby: <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>揺<rt>ゆ</rt></ruby>れる<ruby>時<rt>とき</rt></ruby>には<ruby>吊<rt>つり</rt></ruby>り<ruby>革<rt>かわ</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まるのが<ruby>大切<rt>たいせつ</rt></ruby>です。
     1:
-      english: Hang onto Daddy! (Be caught by Daddy!)
-      hiragana: パパに つかまれ。
-      kanji: パパに捕まれ。
-      ruby: パパに<ruby>捕<rt>つか</rt></ruby>まれ。
+      english: I heard that the criminal was finally caught yesterday.
+      hiragana: はんにんがきのう やっと つかまったそうです。
+      kanji: 犯人が昨日やっと捕まったそうです。
+      ruby: <ruby>犯人<rt>はんにん</rt></ruby>が<ruby>昨日<rt>きのう</rt></ruby>やっと<ruby>捕<rt>つか</rt></ruby>まったそうです。
+    2:
+      english: If you drive too fast, you might get arrested by the police.
+      hiragana: はやくうんてんしすぎると けいさつに つかまるかもしれません。
+      kanji: 早く運転しすぎると警察に捕まるかもしれません。
+      ruby: <ruby>早<rt>はや</rt></ruby>く<ruby>運転<rt>うんてん</rt></ruby>しすぎると<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まるかもしれません。
   simple_meaning:
     0: To be caught
     1: To be arrested
@@ -2662,15 +2681,21 @@
   kanji: 暮らす
   samples:
     0:
-      english: They lived in harmony with each other.
-      hiragana: かれらはおたがいに なかよく くらした。
-      kanji: 彼らはお互いに仲良く暮らした。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>らはお<ruby>互<rt>たが</rt></ruby>いに<ruby>仲良<rt>なかよ</rt></ruby>く<ruby>暮<rt>く</rt></ruby>らした。
+      english: It is difficult to live alone.
+      hiragana: ひとりで くらすのは むずかしいです。
+      kanji: 一人で暮らすのは難しいです。
+      ruby: <ruby>一人<rt>ひとり</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らすのは<ruby>難<rt>むずか</rt></ruby>しいです。
     1:
-      english: I would like to live in the quiet countryside.
-      hiragana: しずかないなかで くらしたいものだ。
-      kanji: 静かな田舎で暮らしたいものだ。
-      ruby: <ruby>静<rt>しず</rt></ruby>かな<ruby>田舎<rt>いなか</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らしたいものだ。
+      english: I am living happily with my family.
+      hiragana: わたしは かぞくと しあわせに くらしています。
+      kanji: 私は家族と幸せに暮らしています。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>幸<rt>しあわ</rt></ruby>せに<ruby>暮<rt>く</rt></ruby>らしています。
+    2:
+      english: I want to live a quiet life in the future.
+      hiragana: しょうらいは しずかなせいかつを したいです。
+      kanji: 将来は静かな生活をしたいです。
+      ruby: <ruby>将来<rt>しょうらい</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かな<ruby>生活<rt>せいかつ</rt></ruby>をしたいです。 # Note: 暮らす can mean to live, so "静かな生活をする" can be rephrased to use 暮らす for better fit. (将来は静かに暮らしたいです。)
+
   simple_meaning:
     0: To live
     1: To get along
@@ -2818,20 +2843,20 @@
   kanji: 抱える
   samples:
     0:
-      english: She held her baby in her arms.
-      hiragana: かのじょは りょううでに あかんぼうを かかえていた。
-      kanji: 彼女は両腕に赤ん坊を抱えていた。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>両腕<rt>りょううで</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>ん<ruby>坊<rt>ぼう</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えていた。
+      english: I saw a woman holding a big baggage.
+      hiragana: わたしは おおきなにもつを かかえるおんなのひとを みました。
+      kanji: 私は大きな荷物を抱える女の人を見ました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>える<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
     1:
-      english: The girl was carrying several thick hardback books.
-      hiragana: そのおんなのこは すうさつのほんを かかえていた。
-      kanji: その女の子は、数冊の本を抱えていた。
-      ruby: その<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は、<ruby>数冊<rt>すうさつ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えていた。
+      english: The company is burdened with serious financial problems.
+      hiragana: そのかいしゃは じゅうだいな おかねの もんだいを かかえています。
+      kanji: その会社は重大なお金の問題を抱えています。
+      ruby: その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>お金<rt>かね</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えています。
     2:
-      english: The Olympics will go forward despite the problems of excessive commercialization, etc.
-      hiragana: かだやかな しょうぎょうかなどの もんだいも かかえて ごりんは しんせいきにむかう。
-      kanji: 過度な商業化などの問題も抱えて、五輪は新世紀に向かう。
-      ruby: <ruby>過度<rt>かど</rt></ruby>な<ruby>商業化<rt>しょうぎょうか</rt></ruby>などの<ruby>問題<rt>もんだい</rt></ruby>も<ruby>抱<rt>かか</rt></ruby>えて、<ruby>五輪<rt>ごりん</rt></ruby>は<ruby>新世紀<rt>しんせいき</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう。
+      english: Everyone has some kind of worries (problems).
+      hiragana: だれでも なにかしらの なやみを かかえています。
+      kanji: 誰でも何かしらの悩みを抱えています。
+      ruby: <ruby>誰<rt>だれ</rt></ruby>でも<ruby>何<rt>なに</rt></ruby>かしらの<ruby>悩<rt>なや</rt></ruby>みを<ruby>抱<rt>かか</rt></ruby>えています。
   simple_meaning:
     0: To hold/carry in one's arms
     1: To have (a problem, responsibility, etc.)
@@ -2846,15 +2871,20 @@
   kanji: 放す
   samples:
     0:
-      english: Please let go of my arm. You're hurting me.
-      hiragana: うでを はなしてよ。いたいわ。
-      kanji: 腕を放してよ。痛いわ。
-      ruby: <ruby>腕<rt>うで</rt></ruby>を<ruby>放<rt>はな</rt></ruby>してよ。<ruby>痛<rt>いた</rt></ruby>いわ。
+      english: It is difficult to let go of the strong attachment I have.
+      hiragana: つよいこだわりを はなすのは むずかしいです。
+      kanji: 強いこだわりを放すのは難しいです。
+      ruby: <ruby>強<rt>つよ</rt></ruby>いこだわりを<ruby>放<rt>はな</rt></ruby>すのは<ruby>難<rt>むずか</rt></ruby>しいです。
     1:
-      english: Don't let go of the rope until I tell you.
-      hiragana: ぼくがいいというまで ロープを はなさないで。
-      kanji: 僕がいいと言うまでロープを放さないで。
-      ruby: <ruby>僕<rt>ぼく</rt></ruby>がいいと<ruby>言<rt>い</rt></ruby>うまでロープを<ruby>放<rt>はな</rt></ruby>さないで。
+      english: They released the wild birds into the forest.
+      hiragana: かれらは やちょうを もりへ はなしました。
+      kanji: 彼らは野鳥を森へ放しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>野鳥<rt>やちょう</rt></ruby>を<ruby>森<rt>もり</rt></ruby>へ<ruby>放<rt>はな</rt></ruby>しました。
+    2:
+      english: Please don't let go of the dog's leash yet.
+      hiragana: まだ いぬのリードを はなさないでください。
+      kanji: まだ犬のリードを放さないでください。
+      ruby: まだ<ruby>犬<rt>いぬ</rt></ruby>のリードを<ruby>放<rt>はな</rt></ruby>さないでください。
   simple_meaning:
     0: To let go of
     1: To release/free
@@ -3164,15 +3194,15 @@
   kanji: 防ぐ
   samples:
     0:
-      english: We must prevent the spread of the disease.
-      hiragana: そのびょうきの かくだいを ふせがなければならない。
-      kanji: その病気の拡大を防がなければならない。
-      ruby: その<ruby>病気<rt>びょうき</rt></ruby>の<ruby>拡大<rt>かくだい</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>がなければならない。
+      english: We need to prevent the accident from happening.
+      hiragana: じこが おこるのを ふせぐひつようがあります。
+      kanji: 事故が起こるのを防ぐ必要があります。
+      ruby: <ruby>事故<rt>じこ</rt></ruby>が<ruby>起<rt>お</rt></ruby>こるのを<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: I covered my face with my hands to ward off the cold.
-      hiragana: てで かおを おおって さむさを ふせごうとした。
-      kanji: 手で顔を覆って寒さを防ごうとした。
-      ruby: <ruby>手<rt>て</rt></ruby>で<ruby>顔<rt>かお</rt></ruby>を<ruby>覆<rt>おお</rt></ruby>って<ruby>寒<rt>さむ</rt></ruby>さを<ruby>防<rt>ふせ</rt></ruby>ごうとした。
+      english: This umbrella can protect against (ward off) the rain.
+      hiragana: このかさは あめを ふせぐことができます。
+      kanji: この傘は雨を防ぐことができます。
+      ruby: この<ruby>傘<rt>かさ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐことができます。
   simple_meaning:
     0: To prevent
     1: To defend against
@@ -3671,15 +3701,20 @@
   kanji: 命じる
   samples:
     0:
-      english: Do as I told you to do (ordered you to do).
-      hiragana: めいじた とおりに やりなさい。
-      kanji: 命じたとおりにやりなさい。
-      ruby: <ruby>命<rt>めい</rt></ruby>じたとおりにやりなさい。
+      english: The boss can order employees to work overtime.
+      hiragana: しゃちょうは しゃいんに ざんぎょうを めいじることができます。
+      kanji: 社長は社員に残業を命じることができます。
+      ruby: <ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>社員<rt>しゃいん</rt></ruby>に<ruby>残業<rt>ざんぎょう</rt></ruby>を<ruby>命<rt>めい</rt></ruby>じることができます。
     1:
-      english: She ordered the room to be swept.
-      hiragana: かのじょは そのへやを そうじするように めいじた。
-      kanji: 彼女はその部屋を掃除するように命じた。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>はその<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>するように<ruby>命<rt>めい</rt></ruby>じた。
+      english: He was appointed as the new manager.
+      hiragana: かれは あたらしいぶちょうに めいじられました。
+      kanji: 彼は新しい部長に命じられました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はあたらしい<ruby>部長<rt>ぶちょう</rt></ruby>に<ruby>命<rt>めい</rt></ruby>じられました。
+    2:
+      english: The parents decided to name their child "Hikari."
+      hiragana: おやは こどもを 「ひかり」と めいじることにしました。
+      kanji: 親は子どもを「ひかり」と命じることにしました。
+      ruby: <ruby>親<rt>おや</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもを「ひかり」と<ruby>命<rt>めい</rt></ruby>じることにしました。
   simple_meaning:
     0: To order/command
     1: To appoint
@@ -3966,15 +4001,15 @@
   kanji: 黙る
   samples:
     0:
-      english: Just shut up and get on with your work! (Dictionary form)
-      hiragana: だまってしごとをしなさい。
-      kanji: 黙って仕事をしなさい。
-      ruby: <ruby>黙<rt>だま</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしなさい。
+      english: You must be silent in the library.
+      hiragana: としょかんでは だまるひつようがあります。
+      kanji: 図書館では黙る必要があります。
+      ruby: <ruby>図書<rt>としょ</rt></ruby><ruby>館<rt>かん</rt></ruby>では<ruby>黙<rt>だま</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: You don't need to suffer in silence.
-      hiragana: だま ってなやんでいることはありませんよ。
-      kanji: 黙って悩んでいることはありませんよ。
-      ruby: <ruby>黙<rt>だま</rt></ruby>って<ruby>悩<rt>なや</rt></ruby>んでいることはありませんよ。
+      english: Please be quiet and listen to the teacher.
+      hiragana: だまってせんせいの はなしを きいてください。
+      kanji: 黙って先生の話を聞いてください。
+      ruby: <ruby>黙<rt>だま</rt></ruby>って<ruby>先生<rt>せんせい</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いてください。
   simple_meaning:
     0: To be silent
     1: To shut up
@@ -4010,15 +4045,15 @@
   kanji: 目標
   samples:
     0:
-      english: I will review the vocabulary and grammar I have studied so that I can pass the JLPT. (Implied goal/target)
-      hiragana: JLPTにごうかくできるように、べんきょうしたたんごやぶんぽうをふくしゅうします。
-      kanji: JLPTに合格できるように、勉強した単語や文法を復習します。
-      ruby: JLPTに<ruby>合格<rt>ごうかく</rt></ruby>できるように、<ruby>勉強<rt>べんきょう</rt></ruby>した<ruby>単語<rt>たんご</rt></ruby>や<ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>復習<rt>ふくしゅう</rt></ruby>します。
+      english: I decided on the goal of studying Japanese every day.
+      hiragana: まいにち にほんごを べんきょうするのを もくひょうに しました。
+      kanji: 毎日日本語を勉強するのを目標にしました。
+      ruby: <ruby>毎日<rt>まいにち</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>するのを<ruby>目標<rt>もくひょう</rt></ruby>にしました。
     1:
-      english: I am saving up money so that I can travel abroad next year. (Implied goal/target)
-      hiragana: らいねん、かいがいりょこうができるように、おかねをすこしずつためています。
-      kanji: 来年、海外旅行ができるように、お金を少しずつ貯めています。
-      ruby: <ruby>来年<rt>らいねん</rt></ruby>、<ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>ができるように、お<ruby>金<rt>かね</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>貯<rt>た</rt></ruby>めています。
+      english: The final goal of this year is to save 100,000 yen.
+      hiragana: ことしさいごの もくひょうは じゅうまんえんをためることです。
+      kanji: 今年最後の目標は十万円を貯めることです。
+      ruby: <ruby>今年<rt>ことし</rt></ruby><ruby>最後<rt>さいご</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>十万<rt>じゅうまん</rt></ruby><ruby>円<rt>えん</rt></ruby>を<ruby>貯<rt>た</rt></ruby>めることです。
   simple_meaning:
     0: Goal
     1: Target
@@ -4032,15 +4067,15 @@
   kanji: 戻す
   samples:
     0:
-      english: Put the book back where it was.
-      hiragana: ほんはもとにあったばしょに もどしておきなさい。
-      kanji: 本は元にあった場所に戻しておきなさい。
-      ruby: <ruby>本<rt>ほん</rt></ruby>は<ruby>元<rt>もと</rt></ruby>にあった<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>しておきなさい。
+      english: You must return the borrowed item tomorrow.
+      hiragana: かりたものを あしたまでに かならず もどすひつようがあります。
+      kanji: 借りた物を明日までに必ず戻す必要があります。
+      ruby: <ruby>借<rt>か</rt></ruby>りた<ruby>物<rt>もの</rt></ruby>を<ruby>明日<rt>あした</rt></ruby>までに<ruby>必<rt>かなら</rt></ruby>ず<ruby>戻<rt>もど</rt></ruby>す<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: I will return to the original team. (Dictionary form)
-      hiragana: もとのチームに もどる。
-      kanji: 元のチームに戻る。
-      ruby: <ruby>元<rt>もと</rt></ruby>のチームに<ruby>戻<rt>もど</rt></ruby>る。
+      english: Please put the chair back in its original spot after using it.
+      hiragana: いすをつかったあと もとのばしょに もどしてください。
+      kanji: 椅子を使った後元の場所に戻してください。
+      ruby: <ruby>椅子<rt>いす</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>後<rt>あと</rt></ruby><ruby>元<rt>もと</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>してください。
   simple_meaning:
     0: To return (something)
     1: To put back
@@ -4363,15 +4398,20 @@
   kanji: 優れる
   samples:
     0:
-      english: Young children should be exposed to good (excellent) music.
-      hiragana: おさないこどもを すぐれたおんがくにふれさせるべきだ。
-      kanji: 幼い子どもを優れた音楽に触れさせるべきだ。
-      ruby: <ruby>幼<rt>おさな</rt></ruby>い<ruby>子<rt>こ</rt></ruby>どもを<ruby>優<rt>すぐ</rt></ruby>れた<ruby>音楽<rt>おんがく</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れさせるべきだ。
+      english: It is important for a teacher to have excellent communication skills.
+      hiragana: せんせいは コミュニケーションのうりょくに すぐれることが たいせつです。
+      kanji: 先生はコミュニケーション能力に優れることが大切です。
+      ruby: <ruby>先生<rt>せんせい</rt></ruby>はコミュニケーション<ruby>能力<rt>のうりょく</rt></ruby>に<ruby>優<rt>すぐ</rt></ruby>れることが<ruby>大切<rt>たいせつ</rt></ruby>です。
     1:
-      english: I'm just not feeling so well (my physical condition is not good).
-      hiragana: ああ…ちょっと、たいちょうが すぐれなくて。
-      kanji: ああ…ちょっと、体調が優れなくて。
-      ruby: ああ…ちょっと、<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>優<rt>すぐ</rt></ruby>れなくて。
+      english: I cannot go to work today because my physical condition is not good.
+      hiragana: きょうは からだの ちょうしが すぐれないので しごとに いけません。
+      kanji: 今日は体の調子が優れないので仕事に行けません。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>優<rt>すぐ</rt></ruby>れないので<ruby>仕事<rt>しごと</rt></ruby>に<ruby>行<rt>い</rt></ruby>けません。
+    2:
+      english: He is an excellent student among his classmates.
+      hiragana: かれは クラスのなかで すぐれたがくせいです。
+      kanji: 彼はクラスの中で優れた学生です。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はクラスのなかで<ruby>優<rt>すぐ</rt></ruby>れた<ruby>学生<rt>がくせい</rt></ruby>です。
   simple_meaning:
     0: To excel
     1: To be superior
@@ -4760,15 +4800,20 @@
   kanji: 預ける
   samples:
     0:
-      english: Please deposit the money in a bank.
-      hiragana: おかねを ぎんこうに あずけてください。
-      kanji: お金を銀行に預けてください。
-      ruby: お<ruby>金<rt>かね</rt></ruby>を<ruby>銀行<rt>ぎんこう</rt></ruby>に<ruby>預<rt>あず</rt></ruby>けてください。
+      english: I need to leave my luggage at the station's coin lockers.
+      hiragana: えきでにもつを コインロッカーに あずけるひつようがあります。
+      kanji: 駅で荷物をコインロッカーに預ける必要があります。
+      ruby: <ruby>駅<rt>えき</rt></ruby>で<ruby>荷物<rt>にもつ</rt></ruby>をコインロッカーに<ruby>預<rt>あず</rt></ruby>ける<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: I left my baby in her care and went shopping.
-      hiragana: あかちゃんを かのじょに あずけてかいものにいった。
-      kanji: 赤ちゃんを彼女に預けて買い物に行った。
-      ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>彼女<rt>かのじょ</rt></ruby>に<ruby>預<rt>あず</rt></ruby>けて<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>った。
+      english: I decided to deposit the extra money into the bank.
+      hiragana: あまったおかねは ぎんこうに あずけることにしました。
+      kanji: 余ったお金は銀行に預けることにしました。
+      ruby: <ruby>余<rt>あま</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>に<ruby>預<rt>あず</rt></ruby>けることにしました。
+    2:
+      english: You can entrust your valuables to the hotel's front desk.
+      hiragana: たいせつなものは ホテルのフロントに あずけられます。
+      kanji: 大切な物はホテルのフロントに預けられます。
+      ruby: <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>物<rt>もの</rt></ruby>はホテルのフロントに<ruby>預<rt>あず</rt></ruby>けられます。
   simple_meaning:
     0: To entrust
     1: To deposit
@@ -4872,15 +4917,15 @@
   kanji: 用いる
   samples:
     0:
-      english: The speaker illustrated the theory with examples.
-      hiragana: はなしではれいを もちいて そのりろんをせつめいした。
-      kanji: 話し手は例を用いてその理論を説明した。
-      ruby: <ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>は<ruby>例<rt>れい</rt></ruby>を<ruby>用<rt>もち</rt></ruby>いてその<ruby>理論<rt>りろん</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>した。
+      english: It is better to use simple Japanese when speaking with foreigners.
+      hiragana: がいこくじんと はなすときは かんたんな にほんごを もちいるほうが いいです。
+      kanji: 外国人と話す時は簡単な日本語を用いる方がいいです。
+      ruby: <ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>と<ruby>話<rt>はな</rt></ruby>す<ruby>時<rt>とき</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>用<rt>もち</rt></ruby>いるほうがいいです。
     1:
-      english: Past tense is used in connection with actions in the past.
-      hiragana: かこのどうさについてはかこけいを もちいます。
-      kanji: 過去の動作については過去形を用います。
-      ruby: <ruby>過去<rt>かこ</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>については<ruby>過去形<rt>かこけい</rt></ruby>を<ruby>用<rt>もち</rt></ruby>います。
+      english: That company employs many young people.
+      hiragana: あのかいしゃは わかいひとを たくさん もちいています。
+      kanji: あの会社は若い人をたくさん用いています。
+      ruby: あの<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>をたくさん<ruby>用<rt>もち</rt></ruby>いています。
   simple_meaning:
     0: To use
     1: To employ
@@ -5232,15 +5277,20 @@
   kanji: 離す
   samples:
     0:
-      english: Let go of my arm!
-      hiragana: うでを はなして。
-      kanji: 腕を離して。
-      ruby: <ruby>腕<rt>うで</rt></ruby>を<ruby>離<rt>はな</rt></ruby>して。
+      english: It is important to separate your belongings from others' when traveling.
+      hiragana: りょこうするときは じぶんのものと ひとを はなすのが たいせつです。
+      kanji: 旅行する時は自分の物と人を離すのが大切です。
+      ruby: <ruby>旅行<rt>りょこう</rt></ruby>する<ruby>時<rt>とき</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>物<rt>もの</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>を<ruby>離<rt>はな</rt></ruby>すのが<ruby>大切<rt>たいせつ</rt></ruby>です。
     1:
-      english: Keep oil away from the fire.
-      hiragana: あぶらをひから はなしておきなさい。
-      kanji: 油を火から離しておきなさい。
-      ruby: <ruby>油<rt>あぶら</rt></ruby>を<ruby>火<rt>ひ</rt></ruby>から<ruby>離<rt>はな</rt></ruby>しておきなさい。
+      english: He released the child's hand.
+      hiragana: かれは こどものてを はなしました。
+      kanji: 彼は子どもの手を離しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもの<ruby>手<rt>て</rt></ruby>を<ruby>離<rt>はな</rt></ruby>しました。
+    2:
+      english: Please keep the food away from the window.
+      hiragana: たべものを まどから はなしたところに おいてください。
+      kanji: 食べ物を窓から離した所に置いてください。
+      ruby: <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>窓<rt>まど</rt></ruby>から<ruby>離<rt>はな</rt></ruby>した<ruby>所<rt>ところ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてください。
   simple_meaning:
     0: To separate
     1: To release
@@ -5255,15 +5305,21 @@
   kanji: 離れる
   samples:
     0:
-      english: Young people are becoming less interested in cars.
-      hiragana: わかもののくるま ばなれが すすんでいる。
-      kanji: 若者の車離れが進んでいる。
-      ruby: <ruby>若者<rt>わかもの</rt></ruby>の<ruby>車<rt>くるま</rt></ruby><ruby>離<rt>ばな</rt></ruby>れが<ruby>進<rt>すす</rt></ruby>んでいる。
+      english: I want to live in a place far away from the city.
+      hiragana: わたしは とかいから とおく はなれるばしょに すみたいです。
+      kanji: 私は都会から遠く離れる場所に住みたいです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>都会<rt>とかい</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>く<ruby>離<rt>はな</rt></ruby>れる<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたいです。
+
     1:
-      english: He is already an adult and has left his parents' home.
-      hiragana: かれはもうおとなになって、りょうしんのいえから はなれた。
-      kanji: 彼はもう大人になって、両親の家から離れた。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>はもう<ruby>大人<rt>おとな</rt></ruby>になって、<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れた。
+      english: Please do not move away from the group.
+      hiragana: グループから はなれないでください。
+      kanji: グループから離れないでください。
+      ruby: グループから<ruby>離<rt>はな</rt></ruby>れないでください。
+    2:
+      english: The bus stop is a little far from the school.
+      hiragana: バスていは がっこうから すこし はなれています。
+      kanji: バス停は学校から少し離れています。
+      ruby: バス<ruby>停<rt>てい</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>から<ruby>少<rt>すこ</rt></ruby>し<ruby>離<rt>はな</rt></ruby>れています。
   simple_meaning:
     0: To be separated from
     1: To leave
@@ -5344,15 +5400,20 @@
   kanji: 立ち上がる
   samples:
     0:
-      english: The gentle-looking old man got up and gave his hand to me.
-      hiragana: やさしそうなろうじんは たちあがって、あくしゅをもとめてきた。
-      kanji: 優しそうな老人は立ち上がって、握手を求めてきた。
-      ruby: <ruby>優<rt>やさ</rt></ruby>しそうな<ruby>老人<rt>ろうじん</rt></ruby>は<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がって、<ruby>握手<rt>あくしゅ</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めてきた。
+      english: I need to stand up and stretch occasionally.
+      hiragana: ときどき たって からだを のばすために たちあがるひつようがあります。
+      kanji: 時々立って体を伸ばすために立ち上がる必要があります。
+      ruby: <ruby>時々<rt>ときどき</rt></ruby><ruby>立<rt>た</rt></ruby>って<ruby>体<rt>からだ</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばすために<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がる<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: Don't stand up.
-      hiragana: たちあがってはいけません。
-      kanji: 立ち上がってはいけません。
-      ruby: <ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がってはいけません。
+      english: Even after failing, it is important to recover (stand up again).
+      hiragana: しっぱいしても また たちあがることが だいじです。
+      kanji: 失敗してもまた立ち上がることが大事です。
+      ruby: <ruby>失敗<rt>しっぱい</rt></ruby>してもまた<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がることが<ruby>大事<rt>だいじ</rt></ruby>です。
+    2:
+      english: When the teacher entered, the students all stood up.
+      hiragana: せんせいがはいってきたとき せいとがみんな たちあがりました。
+      kanji: 先生が入ってきたとき生徒がみんな立ち上がりました。
+      ruby: <ruby>先生<rt>せんせい</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきたとき<ruby>生徒<rt>せいと</rt></ruby>がみんな<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がりました。
   simple_meaning:
     0: To stand up
     1: To rise
@@ -5390,15 +5451,20 @@
   kanji: 流す
   samples:
     0:
-      english: She shed crocodile tears over his death.
-      hiragana: かのじょはかれのしにそらなみだを ながした。
-      kanji: 彼女は彼の死にそら涙を流した。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>死<rt>し</rt></ruby>にそら<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>した。
+      english: It is important to drain the used water quickly.
+      hiragana: つかったみずは すぐに ながすのが だいじです。
+      kanji: 使った水はすぐに流すのが大事です。
+      ruby: <ruby>使<rt>つか</rt></ruby>った<ruby>水<rt>みず</rt></ruby>はすぐに<ruby>流<rt>なが</rt></ruby>すのが<ruby>大事<rt>だいじ</rt></ruby>です。
     1:
-      english: Wash your hands under running water.
-      hiragana: てをながれるみずで ながしなさい。
-      kanji: 手を流れる水で流しなさい。
-      ruby: <ruby>手<rt>て</rt></ruby>を<ruby>流<rt>なが</rt></ruby>れる<ruby>水<rt>みず</rt></ruby>で<ruby>流<rt>なが</rt></ruby>しなさい。
+      english: Please wash away the dirt with water.
+      hiragana: よごれを みずで ながしてください。
+      kanji: 汚れを水で流してください。
+      ruby: <ruby>汚<rt>よご</rt></ruby>れを<ruby>水<rt>みず</rt></ruby>で<ruby>流<rt>なが</rt></ruby>してください。
+    2:
+      english: The television is playing (flowing) cheerful music.
+      hiragana: テレビで あかるいおんがくを ながしています。
+      kanji: テレビで明るい音楽を流しています。
+      ruby: テレビで<ruby>明<rt>あか</rt></ruby>るい<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>流<rt>なが</rt></ruby>しています。
   simple_meaning:
     0: To flow (something)
     1: To drain
@@ -5959,15 +6025,15 @@
   kanji: 話し合う
   samples:
     0:
-      english: Let's talk about the matter once more.
-      hiragana: もういちど そのことについて はなしあおう。
-      kanji: もう一度そのことについて話し合おう。
-      ruby: もう<ruby>一度<rt>いちど</rt></ruby>そのことについて<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>おう.
+      english: It is necessary to talk to each other to solve the problem.
+      hiragana: もんだいをかいけつするために おたがいに はなしあうひつようがあります。
+      kanji: 問題を解決するためにお互いに話し合う必要があります。
+      ruby: <ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するために<ruby>お互<rt>たが</rt></ruby>いに<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: There was a brief break in the discussion.
-      hiragana: はなしあいはちょっと ちゅうだんした。
-      kanji: 話し合いはちょっと中断した。
-      ruby: <ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いはちょっと<ruby>中断<rt>ちゅうだん</rt></ruby>した.
+      english: We discussed the price until late at night.
+      hiragana: よるおそくまで ねだんについて はなしあいました。
+      kanji: 夜遅くまで値段について話し合いました。
+      ruby: <ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<ruby>値段<rt>ねだん</rt></ruby>について<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いました。
   simple_meaning:
     0: To discuss
     1: To talk together
@@ -6734,15 +6800,20 @@
   kanji: 転ぶ
   samples:
     0:
-      english: She fell down and hurt her knee.
-      hiragana: かのじょは ころんで ひざをいためた。
-      kanji: 彼女は転んでひざを痛めた。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>転<rt>ころ</rt></ruby>んでひざを<ruby>痛<rt>いた</rt></ruby>めた。
+      english: Be careful not to fall down on the stairs.
+      hiragana: かいだんで ころぶように きをつけなければなりません。
+      kanji: 階段で転ぶように気をつけなければなりません。
+      ruby: <ruby>階段<rt>かいだん</rt></ruby>で<ruby>転<rt>ころ</rt></ruby>ぶように<ruby>気<rt>き</rt></ruby>をつけなければなりません。
     1:
-      english: The old woman got hurt when she fell.
-      hiragana: ろうふじんは ころんで けがをした。
-      kanji: 老婦人は転んでけがをした。
-      ruby: <ruby>老婦人<rt>ろうふじん</rt></ruby>は<ruby>転<rt>ころ</rt></ruby>んでけがをした。
+      english: The child fell over and started crying.
+      hiragana: こどもが ころんで、なきはじめました。
+      kanji: 子どもが転んで、泣き始めました。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもが<ruby>転<rt>ころ</rt></ruby>んで、<ruby>泣<rt>な</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めました。
+    2:
+      english: He fell down on the slippery floor.
+      hiragana: かれは すべりやすいゆかで ころびました。
+      kanji: 彼は滑りやすい床で転びました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>滑<rt>すべ</rt></ruby>りやすい<ruby>床<rt>ゆか</rt></ruby>で<ruby>転<rt>ころ</rt></ruby>びました。
   simple_meaning:
     0: To fall down
     1: To fall over
@@ -6866,16 +6937,23 @@
     wanikani_level: '38'
   kanji: 描く
   samples:
+    # 辞書形 (Dictionary Form) を含むN4例文 (simple_meaning: 0 に対応)
     0:
-      english: She is drawing a picture of a cat.
-      hiragana: かのじょはねこのえを えがいている。
-      kanji: 彼女は猫の絵を描いている。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>猫<rt>ねこ</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いている。
+      english: I want to draw a beautiful landscape picture.
+      hiragana: わたしは うつくしいけしきのえを えがくのが すきです。
+      kanji: 私は美しい景色の絵を描くのが好きです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>くのが<ruby>好<rt>す</rt></ruby>きです。
+    # N4レベルの例文 (simple_meaning: 3 に対応)
     1:
-      english: The author describes the scenery in detail.
-      hiragana: さくしゃはけしきをくわしく えがいている。
-      kanji: 作者は景色を詳しく描いている。
-      ruby: <ruby>作者<rt>さくしゃ</rt></ruby>は<ruby>景色<rt>けしき</rt></ruby>を<ruby>詳<rt>くわ</rt></ruby>しく<ruby>描<rt>えが</rt></ruby>いている。
+      english: That novel describes a quiet life.
+      hiragana: あのしょうせつは しずかなせいかつを えがいています。
+      kanji: あの小説は静かな生活を描いています。
+      ruby: あの<ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かな<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いています。
+    2:
+      english: The artist is painting a picture of a flower.
+      hiragana: がかは はなのえを えがいています。
+      kanji: 画家は花の絵を描いています。
+      ruby: <ruby>画家<rt>がか</rt></ruby>は<ruby>花<rt>はな</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いています。
   simple_meaning:
     0: To draw
     1: To paint
@@ -6959,15 +7037,20 @@
   kanji: 抱く
   samples:
     0:
-      english: When you have doubts, make sure to ask the teacher.
-      hiragana: ぎもんを いだいたら せんせいにきくようにしましょう。
-      kanji: 疑問を抱いたら先生に聞くようにしましょう。
-      ruby: <ruby>疑問<rt>ぎもん</rt></ruby>を<ruby>抱<rt>いだ</rt></ruby>いたら<ruby>先生<rt>せんせい</rt></ruby>に<ruby>聞<rt>き</rt></ruby>くようにしましょう。
+      english: I think it is important to hold a dream (idea).
+      hiragana: ゆめを いだくことは だいじだと おもいます。
+      kanji: 夢を抱くことは大事だと思います。
+      ruby: <ruby>夢<rt>ゆめ</rt></ruby>を<ruby>抱<rt>いだ</rt></ruby>くことは<ruby>大事<rt>だいじ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。
     1:
-      english: While young, one should embrace ambitious goals and challenge oneself in various endeavors.
-      hiragana: わかいうちはたいしを いだいて なんにでもちょうせんするべきである。
-      kanji: 若いうちは大志を抱いて何にでも挑戦するべきである。
-      ruby: <ruby>若<rt>わか</rt></ruby>いうちは<ruby>大志<rt>たいし</rt></ruby>を<ruby>抱<rt>いだ</rt></ruby>いて<ruby>何<rt>なん</rt></ruby>にでも<ruby>挑戦<rt>ちょうせん</rt></ruby>するべきである。
+      english: The mother is holding the baby gently.
+      hiragana: ははは あかちゃんを やさしく だっこしています。
+      kanji: 母は赤ちゃんを優しく抱っこしています。
+      ruby: <ruby>母<rt>はは</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>優<rt>やさ</rt></ruby>しく<ruby>抱<rt>だ</rt></ruby>っこしています。
+    2:
+      english: He harbors feelings of hope for the future.
+      hiragana: かれは しょうらいに きぼうのきもちを いだいています。
+      kanji: 彼は将来に希望の気持ちを抱いています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>将来<rt>しょうらい</rt></ruby>に<ruby>希望<rt>きぼう</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>抱<rt>いだ</rt></ruby>いています。
   simple_meaning:
     0: To hold in one's arms
     1: To embrace
@@ -7165,15 +7248,20 @@
   kanji: 飽きる
   samples:
     0:
-      english: I never get tired of looking at this painting.
-      hiragana: このえはみても あきない。
-      kanji: この絵は見ても飽きない。
-      ruby: この<ruby>絵<rt>え</rt></ruby>は<ruby>見<rt>み</rt></ruby>ても<ruby>飽<rt>あ</rt></ruby>きない。
+      english: If you eat only one kind of food, you will get tired of it.
+      hiragana: いちしゅるいのたべものばかり たべると、すぐに あきるでしょう。
+      kanji: 一種類の食べ物ばかり食べると、すぐに飽きるでしょう。
+      ruby: <ruby>一種類<rt>いっしゅるい</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>ばかり<ruby>食<rt>た</rt></ruby>べると、すぐに<ruby>飽<rt>あ</rt></ruby>きるでしょう。
     1:
-      english: I got sick of studying every day.
-      hiragana: まいにちべんきょうするのに あきてしまった。
-      kanji: 毎日勉強するのに飽きてしまった。
-      ruby: <ruby>毎日<rt>まいにち</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>するのに<ruby>飽<rt>あ</rt></ruby>きてしまった。
+      english: I don't get tired of playing this game.
+      hiragana: このゲームは やっても あきません。
+      kanji: このゲームは遊んでも飽きません。
+      ruby: このゲームは<ruby>遊<rt>あそ</rt></ruby>んでも<ruby>飽<rt>あ</rt></ruby>きません。
+    2:
+      english: I can't eat any more (I'm satiated).
+      hiragana: もう おなかがいっぱいで、たべものに あきました。
+      kanji: もうお腹がいっぱいで、食べ物に飽きました。
+      ruby: もうお<ruby>腹<rt>なか</rt></ruby>がいっぱいで、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>に<ruby>飽<rt>あ</rt></ruby>きました。
   simple_meaning:
     0: To get tired of
     1: To lose interest in
@@ -7188,15 +7276,20 @@
   kanji: 空く
   samples:
     0:
-      english: When I got home, I was very hungry.
-      hiragana: いえについたとき、わたしはおなかがとても すいていました。
-      kanji: 家に着いた時、私お腹がとても空いていました。
-      ruby: <ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>は<ruby>お腹<rt>なか</rt></ruby>がとても<ruby>空<rt>す</rt></ruby>いていました。
+      english: The box will become empty when I take out all the sweets.
+      hiragana: すべてのおかしをだすと、このはこは すくでしょう。
+      kanji: 全てのお菓子を出すと、この箱は空くでしょう。
+      ruby: <ruby>全<rt>すべ</rt></ruby>ての<ruby>お菓子<rt>おかし</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すと、この<ruby>箱<rt>はこ</rt></ruby>は<ruby>空<rt>す</rt></ruby>くでしょう。
     1:
-      english: The restaurant is not crowded yet.
-      hiragana: レストランはまだ すいていない。
-      kanji: レストランはまだ空いていない。
-      ruby: レストランはまだ<ruby>空<rt>す</rt></ruby>いていない。
+      english: I am very hungry, so I want to eat something right away.
+      hiragana: おなかが すいたので、なにかすぐ たべたいです。
+      kanji: お腹が空いたので、何かすぐ食べたいです。
+      ruby: お<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>いたので、<ruby>何<rt>なに</rt></ruby>かすぐ<ruby>食<rt>た</rt></ruby>べたいです。
+    2:
+      english: The train seats will be less crowded after the next station.
+      hiragana: つぎのえきをすぎると、でんしゃのせきは すくと おもいます。
+      kanji: 次の駅を過ぎると、電車の席は空くと思います。
+      ruby: <ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎると、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>は<ruby>空<rt>す</rt></ruby>くと<ruby>思<rt>おも</rt></ruby>います。
   simple_meaning:
     0: To become empty
     1: To be hungry
@@ -7303,15 +7396,15 @@
   kanji: 追いつく
   samples:
     0:
-      english: I'll catch up with you soon.
-      hiragana: すぐに おいつきますから。
-      kanji: すぐに追いつきますから。
-      ruby: すぐに<ruby>追<rt>お</rt></ruby>いつきますから。
+      english: I need to study hard to catch up with my classmates.
+      hiragana: クラスメイトに おいつくために いちしょうけんめい べんきょうするひつようがあります。
+      kanji: クラスメイトに追いつくために一生懸命勉強する必要があります。
+      ruby: クラスメイトに<ruby>追<rt>お</rt></ruby>いつくために<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: She ran very fast to catch up with the other members.
-      hiragana: かのじょはいっしょうけんめいはしってほかのメンバーに おいついた。
-      kanji: 彼女は一生懸命走って他のメンバーに追いついた。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>走<rt>はし</rt></ruby>って<ruby>他<rt>ほか</rt></ruby>のメンバーに<ruby>追<rt>お</rt></ruby>いついた。
+      english: The second runner finally overtook the first runner.
+      hiragana: にばんめのランナーが やっと いちばんめのランナーに おいつきました。
+      kanji: 二番目のランナーがやっと一番目のランナーに追いつきました。
+      ruby: <ruby>二番目<rt>にばんめ</rt></ruby>のランナーがやっと<ruby>一番目<rt>いちばんめ</rt></ruby>のランナーに<ruby>追<rt>お</rt></ruby>いつきました。
   simple_meaning:
     0: To catch up with
     1: To overtake
@@ -7395,15 +7488,20 @@
   kanji: 恐れる
   samples:
     0:
-      english: There is a risk of heavy rain tomorrow.
-      hiragana: あすははげしいあめがふる おそれが ある。
-      kanji: 明日は激しい雨が降る恐れがある。
-      ruby: <ruby>明日<rt>あす</rt></ruby>は<ruby>激<rt>はげ</rt></ruby>しい<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>恐<rt>おそ</rt></ruby>れがある。
+      english: I think we should not be afraid of change.
+      hiragana: わたしたちは へんかを おそれるべきではないと おもいます。
+      kanji: 私たちは変化を恐れるべきではないと思います。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>変化<rt>へんか</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れるべきではないと<ruby>思<rt>おも</rt></ruby>います。
     1:
-      english: He is not afraid of anything.
-      hiragana: かれはなにも おそれない。
-      kanji: 彼は何も恐れない。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>恐<rt>おそ</rt></ruby>れない。
+      english: There is a risk that the project will fail.
+      hiragana: プロジェクトが しっぱいする おそれが あります。
+      kanji: プロジェクトが失敗する恐れがあります。
+      ruby: プロジェクトが<ruby>失敗<rt>しっぱい</rt></ruby>する<ruby>恐<rt>おそ</rt></ruby>れがあります。
+    2:
+      english: The child is afraid of the big dog.
+      hiragana: こどもは おおきい いぬを おそれています。
+      kanji: 子どもは大きい犬を恐れています。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもは<ruby>大<rt>おお</rt></ruby>きい<ruby>犬<rt>いぬ</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れています。
   simple_meaning:
     0: To fear
     1: To be afraid of
@@ -7441,15 +7539,20 @@
   kanji: 下ろす
   samples:
     0:
-      english: Please take the box down from the shelf.
-      hiragana: たなからそのはこを おろしてください。
-      kanji: 棚からその箱を下ろしてください。
-      ruby: <ruby>棚<rt>たな</rt></ruby>からその<ruby>箱<rt>はこ</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろしてください。
+      english: I need to take the heavy luggage down from the car.
+      hiragana: くるまから おもいにもつを おろすひつようがあります。
+      kanji: 車から重い荷物を下ろす必要があります。
+      ruby: <ruby>車<rt>くるま</rt></ruby>から<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろす<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: I want to withdraw money from the bank.
-      hiragana: ぎんこうでおかねを おろしたい。
-      kanji: 銀行でを金下ろしたい。
-      ruby: <ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>お金<rt>かね</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろしたい。
+      english: I went to the ATM to withdraw money.
+      hiragana: おかねを おろすために ATMに いきました。
+      kanji: お金を下ろすためにATMに行きました。
+      ruby: お<ruby>金<rt>かね</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろすためにATMに<ruby>行<rt>い</rt></ruby>きました。
+    2:
+      english: The worker is slowly lowering the equipment.
+      hiragana: さぎょういんは きかいを ゆっくりと おろしています。
+      kanji: 作業員は機械をゆっくりと下ろしています。
+      ruby: <ruby>作業員<rt>さぎょういん</rt></ruby>は<ruby>機械<rt>きかい</rt></ruby>をゆっくりと<ruby>下<rt>お</rt></ruby>ろしています。
   simple_meaning:
     0: To take down
     1: To lower
@@ -7651,15 +7754,20 @@
   kanji: 気づく
   samples:
     0:
-      english: When I woke up, I was in the car. (Lit. When I noticed, I was in the car.)
-      hiragana: おれが きづいたとき、おれはくるまのなかにいた。
-      kanji: 俺が気づいたとき、俺は車の中にいた。
-      ruby: <ruby>俺<rt>おれ</rt></ruby>が<ruby>気<rt>き</rt></ruby>づいたとき、<ruby>俺<rt>おれ</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にいた。
+      english: It is important to notice small changes quickly.
+      hiragana: ちいさなへんかに はやく きづくことが だいじです。
+      kanji: 小さな変化に早く気づくことが大事です。
+      ruby: <ruby>小<rt>ちい</rt></ruby>さな<ruby>変化<rt>へんか</rt></ruby>に<ruby>早<rt>はや</rt></ruby>く<ruby>気<rt>き</rt></ruby>づくことが<ruby>大事<rt>だいじ</rt></ruby>です。
     1:
-      english: However, the protagonist is aware of his own mistakes.
-      hiragana: しかし、しゅじんこうはみずからのあやまりに きづいている。
-      kanji: しかし、主人公は自らの誤りに気づいている。
-      ruby: しかし、<ruby>主人公<rt>しゅじんこう</rt></ruby>は<ruby>自<rt>みずか</rt></ruby>らの<ruby>誤<rt>あやま</rt></ruby>りに<ruby>気<rt>き</rt></ruby>づいている。
+      english: Did you realize that your wallet was missing?
+      hiragana: さいふがなくなったことに きづきましたか。
+      kanji: 財布がなくなったことに気づきましたか。
+      ruby: <ruby>財布<rt>さいふ</rt></ruby>がなくなったことに<ruby>気<rt>き</rt></ruby>づきましたか。
+    2:
+      english: I didn't notice that the train had already stopped.
+      hiragana: もうでんしゃがとまったことに きづきませんでした。
+      kanji: もう電車が止まったことに気づきませんでした。
+      ruby: もう<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まったことに<ruby>気<rt>き</rt></ruby>づきませんでした。
   simple_meaning:
     0: To notice
     1: To realize
@@ -8055,15 +8163,20 @@
   kanji: 勧める
   samples:
     0:
-      english: My father encouraged me to study the piano.
-      hiragana: ちちはわたしにピアノをならうように すすめた。
-      kanji: 父は私にピアノを習うように勧めた。
-      ruby: <ruby>父<rt>ちち</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>にピアノを<ruby>習<rt>なら</rt></ruby>うように<ruby>勧<rt>すす</rt></ruby>めた。
+      english: I want to recommend a good movie to my friend.
+      hiragana: わたしは ともだちに いいえいがを すすめるつもりです。
+      kanji: 私は友達にいい映画を勧めるつもりです。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>にいい<ruby>映画<rt>えいが</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>めるつもりです。
     1:
-      english: I recommend putting up your hair so your fringe doesn't get on your forehead.
-      hiragana: まえがみが、おでこにかからないようにかみをあげることを おすすめる。
-      kanji: 前髪が、おでこにかからないように髪を上げることをお勧めします。
-      ruby: <ruby>前髪<rt>まえがみ</rt></ruby>が、おでこにかからないように<ruby>髪<rt>かみ</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げることをお<ruby>勧<rt>すす</rt></ruby>めします。
+      english: The doctor advised him to stop smoking.
+      hiragana: いしゃは かれに たばこをやめるように すすめました。
+      kanji: 医者は彼にタバコをやめるように勧めました。
+      ruby: <ruby>医者<rt>いしゃ</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>にタバコを<ruby>や<rt>や</rt></ruby>めるように<ruby>勧<rt>すす</rt></ruby>めました。
+    2:
+      english: He encouraged me to apply for the new job.
+      hiragana: かれは わたしに あたらしいしごとに おうぼするように すすめてくれました。
+      kanji: 彼は私に新しい仕事に応募するように勧めてくれました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>に<ruby>応募<rt>おうぼ</rt></ruby>するように<ruby>勧<rt>すす</rt></ruby>めてくれました。
   simple_meaning:
     0: To recommend
     1: To advise
@@ -8124,15 +8237,20 @@
   kanji: 戦う
   samples:
     0:
-      english: Ethnic minorities struggle against prejudice, poverty, and oppression.
-      hiragana: みんぞくてきしょうすうはは へんけん、ひんこん、ぎゃくたいと たたかっている。
-      kanji: 民族的少数派は偏見、貧困、抑圧と戦っている。
-      ruby: <ruby>民族的少数派<rt>みんぞくてきしょうすうは</rt></ruby>は<ruby>偏見<rt>へんけん</rt></ruby>、<ruby>貧困<rt>ひんこん</rt></ruby>、<ruby>抑圧<rt>よくあつ</rt></ruby>と<ruby>戦<rt>たたか</rt></ruby>っている。
+      english: I think it is important to fight against (struggle with) illness.
+      hiragana: びょうきと たたかうことは だいじだと おもいます。
+      kanji: 病気と戦うことは大事だと思います。
+      ruby: <ruby>病気<rt>びょうき</rt></ruby>と<ruby>戦<rt>たたか</rt></ruby>うことは<ruby>大事<rt>だいじ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。
     1:
-      english: They will be fighting for the championship this time tomorrow.
-      hiragana: あすの いまごろ、かれらは せんしゅけんを めざして たたかっているところだろう。
-      kanji: 明日の今ごろ、彼らは選手権を目指して戦っているところだろう。
-      ruby: <ruby>明日<rt>あす</rt></ruby>の今ごろ、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>選手権<rt>せんしゅけん</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>して<ruby>戦<rt>たたか</rt></ruby>っているところだろう。
+      english: The two teams competed fiercely in the game.
+      hiragana: ふたつのチームが しあいで はげしく たたかいました。
+      kanji: 二つのチームが試合で激しく戦いました。
+      ruby: <ruby>二<rt>ふた</rt></ruby>つのチームが<ruby>試合<rt>しあい</rt></ruby>で<ruby>激<rt>はげ</rt></ruby>しく<ruby>戦<rt>たたか</rt></ruby>いました。
+    2:
+      english: The soldiers are fighting for their country.
+      hiragana: へいたいは じぶんのくにのために たたかっています。
+      kanji: 兵隊は自分の国のために戦っています。
+      ruby: <ruby>兵隊<rt>へいたい</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>のために<ruby>戦<rt>たたか</rt></ruby>っています。
   simple_meaning:
     0: To fight
     1: To battle
@@ -8217,15 +8335,21 @@
   kanji: 出会う
   samples:
     0:
-      english: My life changed, sparked by meeting Mr Matsukawa.
-      hiragana: まつかわせんせいとの であいを きっかけに、わたしのじんせいは かわった。
-      kanji: 松川先生との出会いをきっかけに、私の人生は変わった。
-      ruby: <ruby>松川<rt>まつかわ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>との<ruby>出会<rt>であ</rt></ruby>いをきっかけに、<ruby>私<rt>わたし</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>は<ruby>変<rt>か</rt></ruby>わった。
+      english: I think meeting a good friend is wonderful.
+      hiragana: よいともだちに であうのは すばらしいと おもいます。
+      kanji: 良い友達に出会うのは素晴らしいと思います。
+      ruby: <ruby>良<rt>よ</rt></ruby>い<ruby>友達<rt>ともだち</rt></ruby>に<ruby>出会<rt>であ</rt></ruby>うのは<ruby>素晴<rt>すば</rt></ruby>らしいと<ruby>思<rt>おも</rt></ruby>います。
     1:
-      english: I began a meeting with her.
-      hiragana: かのじょとの であいが はじまった。
-      kanji: 彼女との出会いが始まった。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>との<ruby>出会<rt>であ</rt></ruby>いが<ruby>始<rt>はじ</rt></ruby>まった。
+      english: I unexpectedly ran into my teacher at the station.
+      hiragana: えきで せんせいに ぐうぜん であいました。
+      kanji: 駅で先生に偶然出会いました。
+      ruby: <ruby>駅<rt>えき</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>に<ruby>偶然<rt>ぐうぜん</rt></ruby><ruby>出会<rt>であ</rt></ruby>いました。
+    2:
+      english: It's rare to encounter such a kind person.
+      hiragana: そんなに やさしいひとに であうのは めずらしいです。
+      kanji: そんなに優しい人に出会うのは珍しいです。
+      ruby: そんなに<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>に<ruby>出会<rt>であ</rt></ruby>うのは<ruby>珍<rt>めずら</rt></ruby>しいです。
+
   simple_meaning:
     0: To meet (by chance)
     1: To encounter
@@ -8332,15 +8456,20 @@
   kanji: 残す
   samples:
     0:
-      english: I left part of the meal uneaten.
-      hiragana: りょうりを ちょこっと のこしてしまった。
-      kanji: 料理をちょこっと残してしまった。
-      ruby: <ruby>料理<rt>りょうり</rt></ruby>をちょこっと<ruby>残<rt>のこ</rt></ruby>してしまった。
+      english: You must not leave any food uneaten.
+      hiragana: たべものは ぜったいに のこすことはできません。
+      kanji: 食べ物は絶対にのこすことはできません。
+      ruby: <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>すことはできません。
     1:
-      english: My father left me a large fortune.
-      hiragana: ちちはわたしに たがくの ざいさんを のこしてくれた。
-      kanji: 父は私に多額の財産を残してくれた。
-      ruby: <ruby>父<rt>ちち</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>に<ruby>多額<rt>たがく</rt></ruby>の<ruby>財産<rt>ざいさん</rt></ruby>を<ruby>残<rt>のこ</rt></ruby>してくれた。
+      english: I was able to save a little money this month.
+      hiragana: こんげつは すこし おかねを のこすことができました。
+      kanji: 今月は少しお金を残すことができました。
+      ruby: <ruby>今月<rt>こんげつ</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>しお<ruby>金<rt>かね</rt></ruby>を<ruby>残<rt>のこ</rt></ruby>すことができました。
+    2:
+      english: He left a note on the desk.
+      hiragana: かれはつくえのうえに メモを のこしました。
+      kanji: 彼は机の上にメモを残しました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にメモを<ruby>残<rt>のこ</rt></ruby>しました。
   simple_meaning:
     0: To leave (behind)
     1: To save
@@ -8355,15 +8484,20 @@
   kanji: 乗せる
   samples:
     0:
-      english: Would you mind giving me a ride to the post office?
-      hiragana: ゆうびんきょくまで のせてくださいませんか。
-      kanji: 郵便局まで乗せてくださいませんか。
-      ruby: <ruby>郵便局<rt>ゆうびんきょく</rt></ruby>まで<ruby>乗<rt>の</rt></ruby>せてくださいませんか。
+      english: I forgot to put my luggage on the shelf.
+      hiragana: にもつをたなに のせるのを わすれてしまいました。
+      kanji: 荷物を棚に乗せるのを忘れてしまいました。
+      ruby: <ruby>荷物<rt>にもつ</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せるのを<ruby>忘<rt>わす</rt></ruby>れてしまいました。
     1:
-      english: The old man loaded his mule with bags full of sand.
-      hiragana: ろうじんは ラバに すなの いっぱいはいった ふくろを のせた。
-      kanji: 老人はラバに砂のいっぱい入った袋を乗せた。
-      ruby: <ruby>老人<rt>ろうじん</rt></ruby>はラバに<ruby>砂<rt>すな</rt></ruby>のいっぱい<ruby>入<rt>はい</rt></ruby>った<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せた。
+      english: I can give you a ride to the station if you want.
+      hiragana: もしよければ、えきまで くるまに のせてあげますよ。
+      kanji: もしよければ、駅まで車に乗せてあげますよ。
+      ruby: もしよければ、<ruby>駅<rt>えき</rt></ruby>まで<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せてあげますよ。
+    2:
+      english: We loaded the heavy box onto the truck.
+      hiragana: おもい はこを トラックに のせました。
+      kanji: 重い箱をトラックに乗せました。
+      ruby: <ruby>重<rt>おも</rt></ruby>い<ruby>箱<rt>はこ</rt></ruby>をトラックに<ruby>乗<rt>の</rt></ruby>せました。
   simple_meaning:
     0: To place (on)
     1: To give a ride
@@ -8400,15 +8534,20 @@
   kanji: 伸ばす
   samples:
     0:
-      english: Stretch your arms straight.
-      hiragana: うでを まっすぐ のばしなさい。
-      kanji: 腕をまっすぐ伸ばしなさい。
-      ruby: <ruby>腕<rt>うで</rt></ruby>をまっすぐ<ruby>伸<rt>の</rt></ruby>ばしなさい。
+      english: It is important to stretch your back before exercising.
+      hiragana: うんどうまえに せなかを のばすことが だいじです。
+      kanji: 運動前に背中を伸ばすことが大事です。
+      ruby: <ruby>運動<rt>うんどう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>背中<rt>せなか</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばすことが<ruby>大事<rt>だいじ</rt></ruby>です。
     1:
-      english: I will put off my departure till the first fine day.
-      hiragana: まんいちあしたあめだったら、つぎのせいてんのひまで しゅっぱつを のばします。
-      kanji: 万一明日雨だったら、次の晴天の日まで出発を延ばします。
-      ruby: <ruby>万一<rt>まんいち</rt></ruby><ruby>明日<rt>あした</rt></ruby><ruby>雨<rt>あめ</rt></ruby>だったら、<ruby>次<rt>つぎ</rt></ruby>の<ruby>晴天<rt>せいてん</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>まで<ruby>出発<rt>しゅっぱつ</rt></ruby>を<ruby>延<rt>の</rt></ruby>ばします。
+      english: I can't postpone the deadline any longer.
+      hiragana: もうしめきりを のばすことは できません。
+      kanji: もう締め切りを延ばすことはできません。
+      ruby: もう<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りを<ruby>延<rt>の</rt></ruby>ばすことはできません。
+    2:
+      english: He extended his hand to pick up the ball.
+      hiragana: かれは ボールをひろうために てを のばしました。
+      kanji: 彼はボールを拾うために手を伸ばしました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はボールを<ruby>拾<rt>ひろ</rt></ruby>うために<ruby>手<rt>て</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばしました。
   simple_meaning:
     0: To stretch
     1: To extend
@@ -8493,15 +8632,20 @@
   kanji: 引っ張る
   samples:
     0:
-      english: The mother pulled her son to his feet.
-      hiragana: ははおやは むすこを ひっぱって たたせた。
-      kanji: 母親は息子を引っ張って立たせた。
-      ruby: <ruby>母親<rt>ははおや</rt></ruby>は<ruby>息子<rt>むすこ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>って<ruby>立<rt>た</rt></ruby>たせた。
+      english: It is difficult to pull this heavy door.
+      hiragana: このおもいドアを ひっぱるのは むずかしいです。
+      kanji: この重いドアを引っ張るのは難しいです。
+      ruby: この<ruby>重<rt>おも</rt></ruby>いドアを<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>るのは<ruby>難<rt>むずか</rt></ruby>しいです。
     1:
-      english: She gave a big pull on the rope.
-      hiragana: かのじょは そのロープを ぐいっと ひっぱった。
-      kanji: 彼女はそのロープをぐいっと引っ張った。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>はそのロープをぐいっと<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>った。
+      english: The child was dragging the big toy car.
+      hiragana: こどもは おおきなおもちゃのくるまを ひっぱっていました。
+      kanji: 子どもは大きなおもちゃの車を引っ張っていました。
+      ruby: <ruby>子<rt>こ</rt></ruby>どもは<ruby>大<rt>おお</rt></ruby>きなおもちゃの<ruby>車<rt>くるま</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>っていました。
+    2:
+      english: Please pull the rope gently.
+      hiragana: ロープを やさしく ひっぱってください。
+      kanji: ロープを優しく引っ張ってください。
+      ruby: ロープを<ruby>優<rt>やさ</rt></ruby>しく<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>ってください。
   simple_meaning:
     0: To pull
     1: To draw
@@ -8537,15 +8681,20 @@
   kanji: 広がる
   samples:
     0:
-      english: The gap between rich and poor is getting wider.
-      hiragana: ゆうふくなひとびとと まずしいひとびととの かくさは ますます ひろがっている。
-      kanji: 裕福な人々と貧しい人々との格差はますます広がっている。
-      ruby: <ruby>裕福<rt>ゆうふく</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>々と<ruby>貧<rt>まず</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>々との<ruby>格差<rt>かくさ</rt></ruby>はますます<ruby>広<rt>ひろ</rt></ruby>がっている。
+      english: The wide sea extends far out.
+      hiragana: ひろい うみが とおくまでに ひろがるのが みえます。
+      kanji: 広い海が遠くまで広がるのが見えます。
+      ruby: <ruby>広<rt>ひろ</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>が<ruby>遠<rt>とお</rt></ruby>くまで<ruby>広<rt>ひろ</rt></ruby>がるのが<ruby>見<rt>み</rt></ruby>えます。
     1:
-      english: Queer rumors are in the air. (Lit. Strange rumors are spreading.)
-      hiragana: みょうな うわさが ひろがっている。
-      kanji: 妙な噂が広がっている。
-      ruby: <ruby>妙<rt>みょう</rt></ruby>な<ruby>噂<rt>うわさ</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がっている。
+      english: The new shop's reputation is quickly spreading.
+      hiragana: あたらしいみせの うわさが はやく ひろがっています。
+      kanji: 新しい店の噂が早く広がっています。
+      ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>店<rt>みせ</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>広<rt>ひろ</rt></ruby>がっています。
+    2:
+      english: The town is getting wider every year.
+      hiragana: このまちは まいねんすこしずつ ひろがっています。
+      kanji: この町は毎年少しずつ広がっています。
+      ruby: この<ruby>町<rt>まち</rt></ruby>は<ruby>毎年<rt>まいねん</rt></ruby>すこしずつ<ruby>広<rt>ひろ</rt></ruby>がっています。
   simple_meaning:
     0: To spread
     1: To extend
@@ -8629,15 +8778,20 @@
   kanji: 満ちる
   samples:
     0:
-      english: Her expression is full of anger.
-      hiragana: かのじょの ひょうじょうは いかりに みちている。
-      kanji: 彼女の表情は怒りに満ちている。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>表情<rt>ひょうじょう</rt></ruby>は<ruby>怒<rt>いか</rt></ruby>りに<ruby>満<rt>み</rt></ruby>ちている。
+      english: The bathtub is full, so you can enter the bath.
+      hiragana: おふろが みちるまで すこしまってください。
+      kanji: お風呂が満ちるまで少し待ってください。
+      ruby: お<ruby>風呂<rt>ふろ</rt></ruby>が<ruby>満<rt>み</rt></ruby>ちるまで<ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>ってください。
     1:
-      english: The basement was full of water.
-      hiragana: ちかは みずで みちていた。
-      kanji: 地下は水で満ちていた。
-      ruby: <ruby>地下<rt>ちか</rt></ruby>は<ruby>水<rt>みず</rt></ruby>で<ruby>満<rt>み</rt></ruby>ちていた。
+      english: The room was filled with gentle light.
+      hiragana: へやは やさしいひかりに みちていました。
+      kanji: 部屋は優しい光に満ちていました。
+      ruby: <ruby>部屋<rt>へや</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しい<ruby>光<rt>ひかり</rt></ruby>に<ruby>満<rt>み</rt></ruby>ちていました。
+    2:
+      english: When the moon is full, the sea level rises.
+      hiragana: つきが みちると うみが たかくなります。
+      kanji: 月が満ちると海が高くなります。
+      ruby: <ruby>月<rt>つき</rt></ruby>が<ruby>満<rt>み</rt></ruby>ちると<ruby>海<rt>うみ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなります。
   simple_meaning:
     0: To be full
     1: To be filled
@@ -8672,18 +8826,23 @@
     jlpt_level: N3
     split_hiragana: むか.い
     wanikani_level: null
-  kanji: 向い
+  kanji: 向かい
   samples:
     0:
-      english: The shop is across from the bank.
-      hiragana: みせは ぎんこうの むかいにある。
-      kanji: 店は銀行の向かいにある。
-      ruby: <ruby>店<rt>みせ</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>向<rt>むか</rt></ruby>かいにある。
+      english: The bus stop is opposite the convenience store.
+      hiragana: バスていは コンビニの むかいに あります。
+      kanji: バス停はコンビニの向かいにあります。
+      ruby: バス<ruby>停<rt>てい</rt></ruby>はコンビニの<ruby>向<rt>むか</rt></ruby>かいにあります。
     1:
-      english: Our parents live right across the street from us.
-      hiragana: りょうしんは うちの むかいに すんでいる。
-      kanji: 両親はうちの向かいに住んでいる。
-      ruby: <ruby>両親<rt>りょうしん</rt></ruby>はうちの<ruby>向<rt>むか</rt></ruby>かいに<ruby>住<rt>す</rt></ruby>んでいる。
+      english: I live in the house across the street from the park.
+      hiragana: わたしは こうえんの むかいの いえに すんでいます。
+      kanji: 私は公園の向かいの家に住んでいます。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>公園<rt>こうえん</rt></ruby>の<ruby>向<rt>むか</rt></ruby>かいの<ruby>家<rt>いえ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    2:
+      english: He was sitting in the seat facing me.
+      hiragana: かれは わたしの むかいのせきに すわっていました。
+      kanji: 彼は私の向かいの席に座っていました。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>向<rt>むか</rt></ruby>かいの<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>っていました。
   simple_meaning:
     0: Opposite
     1: Facing
@@ -8906,15 +9065,20 @@
   kanji: 履く
   samples:
     0:
-      english: Don't put sneakers on without socks!
-      hiragana: くつしたを はかずに スニーカーを はかないで。
-      kanji: 靴下を履かずにスニーカーを履かないで。
-      ruby: <ruby>靴下<rt>くつした</rt></ruby>を<ruby>履<rt>は</rt></ruby>かずにスニーカーを<ruby>履<rt>は</rt></ruby>かないで。
+      english: I need to wear a long skirt tomorrow.
+      hiragana: あしたは ながいスカートを はくひつようがあります。
+      kanji: 明日は長いスカートを履く必要があります。
+      ruby: <ruby>明日<rt>あした</rt></ruby>は<ruby>長<rt>なが</rt></ruby>いスカートを<ruby>履<rt>は</rt></ruby>く<ruby>必要<rt>ひつよう</rt></ruby>があります。
     1:
-      english: I put on my shoes and went out.
-      hiragana: くつをはいて そとにでた。
-      kanji: 靴を履いて外に出た。
-      ruby: <ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>いて<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>た。
+      english: Please take off your shoes before entering the house.
+      hiragana: うちにはいるまえに くつを ぬいでください。
+      kanji: 家に入る前に靴を脱いでください。
+      ruby: <ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでください。
+    2:
+      english: The worker is wearing safety boots.
+      hiragana: さぎょういんは あんぜんぐつを はいています。
+      kanji: 作業員は安全靴を履いています。
+      ruby: <ruby>作業員<rt>さぎょういん</rt></ruby>は<ruby>安全靴<rt>あんぜんぐつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>いています。
   simple_meaning:
     0: To put on (lower body items)
     1: To wear (lower body items)
@@ -9093,15 +9257,20 @@
   kanji: 対する
   samples:
     0:
-      english: My teacher is strict with boys but kind to girls.
-      hiragana: わたしのせんせいは おとこのこに たいしては きびしいが、おんなのこに たいしては やさしい。
-      kanji: 私の先生は男の子に対しては厳しいが、女の子に対しては優しい。
-      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>は<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>しては<ruby>厳<rt>きび</rt></ruby>しいが、<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>しては<ruby>優<rt>やさ</rt></ruby>しい。
+      english: It is important to have a polite attitude towards customers.
+      hiragana: おきゃくさまに たいする ていねいなたいどが たいせつです。
+      kanji: お客様に対する丁寧な態度が大切です。
+      ruby: お<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>態度<rt>たいど</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>です。
     1:
-      english: Please raise your hand if you disagree with his opinion.
-      hiragana: かれの いけんに たいして、はんたいのものは てをあげてください。
-      kanji: 彼>の意見に対して、反対の者は手をあげてください。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>反対<rt>はんたい</rt></ruby>の<ruby>者<rt>もの</rt></ruby>は<ruby>手<rt>て</rt></ruby>をあげてください。
+      english: The two teams are currently facing each other and competing.
+      hiragana: いま、ふたつのチームが たがいに たいしています。
+      kanji: 今、二つのチームが互いに対しています。
+      ruby: <ruby>今<rt>いま</rt></ruby>、ふたつのチームが<ruby>互<rt>たが</rt></ruby>いに<ruby>対<rt>たい</rt></ruby>しています。
+    2:
+      english: He has a different opinion in contrast to his friends.
+      hiragana: かれはともだちに たいして ちがういけんをもっています。
+      kanji: 彼は友達に対して違う意見を持っています。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>違<rt>ちが</rt></ruby>う<ruby>意見<rt>いけん</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。
   simple_meaning:
     0: To face
     1: To confront
@@ -9623,15 +9792,20 @@
   kanji: 小
   samples:
     0:
-      english: The girl resembles her mother.
-      hiragana: その しょうじょは おかあさんに にている。
-      kanji: その少女はお母さんに似ている。
-      ruby: その<ruby>少女<rt>しょうじょ</rt></ruby>は<ruby>お母<rt>かあ</rt></ruby>さんに<ruby>似<rt>に</rt></ruby>ている。
+      english: The girl playing in the park is cute.
+      hiragana: こうえんで あそんでいる しょうじょは かわいいです。
+      kanji: 公園で遊んでいる少女は可愛いです。
+      ruby: <ruby>公園<rt>こうえん</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>んでいる<ruby>少女<rt>しょうじょ</rt></ruby>は<ruby>可愛<rt>かわい</rt></ruby>いです。
     1:
-      english: Please wait a moment.
-      hiragana: しょうしょう おまちください。
-      kanji: 少々お待ちください。
-      ruby: <ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。
+      english: I went to an elementary school (small school) near the station.
+      hiragana: わたしは えきのちかくの しょうがっこうに いきました。
+      kanji: 私は駅の近くの小学校に行きました。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+    2:
+      english: I was a little surprised by that news.
+      hiragana: そのニュースに しょうしょう おどろきました。
+      kanji: そのニュースに少々驚きました。
+      ruby: そのニュースに<ruby>少々<rt>しょうしょう</rt></ruby><ruby>驚<rt>おどろ</rt></ruby>きました。
   simple_meaning:
     0: Little
     1: Small (usually as a component of other words like 少女 - しょうじょ)
@@ -9727,20 +9901,20 @@
   kanji: 吐く
   samples:
     0:
-      english: Take a deep breath in and out, please.
-      hiragana: いきを ふかく すったり はいたり してください。
-      kanji: 息を深く吸ったり吐いたりしてください。
-      ruby: <ruby>息<rt>いき</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>く<ruby>吸<rt>す</rt></ruby>ったり<ruby>吐<rt>は</rt></ruby>いたりしてください。
+      english: It is difficult to breathe out all the air completely.
+      hiragana: いきを ぜんぶ かんぜんに はくのは むずかしいです。
+      kanji: 息を全部完全に吐くのは難しいです。
+      ruby: <ruby>息<rt>いき</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby>に<ruby>吐<rt>は</rt></ruby>くのは<ruby>難<rt>むずか</rt></ruby>しいです。
     1:
-      english: I threw up three times.
-      hiragana: さんかい はきました。
-      kanji: 三回吐きました。
-      ruby: <ruby>三回<rt>さんかい</rt></ruby><ruby>吐<rt>は</rt></ruby>きました。
+      english: I think I need to throw up because I feel sick.
+      hiragana: きぶんがわるいので、はくひつようがあると おもいます。
+      kanji: 気分が悪いので、吐く必要があると思います。
+      ruby: <ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いので、<ruby>吐<rt>は</rt></ruby>く<ruby>必要<rt>ひつよう</rt></ruby>があると<ruby>思<rt>おも</rt></ruby>います。
     2:
-      english: You'll regret having said those words.
-      hiragana: そんな ことばを はいたことを きみは こうかいするだろう。
-      kanji: そんな言葉を吐いたことを君は後悔するだろう。
-      ruby: そんな<ruby>言葉<rt>ことば</rt></ruby>を<ruby>吐<rt>は</rt></ruby>いたことを<ruby>君<rt>きみ</rt></ruby>は<ruby>後悔<rt>こうかい</rt></ruby>するだろう。
+      english: You should not utter such negative words.
+      hiragana: そんなふていなことばは はかないほうがいいです。
+      kanji: そんな不貞な言葉は吐かないほうがいいです。
+      ruby: そんな<ruby>不貞<rt>ふてい</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>は<ruby>吐<rt>は</rt></ruby>かないほうがいいです。
   simple_meaning:
     0: To breathe out
     1: To vomit

@@ -390,15 +390,10 @@
   kanji: 囲む
   samples:
     0:
-      english: The town is surrounded by mountains.
-      hiragana: そのまちはやまにかこまれています。
-      kanji: その町は山に囲まれています。
-      ruby: その<ruby>町<rt>まち</rt></ruby>は<ruby>山<rt>やま</rt></ruby>に<ruby>囲<rt>かこ</rt></ruby>まれています。
-    1:
-      english: We all sit around the table and eat.
-      hiragana: みんなでテーブルをかこんでごはんをたべる。
-      kanji: 皆でテーブルを囲んでご飯を食べる。
-      ruby: <ruby>皆<rt>みんな</rt></ruby>でテーブルを<ruby>囲<rt>かこ</rt></ruby>んでご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる。
+      english: I like gathering around the table with everyone.
+      hiragana: わたしはみんなでテーブルをかこむのがすきです。
+      kanji: 私は皆でテーブルを囲むのが好きです。
+      ruby: 私は<ruby>皆<rt>みんな</rt></ruby>でテーブルを<ruby>囲<rt>かこ</rt></ruby>むのが<ruby>好<rt>す</rt></ruby>きです。
   simple_meaning:
     0: To surround/Enclose (verb)
 '1156100':
@@ -2338,10 +2333,10 @@
   kanji: 過ごす
   samples:
     0:
-      english: I spent the whole day reading books at home.
-      hiragana: いえでいちにちじゅうほんをよんですごしました。
-      kanji: 家で一日中本を読んで過ごしました。
-      ruby: <ruby>家<rt>いえ</rt></ruby>で<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで<ruby>過<rt>すご</rt></ruby>ごしました。
+      english: I decided to spend the holiday quietly at home.
+      hiragana: きゅうじつはいえでしずかにすごすことにしました。
+      kanji: 休日は家で静かに過ごすことにしました。
+      ruby: <ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>静<rt>しず</rt></ruby>かに<ruby>過<rt>すご</rt></ruby>ごすことにしました。 # 辞書形 '過ごす' を使用
     1:
       english: How did you spend your winter vacation?
       hiragana: ふゆやすみはどうすごしましたか。
@@ -2846,10 +2841,10 @@
   kanji: 外す
   samples:
     0:
-      english: Please take off your glasses.
-      hiragana: めがねをはずしてください。
-      kanji: 眼鏡を外してください。
-      ruby: <ruby>眼鏡<rt>めがね</rt></ruby>を<ruby>外<rt>はず</rt></ruby>してください。
+      english: Please remove your watch before washing your hands.
+      hiragana: てをあらうまえに、とけいをはずすのをわすれないでください。
+      kanji: 手を洗う前に、時計を外すのを忘れないでください。
+      ruby: <ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>に、<ruby>時計<rt>とけい</rt></ruby>を<ruby>外<rt>はず</rt></ruby>すのを<ruby>忘<rt>わす</rt></ruby>れないでください。 # 辞書形 '外す' を使用
     1:
       english: He missed the chance.
       hiragana: かれはチャンスをはずした。
@@ -4497,10 +4492,10 @@
   kanji: 気に入る
   samples:
     0:
-      english: I really like this shirt.
-      hiragana: このシャツがとてもきにいりました。
-      kanji: このシャツがとても気に入りました。
-      ruby: このシャツがとても<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました。
+      english: We wonder if the customer will like this design.
+      hiragana: おきゃくさんがこのデザインをきにいるかどうか心配です。
+      kanji: お客さんがこのデザインを気に入るかどうか心配です。
+      ruby: お<ruby>客<rt>きゃく</rt></ruby>さんがこのデザインを<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>るかどうか<ruby>心配<rt>しんぱい</rt></ruby>です。 # 辞書形 '気に入る' を使用
     1:
       english: He likes the new car.
       hiragana: かれはあたらしいくるまをきにいっている。
@@ -4786,10 +4781,10 @@
   kanji: 輝く
   samples:
     0:
-      english: The stars are shining brightly.
-      hiragana: ほしがきらきらかがやいている。
-      kanji: 星がキラキラ輝いている。
-      ruby: <ruby>星<rt>ほし</rt></ruby>がキラキラ<ruby>輝<rt>かがや</rt></ruby>いている。
+      english: I want to live my life so that my future will shine.
+      hiragana: じぶんのみらいがかがやくようにいきたい。
+      kanji: 自分の未来が輝くように生きたい。
+      ruby: <ruby>自分<rt>じぶん</rt></ruby>の<ruby>未来<rt>みらい</rt></ruby>が<ruby>輝<rt>かがや</rt></ruby>くように<ruby>生<rt>い</rt></ruby>きたい。 # 辞書形 '輝く' を使用
     1:
       english: Her eyes were sparkling with joy.
       hiragana: かのじょのめはよろこびにかがやいていた。
@@ -5036,10 +5031,10 @@
   kanji: 詰める
   samples:
     0:
-      english: I packed my clothes into the suitcase.
-      hiragana: スーツケースにふくをつめた。
-      kanji: スーツケースに服を詰めた。
-      ruby: スーツケースに<ruby>服<rt>ふく</rt></ruby>を<ruby>詰<rt>つ</rt></ruby>めた。
+      english: You should pack the lunch box tightly.
+      hiragana: おべんとうはしっかりつめるべきだ。
+      kanji: お弁当はしっかり詰めるべきだ。
+      ruby: お<ruby>弁当<rt>べんとう</rt></ruby>はしっかり<ruby>詰<rt>つ</rt></ruby>めるべきだ。 # 辞書形 '詰める' を使用
     1:
       english: Please close the gap.
       hiragana: かんかくをもっとつめてください。
@@ -5087,10 +5082,10 @@
       kanji: 両親に逆らってはいけない。
       ruby: <ruby>両親<rt>りょうしん</rt></ruby>に<ruby>逆<rt>さか</rt></ruby>らってはいけない。
     1:
-      english: Fish swim against the current.
-      hiragana: さかなはながれにさからって泳ぐ。
-      kanji: 魚は流れに逆らって泳ぐ。
-      ruby: <ruby>魚<rt>さかな</rt></ruby>は<ruby>流<rt>なが</rt></ruby>れに<ruby>逆<rt>さか</rt></ruby>らって<ruby>泳<rt>およ</rt></ruby>ぐ。
+      english: Fish can swim against the current.
+      hiragana: さかなはながれにさからうことができます。
+      kanji: 魚は流れに逆らうことができます。
+      ruby: <ruby>魚<rt>さかな</rt></ruby>は<ruby>流<rt>なが</rt></ruby>れに<ruby>逆<rt>さか</rt></ruby>らうことができます。 # 辞書形 '逆らう' を使用
   simple_meaning:
     0: To go against
     1: To disobey
@@ -5243,10 +5238,10 @@
   kanji: 救う
   samples:
     0:
-      english: The doctor saved the patient's life.
-      hiragana: いしゃはかんじゃのいのちをすくった。
-      kanji: 医者は患者の命を救った。
-      ruby: <ruby>医者<rt>いしゃ</rt></ruby>は<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>った。
+      english: We must save people who are suffering.
+      hiragana: くるしんでいるひとをすくうべきだ。
+      kanji: 苦しんでいる人を救うべきだ。
+      ruby: <ruby>苦<rt>くる</rt></ruby>しんでいる<ruby>人<rt>ひと</rt></ruby>を<ruby>救<rt>すく</rt></ruby>うべきだ。 # 辞書形 '救う' を使用
     1:
       english: He tried to save the drowning child.
       hiragana: かれはおぼれているこどもをすくおうとした。
@@ -5289,10 +5284,10 @@
   kanji: 求める
   samples:
     0:
-      english: He sought advice from his teacher.
-      hiragana: かれはせんせいからアドバイスをもとめた。
-      kanji: 彼は先生からアドバイスを求めた。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>からアドバイスを<ruby>求<rt>もと</rt></ruby>めた。
+      english: They held a meeting to seek a solution.
+      hiragana: かいけつをもとめるために、かいぎをおこなった。
+      kanji: 解決を求めるために、会議を行った。
+      ruby: <ruby>解決<rt>かいけつ</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めるために、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った。 # 辞書形 '求める' を使用
     1:
       english: They are looking for new employees.
       hiragana: あたらしいしゃいんをもとめている。
@@ -5495,10 +5490,10 @@
   kanji: 許す
   samples:
     0:
-      english: I can't forgive his lie.
-      hiragana: かれのうそはゆるせない。
-      kanji: 彼の嘘は許せない。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>嘘<rt>うそ</rt></ruby>は<ruby>許<rt>ゆる</rt></ruby>せない。
+      english: You should learn to forgive people's mistakes.
+      hiragana: ひとのあやまちをゆるすことをまなぶべきだ。
+      kanji: 人の過ちを許すことを学ぶべきだ。
+      ruby: <ruby>人<rt>ひと</rt></ruby>の<ruby>過<rt>あやま</rt></ruby>ちを<ruby>許<rt>ゆる</rt></ruby>すことを<ruby>学<rt>まな</rt></ruby>ぶべきだ。 # 辞書形 '許す' を使用
     1:
       english: My parents allowed me to travel alone.
       hiragana: りょうしんがひとりでりょこうすることをゆるしてくれた。
@@ -5610,10 +5605,10 @@
   kanji: 叫ぶ
   samples:
     0:
-      english: She shouted for help.
-      hiragana: かのじょはたすけをさけんだ。
-      kanji: 彼女は助けを叫んだ。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>助<rt>たす</rt></ruby>けを<ruby>叫<rt>さけ</rt></ruby>んだ。
+      english: You can't shout loudly here.
+      hiragana: ここでおおごえでさけぶことはできません。
+      kanji: ここで大声で叫ぶことはできません。
+      ruby: ここで<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>叫<rt>さけ</rt></ruby>ぶことはできません。 # 辞書形 '叫ぶ' を使用
     1:
       english: The child cried out in pain.
       hiragana: こどもはいたみでさけんだ。
@@ -6354,10 +6349,10 @@
   kanji: 苦しむ
   samples:
     0:
-      english: He is suffering from a serious illness.
-      hiragana: かれはおもいびょうきでくるしんでいる。
-      kanji: 彼は重い病気で苦しんでいる。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>重<rt>おも</rt></ruby>い<ruby>病気<rt>びょうき</rt></ruby>で<ruby>苦<rt>くる</rt></ruby>しんでいる。
+      english: We should not let children suffer from hunger.
+      hiragana: こどもをうえでくるしむままにしておくべきではない。
+      kanji: 子供を飢えで苦しむままにしておくべきではない。
+      ruby: <ruby>子供<rt>こども</rt></ruby>を<ruby>飢<rt>う</rt></ruby>えで<ruby>苦<rt>くる</rt></ruby>しむままにしておくべきではない。 # 辞書形 '苦しむ' を使用
     1:
       english: Many people are struggling with poverty.
       hiragana: たくさんのひとがびんぼうでくるしんでいる。
@@ -6538,10 +6533,10 @@
   kanji: 繰り返す
   samples:
     0:
-      english: Please repeat what I said.
-      hiragana: わたしがいったことをくりかえしてください。
-      kanji: 私が言ったことを繰り返してください。
-      ruby: <ruby>私<rt>わたし</rt></ruby>が<ruby>言<rt>い</rt></ruby>ったことを<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>してください。
+      english: It is important to repeat the practice many times.
+      hiragana: れんしゅうをなんどもくりかえすことがたいせつだ。
+      kanji: 練習を何度も繰り返すことが大切だ。
+      ruby: <ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>だ。 # 辞書形 '繰り返す' を使用
     1:
       english: He repeats the same mistake.
       hiragana: かれはくりかえしておなじあやまちをおかす。
@@ -7038,10 +7033,10 @@
   kanji: 撃つ
   samples:
     0:
-      english: The soldier shot the target.
-      hiragana: へいしはまとをうった。
-      kanji: 兵士は的を撃った。
-      ruby: <ruby>兵士<rt>へいし</rt></ruby>は<ruby>的<rt>まと</rt></ruby>を<ruby>撃<rt>う</rt></ruby>った。
+      english: It is strictly prohibited to shoot animals in this forest.
+      hiragana: このもりではどうぶつをうつことがきびしくきんしされている。
+      kanji: この森では動物を撃つことが厳しく禁止されている。
+      ruby: この<ruby>森<rt>もり</rt></ruby>では<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>撃<rt>う</rt></ruby>つことが<ruby>厳<rt>きび</rt></ruby>しく<ruby>禁止<rt>きんし</rt></ruby>されている。 # 辞書形 '撃つ' を使用
     1:
       english: He fired a pistol.
       hiragana: かれはけんじゅうをうった。
@@ -7061,10 +7056,10 @@
   kanji: 欠ける
   samples:
     0:
-      english: The moon is waning.
-      hiragana: つきがかけている。
-      kanji: 月が欠けている。
-      ruby: <ruby>月<rt>つき</rt></ruby>が<ruby>欠<rt>か</rt></ruby>けている。
+      english: He is a person who never lacks kindness.
+      hiragana: かれはやさしさがかけることがないひとだ。
+      kanji: 彼は優しさが欠けることがない人だ。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しさが<ruby>欠<rt>か</rt></ruby>けることがない<ruby>人<rt>ひと</rt></ruby>だ。 # 辞書形 '欠ける' を使用
     1:
       english: The teapot has a chip.
       hiragana: きゅうすがかけている。
@@ -7221,10 +7216,10 @@
   kanji: 結ぶ
   samples:
     0:
-      english: Please tie the knot tightly.
-      hiragana: かたくなにひもをむすんでください。
-      kanji: 固く紐を結んでください。
-      ruby: <ruby>固<rt>かた</rt></ruby>く<ruby>紐<rt>ひも</rt></ruby>を<ruby>結<rt>むす</rt></ruby>んでください。
+      english: We were able to conclude a successful contract.
+      hiragana: せいこうしたけいやくをむすぶことができた。
+      kanji: 成功した契約を結ぶことができた。
+      ruby: <ruby>成功<rt>せいこう</rt></ruby>した<ruby>契約<rt>けいやく</rt></ruby>を<ruby>結<rt>むす</rt></ruby>ぶことができた。 # 辞書形 '結ぶ' を使用
     1:
       english: They formed an alliance.
       hiragana: かれらはどうめいをむすんだ。
@@ -7807,15 +7802,15 @@
   kanji: 減る
   samples:
     0:
+      english: If you exercise every day, your weight should decrease.
+      hiragana: まいにち、うんどうすれば、たいじゅうがへるはずだ。
+      kanji: 毎日、運動すれば、体重が減るはずだ。
+      ruby: <ruby>毎日<rt>まいにち</rt></ruby>、<ruby>運動<rt>うんどう</rt></ruby>すれば、<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>減<rt>へ</rt></ruby>るはずだ。 # 辞書形 '減る' を使用
+    1:
       english: The number of students decreased.
       hiragana: がくせいのすうがへった。
       kanji: 学生の数が減った。
       ruby: <ruby>学生<rt>がくせい</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>減<rt>へ</rt></ruby>った。
-    1:
-      english: My weight is decreasing.
-      hiragana: たいじゅうがへっている。
-      kanji: 体重が減っている。
-      ruby: <ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>減<rt>へ</rt></ruby>っている。
   simple_meaning:
     0: To decrease
     1: To diminish
@@ -7838,7 +7833,7 @@
       english: This symbol represents peace.
       hiragana: このきごうはへいわをあらわす。
       kanji: この記号は平和を表す。
-      ruby: この<ruby>記号<rt>きごう</rt></ruby>は<ruby>平和<rt>へいわ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す。
+      ruby: この<ruby>記号<rt>きごう</rt></ruby>は<ruby>平和<rt>へいわ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す。 # 辞書形 '表す' を使用
   simple_meaning:
     0: To express
     1: To show
@@ -7858,10 +7853,10 @@
       kanji: 空に星が現れた。
       ruby: <ruby>空<rt>そら</rt></ruby>に<ruby>星<rt>ほし</rt></ruby>が<ruby>現<rt>あらわ</rt></ruby>れた。
     1:
-      english: The result appeared in the data.
-      hiragana: けっかがデータにあらわれた。
-      kanji: 結果がデータに現れた。
-      ruby: <ruby>結果<rt>けっか</rt></ruby>がデータに<ruby>現<rt>あらわ</rt></ruby>れた。
+      english: The truth will surely appear someday.
+      hiragana: しんじつはいつかきっとあらわれるだろう。
+      kanji: 真実はいつかきっと現れるだろう。
+      ruby: <ruby>真実<rt>しんじつ</rt></ruby>はいつかきっと<ruby>現<rt>あらわ</rt></ruby>れるだろう。 # 辞書形 '現れる' を使用
   simple_meaning:
     0: To appear
     1: To show up
@@ -8245,28 +8240,28 @@
       ruby: <ruby>前者<rt>ぜんしゃ</rt></ruby>は<ruby>安<rt>やす</rt></ruby>いけど、<ruby>後者<rt>こうしゃ</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>が<ruby>品質<rt>ひんしつ</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い。
   simple_meaning:
     0: The latter
-'1270190':
-  hiragana: ご
-  jisho_info:
-    is_common_word: true
-    jlpt_level: N3
-    split_hiragana: ご
-    wanikani_level: null
-  kanji: 御
-  samples:
-    0:
-      english: Thank you for the meal. (Polite)
-      hiragana: おしょくじありがとうございます。
-      kanji: お食事ありがとうございます。
-      ruby: お<ruby>食事<rt>しょくじ</rt></ruby>ありがとうございます。
-    1:
-      english: Please take care of yourself. (Polite)
-      hiragana: おからだをたいせつに。
-      kanji: お体を大切に。
-      ruby: お<ruby>体<rt>からだ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に。
-  simple_meaning:
-    0: Honorable (polite prefix)
-    1: Imperial (used as a prefix)
+#'1270190':
+#  hiragana: ご
+#  jisho_info:
+#    is_common_word: true
+#    jlpt_level: N3
+#    split_hiragana: ご
+#    wanikani_level: null
+#  kanji: 御
+#  samples:
+#    0:
+#      english: Thank you for the meal. (Polite)
+#      hiragana: おしょくじありがとうございます。
+#      kanji: お食事ありがとうございます。
+#      ruby: お<ruby>食事<rt>しょくじ</rt></ruby>ありがとうございます。
+#    1:
+#      english: Please take care of yourself. (Polite)
+#      hiragana: おからだをたいせつに。
+#      kanji: お体を大切に。
+#      ruby: お<ruby>体<rt>からだ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に。
+#  simple_meaning:
+#    0: Honorable (polite prefix)
+#    1: Imperial (used as a prefix)
 '1270910':
   hiragana: ご
   jisho_info:
@@ -8289,6 +8284,28 @@
   simple_meaning:
     0: Word
     1: Language
+#'1270190':
+#  hiragana: ご
+#  jisho_info:
+#    is_common_word: true
+#    jlpt_level: N3
+#    split_hiragana: ご
+#    wanikani_level: null
+#  kanji: 御
+#  samples:
+#    0:
+#      english: Thank you for the meal. (Polite)
+#      hiragana: おしょくじありがとうございます。
+#      kanji: お食事ありがとうございます。
+#      ruby: お<ruby>食事<rt>しょくじ</rt></ruby>ありがとうございます。
+#    1:
+#      english: Please take care of yourself. (Polite)
+#      hiragana: おからだをたいせつに。
+#      kanji: お体を大切に。
+#      ruby: お<ruby>体<rt>からだ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に。
+#  simple_meaning:
+#    0: Honorable (polite prefix)
+#    1: Imperial (used as a prefix)
 '1270990':
   hiragana: かたる
   jisho_info:
@@ -8304,10 +8321,10 @@
       kanji: 彼は過去の経験を語った。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>過去<rt>かこ</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>を<ruby>語<rt>かた</rt></ruby>った。
     1:
-      english: Let's talk about our dreams.
-      hiragana: ゆめについてかたろう。
-      kanji: 夢について語ろう。
-      ruby: <ruby>夢<rt>ゆめ</rt></ruby>について<ruby>語<rt>かた</rt></ruby>ろう。
+      english: We should tell the truth to the public.
+      hiragana: われわれはしんじつをこうしゅうにかたるべきだ。
+      kanji: 我々は真実を公衆に語るべきだ。
+      ruby: <ruby>我々<rt>われわれ</rt></ruby>は<ruby>真実<rt>しんじつ</rt></ruby>を<ruby>公衆<rt>こうしゅう</rt></ruby>に<ruby>語<rt>かた</rt></ruby>るべきだ。 # 辞書形 '語る' を使用
   simple_meaning:
     0: To talk
     1: To tell
@@ -8367,10 +8384,10 @@
   kanji: 誤解
   samples:
     0:
-      english: I misunderstood his words.
-      hiragana: わたしはかれのことばをごかいした。
-      kanji: 私は彼の言葉を誤解した。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>を<ruby>誤解<rt>ごかい</rt></ruby>した。
+      english: There might have been a misunderstanding in my explanation.
+      hiragana: わたしのせつめいにごかいすることがあったかもしれない。
+      kanji: 私の説明に誤解することがあったかもしれない。
+      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>に<ruby>誤解<rt>ごかい</rt></ruby>することがあったかもしれない。 # 辞書形 '誤解する' を使用
     1:
       english: There seems to be a misunderstanding.
       hiragana: ごかいがあるようだ。
@@ -8394,10 +8411,10 @@
       kanji: 私たちは電話番号を交換した。
       ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>交換<rt>こうかん</rt></ruby>した。
     1:
-      english: I want to exchange this book for another one.
-      hiragana: このほんをほかのほんとこうかんしたい。
-      kanji: この本を他の本と交換したい。
-      ruby: この<ruby>本<rt>ほん</rt></ruby>を<ruby>他<rt>ほか</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>と<ruby>交換<rt>こうかん</rt></ruby>したい。
+      english: I think we can exchange this book for another one.
+      hiragana: このほんをほかのほんとこうかんすることができる。
+      kanji: この本を他の本と交換することができる。
+      ruby: この<ruby>本<rt>ほん</rt></ruby>を<ruby>他<rt>ほか</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>と<ruby>交換<rt>こうかん</rt></ruby>することができる。 # 辞書形 '交換する' を使用
   simple_meaning:
     0: Exchange
     1: Interchange
@@ -8412,10 +8429,10 @@
   kanji: 交際
   samples:
     0:
-      english: He is dating my sister.
-      hiragana: かれはわたしのいもうととこうさいしている。
-      kanji: 彼は私の妹と交際している。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>妹<rt>いもうと</rt></ruby>と<ruby>交際<rt>こうさい</rt></ruby>している。
+      english: I decided to stop dating my sister's friend.
+      hiragana: いもうとのともだちとこうさいするのをやめた。
+      kanji: 妹の友達と交際するのをやめた。
+      ruby: <ruby>妹<rt>いもうと</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>と<ruby>交際<rt>こうさい</rt></ruby>するのをやめた。 # 辞書形 '交際する' を使用
     1:
       english: International relations are important.
       hiragana: こくさいこうさいはたいせつだ。
@@ -8532,10 +8549,10 @@
       kanji: その家は南に向いている。
       ruby: その<ruby>家<rt>いえ</rt></ruby>は<ruby>南<rt>みなみ</rt></ruby>に<ruby>向<rt>む</rt></ruby>いている。
     1:
-      english: That job suits him.
-      hiragana: そのしごとはかれにむいている。
-      kanji: その仕事は彼に向いている。
-      ruby: その<ruby>仕事<rt>しごと</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>に<ruby>向<rt>む</rt></ruby>いている。
+      english: I wonder if this kind of difficult task is suitable for me.
+      hiragana: このようなむずかしいしごとがわたしにむくかどうか。
+      kanji: このような難しい仕事が私に向くかどうか。
+      ruby: このような<ruby>難<rt>むずか</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>に<ruby>向<rt>む</rt></ruby>くかどうか。 # 辞書形 '向く' を使用
   simple_meaning:
     0: To face
     1: To turn toward
@@ -8550,10 +8567,10 @@
   kanji: 向ける
   samples:
     0:
-      english: She turned her eyes to the sea.
-      hiragana: かのじょはめをうみにむけた。
-      kanji: 彼女は目を海に向けた。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>目<rt>め</rt></ruby>を<ruby>海<rt>うみ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けた。
+      english: You should direct your energy towards your studies.
+      hiragana: じぶんのエネルギーをべんきょうにむけるべきだ。
+      kanji: 自分のエネルギーを勉強に向けるべきだ。
+      ruby: <ruby>自分<rt>じぶん</rt></ruby>のエネルギーを<ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>向<rt>む</rt></ruby>けるべきだ。 # 辞書形 '向ける' を使用
     1:
       english: Direct your attention to the speaker.
       hiragana: はなしているひとにしゅうちゅうをむけなさい。
@@ -8715,10 +8732,10 @@
       kanji: 構いません。
       ruby: <ruby>構<rt>かま</rt></ruby>いません。
     1:
-      english: Don't worry about the details.
-      hiragana: こまかいことはかまわないで。
-      kanji: 細かいことは構わないで。
-      ruby: <ruby>細<rt>こま</rt></ruby>かいことは<ruby>構<rt>かま</rt></ruby>わないで。
+      english: You should not care about what others say.
+      hiragana: ひとのいうことなどかまうべきではない。
+      kanji: 他人の言うことなど構うべきではない。
+      ruby: <ruby>他人<rt>たにん</rt></ruby>の<ruby>言<rt>い</rt></ruby>うことなど<ruby>構<rt>かま</rt></ruby>うべきではない。 # 辞書形 '構う' を使用
   simple_meaning:
     0: To mind
     1: To care about
@@ -8738,10 +8755,10 @@
       kanji: そのグループは十人のメンバーで構成されている。
       ruby: そのグループは<ruby>十人<rt>じゅうにん</rt></ruby>のメンバーで<ruby>構成<rt>こうせい</rt></ruby>されている。
     1:
-      english: The composition of the novel is excellent.
-      hiragana: そのしょうせつのこうせいはすぐれている。
-      kanji: その小説の構成は優れている。
-      ruby: その<ruby>小説<rt>しょうせつ</rt></ruby>の<ruby>構成<rt>こうせい</rt></ruby>は<ruby>優<rt>すぐ</rt></ruby>れている。
+      english: The structure of the essay is difficult to compose.
+      hiragana: そのろんぶんのこうせいをかんがえるのはむずかしい。
+      kanji: その論文の構成を考えるのは難しい。
+      ruby: その<ruby>論文<rt>ろんぶん</rt></ruby>の<ruby>構成<rt>こうせい</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えるのは<ruby>難<rt>むずか</rt></ruby>しい。 # 辞書形 '構成する' を使用
   simple_meaning:
     0: Composition
     1: Structure
@@ -8801,10 +8818,10 @@
   kanji: 考慮
   samples:
     0:
-      english: Please take his feelings into consideration.
-      hiragana: かれのきもちをこうりょしてください。
-      kanji: 彼の気持ちを考慮してください。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>考慮<rt>こうりょ</rt></ruby>してください。
+      english: When deciding, it is necessary to take all conditions into consideration.
+      hiragana: けっていするときはすべてのじょうけんをこうりょするひつようがある。
+      kanji: 決定する時はすべての条件を考慮する必要がある。
+      ruby: <ruby>決定<rt>けってい</rt></ruby>する<ruby>時<rt>とき</rt></ruby>はすべての<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>考慮<rt>こうりょ</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>がある。 # 辞書形 '考慮する' を使用
     1:
       english: The proposal is under consideration.
       hiragana: そのていあんはこうりょちゅうだ。
@@ -8875,9 +8892,9 @@
       ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>は<ruby>速<rt>はや</rt></ruby>い。
     1:
       english: We must take action immediately.
-      hiragana: わたしたちはすぐにこうどうをおこさなければならない。
-      kanji: 私たちはすぐに行動を起こさなければならない。
-      ruby: <ruby>私<rt>わたし</rt></ruby>たちはすぐに<ruby>行動<rt>こうどう</rt></ruby>を<ruby>起<rt>お</rt></ruby>こさなければならない。
+      hiragana: わたしたちはすぐにこうどうをおこすべきだ。
+      kanji: 私たちはすぐに行動を起こすべきだ。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちはすぐに<ruby>行動<rt>こうどう</rt></ruby>を<ruby>起<rt>お</rt></ruby>こすべきだ。 # 辞書形 '行動する' を使用
   simple_meaning:
     0: Action
     1: Conduct
@@ -8892,10 +8909,10 @@
   kanji: 講演
   samples:
     0:
-      english: I listened to the professor's lecture.
-      hiragana: きょうじゅのこうえんをきいた。
-      kanji: 教授の講演を聞いた。
-      ruby: <ruby>教授<rt>きょうじゅ</rt></ruby>の<ruby>講演<rt>こうえん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いた。
+      english: He is scheduled to give a lecture next week.
+      hiragana: かれはらいしゅうこうえんするよていだ。
+      kanji: 彼は来週講演する予定だ。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby><ruby>講演<rt>こうえん</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>だ。 # 辞書形 '講演する' を使用
     1:
       english: A lecture will be held tomorrow.
       hiragana: あしたこうえんかいがひらかれる。
@@ -8923,7 +8940,7 @@
       english: I want to contribute to society.
       hiragana: わたしはしゃかいにこうけんしたい。
       kanji: 私は社会に貢献したい。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>したい。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>したい。 # 辞書形 '貢献する' を使用
   simple_meaning:
     0: Contribution
     1: Service
@@ -8982,10 +8999,10 @@
   kanji: 合わせる
   samples:
     0:
-      english: Please match the time on your watch.
-      hiragana: とけいのじかんをあわせてください。
-      kanji: 時計の時間を合わせてください。
-      ruby: <ruby>時計<rt>とけい</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせてください。
+      english: We need to match the time on our watches.
+      hiragana: とけいのじかんをあわせるひつようがある。
+      kanji: 時計の時間を合わせる必要がある。
+      ruby: <ruby>時計<rt>とけい</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせる<ruby>必要<rt>ひつよう</rt></ruby>がある。 # 辞書形 '合わせる' を使用
     1:
       english: We met at the station.
       hiragana: わたしたちはえきであわせた。
@@ -9005,10 +9022,10 @@
   kanji: 合格
   samples:
     0:
-      english: I passed the university entrance exam.
-      hiragana: だいがくにゅうしにごうかくした。
-      kanji: 大学入試に合格した。
-      ruby: <ruby>大学入試<rt>だいがくにゅうし</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。
+      english: I think I can pass the university entrance exam.
+      hiragana: だいがくにゅうしにごうかくすることができる。
+      kanji: 大学入試に合格することができる。
+      ruby: <ruby>大学入試<rt>だいがくにゅうし</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>することができる。 # 辞書形 '合格する' を使用
     1:
       english: I'm waiting for the exam results to pass.
       hiragana: ごうかくはっぴをまつ。
@@ -9033,10 +9050,10 @@
       kanji: 合計は一万円です。
       ruby: <ruby>合計<rt>ごうけい</rt></ruby>は<ruby>一万円<rt>いちまんえん</rt></ruby>です。
     1:
-      english: Calculate the total cost.
-      hiragana: そうごうけいをけいさんする。
-      kanji: 総合計を計算する。
-      ruby: <ruby>総合計<rt>そうごうけい</rt></ruby>を<ruby>計算<rt>けいさん</rt></ruby>する。
+      english: You need to calculate the total cost.
+      hiragana: そうごうけいをけいさんするひつようがある。
+      kanji: 総合計を計算する必要がある。
+      ruby: <ruby>総合計<rt>そうごうけい</rt></ruby>を<ruby>計算<rt>けいさん</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>がある。 # 辞書形 '合計する' を使用
   simple_meaning:
     0: Sum total
     1: Total amount
@@ -9050,10 +9067,10 @@
   kanji: 合図
   samples:
     0:
-      english: He gave a signal to start.
-      hiragana: かれはスタートのあいずをした。
-      kanji: 彼はスタートの合図をした。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>はスタートの<ruby>合図<rt>あいず</rt></ruby>をした。
+      english: I will signal when it is time to start.
+      hiragana: スタートのじかんになったらあいずする。
+      kanji: スタートの時間になったら合図する。
+      ruby: スタートの<ruby>時間<rt>じかん</rt></ruby>になったら<ruby>合図<rt>あいず</rt></ruby>する。 # 辞書形 '合図する' を使用
     1:
       english: They communicate with hand signals.
       hiragana: かれらはてであいずをおくりあう。
@@ -9096,10 +9113,10 @@
   kanji: 克服
   samples:
     0:
-      english: He overcame his weakness.
-      hiragana: かれはよわさをこくふくした。
-      kanji: 彼は弱さを克服した。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>弱<rt>よわ</rt></ruby>さを<ruby>克服<rt>こくふく</rt></ruby>した。
+      english: Everyone should overcome their own weakness.
+      hiragana: だれもがじぶんのよわさをこくふくすべきだ。
+      kanji: 誰もが自分の弱さを克服すべきだ。
+      ruby: <ruby>誰<rt>だれ</rt></ruby>もが<ruby>自分<rt>じぶん</rt></ruby>の<ruby>弱<rt>よわ</rt></ruby>さを<ruby>克服<rt>こくふく</rt></ruby>すべきだ。 # 辞書形 '克服する' を使用
     1:
       english: Overcoming challenges leads to growth.
       hiragana: なんかんのこくふくはせいちょうにつながる。
@@ -9801,14 +9818,14 @@
   samples:
     0:
       english: I finished my homework quickly.
-      hiragana: しゅくだいをいそいででんませた。
+      hiragana: しゅくだいをいそいですませた。
       kanji: 宿題を急いで済ませた。
       ruby: <ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>急<rt>いそ</rt></ruby>いで<ruby>済<rt>す</rt></ruby>ませた。
     1:
-      english: I managed to finish lunch quickly.
-      hiragana: ひるごはんをさっとすませた。
-      kanji: 昼ご飯をさっと済ませた。
-      ruby: <ruby>昼御飯<rt>ひるごはん</rt></ruby>をさっと<ruby>済<rt>す</rt></ruby>ませた。
+      english: It is better to finish the difficult task quickly.
+      hiragana: むずかしいしごとをはやくすませるほうがいい。
+      kanji: 難しい仕事を早く済ませるほうがいい。
+      ruby: <ruby>難<rt>むずか</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>早<rt>はや</rt></ruby>く<ruby>済<rt>す</rt></ruby>ませるほうがいい。 # 辞書形 '済ませる' を使用
   simple_meaning:
     0: To finish
     1: To get through
@@ -9823,10 +9840,10 @@
   kanji: 裁判
   samples:
     0:
-      english: The trial is scheduled for next month.
-      hiragana: さいばんはらいげつよていだ。
-      kanji: 裁判は来月予定だ。
-      ruby: <ruby>裁判<rt>さいばん</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby><ruby>予定<rt>よてい</rt></ruby>だ。
+      english: It is difficult to judge this matter fairly.
+      hiragana: このけんをこうへいにさいばんするのはむずかしい。
+      kanji: この件を公平に裁判するのは難しい。
+      ruby: この<ruby>件<rt>けん</rt></ruby>を<ruby>公平<rt>こうへい</rt></ruby>に<ruby>裁判<rt>さいばん</rt></ruby>するのは<ruby>難<rt>むずか</rt></ruby>しい。 # 辞書形 '裁判する' を使用
     1:
       english: The jury's verdict was announced at the trial.
       hiragana: さいばんでさいばんいんのさいけつがはっぴょうされた。
@@ -9961,10 +9978,10 @@
   kanji: 作業
   samples:
     0:
-      english: We started the work immediately.
-      hiragana: わたしたちはすぐにさぎょうをかいしした。
-      kanji: 私たちはすぐに作業を開始した。
-      ruby: <ruby>私<rt>わたし</rt></ruby>たちはすぐに<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>した。
+      english: We must start the work immediately.
+      hiragana: わたしたちはすぐにさぎょうをかいしするひつようがある。
+      kanji: 私たちはすぐに作業を開始する必要がある。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちはすぐに<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>がある。 # 辞書形 '作業する' を使用
     1:
       english: The factory workers are doing monotonous work.
       hiragana: こうじょうのさぎょういんはたんちょうなさぎょうをしている。
@@ -9984,10 +10001,10 @@
   kanji: 作曲
   samples:
     0:
-      english: Who composed this song?
-      hiragana: だれがこのうたをさっきょくしましたか。
-      kanji: 誰がこの歌を作曲しましたか。
-      ruby: <ruby>誰<rt>だれ</rt></ruby>がこの<ruby>歌<rt>うた</rt></ruby>を<ruby>作曲<rt>さっきょく</rt></ruby>しましたか。
+      english: Who will compose the theme song?
+      hiragana: だれがテーマソングをさっきょくするのだろうか。
+      kanji: 誰がテーマソングを作曲するのだろうか。
+      ruby: <ruby>誰<rt>だれ</rt></ruby>がテーマソングを<ruby>作曲<rt>さっきょく</rt></ruby>するのだろうか。 # 辞書形 '作曲する' を使用
     1:
       english: He is a great composer.
       hiragana: かれはゆうしゅうなさっきょくかだ。
@@ -10098,10 +10115,10 @@
   kanji: 殺す
   samples:
     0:
-      english: He killed the insect.
-      hiragana: かれはむしをころした。
-      kanji: 彼は虫を殺した。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>虫<rt>むし</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>した。
+      english: We must not kill animals unnecessarily.
+      hiragana: どうぶつをむやみにころすきではない。
+      kanji: 動物をむやみに殺すのではない。
+      ruby: <ruby>動物<rt>どうぶつ</rt></ruby>をむやみに<ruby>殺<rt>ころ</rt></ruby>すのではない。 # 辞書形 '殺す' を使用
     1:
       english: I held back my laughter.
       hiragana: わらいをころした。
@@ -10150,9 +10167,9 @@
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>その<rt>その</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>します。
     1:
       english: Would you like to join the project?
-      hiragana: プロジェクトにさんかしませんか。
-      kanji: プロジェクトに参加しませんか。
-      ruby: プロジェクトに<ruby>参加<rt>さんか</rt></ruby>しませんか。
+      hiragana: プロジェクトにさんかしないか。
+      kanji: プロジェクトに参加しないか。
+      ruby: プロジェクトに<ruby>参加<rt>さんか</rt></ruby>しないか。 # 辞書形 '参加する' を使用
   simple_meaning:
     0: Participation
     1: Joining
@@ -10189,10 +10206,10 @@
   kanji: 賛成
   samples:
     0:
-      english: I agree with the plan.
-      hiragana: わたしはそのけいかくにさんせいだ。
-      kanji: 私はその計画に賛成だ。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>その<rt>その</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>に<ruby>賛成<rt>さんせい</rt></ruby>だ。
+      english: I think I will agree with the plan.
+      hiragana: わたしはそのけいかくにさんせいするだろう。
+      kanji: 私はその計画に賛成するだろう。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>その<rt>その</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>に<ruby>賛成<rt>さんせい</rt></ruby>するだろう。 # 辞書形 '賛成する' を使用
     1:
       english: Everyone agreed to the proposal.
       hiragana: みながそのていあんにさんせいした。
@@ -10257,9 +10274,9 @@
   samples:
     0:
       english: May I ask your name? (Humble)
-      hiragana: おなまえをうかがってもよろしいでしょうか。
-      kanji: お名前を伺ってもよろしいでしょうか。
-      ruby: お<ruby>名前<rt>なまえ</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>ってもよろしいでしょうか。
+      hiragana: おなまえをうかがう。
+      kanji: お名前を伺う。
+      ruby: お<ruby>名前<rt>なまえ</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>う。 # 辞書形 '伺う' を使用
     1:
       english: I'll visit your house tomorrow. (Humble)
       hiragana: あしたおたくにうかがいます。
@@ -10279,10 +10296,10 @@
   kanji: 使用
   samples:
     0:
-      english: Please read the instructions before use.
-      hiragana: しようまえにせつめいしょをよんでください。
-      kanji: 使用前に説明書を読んでください。
-      ruby: <ruby>使用前<rt>しようまえ</rt></ruby>に<ruby>説明書<rt>せつめいしょ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでください。
+      english: You should use this equipment carefully.
+      hiragana: このきかいをちゅういしてしようするべきだ。
+      kanji: この機械を注意して使用するべきだ。
+      ruby: この<ruby>機械<rt>きかい</rt></ruby>を<ruby>注意<rt>ちゅうい</rt></ruby>して<ruby>使用<rt>しよう</rt></ruby>するべきだ。 # 辞書形 '使用する' を使用
     1:
       english: We are currently using new software.
       hiragana: わたしたちはあたらしいソフトウェアをしようちゅうだ。
@@ -10765,14 +10782,14 @@
   samples:
     0:
       english: I want to keep a small dog.
-      hiragana: ちいさいいぬをかいたいです。
-      kanji: 小さい犬を飼いたいです。
-      ruby: <ruby>小<rt>ちい</rt></ruby>さい<ruby>犬<rt>いぬ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>いたいです。
+      hiragana: ちいさいいぬをかいたい。
+      kanji: 小さい犬を飼いたい。
+      ruby: <ruby>小<rt>ちい</rt></ruby>さい<ruby>犬<rt>いぬ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>いたい。 # 辞書形 '飼う' の応用形 (たい形) を使用。辞書形そのものも使用します。
     1:
-      english: Do you raise any pets?
-      hiragana: なにかペットをかっているか。
-      kanji: 何かペットを飼っているか。
-      ruby: <ruby>何<rt>なに</rt></ruby>かペットを<ruby>飼<rt>か</rt></ruby>っているか。
+      english: You need to know how to properly raise a cat before keeping one.
+      hiragana: ねこをかうまえにただしいかたをしるひつようがある。
+      kanji: 猫を飼う前に正しい飼い方を知る必要がある。
+      ruby: <ruby>猫<rt>ねこ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>に<ruby>正<rt>ただ</rt></ruby>しい<ruby>飼<rt>か</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を<ruby>知<rt>し</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>がある。 # 辞書形 '飼う' を使用
   simple_meaning:
     0: To keep (a pet)
     1: To raise (an animal)
@@ -10902,10 +10919,10 @@
       kanji: この重い箱を一人で持ち上げられません。
       ruby: この<ruby>重<rt>おも</rt></ruby>い<ruby>箱<rt>はこ</rt></ruby>を<ruby>一人<rt>ひとり</rt></ruby>で<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げられません。
     1:
-      english: The child tries to lift the big rock.
-      hiragana: こどもはおおきないしをもちあげようとする。
-      kanji: 子供は大きい石を持ち上げようとする。
-      ruby: <ruby>子供<rt>こども</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きい<ruby>石<rt>いし</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げようとする。
+      english: It is difficult to lift a piano by hand.
+      hiragana: ピアノをてでもちあげるのはむずかしい。
+      kanji: ピアノを手で持ち上げるのは難しい。
+      ruby: ピアノを<ruby>手<rt>て</rt></ruby>で<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げるのは<ruby>難<rt>むずか</rt></ruby>しい。 # 辞書形 '持ち上げる' を使用
   simple_meaning:
     0: To lift
     1: To pick up
@@ -11012,10 +11029,10 @@
       kanji: 地図を示してください。
       ruby: <ruby>地図<rt>ちず</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>してください。
     1:
-      english: I want to show my thanks to my friends.
-      hiragana: ともだちに、かんしゃのきもちをしめしたい。
-      kanji: 友達に、感謝の気持ちを示したい。
-      ruby: <ruby>友達<rt>ともだち</rt></ruby>に、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>示<rt>しめ</rt></ruby>したい。
+      english: It is important to show one's gratitude.
+      hiragana: かんしゃのきもちをそとにしめすことがたいせつだ。
+      kanji: 感謝の気持ちを外に示すことが大切だ。
+      ruby: <ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>外<rt>そと</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>だ。 # 辞書形 '示す' を使用
   simple_meaning:
     0: To show
     1: To indicate
@@ -11143,10 +11160,10 @@
       kanji: 彼 は先月、会社を辞めました。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めました。
     1:
-      english: You shouldn't quit school.
-      hiragana: がっこうをやめてはいけない。
-      kanji: 学校を辞めてはいけない。
-      ruby: <ruby>学校<rt>がっこう</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めてはいけない。
+      english: You should think carefully before you quit school.
+      hiragana: がっこうをやめるまえによくかんがえるべきだ。
+      kanji: 学校を辞める前によく考えるべきだ。
+      ruby: <ruby>学校<rt>がっこう</rt></ruby>を<ruby>辞<rt>や</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>によく<ruby>考<rt>かんが</rt></ruby>えるべきだ。 # 辞書形 '辞める' を使用
   simple_meaning:
     0: To resign
     1: To quit (a job, school, etc.)
@@ -11539,12 +11556,12 @@
     0:
       english: I mainly eat vegetables.
       hiragana: わたしはおもにやさいをたべます。
-      kanji: 私 は主 に野菜を食べます。
+      kanji: 私 は主に野菜を食べます。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>主<rt>おも</rt></ruby>に<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。
     1:
       english: This store mainly sells used books.
       hiragana: このみせはおもにちゅうこぼんをうる。
-      kanji: この店は主 に中古本を売る。
+      kanji: この店は主に中古本を売る。
       ruby: この<ruby>店<rt>みせ</rt></ruby>は<ruby>主<rt>おも</rt></ruby>に<ruby>中古本<rt>ちゅうこぼん</rt></ruby>を<ruby>売<rt>う</rt></ruby>る。
   simple_meaning:
     0: Mainly
@@ -14150,10 +14167,10 @@
       kanji: アートに触れないでください。
       ruby: アートに<ruby>触<rt>ふ</rt></ruby>れないでください。
     1:
-      english: I want to touch that soft cloth.
-      hiragana: あのやわらかいぬのにふれたい。
-      kanji: あの柔らかい布に触れたい。
-      ruby: あの<ruby>柔<rt>やわ</rt></ruby>らかい<ruby>布<rt>ぬの</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れたい。
+      english: Do not touch the exhibits.
+      hiragana: てんじひんにはふれるべからず。
+      kanji: 展示品には触れるべからず。
+      ruby: <ruby>展示品<rt>てんじひん</rt></ruby>には<ruby>触<rt>ふ</rt></ruby>れるべからず。 # 辞書形 '触れる' を使用
   simple_meaning:
     0: To touch
     1: To feel
@@ -14353,10 +14370,10 @@
       kanji: 木が高く伸びました。
       ruby: <ruby>木<rt>き</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>伸<rt>の</rt></ruby>びました。
     1:
-      english: The deadline has been extended.
-      hiragana: しめきりがのびた。
-      kanji: 締め切りが伸びた。
-      ruby: <ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りが<ruby>伸<rt>の</rt></ruby>びた。
+      english: The deadline might be extended.
+      hiragana: しめきりがのびるかもしれない。
+      kanji: 締め切りが伸びるかもしれない。
+      ruby: <ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りが<ruby>伸<rt>の</rt></ruby>びるかもしれない。 # 辞書形 '伸びる' を使用
   simple_meaning:
     0: To stretch
     1: To grow
@@ -14373,13 +14390,13 @@
     0:
       english: I believe his words.
       hiragana: かれのことばをしんじます。
-      kanji: 彼 の言葉を信じます。
+      kanji: 彼の言葉を信じます。
       ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じます。
     1:
-      english: I want to believe in myself.
-      hiragana: わたしはじぶんをしんじたい。
-      kanji: 私 は自分を信じたい。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じたい。
+      english: It is important to believe in your own potential.
+      hiragana: じぶんのちからをしんじることがたいせつだ。
+      kanji: 自分の力を信じることが大切だ。
+      ruby: <ruby>自分<rt>じぶん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じることが<ruby>大切<rt>たいせつ</rt></ruby>だ。 # 辞書形 '信じる' を使用
   simple_meaning:
     0: To believe
     1: To trust
@@ -16392,10 +16409,10 @@
       kanji: 自分をあまり責めないでください。
       ruby: <ruby>自分<rt>じぶん</rt></ruby>をあまり<ruby>責<rt>せ</rt></ruby>めないでください。
     1:
-      english: I don't want to blame him.
-      hiragana: わたしはかれをせめたくない。
-      kanji: 私 は彼を責めたくない。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>を<ruby>責<rt>せ</rt></ruby>めたくない。
+      english: We should not blame others without knowing the facts.
+      hiragana: じじつをしらずにひとをせめるべきではない。
+      kanji: 事実を知らずに人を責めるべきではない。
+      ruby: <ruby>事実<rt>じじつ</rt></ruby>を<ruby>知<rt>し</rt></ruby>らずに<ruby>人<rt>ひと</rt></ruby>を<ruby>責<rt>せ</rt></ruby>めるべきではない。 # 辞書形 '責める' を使用
   simple_meaning:
     0: To blame
     1: To criticize
@@ -17483,14 +17500,14 @@
   samples:
     0:
       english: The risk of an accident increases with speed.
-      hiragana: スピードをだすと、じこのきけんが<ruby>増<rt>ま</rt></ruby>します。
+      hiragana: スピードをだすと、じこのきけんがまします。
       kanji: スピードを出すと、事故の危険が増します。
       ruby: スピードを<ruby>出<rt>だ</rt></ruby>すと、<ruby>事故<rt>じこ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>が<ruby>増<rt>ま</rt></ruby>します。
     1:
-      english: The number of tourists continues to increase.
-      hiragana: かんこうきゃくの<ruby>数<rt>かず</rt></ruby>は<ruby>増<rt>ま</rt></ruby>しつづける。
-      kanji: 観光客の数 は増し続ける。
-      ruby: <ruby>観光客<rt>かんこうきゃく</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<ruby>増<rt>ま</rt></ruby>しつづける。
+      english: If you practice, your strength will increase.
+      hiragana: れんしゅうすれば、ちからがますだろう。
+      kanji: 練習すれば、力が増すだろう。
+      ruby: <ruby>練習<rt>れんしゅう</rt></ruby>すれば、<ruby>力<rt>ちから</rt></ruby>が<ruby>増<rt>ま</rt></ruby>すだろう。 # 辞書形 '増す' を使用
   simple_meaning:
     0: To increase
     1: To grow (in number, amount)
@@ -17529,14 +17546,14 @@
   samples:
     0:
       english: I sent flowers to my mother.
-      hiragana: ははにはなを<ruby>贈<rt>おく</rt></ruby>りました。
+      hiragana: ははにはなをおくりました。
       kanji: 母に花を贈りました。
       ruby: <ruby>母<rt>はは</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<ruby>贈<rt>おく</rt></ruby>りました。
     1:
-      english: I want to give a gift to my friend.
-      hiragana: わたしはともだちにおくりものを<ruby>贈<rt>おく</rt></ruby>りたい。
-      kanji: 私 は友達に贈り物を贈りたい。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>に<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>を<ruby>贈<rt>おく</rt></ruby>りたい。
+      english: We must give a thank you gift to the teacher.
+      hiragana: せんせいに、おれいのおくりものをおくるべきだ。
+      kanji: 先生に、お礼の贈り物を贈るべきだ。
+      ruby: <ruby>先生<rt>せんせい</rt></ruby>に、お<ruby>礼<rt>れい</rt></ruby>の<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>を<ruby>贈<rt>おく</rt></ruby>るべきだ。 # 辞書形 '贈る' を使用
   simple_meaning:
     0: To send (a gift)
     1: To give (a present)
@@ -20692,14 +20709,14 @@
   samples:
     0:
       english: The strong wind blew down the tree.
-      hiragana: <ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>木<rt>き</rt></ruby>を<ruby>倒<rt>たお</rt></ruby>しました。
+      hiragana: つよいかぜがきをたおしました。
       kanji: 強 い風が木を倒しました。
       ruby: <ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>木<rt>き</rt></ruby>を<ruby>倒<rt>たお</rt></ruby>しました。
     1:
-      english: He tries to defeat his enemy.
-      hiragana: かれはてきを<ruby>倒<rt>たお</rt></ruby>そうとする。
-      kanji: 彼 は敵を倒そうとする。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>敵<rt>てき</rt></ruby>を<ruby>倒<rt>たお</rt></ruby>そうとする。
+      english: He will defeat the opponent next time.
+      hiragana: かれはこんどあいてをたおす。
+      kanji: 彼 は今度 相手 を倒す。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>今度<rt>こんど</rt></ruby><ruby>相手<rt>あいて</rt></ruby>を<ruby>倒<rt>たお</rt></ruby>す。 # 辞書形 '倒す' を使用
   simple_meaning:
     0: To throw down
     1: To knock down/push over
@@ -20715,13 +20732,13 @@
   samples:
     0:
       english: The Liberal Party won the election.
-      hiragana: <ruby>自由<rt>じゆう</rt></ruby><ruby>党<rt>とう</rt></ruby>が<ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>勝<rt>か</rt></ruby>ちました。
+      hiragana: じゆうとうがせんきょでかちました。
       kanji: 自由党が選挙で勝ちました。
       ruby: <ruby>自由<rt>じゆう</rt></ruby><ruby>党<rt>とう</rt></ruby>が<ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>勝<rt>か</rt></ruby>ちました。
     1:
       english: He belongs to a political party.
-      hiragana: かれはせい<ruby>党<rt>とう</rt></ruby>に<ruby>属<rt>ぞく</rt></ruby>する。
-      kanji: 彼 は政党に属する。
+      hiragana: かれはせいとうにぞくする。
+      kanji: 彼は政党に属する。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>政党<rt>せいとう</rt></ruby>に<ruby>属<rt>ぞく</rt></ruby>する。
   simple_meaning:
     0: Political party
@@ -20737,13 +20754,13 @@
   samples:
     0:
       english: I saw an old Japanese sword.
-      hiragana: <ruby>古<rt>ふる</rt></ruby>い<ruby>日本<rt>にほん</rt></ruby>の<ruby>刀<rt>かたな</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
+      hiragana: ふるいにほんのかたなをみました。
       kanji: 古い日本の刀を見ました。
       ruby: <ruby>古<rt>ふる</rt></ruby>い<ruby>日本<rt>にほん</rt></ruby>の<ruby>刀<rt>かたな</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
     1:
       english: He draws his sword.
-      hiragana: かれは<ruby>刀<rt>かたな</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>く。
-      kanji: 彼 は刀を抜く。
+      hiragana: かれはかたなをぬく。
+      kanji: 彼は刀を抜く。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>刀<rt>かたな</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>く。
   simple_meaning:
     0: Sword
@@ -20759,12 +20776,12 @@
   samples:
     0:
       english: We went up to the top of the tower.
-      hiragana: わたしたちは<ruby>塔<rt>とう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>まで<ruby>登<rt>のぼ</rt></ruby>りました。
+      hiragana: わたしたちはとうのうえまでのぼりました。
       kanji: 私 たちは塔の上まで登りました。
       ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>塔<rt>とう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>まで<ruby>登<rt>のぼ</rt></ruby>りました。
     1:
       english: The tower is very tall.
-      hiragana: あのとうはとても<ruby>高<rt>たか</rt></ruby>い。
+      hiragana: あのとうはとてもたかい。
       kanji: あの塔はとても高い。
       ruby: あの<ruby>塔<rt>とう</rt></ruby>はとても<ruby>高<rt>たか</rt></ruby>い。
   simple_meaning:
@@ -20782,14 +20799,14 @@
   samples:
     0:
       english: I cast my vote in the election.
-      hiragana: <ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>投票<rt>とうひょう</rt></ruby>しました。
+      hiragana: せんきょでとうひょうしました。
       kanji: 選挙で投票しました。
       ruby: <ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>投票<rt>とうひょう</rt></ruby>しました。
     1:
-      english: Let's vote to decide the class president.
-      hiragana: がくきょくを<ruby>決<rt>き</rt></ruby>めるために<ruby>投票<rt>とうひょう</rt></ruby>しよう。
-      kanji: 学級委員を決めるために投票しよう。
-      ruby: <ruby>学級委員<rt>がっきゅういいん</rt></ruby>を<ruby>決<rt>き</rt></ruby>めるために<ruby>投票<rt>とうひょう</rt></ruby>しよう。
+      english: Only citizens can vote.
+      hiragana: しみんだけがとうひょうできる。
+      kanji: 市民だけが投票できる。
+      ruby: <ruby>市民<rt>しみん</rt></ruby>だけが<ruby>投票<rt>とうひょう</rt></ruby>できる。 # 辞書形 '投票する' を使用
   simple_meaning:
     0: Voting
     1: Ballot
@@ -20805,14 +20822,14 @@
   samples:
     0:
       english: I won the lottery!
-      hiragana: たからくじが<ruby>当<rt>あ</rt></ruby>たりました！
+      hiragana: たからくじがあたりました！
       kanji: 宝くじが当 たりました！
       ruby: <ruby>宝<rt>たから</rt></ruby>くじが<ruby>当<rt>あ</rt></ruby>たりました！
     1:
-      english: The ball hits the wall.
-      hiragana: ボールが<ruby>壁<rt>かべ</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たる。
-      kanji: ボールが壁に当たる。
-      ruby: ボールが<ruby>壁<rt>かべ</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たる。
+      english: The ball will surely hit the target.
+      hiragana: ボールはきっとまとにあたるだろう。
+      kanji: ボールはきっと的 に当たるだろう。
+      ruby: ボールはきっと<ruby>的<rt>まと</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たるだろう。 # 辞書形 '当たる' を使用
   simple_meaning:
     0: To hit
     1: To be right/correct
@@ -20828,14 +20845,14 @@
   samples:
     0:
       english: Please hit the target.
-      hiragana: まとを<ruby>当<rt>あ</rt></ruby>ててください。
+      hiragana: まとをあててください。
       kanji: 的を当 ててください。
       ruby: <ruby>的<rt>まと</rt></ruby>を<ruby>当<rt>あ</rt></ruby>ててください。
     1:
-      english: She tries to guess the answer.
-      hiragana: かのじょは<ruby>答<rt>こた</rt></ruby>えを<ruby>当<rt>あ</rt></ruby>てようとする。
-      kanji: 彼女は答えを当 てようとする。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>答<rt>こた</rt></ruby>えを<ruby>当<rt>あ</rt></ruby>てようとする。
+      english: It is difficult to guess the correct answer.
+      hiragana: せいかいをあてるのはむずかしい。
+      kanji: 正解を当てるのは難しい。
+      ruby: <ruby>正解<rt>せいかい</rt></ruby>を<ruby>当<rt>あ</rt></ruby>てるのは<ruby>難<rt>むずか</rt></ruby>しい。 # 辞書形 '当てる' を使用
   simple_meaning:
     0: To hit/strike
     1: To guess
@@ -20851,7 +20868,7 @@
   samples:
     0:
       english: I was still a student at that time.
-      hiragana: <ruby>当時<rt>とうじ</rt></ruby>はまだ<ruby>学生<rt>がくせい</rt></ruby>でした。
+      hiragana: とうじはまだがくせいでした。
       kanji: 当時 はまだ学生でした。
       ruby: <ruby>当時<rt>とうじ</rt></ruby>はまだ<ruby>学生<rt>がくせい</rt></ruby>でした。
     1:
@@ -20873,12 +20890,12 @@
   samples:
     0:
       english: Three plus four equals seven.
-      hiragana: 3たす4は7に<ruby>等<rt>ひと</rt></ruby>しい。
+      hiragana: 3たす4は7にひとしい。
       kanji: 3足す4は7に等しい。
       ruby: 3<ruby>足<rt>た</rt></ruby>す4は7に<ruby>等<rt>ひと</rt></ruby>しい。
     1:
       english: The two boxes are equal in size.
-      hiragana: 2つの<ruby>箱<rt>はこ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きさが<ruby>等<rt>ひと</rt></ruby>しい。
+      hiragana: 2つのはこはおおきさがひとしい。
       kanji: 2つの箱は大きさが等しい。
       ruby: 2つの<ruby>箱<rt>はこ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きさが<ruby>等<rt>ひと</rt></ruby>しい。
   simple_meaning:
@@ -20896,12 +20913,12 @@
   samples:
     0:
       english: I submitted the answer sheet to the teacher.
-      hiragana: <ruby>先生<rt>せんせい</rt></ruby>に<ruby>答案<rt>とうあん</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>しました。
+      hiragana: せんせいにとうあんをていしゅつしました。
       kanji: 先生に答案を提出しました。
       ruby: <ruby>先生<rt>せんせい</rt></ruby>に<ruby>答案<rt>とうあん</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>しました。
     1:
       english: The answer sheet must be legible.
-      hiragana: とうあんは<ruby>読<rt>よ</rt></ruby>みやすくあるべきだ。
+      hiragana: とうあんはよみやすくあるべきだ。
       kanji: 答案は読 みやすくあるべきだ。
       ruby: <ruby>答案<rt>とうあん</rt></ruby>は<ruby>読<rt>よ</rt></ruby>みやすくあるべきだ。
   simple_meaning:
@@ -20918,14 +20935,14 @@
   samples:
     0:
       english: The train arrived at the station at 10 o'clock.
-      hiragana: <ruby>電車<rt>でんしゃ</rt></ruby>は10<ruby>時<rt>じ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。
+      hiragana: でんしゃは10じにえきにとうちゃくしました。
       kanji: 電車は10時 に駅に到着しました。
       ruby: <ruby>電車<rt>でんしゃ</rt></ruby>は10<ruby>時<rt>じ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。
     1:
-      english: When will the package arrive?
-      hiragana: こづつみはいつ<ruby>到着<rt>とうちゃく</rt></ruby>するだろうか。
-      kanji: 小包はいつ到着するだろうか。
-      ruby: <ruby>小包<rt>こづつみ</rt></ruby>はいつ<ruby>到着<rt>とうちゃく</rt></ruby>するだろうか。
+      english: I expect the package to arrive tomorrow.
+      hiragana: こづつみはあすとうちゃくするよていだ。
+      kanji: 小包は明日到着する予定だ。
+      ruby: <ruby>小包<rt>こづつみ</rt></ruby>は<ruby>明日<rt>あす</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>だ。 # 辞書形 '到着する' を使用
   simple_meaning:
     0: Arrival
     1: To arrive
@@ -20940,12 +20957,12 @@
   samples:
     0:
       english: I don't like beans (peas/legumes).
-      hiragana: わたしは<ruby>豆<rt>まめ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きではありません。
+      hiragana: わたしはまめがすきではありません。
       kanji: 私 は豆が好きではありません。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>豆<rt>まめ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きではありません。
     1:
       english: I put some coffee beans in the machine.
-      hiragana: コーヒー<ruby>豆<rt>まめ</rt></ruby>をきかいに<ruby>入<rt>い</rt></ruby>れる。
+      hiragana: コーヒーまめをきかいにいれる。
       kanji: コーヒー豆を機械 に入れる。
       ruby: コーヒー<ruby>豆<rt>まめ</rt></ruby>を<ruby>機械<rt>きかい</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる。
   simple_meaning:
@@ -20963,12 +20980,12 @@
   samples:
     0:
       english: I have a terrible headache.
-      hiragana: ひどい<ruby>頭痛<rt>ずつう</rt></ruby>がします。
+      hiragana: ひどいずつうがします。
       kanji: ひどい頭痛がします。
       ruby: ひどい<ruby>頭痛<rt>ずつう</rt></ruby>がします。
     1:
       english: I take medicine for my headache.
-      hiragana: <ruby>頭痛<rt>ずつう</rt></ruby>のために<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む。
+      hiragana: ずつうのためにくすりをのむ。
       kanji: 頭痛のために薬を飲 む。
       ruby: <ruby>頭痛<rt>ずつう</rt></ruby>のために<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む。
   simple_meaning:
@@ -20984,13 +21001,13 @@
   samples:
     0:
       english: The function of this machine is very complicated.
-      hiragana: この<ruby>機械<rt>きかい</rt></ruby>の<ruby>働<rt>はたら</rt></ruby>きはとても<ruby>複雑<rt>ふくざつ</rt></ruby>です。
+      hiragana: このきかいのはたらきはとてもふくざつです。
       kanji: この機械の働 きはとても複雑です。
       ruby: この<ruby>機械<rt>きかい</rt></ruby>の<ruby>働<rt>はたら</rt></ruby>きはとても<ruby>複雑<rt>ふくざつ</rt></ruby>です。
     1:
       english: The liver has an important function.
-      hiragana: <ruby>肝臓<rt>かんぞう</rt></ruby>には<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>働<rt>はたら</rt></ruby>きがある。
-      kanji: 肝臓には重要な働 きがある。
+      hiragana: かんぞうにはじゅうようなはたらきがある。
+      kanji: 肝臓には重要な働きがある。
       ruby: <ruby>肝臓<rt>かんぞう</rt></ruby>には<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>働<rt>はたら</rt></ruby>きがある。
   simple_meaning:
     0: Function
@@ -21007,14 +21024,14 @@
   samples:
     0:
       english: Please move this heavy desk.
-      hiragana: この<ruby>重<rt>おも</rt></ruby>いつくえを<ruby>動<rt>うご</rt></ruby>かしてください。
+      hiragana: このおもいつくえをうごかしてください。
       kanji: この重 い机 を動かしてください。
       ruby: この<ruby>重<rt>おも</rt></ruby>い<ruby>机<rt>つくえ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かしてください。
     1:
       english: I can move my fingers.
-      hiragana: わたしは<ruby>指<rt>ゆび</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かすことができる。
+      hiragana: わたしはゆびをうごかすことができる。
       kanji: 私 は指 を動かすことができる。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>指<rt>ゆび</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かすことができる。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>指<rt>ゆび</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かすことができる。 # 辞書形 '動かす' を使用
   simple_meaning:
     0: To move (something)
     1: To operate
@@ -21030,12 +21047,12 @@
   samples:
     0:
       english: 'Verb: "taberu" (to eat).'
-      hiragana: <ruby>動詞<rt>どうし</rt></ruby>は「<ruby>食<rt>た</rt></ruby>べる」です。
+      hiragana: どうしは「たべる」です。
       kanji: 動詞は「食べる」です。
       ruby: <ruby>動詞<rt>どうし</rt></ruby>は「<ruby>食<rt>た</rt></ruby>べる」です。
     1:
       english: The verb changes form.
-      hiragana: <ruby>動詞<rt>どうし</rt></ruby>はかたちを<ruby>変<rt>か</rt></ruby>える。
+      hiragana: どうしはかたちをかえる。
       kanji: 動詞は形 を変える。
       ruby: <ruby>動詞<rt>どうし</rt></ruby>は<ruby>形<rt>かたち</rt></ruby>を<ruby>変<rt>か</rt></ruby>える。
   simple_meaning:
@@ -21051,12 +21068,12 @@
   samples:
     0:
       english: The two answers are identical.
-      hiragana: 2つの<ruby>答<rt>こた</rt></ruby>えは<ruby>同<rt>どう</rt></ruby><ruby>一<rt>いつ</rt></ruby>です。
+      hiragana: 2つのこたえはどういつです。
       kanji: 2つの答えは同一です。
       ruby: 2つの<ruby>答<rt>こた</rt></ruby>えは<ruby>同<rt>どう</rt></ruby><ruby>一<rt>いつ</rt></ruby>です。
     1:
       english: We bought the same book.
-      hiragana: わたしたちは<ruby>同<rt>どう</rt></ruby><ruby>一<rt>いつ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>買<rt>か</rt></ruby>う。
+      hiragana: わたしたちはどういつのほんをかう。
       kanji: 私 たちは同一の本を買う。
       ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>同<rt>どう</rt></ruby><ruby>一<rt>いつ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>買<rt>か</rt></ruby>う。
   simple_meaning:
@@ -21074,12 +21091,12 @@
   samples:
     0:
       english: They started running at the same time.
-      hiragana: かれらは<ruby>同時<rt>どうじ</rt></ruby>に<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。
+      hiragana: かれらはどうじにはしりはじめました。
       kanji: 彼 らは同時 に走 り始 めました。
       ruby: <ruby>彼<rt>かれ</rt></ruby>らは<ruby>同時<rt>どうじ</rt></ruby>に<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。
     1:
       english: You can't do two things simultaneously.
-      hiragana: 2つのことを<ruby>同時<rt>どうじ</rt></ruby>にすることはできない。
+      hiragana: 2つのことをどうじにすることはできない。
       kanji: 2つのことを同時 にすることはできない。
       ruby: 2つのことを<ruby>同時<rt>どうじ</rt></ruby>にすることはできない。
   simple_meaning:
@@ -21097,12 +21114,12 @@
   samples:
     0:
       english: I feel the same way as you.
-      hiragana: わたしはあなたと<ruby>同様<rt>どうよう</rt></ruby>に<ruby>感<rt>かん</rt></ruby>じます。
+      hiragana: わたしはあなたとどうようにかんじます。
       kanji: 私 はあなたと同様に感 じます。
       ruby: <ruby>私<rt>わたし</rt></ruby>はあなたと<ruby>同様<rt>どうよう</rt></ruby>に<ruby>感<rt>かん</rt></ruby>じます。
     1:
       english: Children should be treated in the same way as adults.
-      hiragana: こどもも<ruby>大人<rt>おとな</rt></ruby>と<ruby>同様<rt>どうよう</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>うべきだ。
+      hiragana: こどももおとなとどうようにあつかうべきだ。
       kanji: 子どもも大 人 と同様に扱 うべきだ。
       ruby: <ruby>子<rt>こ</rt></ruby>どもも<ruby>大人<rt>おとな</rt></ruby>と<ruby>同様<rt>どうよう</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>うべきだ。
   simple_meaning:
@@ -21120,12 +21137,12 @@
   samples:
     0:
       english: I had lunch with my colleague.
-      hiragana: <ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。
+      hiragana: どうりょうとひるごはんをたべました。
       kanji: 同僚と昼 ご飯 を食 べました。
       ruby: <ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。
     1:
       english: My colleague is a friendly person.
-      hiragana: わたしの<ruby>同僚<rt>どうりょう</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>だ。
+      hiragana: わたしのどうりょうはしんせつなひとだ。
       kanji: 私 の同僚は親切 な人 だ。
       ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>だ。
   simple_meaning:
@@ -21143,12 +21160,12 @@
   samples:
     0:
       english: Moral education is important.
-      hiragana: <ruby>道徳<rt>どうとく</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>です。
+      hiragana: どうとくきょういくはたいせつです。
       kanji: 道徳教育は大切 です。
       ruby: <ruby>道徳<rt>どうとく</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>です。
     1:
       english: Everyone should have morals.
-      hiragana: だれもが<ruby>道徳<rt>どうとく</rt></ruby>を<ruby>持<rt>も</rt></ruby>つべきだ。
+      hiragana: だれもがどうとくをもつべきだ。
       kanji: 誰 もが道徳を持 つべきだ。
       ruby: だれもが<ruby>道徳<rt>どうとく</rt></ruby>を<ruby>持<rt>も</rt></ruby>つべきだ。
   simple_meaning:
@@ -21166,12 +21183,12 @@
   samples:
     0:
       english: The road is blocked by a fallen tree.
-      hiragana: <ruby>倒<rt>たお</rt></ruby>れた<ruby>木<rt>き</rt></ruby>で<ruby>道路<rt>どうろ</rt></ruby>がふさがれています。
+      hiragana: たおれたきでどうろがふさがれています。
       kanji: 倒 れた木 で道路がふさがれています。
       ruby: <ruby>倒<rt>たお</rt></ruby>れた<ruby>木<rt>き</rt></ruby>で<ruby>道路<rt>どうろ</rt></ruby>がふさがれています。
     1:
       english: Cars drive on the road.
-      hiragana: くるまが<ruby>道路<rt>どうろ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る。
+      hiragana: くるまがどうろをはしる。
       kanji: 車 が道路を走 る。
       ruby: <ruby>車<rt>くるま</rt></ruby>が<ruby>道路<rt>どうろ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る。
   simple_meaning:
@@ -21189,34 +21206,34 @@
   samples:
     0:
       english: The value of copper coins is low.
-      hiragana: <ruby>銅貨<rt>どうか</rt></ruby>の<ruby>価<rt>あたい</rt></ruby>ちは<ruby>低<rt>ひく</rt></ruby>いです。
+      hiragana: どうかのあたいはひくいです。
       kanji: 銅貨の価 値 は低 いです。
       ruby: <ruby>銅貨<rt>どうか</rt></ruby>の<ruby>価<rt>あたい</rt></ruby>ちは<ruby>低<rt>ひく</rt></ruby>いです。
     1:
       english: I found an old copper coin.
-      hiragana: <ruby>古<rt>ふる</rt></ruby>い<ruby>銅貨<rt>どうか</rt></ruby>を<ruby>見<rt>み</rt></ruby>つける。
+      hiragana: ふるいどうかをみつける。
       kanji: 古 い銅貨を見つける。
       ruby: <ruby>古<rt>ふる</rt></ruby>い<ruby>銅貨<rt>どうか</rt></ruby>を<ruby>見<rt>み</rt></ruby>つける。
   simple_meaning:
     0: Copper coin
 '1454500':
-  hiragana: うる
+  hiragana: える
   jisho_info:
     is_common_word: true
     jlpt_level: N3
-    split_hiragana: う.る
+    split_hiragana: え.る
     wanikani_level: null
   kanji: 得る
   samples:
     0:
       english: It is difficult to get (obtain) that information.
-      hiragana: その<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>得<rt>え</rt></ruby>ることは<ruby>難<rt>むずか</rt></ruby>しいです。
+      hiragana: そのじょうほうをえることはむずかしいです。
       kanji: その情報 を得 ることは難 しいです。
-      ruby: その<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>得<rt>え</rt></ruby>ることは<ruby>難<rt>むずか</rt></ruby>しいです。
+      ruby: その<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>得<rt>え</rt></ruby>ることは<ruby>難<rt>むずか</rt></ruby>しいです。 # 辞書形 '得る' を使用
     1:
       english: Anyone can get happiness.
-      hiragana: だれでも<ruby>幸<rt>しあわ</rt></ruby>せを<ruby>得<rt>え</rt></ruby>る。
-      kanji: 誰 でも幸 せを得 る。
+      hiragana: だれでもしあわせをえる。
+      kanji: 誰 でも幸 せを得る。
       ruby: だれでも<ruby>幸<rt>しあわ</rt></ruby>せを<ruby>得<rt>え</rt></ruby>る。
   simple_meaning:
     0: To get
@@ -21233,12 +21250,12 @@
   samples:
     0:
       english: I am good at cooking.
-      hiragana: わたしは<ruby>料理<rt>りょうり</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>です。
+      hiragana: わたしはりょうりがとくいです。
       kanji: 私 は料理 が得意です。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>です。
     1:
       english: She is my valued customer.
-      hiragana: かのじょはわたしの<ruby>得意<rt>とくい</rt></ruby>な<ruby>客<rt>きゃく</rt></ruby>だ。
+      hiragana: かのじょはわたしのとくいなきゃくだ。
       kanji: 彼女 は私 の得意な客 だ。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>はわたしの<ruby>得意<rt>とくい</rt></ruby>な<ruby>客<rt>きゃく</rt></ruby>だ。
   simple_meaning:
@@ -21256,12 +21273,12 @@
   samples:
     0:
       english: The characteristic of this product is its lightness.
-      hiragana: この<ruby>製品<rt>せいひん</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>はかるさです。
+      hiragana: このせいひんのとくちょうはかるさです。
       kanji: この製品 の特徴は軽 さです。
       ruby: この<ruby>製品<rt>せいひん</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>はかるさです。
     1:
       english: What kind of features does that car have?
-      hiragana: あのくるまはどんな<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>つか。
+      hiragana: あのくるまはどんなとくちょうをもつか。
       kanji: あの車 はどんな特徴を持 つか。
       ruby: あの<ruby>車<rt>くるま</rt></ruby>はどんな<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>つか。
   simple_meaning:
@@ -21279,12 +21296,12 @@
   samples:
     0:
       english: Be careful of that poisonous mushroom.
-      hiragana: あの<ruby>毒<rt>どく</rt></ruby>きのこに<ruby>気<rt>き</rt></ruby>をつけなさい。
+      hiragana: あのどくきのこにきをつけなさい。
       kanji: あの毒 きのこに気 をつけなさい。
       ruby: あの<ruby>毒<rt>どく</rt></ruby>きのこに<ruby>気<rt>き</rt></ruby>をつけなさい。
     1:
       english: Alcohol is a kind of poison for the body.
-      hiragana: おさけはからだにとって<ruby>毒<rt>どく</rt></ruby>になる。
+      hiragana: おさけはからだにとってどくになる。
       kanji: お酒 は体 にとって毒 になる。
       ruby: おさけは<ruby>体<rt>からだ</rt></ruby>にとって<ruby>毒<rt>どく</rt></ruby>になる。
   simple_meaning:
@@ -21302,12 +21319,12 @@
   samples:
     0:
       english: My older sister is still single.
-      hiragana: わたしの<ruby>姉<rt>あね</rt></ruby>はまだ<ruby>独身<rt>どくしん</rt></ruby>です。
+      hiragana: わたしのあねはまだどくしんです。
       kanji: 私 の姉 はまだ独身です。
       ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>はまだ<ruby>独身<rt>どくしん</rt></ruby>です。
     1:
       english: I want to remain single for a while.
-      hiragana: しばらく<ruby>独身<rt>どくしん</rt></ruby>でいたい。
+      hiragana: しばらくどくしんでいたい。
       kanji: しばらく独身でいたい。
       ruby: しばらく<ruby>独身<rt>どくしん</rt></ruby>でいたい。
   simple_meaning:
@@ -21325,12 +21342,12 @@
   samples:
     0:
       english: That artist has a unique style.
-      hiragana: あの<ruby>芸術<rt>げいじゅつ</rt></ruby><ruby>家<rt>か</rt></ruby>は<ruby>独特<rt>どくとく</rt></ruby>なスタイルを<ruby>持<rt>も</rt></ruby>っています。
+      hiragana: あのげいじゅつかはどくとくなスタイルをもっています。
       kanji: あの芸術家は独特 なスタイルを持 っています。
       ruby: あの<ruby>芸術<rt>げいじゅつ</rt></ruby><ruby>家<rt>か</rt></ruby>は<ruby>独特<rt>どくとく</rt></ruby>なスタイルを<ruby>持<rt>も</rt></ruby>っています。
     1:
       english: The dish has a unique flavor.
-      hiragana: その<ruby>料理<rt>りょうり</rt></ruby>は<ruby>独特<rt>どくとく</rt></ruby>な<ruby>味<rt>あじ</rt></ruby>がする。
+      hiragana: そのりょうりはどくとくなあじがする。
       kanji: その料理 は独特な味 がする。
       ruby: その<ruby>料理<rt>りょうり</rt></ruby>は<ruby>独特<rt>どくとく</rt></ruby>な<ruby>味<rt>あじ</rt></ruby>がする。
   simple_meaning:
@@ -21348,14 +21365,14 @@
   samples:
     0:
       english: The country achieved independence.
-      hiragana: その<ruby>国<rt>くに</rt></ruby>は<ruby>独立<rt>どくりつ</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>しました。
+      hiragana: そのくにはどくりつをたっせいしました。
       kanji: その国 は独立を達成しました。
       ruby: その<ruby>国<rt>くに</rt></ruby>は<ruby>独立<rt>どくりつ</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>しました。
     1:
-      english: I want to live independently.
-      hiragana: わたしはどくりつして<ruby>暮<rt>く</rt></ruby>らしたい。
-      kanji: 私 は独立して暮 らしたい。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>独立<rt>どくりつ</rt></ruby>して<ruby>暮<rt>く</rt></ruby>らしたい。
+      english: Everyone wants to live independently.
+      hiragana: だれでもどくりつしてくらすことをのぞむ。
+      kanji: 誰でも独立して暮らすことを望む。
+      ruby: だれでも<ruby>独立<rt>どくりつ</rt></ruby>して<ruby>暮<rt>く</rt></ruby>らすことを<ruby>望<rt>のぞ</rt></ruby>む。 # 辞書形 '独立する' を使用
   simple_meaning:
     0: Independence
     1: Self-reliance
@@ -21371,13 +21388,13 @@
   samples:
     0:
       english: I misunderstood the meaning of the reading.
-      hiragana: その<ruby>読<rt>よ</rt></ruby>みの<ruby>意味<rt>いみ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えました。
-      kanji: その読 みの意味 を間違 えました。
+      hiragana: そのよみのいみをまちがえました。
+      kanji: その読みの意味 を間違 えました。
       ruby: その<ruby>読<rt>よ</rt></ruby>みの<ruby>意味<rt>いみ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えました。
     1:
       english: The reading of this kanji is difficult.
-      hiragana: この<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みは<ruby>難<rt>むずか</rt></ruby>しい。
-      kanji: この漢字 の読 みは難 しい。
+      hiragana: このかんじのよみはむずかしい。
+      kanji: この漢字 の読みは難 しい。
       ruby: この<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みは<ruby>難<rt>むずか</rt></ruby>しい。
   simple_meaning:
     0: Reading (of a character/text)
@@ -21393,14 +21410,14 @@
   samples:
     0:
       english: My hobby is reading.
-      hiragana: わたしのしゅみは<ruby>読書<rt>どくしょ</rt></ruby>です。
+      hiragana: わたしのしゅみはどくしょです。
       kanji: 私 の趣味 は読書です。
       ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>読書<rt>どくしょ</rt></ruby>です。
     1:
-      english: I often read books before bed.
-      hiragana: ねるまえに<ruby>読書<rt>どくしょ</rt></ruby>する。
-      kanji: 寝る前 に読書する。
-      ruby: <ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>読書<rt>どくしょ</rt></ruby>する。
+      english: It is good to read before bed.
+      hiragana: ねるまえにどくしょするのはいいことだ。
+      kanji: 寝る前 に読書するのはいいことだ。
+      ruby: <ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>読書<rt>どくしょ</rt></ruby>するのはいいことだ。 # 辞書形 '読書する' を使用
   simple_meaning:
     0: Reading books
 '1457040':
@@ -21414,14 +21431,14 @@
   samples:
     0:
       english: The phone rang suddenly.
-      hiragana: <ruby>突然<rt>とつぜん</rt></ruby>、<ruby>電話<rt>でんわ</rt></ruby>がなりました。
+      hiragana: とつぜん、でんわがなりました。
       kanji: 突然、電話が鳴 りました。
       ruby: <ruby>突然<rt>とつぜん</rt></ruby>、<ruby>電話<rt>でんわ</rt></ruby>がなりました。
     1:
       english: It suddenly started raining.
-      hiragana: <ruby>突然<rt>とつぜん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める。
+      hiragana: とつぜんあめがふりはじめる。
       kanji: 突然雨 が降 り始 める。
-      ruby: <ruby>突然<rt>とつぜん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める。
+      ruby: <ruby>突然<rt>とつぜん</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める。
   simple_meaning:
     0: Suddenly
     1: Abruptly
@@ -21437,14 +21454,14 @@
   samples:
     0:
       english: The package arrived yesterday.
-      hiragana: こづつみがきのう<ruby>届<rt>とど</rt></ruby>きました。
+      hiragana: こづつみがきのうとどきました。
       kanji: 小包が昨日 届きました。
       ruby: <ruby>小包<rt>こづつみ</rt></ruby>が<ruby>昨日<rt>きのう</rt></ruby><ruby>届<rt>とど</rt></ruby>きました。
     1:
-      english: My voice won't reach the back of the room.
-      hiragana: わたしの<ruby>声<rt>こえ</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>のうしろまで<ruby>届<rt>とど</rt></ruby>かない。
-      kanji: 私 の声 は部屋 の後 ろまで届 かない。
-      ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>のうしろまで<ruby>届<rt>とど</rt></ruby>かない。
+      english: The shelf is high, but my hand can reach it.
+      hiragana: たなはたかいが、わたしのてはとどく。
+      kanji: 棚 は高 いが、私 の手は 届く。
+      ruby: <ruby>棚<rt>たな</rt></ruby>は<ruby>高<rt>たか</rt></ruby>いが、<ruby>私<rt>わたし</rt></ruby>の<ruby>手<rt>て</rt></ruby>は<ruby>届<rt>とど</rt></ruby>く。 # 辞書形 '届く' を使用
   simple_meaning:
     0: To reach
     1: To arrive (mail/package)
@@ -21460,12 +21477,12 @@
   samples:
     0:
       english: I didn't understand the content of the document.
-      hiragana: <ruby>書類<rt>しょるい</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>が<ruby>理解<rt>りかい</rt></ruby>できませんでした。
+      hiragana: しょるいのないようがりかいできませんでした。
       kanji: 書類 の内容 が理解できませんでした。
       ruby: <ruby>書類<rt>しょるい</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>が<ruby>理解<rt>りかい</rt></ruby>できませんでした。
     1:
       english: The contents of the letter are secret.
-      hiragana: てがみの<ruby>内容<rt>ないよう</rt></ruby>は<ruby>秘密<rt>ひみつ</rt></ruby>だ。
+      hiragana: てがみのないようはひみつだ。
       kanji: 手紙 の内容 は秘密だ。
       ruby: <ruby>手紙<rt>てがみ</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>は<ruby>秘密<rt>ひみつ</rt></ruby>だ。
   simple_meaning:
@@ -21483,12 +21500,12 @@
   samples:
     0:
       english: I solved the mystery.
-      hiragana: <ruby>謎<rt>なぞ</rt></ruby>を<ruby>解<rt>と</rt></ruby>きました。
+      hiragana: なぞをときました。
       kanji: 謎 を解 きました。
       ruby: <ruby>謎<rt>なぞ</rt></ruby>を<ruby>解<rt>と</rt></ruby>きました。
     1:
       english: That incident is still a mystery.
-      hiragana: あの<ruby>事件<rt>じけん</rt></ruby>はまだ<ruby>謎<rt>なぞ</rt></ruby>だ。
+      hiragana: あのじけんはまだなぞだ。
       kanji: あの事件 はまだ謎 だ。
       ruby: あの<ruby>事件<rt>じけん</rt></ruby>はまだ<ruby>謎<rt>なぞ</rt></ruby>だ。
   simple_meaning:
@@ -21506,12 +21523,12 @@
   samples:
     0:
       english: I put the vegetables in the pot.
-      hiragana: <ruby>野菜<rt>やさい</rt></ruby>を<ruby>鍋<rt>なべ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れました。
+      hiragana: やさいをなべにいれました。
       kanji: 野菜を鍋 に入 れました。
       ruby: <ruby>野菜<rt>やさい</rt></ruby>を<ruby>鍋<rt>なべ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れました。
     1:
       english: We ate hot pot together last night.
-      hiragana: ゆうべみんなで<ruby>鍋<rt>なべ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる。
+      hiragana: ゆうべみんなでなべをたべる。
       kanji: 昨夜 みんなで鍋 を食 べる。
       ruby: <ruby>昨夜<rt>ゆうべ</rt></ruby>みんなで<ruby>鍋<rt>なべ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる。
   simple_meaning:
@@ -21529,12 +21546,12 @@
   samples:
     0:
       english: Please tie the box with a rope.
-      hiragana: <ruby>箱<rt>はこ</rt></ruby>を<ruby>縄<rt>なわ</rt></ruby>でしばってください。
+      hiragana: はこをなわでしばってください。
       kanji: 箱 を縄 で縛 ってください。
       ruby: <ruby>箱<rt>はこ</rt></ruby>を<ruby>縄<rt>なわ</rt></ruby>でしばってください。
     1:
       english: The children are playing jump rope.
-      hiragana: こどもたちは<ruby>縄<rt>なわ</rt></ruby>とびをする。
+      hiragana: こどもたちはなわとびをする。
       kanji: 子どもたちは縄 とびをする。
       ruby: <ruby>子<rt>こ</rt></ruby>どもたちは<ruby>縄<rt>なわ</rt></ruby>とびをする。
   simple_meaning:
@@ -21551,12 +21568,12 @@
   samples:
     0:
       english: Sunlight is good for your health.
-      hiragana: <ruby>日光<rt>にっこう</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いです。
+      hiragana: にっこうはけんこうによいです。
       kanji: 日光は健康 に良 いです。
       ruby: <ruby>日光<rt>にっこう</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いです。
     1:
       english: We should be exposed to sunlight.
-      hiragana: <ruby>日光<rt>にっこう</rt></ruby>をあびるべきだ。
+      hiragana: にっこうをあびるべきだ。
       kanji: 日光を浴 びるべきだ。
       ruby: <ruby>日光<rt>にっこう</rt></ruby>をあびるべきだ。
   simple_meaning:
@@ -21573,12 +21590,12 @@
   samples:
     0:
       english: This is a scene from daily life.
-      hiragana: これは<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>こまです。
+      hiragana: これはにちじょうせいかつのひとこまです。
       kanji: これは日常生活 の一 コマです。
       ruby: これは<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>こまです。
     1:
       english: I try to use English in my daily routine.
-      hiragana: <ruby>日常<rt>にちじょう</rt></ruby>で<ruby>英語<rt>えいご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うようにする。
+      hiragana: にちじょうでえいごをつかうようにする。
       kanji: 日常で英語 を使 うようにする。
       ruby: <ruby>日常<rt>にちじょう</rt></ruby>で<ruby>英語<rt>えいご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うようにする。
   simple_meaning:
@@ -21596,12 +21613,12 @@
   samples:
     0:
       english: It is warmer during the day than at night.
-      hiragana: <ruby>日中<rt>にっちゅう</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>よりあたたかいです。
+      hiragana: にっちゅうはよるよりあたたかいです。
       kanji: 日中 は夜 より温かいです。
       ruby: <ruby>日中<rt>にっちゅう</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>よりあたたかいです。
     1:
       english: The temperature rises during the day.
-      hiragana: <ruby>日中<rt>にっちゅう</rt></ruby>は<ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる。
+      hiragana: にっちゅうはきおんがあがる。
       kanji: 日中 は気温 が上 がる。
       ruby: <ruby>日中<rt>にっちゅう</rt></ruby>は<ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる。
   simple_meaning:
@@ -21618,12 +21635,12 @@
   samples:
     0:
       english: I forgot to write the date on the letter.
-      hiragana: <ruby>手紙<rt>てがみ</rt></ruby>に<ruby>日付<rt>ひづけ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>忘<rt>わす</rt></ruby>れました。
+      hiragana: てがみにひづけをかきわすれました。
       kanji: 手紙 に日付 を書 き忘 れました。
       ruby: <ruby>手紙<rt>てがみ</rt></ruby>に<ruby>日付<rt>ひづけ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>忘<rt>わす</rt></ruby>れました。
     1:
       english: Please check the date on the ticket.
-      hiragana: チケットの<ruby>日付<rt>ひづけ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。
+      hiragana: チケットのひづけをかくにんする。
       kanji: チケットの日付 を確認 する。
       ruby: チケットの<ruby>日付<rt>ひづけ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。
   simple_meaning:
@@ -21640,12 +21657,12 @@
   samples:
     0:
       english: I went shopping last Sunday.
-      hiragana: この<ruby>日曜<rt>にちよう</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+      hiragana: このにちようにかいものにいきました。
       kanji: この日曜に買 い物 に行 きました。
       ruby: この<ruby>日曜<rt>にちよう</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
     1:
       english: I usually sleep in on Sunday.
-      hiragana: <ruby>日曜<rt>にちよう</rt></ruby>はたいてい<ruby>朝寝<rt>あさね</rt></ruby>ぼうする。
+      hiragana: にちようはたいていあさねぼうする。
       kanji: 日曜はたいてい朝寝 坊 する。
       ruby: <ruby>日曜<rt>にちよう</rt></ruby>はたいてい<ruby>朝寝<rt>あさね</rt></ruby>ぼうする。
   simple_meaning:
@@ -21661,14 +21678,14 @@
   samples:
     0:
       english: The admission fee is 500 yen.
-      hiragana: <ruby>入場<rt>にゅうじょう</rt></ruby><ruby>料<rt>りょう</rt></ruby>は500<ruby>円<rt>えん</rt></ruby>です。
+      hiragana: にゅうじょうりょうは500えんです。
       kanji: 入場料 は500円 です。
       ruby: <ruby>入場<rt>にゅうじょう</rt></ruby><ruby>料<rt>りょう</rt></ruby>は500<ruby>円<rt>えん</rt></ruby>です。
     1:
-      english: We must enter the venue before 6 p.m.
-      hiragana: <ruby>午後<rt>ごご</rt></ruby>6<ruby>時<rt>じ</rt></ruby>まえに<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入場<rt>にゅうじょう</rt></ruby>しなければならない。
-      kanji: 午後6時 前 に会場に入場しなければならない。
-      ruby: <ruby>午後<rt>ごご</rt></ruby>6<ruby>時<rt>じ</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入場<rt>にゅうじょう</rt></ruby>しなければならない。
+      english: Everyone must enter the venue by 6 p.m.
+      hiragana: ごご6じまえにぜんいんがかいじょうににゅうじょうする。
+      kanji: 午後6時 前 に全員が会場に入場する。
+      ruby: <ruby>午後<rt>ごご</rt></ruby>6<ruby>時<rt>じ</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入場<rt>にゅうじょう</rt></ruby>する。 # 辞書形 '入場する' を使用
   simple_meaning:
     0: Admission
     1: Entry
@@ -21684,14 +21701,14 @@
   samples:
     0:
       english: I will leave the decision to you.
-      hiragana: その<ruby>決定<rt>けってい</rt></ruby>はあなたに<ruby>任<rt>まか</rt></ruby>せます。
+      hiragana: そのけっていはあなたにまかせます。
       kanji: その決定 はあなたに任 せます。
       ruby: その<ruby>決定<rt>けってい</rt></ruby>はあなたに<ruby>任<rt>まか</rt></ruby>せます。
     1:
       english: I will let him handle the work.
-      hiragana: かれにその<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任<rt>まか</rt></ruby>せる。
-      kanji: 彼 にその仕事 を任 せる。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>にその<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任<rt>まか</rt></ruby>せる。
+      hiragana: かれにそのしごとをまかせる。
+      kanji: 彼 にその仕事 を任せる。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>にその<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任<rt>まか</rt></ruby>せる。 # 辞書形 '任せる' を使用
   simple_meaning:
     0: To entrust
     1: To leave (something) to (someone)
@@ -21707,14 +21724,14 @@
   samples:
     0:
       english: I admit that I was wrong.
-      hiragana: わたしがまちがっていたことを<ruby>認<rt>みと</rt></ruby>めます。
+      hiragana: わたしがまちがっていたことをみとめます。
       kanji: 私 が間違 っていたことを認 めます。
       ruby: <ruby>私<rt>わたし</rt></ruby>がまちがっていたことを<ruby>認<rt>みと</rt></ruby>めます。
     1:
       english: You must acknowledge your mistake.
-      hiragana: あなたは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>誤<rt>あやま</rt></ruby>りを<ruby>認<rt>みと</rt></ruby>めるべきだ。
-      kanji: あなたは自分 の誤 り を認 めるべきだ。
-      ruby: あなたは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>誤<rt>あやま</rt></ruby>りを<ruby>認<rt>みと</rt></ruby>めるべきだ。
+      hiragana: あなたはじぶんのあやまりをみとめるべきだ。
+      kanji: あなたは自分 の誤 り を認めるべきだ。
+      ruby: あなたは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>誤<rt>あやま</rt></ruby>りを<ruby>認<rt>みと</rt></ruby>めるべきだ。 # 辞書形 '認める' を使用
   simple_meaning:
     0: To recognize
     1: To admit
@@ -21730,12 +21747,12 @@
   samples:
     0:
       english: She is a very eager student.
-      hiragana: かのじょはとても<ruby>熱心<rt>ねっしん</rt></ruby>な<ruby>学生<rt>がくせい</rt></ruby>です。
+      hiragana: かのじょはとてもねっしんながくせいですがくせいです。
       kanji: 彼女 はとても熱心な学 生 です。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>はとても<ruby>熱心<rt>ねっしん</rt></ruby>な<ruby>学生<rt>がくせい</rt></ruby>です。
     1:
       english: I study Japanese earnestly.
-      hiragana: わたしは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>する。
+      hiragana: わたしはねっしんにほんごをべんきょうする。
       kanji: 私 は熱心に日本 語 を勉 強 する。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>する。
   simple_meaning:
@@ -21753,12 +21770,12 @@
   samples:
     0:
       english: Tropical regions are hot all year round.
-      hiragana: <ruby>熱帯<rt>ねったい</rt></ruby><ruby>地方<rt>ちほう</rt></ruby>は<ruby>一年中<rt>いちねんじゅう</rt></ruby>あついです。
+      hiragana: ねったいちほうはいちねんじゅうあついです。
       kanji: 熱帯地方 は一年中暑 いです。
       ruby: <ruby>熱帯<rt>ねったい</rt></ruby><ruby>地方<rt>ちほう</rt></ruby>は<ruby>一年中<rt>いちねんじゅう</rt></ruby>あついです。
     1:
       english: Tropical rainforests have various animals.
-      hiragana: <ruby>熱帯<rt>ねったい</rt></ruby><ruby>雨林<rt>うりん</rt></ruby>にはさまざまな<ruby>動物<rt>どうぶつ</rt></ruby>がいる。
+      hiragana: ねったいうりんにはさまざまなどうぶつがいる。
       kanji: 熱帯雨林にはさまざまな動 物 がいる。
       ruby: <ruby>熱帯<rt>ねったい</rt></ruby><ruby>雨林<rt>うりん</rt></ruby>にはさまざまな<ruby>動物<rt>どうぶつ</rt></ruby>がいる。
   simple_meaning:
@@ -21775,14 +21792,14 @@
   samples:
     0:
       english: I was absorbed in reading the novel.
-      hiragana: その<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むことに<ruby>熱中<rt>ねっちゅう</rt></ruby>しました。
+      hiragana: そのしょうせつをよむことにねっちゅうしました。
       kanji: その小 説 を読 むことに熱中しました。
       ruby: その<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むことに<ruby>熱中<rt>ねっちゅう</rt></ruby>しました。
     1:
       english: He is crazy about video games.
-      hiragana: かれはゲームに<ruby>熱中<rt>ねっちゅう</rt></ruby>する。
+      hiragana: かれはゲームにねっちゅうする。
       kanji: 彼 はゲームに熱中する。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>はゲームに<ruby>熱中<rt>ねっちゅう</rt></ruby>する。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>はゲームに<ruby>熱中<rt>ねっちゅう</rt></ruby>する。 # 辞書形 '熱中する' を使用
   simple_meaning:
     0: Being enthusiastic about
     1: Being absorbed in
@@ -21798,12 +21815,12 @@
   samples:
     0:
       english: I lived in Tokyo for five years.
-      hiragana: 5<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいました。
+      hiragana: 5ねんかん、とうきょうにすんでいました。
       kanji: 5年 間、東 京 に住 んでいました。
       ruby: 5<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいました。
     1:
       english: The annual rainfall is low.
-      hiragana: ねんかん<ruby>降水<rt>こうすい</rt></ruby><ruby>量<rt>りょう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない。
+      hiragana: ねんかんこうすいりょうがすくない。
       kanji: 年間降水 量 が少 ない。
       ruby: <ruby>年間<rt>ねんかん</rt></ruby><ruby>降水<rt>こうすい</rt></ruby><ruby>量<rt>りょう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない。
   simple_meaning:
@@ -21820,13 +21837,13 @@
   samples:
     0:
       english: This film was made in the 1980s.
-      hiragana: この<ruby>映画<rt>えいが</rt></ruby>は1980<ruby>年代<rt>ねんだい</rt></ruby>に<ruby>作<rt>つく</rt></ruby>られました。
-      kanji: この映 画 は1980年 代 に作 られました。
+      hiragana: このえいがは1980ねんだいにつくられました。
+      kanji: この映 画 は1980年代 に作 られました。
       ruby: この<ruby>映画<rt>えいが</rt></ruby>は1980<ruby>年代<rt>ねんだい</rt></ruby>に<ruby>作<rt>つく</rt></ruby>られました。
     1:
       english: This vase dates from the Edo period.
-      hiragana: この<ruby>花瓶<rt>かびん</rt></ruby>は<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>年代<rt>ねんだい</rt></ruby>に<ruby>属<rt>ぞく</rt></ruby>する。
-      kanji: この花 瓶 は江 戸時 代 の年 代 に属 する。
+      hiragana: このかびんはえどじだいのねんだいにぞくする。
+      kanji: この花 瓶は 江戸時代の年代に属する。
       ruby: この<ruby>花瓶<rt>かびん</rt></ruby>は<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>年代<rt>ねんだい</rt></ruby>に<ruby>属<rt>ぞく</rt></ruby>する。
   simple_meaning:
     0: Decade (e.g., 1980年代)
@@ -21843,12 +21860,12 @@
   samples:
     0:
       english: This park is open all year round.
-      hiragana: この<ruby>公園<rt>こうえん</rt></ruby>は<ruby>年中<rt>ねんじゅう</rt></ruby>あいています。
+      hiragana: このこうえんはねんじゅうあいています。
       kanji: この公 園 は年中空 いています。
       ruby: この<ruby>公園<rt>こうえん</rt></ruby>は<ruby>年中<rt>ねんじゅう</rt></ruby>あいています。
     1:
       english: It is warm all year in Okinawa.
-      hiragana: おきなわは<ruby>年中<rt>ねんじゅう</rt></ruby>あたたかい。
+      hiragana: おきなわはねんじゅうあたたかい。
       kanji: 沖縄 は年中温かい。
       ruby: <ruby>沖縄<rt>おきなわ</rt></ruby>は<ruby>年中<rt>ねんじゅう</rt></ruby>あたたかい。
   simple_meaning:
@@ -21865,14 +21882,14 @@
   samples:
     0:
       english: The fallen leaves are burning.
-      hiragana: <ruby>落<rt>お</rt></ruby>ち<ruby>葉<rt>ば</rt></ruby>が<ruby>燃<rt>も</rt></ruby>えています。
+      hiragana: おちばがもえています。
       kanji: 落 ち葉 が燃 えています。
       ruby: <ruby>落<rt>お</rt></ruby>ち<ruby>葉<rt>ば</rt></ruby>が<ruby>燃<rt>も</rt></ruby>えています。
     1:
       english: Wood burns easily.
-      hiragana: きはよく<ruby>燃<rt>も</rt></ruby>える。
-      kanji: 木 はよく燃 える。
-      ruby: <ruby>木<rt>き</rt></ruby>はよく<ruby>燃<rt>も</rt></ruby>える。
+      hiragana: きはよくもえる。
+      kanji: 木 はよく燃える。
+      ruby: <ruby>木<rt>き</rt></ruby>はよく<ruby>燃<rt>も</rt></ruby>える。 # 辞書形 '燃える' を使用
   simple_meaning:
     0: To burn
     1: To be consumed by fire
@@ -21887,14 +21904,14 @@
   samples:
     0:
       english: I am troubled by the difficult problem.
-      hiragana: わたしは<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>で<ruby>悩<rt>なや</rt></ruby>んでいます。
+      hiragana: わたしはむずかしいもんだいでなやんでいます。
       kanji: 私 は難 しい問題 で悩 んでいます。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>で<ruby>悩<rt>なや</rt></ruby>んでいます。
     1:
       english: She is worried about her future.
-      hiragana: かのじょは<ruby>将来<rt>しょうらい</rt></ruby>について<ruby>悩<rt>なや</rt></ruby>む。
-      kanji: 彼女 は将 来 について悩 む。
-      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>将来<rt>しょうらい</rt></ruby>について<ruby>悩<rt>なや</rt></ruby>む。
+      hiragana: かのじょはしょうらいについてなやむ。
+      kanji: 彼女 は将 来 について悩む。
+      ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>将来<rt>しょうらい</rt></ruby>について<ruby>悩<rt>なや</rt></ruby>む。 # 辞書形 '悩む' を使用
   simple_meaning:
     0: To be worried
     1: To be troubled
@@ -21910,14 +21927,14 @@
   samples:
     0:
       english: The coffee is too strong (dark).
-      hiragana: コーヒーが<ruby>濃<rt>こ</rt></ruby>すぎます。
+      hiragana: コーヒーがこすぎます。
       kanji: コーヒーが濃 すぎます。
       ruby: コーヒーが<ruby>濃<rt>こ</rt></ruby>すぎます。
     1:
       english: The fog is dense today.
-      hiragana: きょうはきりが<ruby>濃<rt>こ</rt></ruby>い。
-      kanji: 今日 は霧 が濃 い。
-      ruby: <ruby>今日<rt>きょう</rt></ruby>はきりが<ruby>濃<rt>こ</rt></ruby>い。
+      hiragana: きょうはきりがこい。
+      kanji: 今日 は霧 が濃い。
+      ruby: <ruby>今日<rt>きょう</rt></ruby>はきりが<ruby>濃<rt>こ</rt></ruby>い。 # 辞書形 '濃い' を使用
   simple_meaning:
     0: Dark (color)
     1: Strong (taste/smell)
@@ -21933,14 +21950,14 @@
   samples:
     0:
       english: I was finally convinced by his explanation.
-      hiragana: かれの<ruby>説明<rt>せつめい</rt></ruby>にやっと<ruby>納得<rt>なっとく</rt></ruby>しました。
-      kanji: 彼 の説 明 にやっと納 得 しました。
+      hiragana: かれのせつめいにやっと納得しました。
+      kanji: 彼 の説 明 にやっと納得 しました。
       ruby: <ruby>彼<rt>かれ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>にやっと<ruby>納得<rt>なっとく</rt></ruby>しました。
     1:
       english: I can't agree to that proposal.
-      hiragana: その<ruby>提案<rt>ていあん</rt></ruby>には<ruby>納得<rt>なっとく</rt></ruby>できない。
-      kanji: その提 案 には納 得 できない。
-      ruby: その<ruby>提案<rt>ていあん</rt></ruby>には<ruby>納得<rt>なっとく</rt></ruby>できない。
+      hiragana: そのていあんにはなっとくできない。
+      kanji: その提 案 には納得 できない。
+      ruby: その<ruby>提案<rt>ていあん</rt></ruby>には<ruby>納得<rt>なっとく</rt></ruby>できない。 # 辞書形 '納得する' の応用形を使用
   simple_meaning:
     0: Consent
     1: Assent/Agreement
@@ -21956,12 +21973,12 @@
   samples:
     0:
       english: He has the ability to learn languages quickly.
-      hiragana: かれは<ruby>語学<rt>ごがく</rt></ruby>の<ruby>能<rt>のう</rt></ruby>があります。
+      hiragana: かれはごがくののうがあります。
       kanji: 彼 は語 学 の能 があります。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>語学<rt>ごがく</rt></ruby>の<ruby>能<rt>のう</rt></ruby>があります。
     1:
       english: We must develop our abilities.
-      hiragana: わたしたちは<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばす<ruby>能<rt>のう</rt></ruby>がある。
+      hiragana: わたしたちはのうりょくをのばすのうがある。
       kanji: 私 たちは能 力 を伸 ばす能 がある。
       ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばす<ruby>能<rt>のう</rt></ruby>がある。
   simple_meaning:
@@ -21979,13 +21996,13 @@
   samples:
     0:
       english: She has high academic ability.
-      hiragana: かのじょは<ruby>高<rt>たか</rt></ruby>い<ruby>学力<rt>がくりょく</rt></ruby>（<ruby>能力<rt>のうりょく</rt></ruby>）があります。
+      hiragana: かのじょはたかいがくりょく（のうりょく）があります。
       kanji: 彼女 は高 い学力 （能 力 ）があります。
       ruby: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>高<rt>たか</rt></ruby>い<ruby>学力<rt>がくりょく</rt></ruby>（<ruby>能力<rt>のうりょく</rt></ruby>）があります。
     1:
       english: You have the ability to solve the problem.
-      hiragana: きみにはその<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>能力<rt>のうりょく</rt></ruby>がある。
-      kanji: 君 にはその問題 を解 決 する能 力 がある。
+      hiragana: きみにはそのもんだいをかいけつするのうりょくがある。
+      kanji: 君 にはその問題 を解 決 する能力 がある。
       ruby: <ruby>君<rt>きみ</rt></ruby>にはその<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>能力<rt>のうりょく</rt></ruby>がある。
   simple_meaning:
     0: Ability
@@ -22002,12 +22019,12 @@
   samples:
     0:
       english: My grandfather is a farmer.
-      hiragana: わたしのそふは<ruby>農家<rt>のうか</rt></ruby>です。
-      kanji: 私 の祖父 は農 家 です。
+      hiragana: わたしのそふはのうかです。
+      kanji: 私 の祖父 は農家 です。
       ruby: <ruby>私<rt>わたし</rt></ruby>の<ruby>祖父<rt>そふ</rt></ruby>は<ruby>農家<rt>のうか</rt></ruby>です。
     1:
       english: Farmers grow rice.
-      hiragana: <ruby>農家<rt>のうか</rt></ruby>は<ruby>米<rt>こめ</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てる。
+      hiragana: のうかはこめをそだてる。
       kanji: 農家 は米 を育 てる。
       ruby: <ruby>農家<rt>のうか</rt></ruby>は<ruby>米<rt>こめ</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てる。
   simple_meaning:
@@ -22024,12 +22041,12 @@
   samples:
     0:
       english: Agriculture is an important industry.
-      hiragana: <ruby>農業<rt>のうぎょう</rt></ruby>は<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>産業<rt>さんぎょう</rt></ruby>です。
+      hiragana: のうぎょうはじゅうようなさんぎょうです。
       kanji: 農業は重要 な産 業 です。
       ruby: <ruby>農業<rt>のうぎょう</rt></ruby>は<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>産業<rt>さんぎょう</rt></ruby>です。
     1:
       english: He wants to work in agriculture.
-      hiragana: かれは<ruby>農業<rt>のうぎょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたい。
+      hiragana: かれはのうぎょうではたらきたい。
       kanji: 彼 は農業で働 きたい。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>農業<rt>のうぎょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたい。
   simple_meaning:
@@ -22046,12 +22063,12 @@
   samples:
     0:
       english: The farmers are working hard in the fields.
-      hiragana: <ruby>農民<rt>のうみん</rt></ruby>たちは<ruby>畑<rt>はたけ</rt></ruby>で<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>働<rt>はたら</rt></ruby>いています。
+      hiragana: のうみんたちははたけでいっしょうけんめいはたらいています。
       kanji: 農民たちは畑 で一 生 懸 命 働 いています。
       ruby: <ruby>農民<rt>のうみん</rt></ruby>たちは<ruby>畑<rt>はたけ</rt></ruby>で<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>働<rt>はたら</rt></ruby>いています。
     1:
       english: Many people in the village are peasants (farmers).
-      hiragana: その<ruby>村<rt>むら</rt></ruby>にはたくさんの<ruby>農民<rt>のうみん</rt></ruby>がいる。
+      hiragana: そのむらにはたくさんののうみんがいる。
       kanji: その村 にはたくさんの農民がいる。
       ruby: その<ruby>村<rt>むら</rt></ruby>にはたくさんの<ruby>農民<rt>のうみん</rt></ruby>がいる。
   simple_meaning:
@@ -22068,12 +22085,12 @@
   samples:
     0:
       english: The waves at the beach are big today.
-      hiragana: きょうは<ruby>海岸<rt>かいがん</rt></ruby>の<ruby>波<rt>なみ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。
+      hiragana: きょうはかいがんのなみがおおきいです。
       kanji: 今日 は海 岸 の波 が大 きいです。
       ruby: <ruby>今日<rt>きょう</rt></ruby>は<ruby>海岸<rt>かいがん</rt></ruby>の<ruby>波<rt>なみ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。
     1:
       english: The waves break on the shore.
-      hiragana: <ruby>波<rt>なみ</rt></ruby>が<ruby>岸<rt>きし</rt></ruby>に<ruby>打<rt>う</rt></ruby>ちつける。
+      hiragana: なみがきしにうちつける。
       kanji: 波 が岸 に打 ちつける。
       ruby: <ruby>波<rt>なみ</rt></ruby>が<ruby>岸<rt>きし</rt></ruby>に<ruby>打<rt>う</rt></ruby>ちつける。
   simple_meaning:
@@ -22090,14 +22107,14 @@
   samples:
     0:
       english: I accidentally tore the important document.
-      hiragana: <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>をうっかり<ruby>破<rt>やぶ</rt></ruby>ってしまいました。
+      hiragana: たいせつなしょるいをうっかりやぶってしまいました。
       kanji: 大切 な書 類 をうっかり破 ってしまいました。
       ruby: <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>をうっかり<ruby>破<rt>やぶ</rt></ruby>ってしまいました。
     1:
       english: We will break the world record.
-      hiragana: わたしたちはせかい<ruby>記録<rt>きろく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>る。
-      kanji: 私 たちは世界 記録 を破 る。
-      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>世界<rt>せかい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>る。
+      hiragana: わたしたちはせかいきろくをやぶる。
+      kanji: 私 たちは世界 記録 を破る。
+      ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>世界<rt>せかい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>る。 # 辞書形 '破る' を使用
   simple_meaning:
     0: To tear
     1: To break (a promise, rule)
@@ -22113,14 +22130,14 @@
   samples:
     0:
       english: The company went bankrupt.
-      hiragana: その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>破産<rt>はさん</rt></ruby>しました。
-      kanji: その会 社 は破 産 しました。
+      hiragana: そのかいしゃははさんしました。
+      kanji: その会 社 は破産 しました。
       ruby: その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>破産<rt>はさん</rt></ruby>しました。
     1:
       english: If the business fails, he will go bankrupt.
-      hiragana: もし<ruby>事業<rt>じぎょう</rt></ruby>に<ruby>失敗<rt>しっぱい</rt></ruby>すれば、かれは<ruby>破産<rt>はさん</rt></ruby>する。
-      kanji: もし事 業 に失 敗 すれば、彼 は破 産 する。
-      ruby: もし<ruby>事業<rt>じぎょう</rt></ruby>に<ruby>失敗<rt>しっぱい</rt></ruby>すれば、<ruby>彼<rt>かれ</rt></ruby>は<ruby>破産<rt>はさん</rt></ruby>する。
+      hiragana: もしじぎょうにしっぱいすれば、かれははさんする。
+      kanji: もし事 業 に失 敗 すれば、彼 は破産 する。
+      ruby: もし<ruby>事業<rt>じぎょう</rt></ruby>に<ruby>失敗<rt>しっぱい</rt></ruby>すれば、<ruby>彼<rt>かれ</rt></ruby>は<ruby>破産<rt>はさん</rt></ruby>する。 # 辞書形 '破産する' を使用
   simple_meaning:
     0: Bankruptcy
     1: Ruin
@@ -22136,12 +22153,12 @@
   samples:
     0:
       english: I saw a horse in the field.
-      hiragana: <ruby>野原<rt>のはら</rt></ruby>で<ruby>馬<rt>うま</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
+      hiragana: のはらでうまをみました。
       kanji: 野原 で馬 を見 ました。
       ruby: <ruby>野原<rt>のはら</rt></ruby>で<ruby>馬<rt>うま</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。
     1:
       english: I want to ride a horse.
-      hiragana: わたしは<ruby>馬<rt>うま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りたい。
+      hiragana: わたしはうまにのりたい。
       kanji: 私 は馬 に乗 りたい。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>馬<rt>うま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りたい。
   simple_meaning:
@@ -22157,12 +22174,12 @@
   samples:
     0:
       english: That actor is very famous.
-      hiragana: あの<ruby>俳優<rt>はいゆう</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。
+      hiragana: あのはいゆうはとてもゆうめいです。
       kanji: あの俳優 はとても有 名 です。
       ruby: あの<ruby>俳優<rt>はいゆう</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。
     1:
       english: He wants to be a movie actor.
-      hiragana: かれは<ruby>映画<rt>えいが</rt></ruby><ruby>俳優<rt>はいゆう</rt></ruby>になりたい。
+      hiragana: かれはえいがはいゆうになりたい。
       kanji: 彼 は映 画 俳優 になりたい。
       ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>映画<rt>えいが</rt></ruby><ruby>俳優<rt>はいゆう</rt></ruby>になりたい。
   simple_meaning:
@@ -22179,12 +22196,12 @@
   samples:
     0:
       english: My younger brother's height is tall.
-      hiragana: おとうとは<ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。
+      hiragana: おとうとはせがたかいです。
       kanji: 弟 は背 が高 いです。
       ruby: <ruby>弟<rt>おとうと</rt></ruby>は<ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。
     1:
       english: I have a pain in my back.
-      hiragana: わたしは<ruby>背<rt>せ</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>みがある。
+      hiragana: わたしはせにいたみがある。
       kanji: 私 は背 に痛 みがある。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>背<rt>せ</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>みがある。
   simple_meaning:
@@ -22202,14 +22219,14 @@
   samples:
     0:
       english: The mail was delivered this morning.
-      hiragana: <ruby>郵便<rt>ゆうびん</rt></ruby>がけさ<ruby>配達<rt>はいたつ</rt></ruby>されました。
+      hiragana: ゆうびんがけさはいたつされました。
       kanji: 郵 便 が今朝 配達されました。
       ruby: <ruby>郵便<rt>ゆうびん</rt></ruby>がけさ<ruby>配達<rt>はいたつ</rt></ruby>されました。
     1:
       english: He will deliver the newspaper.
-      hiragana: かれは<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>配達<rt>はいたつ</rt></ruby>する。
+      hiragana: かれはしんぶんをはいたつする。
       kanji: 彼 は新 聞 を配 達 する。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>配達<rt>はいたつ</rt></ruby>する。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>配達<rt>はいたつ</rt></ruby>する。 # 辞書形 '配達する' を使用
   simple_meaning:
     0: Delivery
     1: Distribution
@@ -22225,12 +22242,12 @@
   samples:
     0:
       english: Plum blossoms bloom in early spring.
-      hiragana: <ruby>梅<rt>うめ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>は<ruby>早春<rt>そうしゅん</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>きます。
+      hiragana: うめのはなはそうしゅんにさきます。
       kanji: 梅 の花 は早 春 に咲 きます。
       ruby: <ruby>梅<rt>うめ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>は<ruby>早春<rt>そうしゅん</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>きます。
     1:
       english: I like pickled plums.
-      hiragana: わたしは<ruby>梅<rt>うめ</rt></ruby>ぼしが<ruby>好<rt>す</rt></ruby>きだ。
+      hiragana: わたしはうめぼしがすきだ。
       kanji: 私 は梅 ぼしが好 きだ。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>梅<rt>うめ</rt></ruby>ぼしが<ruby>好<rt>す</rt></ruby>きだ。
   simple_meaning:
@@ -22247,14 +22264,14 @@
   samples:
     0:
       english: That new book is selling well.
-      hiragana: あの<ruby>新<rt>あたら</rt></ruby>しい<ruby>本<rt>ほん</rt></ruby>はよく<ruby>売<rt>う</rt></ruby>れています。
+      hiragana: あのあたらしいほんはよくうれています。
       kanji: あの新 しい本 はよく売 れています。
       ruby: あの<ruby>新<rt>あたら</rt></ruby>しい<ruby>本<rt>ほん</rt></ruby>はよく<ruby>売<rt>う</rt></ruby>れています。
     1:
       english: These products will definitely sell.
-      hiragana: これらの<ruby>製品<rt>せいひん</rt></ruby>はきっと<ruby>売<rt>う</rt></ruby>れる。
-      kanji: これらの製 品 はきっと売 れる。
-      ruby: これらの<ruby>製品<rt>せいひん</rt></ruby>はきっと<ruby>売<rt>う</rt></ruby>れる。
+      hiragana: これらのせいひんはきっとうれる。
+      kanji: これらの製 品 はきっと売れる。
+      ruby: これらの<ruby>製品<rt>せいひん</rt></ruby>はきっと<ruby>売<rt>う</rt></ruby>れる。 # 辞書形 '売れる' を使用
   simple_meaning:
     0: To be sold
     1: To sell (well/poorly)
@@ -22270,13 +22287,13 @@
   samples:
     0:
       english: He finally got his doctorate.
-      hiragana: かれはやっと<ruby>博士<rt>はかせ</rt></ruby>の<ruby>学位<rt>がくい</rt></ruby>を<ruby>取<rt>と</rt></ruby>りました。
-      kanji: 彼 はやっと博 士 の学 位 を取 りました。
+      hiragana: かれはやっとはかせのがくいをとりました。
+      kanji: 彼 はやっと博士 の学 位 を取 りました。
       ruby: <ruby>彼<rt>かれ</rt></ruby>はやっと<ruby>博士<rt>はかせ</rt></ruby>の<ruby>学位<rt>がくい</rt></ruby>を<ruby>取<rt>と</rt></ruby>りました。
     1:
       english: Professor Tanaka is a doctor of science.
-      hiragana: たなか<ruby>先生<rt>せんせい</rt></ruby>は<ruby>理学<rt>りがく</rt></ruby><ruby>博士<rt>はかせ</rt></ruby>だ。
-      kanji: 田中先 生 は理 学 博 士 だ。
+      hiragana: たなかせんせいはりがくはかせだ。
+      kanji: 田中先 生 は理 学 博士 だ。
       ruby: <ruby>田中<rt>たなか</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は<ruby>理学<rt>りがく</rt></ruby><ruby>博士<rt>はかせ</rt></ruby>だ。
   simple_meaning:
     0: Doctor (title/degree)
@@ -22293,13 +22310,13 @@
   samples:
     0:
       english: We went to the history museum.
-      hiragana: わたしは<ruby>歴史<rt>れきし</rt></ruby><ruby>博物館<rt>はくぶつかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
-      kanji: 私 は歴 史 博 物 館 へ行 きました。
+      hiragana: わたしはれきしはくぶつかんへいきました。
+      kanji: 私 は歴 史 博物館 へ行 きました。
       ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>歴史<rt>れきし</rt></ruby><ruby>博物館<rt>はくぶつかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
     1:
       english: The museum is open on weekends.
-      hiragana: <ruby>博物館<rt>はくぶつかん</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>開<rt>あ</rt></ruby>いている。
-      kanji: 博 物 館 は週 末 に開 いている。
+      hiragana: はくぶつかんはしゅうまつにあいている。
+      kanji: 博物館 は週 末 に開 いている。
       ruby: <ruby>博物館<rt>はくぶつかん</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>開<rt>あ</rt></ruby>いている。
   simple_meaning:
     0: Museum
@@ -22314,14 +22331,14 @@
   samples:
     0:
       english: The audience applauded loudly.
-      hiragana: <ruby>観客<rt>かんきゃく</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きな<ruby>拍手<rt>はくしゅ</rt></ruby>をしました。
-      kanji: 観 客 が大 きな拍 手 をしました。
+      hiragana: かんきゃくがおおきなはくしゅをしました。
+      kanji: 観 客 が大 きな拍手 をしました。
       ruby: <ruby>観客<rt>かんきゃく</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きな<ruby>拍手<rt>はくしゅ</rt></ruby>をしました。
     1:
       english: I applaud the singer's performance.
-      hiragana: わたしは<ruby>歌手<rt>かしゅ</rt></ruby>のパフォーマンスに<ruby>拍手<rt>はくしゅ</rt></ruby>する。
-      kanji: 私 は歌 手 のパフォーマンスに拍 手 する。
-      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>歌手<rt>かしゅ</rt></ruby>のパフォーマンスに<ruby>拍手<rt>はくしゅ</rt></ruby>する。
+      hiragana: わたしはかしゅのパフォーマンスにはくしゅする。
+      kanji: 私 は歌 手 のパフォーマンスに拍手 する。
+      ruby: <ruby>私<rt>わたし</rt></ruby>は<ruby>歌手<rt>かしゅ</rt></ruby>のパフォーマンスに<ruby>拍手<rt>はくしゅ</rt></ruby>する。 # 辞書形 '拍手する' を使用
   simple_meaning:
     0: Clapping
     1: Applause
@@ -22337,14 +22354,14 @@
   samples:
     0:
       english: A bomb exploded in the city.
-      hiragana: <ruby>市<rt>まち</rt></ruby>で<ruby>爆弾<rt>ばくだん</rt></ruby>が<ruby>爆発<rt>ばくはつ</rt></ruby>しました。
-      kanji: 町 で爆 弾 が爆 発 しました。
+      hiragana: まちでばくだんがばくはつしました。
+      kanji: 町 で爆 弾 が爆発 しました。
       ruby: <ruby>町<rt>まち</rt></ruby>で<ruby>爆弾<rt>ばくだん</rt></ruby>が<ruby>爆発<rt>ばくはつ</rt></ruby>しました。
     1:
       english: The volcano is about to erupt (explode).
-      hiragana: その<ruby>火山<rt>かざん</rt></ruby>はまもなく<ruby>爆発<rt>ばくはつ</rt></ruby>するだろう。
-      kanji: その火 山 はまもなく爆 発 するだろう。
-      ruby: その<ruby>火山<rt>かざん</rt></ruby>はまもなく<ruby>爆発<rt>ばくはつ</rt></ruby>するだろう。
+      hiragana: そのかざんはまもなくばくはつするだろう。
+      kanji: その火 山 はまもなく爆発 するだろう。
+      ruby: その<ruby>火山<rt>かざん</rt></ruby>はまもなく<ruby>爆発<rt>ばくはつ</rt></ruby>するだろう。 # 辞書形 '爆発する' を使用
   simple_meaning:
     0: Explosion
     1: Eruption
@@ -22360,14 +22377,14 @@
   samples:
     0:
       english: The project required an enormous amount of money.
-      hiragana: そのプロジェクトには<ruby>莫大<rt>ばくだい</rt></ruby>な<ruby>金<rt>きん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>でした。
+      hiragana: そのプロジェクトにはばくだいなきんがひつようでした。
       kanji: そのプロジェクトには莫大 な金 が必 要 でした。
       ruby: そのプロジェクトには<ruby>莫大<rt>ばくだい</rt></ruby>な<ruby>金<rt>きん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>でした。
     1:
       english: He inherited a huge fortune.
-      hiragana: かれは<ruby>莫大<rt>ばくだい</rt></ruby>な<ruby>遺産<rt>いさん</rt></ruby>を<ruby>相続<rt>そうぞく</rt></ruby>する。
+      hiragana: かれはばくだいな<ruby>遺産<rt>いさん</rt></ruby>を<ruby>相続<rt>そうぞく</rt></ruby>する。
       kanji: 彼 は莫大 な遺 産 を相 続 する。
-      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>莫大<rt>ばくだい</rt></ruby>な<ruby>遺産<rt>いさん</rt></ruby>を<ruby>相続<rt>そうぞく</rt></ruby>する。
+      ruby: <ruby>彼<rt>かれ</rt></ruby>は<ruby>莫大<rt>ばくだい</rt></ruby>な<ruby>遺産<rt>いさん</rt></ruby>を<ruby>相続<rt>そうぞく</rt></ruby>する。 # 形容動詞 '莫大だ' の連体形 '莫大 な' を使用
   simple_meaning:
     0: Enormous
     1: Vast
@@ -22406,12 +22423,12 @@
   samples:
     0:
       english: We grow potatoes in the field.
-      hiragana: わたしたちは<ruby>畑<rt>はたけ</rt></ruby>でじゃがいもを<ruby>育<rt>そだ</rt></ruby>てています。
+      hiragana: わたしたちははたけでじゃがいもをそだてています。
       kanji: 私 たちは畑 でじゃがいもを育 てています。
       ruby: <ruby>私<rt>わたし</rt></ruby>たちは<ruby>畑<rt>はたけ</rt></ruby>でじゃがいもを<ruby>育<rt>そだ</rt></ruby>てています。
     1:
       english: The farmer is working in the vegetable field.
-      hiragana: <ruby>農家<rt>のうか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>畑<rt>はたけ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く。
+      hiragana: のうかのひとがはたけではたらく。
       kanji: 農 家 の人 が畑 で働 く。
       ruby: <ruby>農家<rt>のうか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>畑<rt>はたけ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く。
   simple_meaning:
